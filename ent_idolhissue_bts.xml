@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 09:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 10:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 'Butter' 빌보드 핫100 20주 차트인 대기록[종합]]]></title>
+            <link>https://news.nate.com/view/20211012n36182?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211012n36182?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 12 Oct 2021 10:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>10-12 18:33</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/12/2021101218251340192_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을은 BTS 진과 함께…단풍놀이 가고 싶은 스타 1위 등극]]></title>
+            <link>https://news.nate.com/view/20211012n35323?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211012n35323?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 12 Oct 2021 10:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[TV리포트							<em>10-12 18:07</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2021/10/12/a395dbd6-b03e-461c-bf9f-cbca42e04797.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 진, 단풍놀이 함께 가고 싶은 스타 1위]]></title>
             <link>https://news.nate.com/view/20211012n32374?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 12 Oct 2021 05:28:53 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-12 11:57</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/12/14637642_703884_561_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['푸른호수' 감독 "BTS·기생충·오징어게임 열풍으로 '우리의 시선' 알려져"]]></title>
-            <link>https://news.nate.com/view/20211012n14884?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211012n14884?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 12 Oct 2021 05:28:53 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>10-12 11:30</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2021/10/12/20211012_4986028_1634005699.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['1000억뷰 이상' 방탄소년단 정국, '#JUNGKOOK' 전세계 개인 1위…'전무후무한 조회수']]></title>
-            <link>https://news.nate.com/view/20211012n11354?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211012n11354?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 12 Oct 2021 05:28:53 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-12 10:46</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/12/14637612_703840_447_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
