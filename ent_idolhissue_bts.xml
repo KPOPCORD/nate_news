@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 16:22:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 17:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 지민 팬클럽, 아티스트 생일 기념 부산타워서 조명쇼 진행]]></title>
+            <link>https://news.nate.com/view/20211013n00040?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211013n00040?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 12 Oct 2021 17:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-13 00:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/13/1634047290935278.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단(BTS) 또 신기록 달성…빌보드 '디지털 송 세일즈' 역대 최다 1위 경신]]></title>
             <link>https://news.nate.com/view/20211012n38326?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 12 Oct 2021 05:28:53 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-12 12:29</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/12/14637646_703913_2727_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["전정국 공중 부양 천재만재" 방탄소년단 정국, 현란한 트램펄린 백 덤블링→광배 운동 "인더숲서 살찔 줄 알았는데 살 빠질 듯"…'기대UP']]></title>
-            <link>https://news.nate.com/view/20211012n17031?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211012n17031?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 12 Oct 2021 05:28:53 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-12 12:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/12/14637645_703891_5838_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
