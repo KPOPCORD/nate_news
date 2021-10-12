@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 19:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 20:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/07/14636682_702174_429_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS 정국, 커피 향기처럼 감미로운 비주얼 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211013n02442?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211013n02442?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 12 Oct 2021 20:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-13 05:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/13/1634046372758260.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS 지민 팬클럽, 아티스트 생일 기념 부산타워서 조명쇼 진행 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211013n00040?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211013n00040?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Tue, 12 Oct 2021 05:28:53 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>10-12 12:30</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/12/1634008036936421.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['세계는 짐토버 축제' 방탄소년단 지민 생일 축하로 전 세계가 들썩…멕시코 언론도 감탄한 초특급 이벤트 '유럽에서 가장 큰 LED' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211012n18274?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211012n18274?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 12 Oct 2021 05:28:53 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-12 12:29</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/12/14637646_703913_2727_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
