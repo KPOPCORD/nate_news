@@ -1,0 +1,32 @@
+[ent_idolhissue_blackpink]
+title = "네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크"
+url = "https://news.nate.com/ent/idolHissue?hissueSq=9895&mid=e0608"
+entrySelector = "div.mduSubjectList div.mlt02"
+titleSelector = "strong.tit"
+linkSelector = "a"
+contentSelector = "span.medium"
+imageSelector = "span.ib img"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[ent_idolhissue_redvelvet]
+title = "네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳"
+url = "https://news.nate.com/ent/idolHissue?hissueSq=9012&mid=e0608"
+entrySelector = "div.mduSubjectList div.mlt02"
+titleSelector = "strong.tit"
+linkSelector = "a"
+contentSelector = "span.medium"
+imageSelector = "span.ib img"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[ent_idolhissue_bts]
+title = "네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS"
+url = "https://news.nate.com/ent/idolHissue?hissueSq=9009&mid=e0608"
+entrySelector = "div.mduSubjectList div.mlt02"
+titleSelector = "strong.tit"
+linkSelector = "a"
+contentSelector = "span.medium"
+imageSelector = "span.ib img"
+waitUntil = "networkidle"
+onFail = "stale"
