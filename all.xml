@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 10:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 11:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/07/14636682_702174_429_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단(BTS) 또 신기록 달성…빌보드 '디지털 송 세일즈' 역대 최다 1위 경신 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211012n38326?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211012n38326?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 12 Oct 2021 11:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>10-12 20:05</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/10/12/l_2021101202000577600125002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 'Butter' 빌보드 핫100 20주 차트인 대기록[종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211012n36182?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211012n36182?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Tue, 12 Oct 2021 05:28:53 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-12 12:00</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/12/14637645_703891_5838_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["Jimin Stage Genius" 방탄소년단 지민, 특별한 선물 화제…"언제든 어디든 별처럼 빛나는 나의 스타 '박지민'" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211012n16869?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211012n16869?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 12 Oct 2021 05:28:53 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-12 11:57</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/12/14637642_703884_561_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
