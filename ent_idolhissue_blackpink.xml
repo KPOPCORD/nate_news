@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 23:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 00:46:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 'Pretty Savage' 스포티파이 2억 스트리밍 돌파]]></title>
+            <link>https://news.nate.com/view/20211013n07910?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20211013n07910?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Wed, 13 Oct 2021 00:44:30 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>10-13 09:15</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/10/13/202110130913410010_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["이정이 멋있다"…블랙핑크(BLACKPINK) 로제, '스우파' YGX 리정 응원→좋아요 독려]]></title>
             <link>https://news.nate.com/view/20211012n36389?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 12 Oct 2021 05:26:44 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-10 01:53</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/10/14637198_703170_4337_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 리사, 기네스 세계 신기록 공식 등재]]></title>
-            <link>https://news.nate.com/view/20211009n11938?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20211009n11938?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Tue, 12 Oct 2021 05:26:44 GMT</pubDate>
-            <content:encoded><![CDATA[스타데일리뉴스							<em>10-09 19:51</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/10/09/309257_355081_5043.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
