@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 08:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 09:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드벨벳 조이(Red Velvet JOY), '꾸안꾸 패션' [뉴스엔TV]]]></title>
+            <link>https://news.nate.com/view/20211013n32652?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20211013n32652?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Wed, 13 Oct 2021 09:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>10-13 17:10</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/10/13/202110131708110010_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레드벨벳 웬디(Red Velvet WENDY), '가을맞이 단발 펌' [뉴스엔TV]]]></title>
+            <link>https://news.nate.com/view/20211013n32472?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20211013n32472?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Wed, 13 Oct 2021 09:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>10-13 17:06</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/10/13/202110131705340010_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '섹시한데 사랑스러워' (SBS TV 동물농장 출근길)]]></title>
             <link>https://news.nate.com/view/20211013n23743?mid=e0608&amp;isq=9012</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 13 Oct 2021 06:17:45 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-13 14:17</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/13/14638195_704779_1646_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '사랑할수밖에 없는 비주얼' (SBS TV 동물농장 출근길)]]></title>
-            <link>https://news.nate.com/view/20211013n23161?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20211013n23161?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 13 Oct 2021 06:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-13 14:17</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/13/14638194_704777_1551_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '예쁨이 뿜뿜' (SBS TV 동물농장 출근길)]]></title>
-            <link>https://news.nate.com/view/20211013n23125?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20211013n23125?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 13 Oct 2021 06:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-13 14:16</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/13/14638193_704776_1515_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
