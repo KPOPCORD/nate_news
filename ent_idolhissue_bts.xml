@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 05:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 06:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 지민, 고액기부자 모임 '그린노블클럽' 합류]]></title>
+            <link>https://news.nate.com/view/20211013n25567?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211013n25567?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 13 Oct 2021 06:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>10-13 15:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/10/13/l_2021101302000624000134841.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 지민, 생일 맞아 1억 쾌척…고액기부자 모임 회원 됐다]]></title>
+            <link>https://news.nate.com/view/20211013n23140?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211013n23140?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 13 Oct 2021 06:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[스타투데이							<em>10-13 14:19</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2021/10/13/20211013_4987248_1634100486.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[에이티즈 성화, '입술이 가장 예쁜 아이돌' 1위…2위 투모로우바이투게더 수빈, 3위 방탄소년단 진]]></title>
             <link>https://news.nate.com/view/20211013n20062?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 13 Oct 2021 00:46:49 GMT</pubDate>
             <content:encoded><![CDATA[스포츠월드							<em>10-13 10:27</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2021/10/13/20211013504202.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민, 초록우산어린이재단 고액기부자 모임 합류(공식)]]></title>
-            <link>https://news.nate.com/view/20211013n11713?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211013n11713?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 13 Oct 2021 02:04:56 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>10-13 10:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/10/13/202110131017440010_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['생일축하 명소 급부상' 방탄소년단 지민보러 건대 커먼그라운드 몰리는 팬들…상권 북적 '팬들도 업주도 행복']]></title>
-            <link>https://news.nate.com/view/20211013n11517?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211013n11517?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 13 Oct 2021 02:04:56 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-13 10:17</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/13/14638049_704550_1534_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
