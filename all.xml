@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 06:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 07:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/13/14638403_705029_1938_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[SC이슈] "전시회 간것도 죄?"…방탄소년단 뷔, 파라다이스 그룹 딸과 뜬금포 열애설→"지인일뿐" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211014n26825?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211014n26825?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 14 Oct 2021 07:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠조선							<em>10-14 15:45</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2021/10/14/2021101501000961600062381.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS 지민, '최애돌' 역대 최다득표로 기부요정 등극…선한 영향력 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211014n25246?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211014n25246?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Thu, 14 Oct 2021 02:02:14 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-14 10:40</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/14/14638517_705206_3915_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["꽃이 예뻐봤자 박지민 발 밑" 방탄소년단 지민 팬덤, 소아마비 백신→나병•유방암•에이즈 환자 위해 기부ing '천사의 심장' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211014n11596?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211014n11596?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 14 Oct 2021 02:02:14 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-14 10:35</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/14/14638511_705195_3156_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
