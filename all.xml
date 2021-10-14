@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 02:02:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 02:34:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/13/14638403_705029_1938_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["GLOBAL IT BOY JIMIN" 방탄소년단 지민. 생일 맞아 전세계 팬들 '초대형 이벤트' 장관…명실상부한 'it boy'로 최정상 아이돌 인기 과시 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211014n13737?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211014n13737?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 14 Oct 2021 02:34:22 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>10-14 11:04</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/14/14638532_705229_38_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["포근 달달 커피 프린스♥" 방탄소년단 정국, 조각상 같은 이목구비로 눈부신 조각 미남 비주얼 ' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211014n13043?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211014n13043?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 14 Oct 2021 02:34:22 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>10-14 10:55</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/14/14638528_705221_5420_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 지민, 전세계 팬들에 진심 전해 "큰 축하받아 어느 때보다도 행복합니다, 감사합니다" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211014n12797?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211014n12797?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Thu, 14 Oct 2021 00:45:25 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>10-14 08:44</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/10/14/202110140834110010_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SC이슈]방탄소년단도 피하지 못한 PPL? 팬들 반응은… (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211014n04873?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211014n04873?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 14 Oct 2021 00:45:25 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>10-14 08:21</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2021/10/14/2021101501000921000060161.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[독자추천종합순위] 방탄소년단 뷔 1위 14회, 2위 영탁에 20,409표 앞서…3위 이찬원·4위 방탄소년단 진·5위 방탄소년단 지민 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211014n04817?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211014n04817?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 14 Oct 2021 00:45:25 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-14 08:19</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/14/14638466_705128_162_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
