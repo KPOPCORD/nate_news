@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 13:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 14:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/13/14638403_705029_1938_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 뷔 열애설 부인 "지인일 뿐" [공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211014n34363?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211014n34363?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 14 Oct 2021 14:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠동아							<em>10-14 22:58</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2021/10/14/107047494.4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] 방탄소년단(BTS) 뷔 열애설, 소속사 부인 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211014n42466?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211014n42466?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 14 Oct 2021 14:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>10-14 22:43</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/10/14/l_2021101402000736000157571.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[문체부 "BTS 유엔 공연비 7억, 행정절차 마무리돼 곧 지급" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211014n41396?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211014n41396?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Thu, 14 Oct 2021 10:17:41 GMT</pubDate>
             <content:encoded><![CDATA[SBS연예뉴스							<em>10-14 18:26</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2021/10/14/30000718686_700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 파라다이스 그룹 딸과 열애설? 빅히트 뮤직 "지인일 뿐" 즉각 부인 [공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211014n35857?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211014n35857?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 14 Oct 2021 10:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>10-14 18:21</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/10/14/202110141808773922_6167f55620445.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 전시회 갔다가 '열애설'…소속사 "지인일 뿐" 즉각 부인 [공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211014n34604?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211014n34604?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 14 Oct 2021 09:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>10-14 17:54</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/10/14/202110141705322248_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
