@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 10:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 11:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["아니 땐 굴뚝에 연기 나네"…방탄소년단 뷔, 재벌 딸과 황당무계한 열애설 "지인일 뿐"[종합]]]></title>
+            <link>https://news.nate.com/view/20211014n38302?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211014n38302?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 14 Oct 2021 11:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>10-14 19:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/10/14/202110141844775194_6167ff9b06d8d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 갑자기 불거진 열애설 일축…하이브 "지인일 뿐"]]></title>
+            <link>https://news.nate.com/view/20211014n34036?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211014n34036?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 14 Oct 2021 09:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠한국							<em>10-14 19:23</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2021/10/14/kda20211014173411_O_01_C_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[온라인 불법복제 3년 동안 25% 증가…방탄소년단(BTS) 등 피해]]></title>
             <link>https://news.nate.com/view/20211014n37333?mid=e0608&amp;isq=9009</link>
@@ -96,14 +112,6 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2021/10/14/20211014_1634200660.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 뷔, 파라다이스그룹 회장 딸과 열애?…"지인일 뿐"]]></title>
-            <link>https://news.nate.com/view/20211014n34036?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211014n34036?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 14 Oct 2021 09:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠한국							<em>10-14 17:38</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2021/10/14/kda20211014173411_O_01_C_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[방탄소년단 지민 생일, 전 세계 축제 장 됐다]]></title>
             <link>https://news.nate.com/view/20211014n33996?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211014n33996?mid=e0608&amp;isq=9009</guid>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 14 Oct 2021 09:16:45 GMT</pubDate>
             <content:encoded><![CDATA[스타투데이							<em>10-14 17:22</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2021/10/14/20211014_1733513.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 호텔 대기업 회장 딸 열애설 부인 "지인일 뿐"[공식]]]></title>
-            <link>https://news.nate.com/view/20211014n33115?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211014n33115?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 14 Oct 2021 09:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>10-14 17:18</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/14/2021101417114126265_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
