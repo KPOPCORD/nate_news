@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 19:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 20:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/13/14638403_705029_1938_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS 정국, 순백의 왕자님 비주얼로 여심 저격 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211015n01952?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211015n01952?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 14 Oct 2021 20:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-15 05:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/15/1634220589933608.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS 뷔, 청초하고 비현실적인 비주얼 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211015n01113?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211015n01113?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Thu, 14 Oct 2021 09:16:45 GMT</pubDate>
             <content:encoded><![CDATA[스포츠한국							<em>10-14 19:23</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2021/10/14/kda20211014173411_O_01_C_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온라인 불법복제 3년 동안 25% 증가…방탄소년단(BTS) 등 피해 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211014n37333?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211014n37333?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 14 Oct 2021 10:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>10-14 19:12</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/10/14/l_2021101402000730100155301.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
