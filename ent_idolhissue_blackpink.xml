@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 02:02:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 02:37:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리트윗종합순위] 방탄소년단 지민 14회째 1위 , 2위 방탄소년단 정국에 10,531회 앞서…3위 임영웅·4위 방탄소년단 뷔·5위 블랙핑크 리사]]></title>
+            <link>https://news.nate.com/view/20211015n14356?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20211015n14356?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Fri, 15 Oct 2021 02:35:21 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>10-15 11:28</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/15/14638926_705817_2515_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 뷔-블랙핑크 지수, 온라인발 '황당' 열애설에 소속사 대응]]></title>
             <link>https://news.nate.com/view/20211015n04162?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 12 Oct 2021 05:26:44 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-11 11:37</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/11/14637409_703519_320_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 리사, 'MONEY' 전체 안무 최초 공개]]></title>
-            <link>https://news.nate.com/view/20211011n08262?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20211011n08262?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Tue, 12 Oct 2021 05:26:44 GMT</pubDate>
-            <content:encoded><![CDATA[스타데일리뉴스							<em>10-11 11:05</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/10/11/309271_355095_423.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
