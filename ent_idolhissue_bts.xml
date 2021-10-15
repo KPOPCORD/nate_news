@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 20:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 21:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 지민, 가온 소셜차트 9주 연속 랭킹+순위 상승…소셜미디어 제왕]]></title>
+            <link>https://news.nate.com/view/20211016n01933?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211016n01933?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 15 Oct 2021 21:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>10-16 06:05</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/16/2021101606010616462_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 지민, 최고의 댄스 테크닉을 보여주는 남자 아이돌 투표 1위]]></title>
+            <link>https://news.nate.com/view/20211016n01788?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211016n01788?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 15 Oct 2021 21:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-16 06:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/16/1634310848249835.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 뷔, 만능 엔터테인먼트 스타 투표 1위 등극]]></title>
             <link>https://news.nate.com/view/20211016n01449?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 15 Oct 2021 16:22:22 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>10-16 00:19</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/11/1633878278878118.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 정국, 광채를 뿜어내는 미모]]></title>
-            <link>https://news.nate.com/view/20211011n04437?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211011n04437?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 15 Oct 2021 16:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-16 00:19</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/11/1633908180792591.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 진, 단풍놀이 함께 가고 싶은 스타 1위 등극]]></title>
-            <link>https://news.nate.com/view/20211013n03304?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211013n03304?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 15 Oct 2021 16:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-16 00:19</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/13/1634045432368643.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
