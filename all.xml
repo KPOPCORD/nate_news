@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 12:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 13:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/13/14638405_705031_2053_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['인더숲2' BTS RM도 못 참은 "한입만" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211015n33455?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211015n33455?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 15 Oct 2021 13:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>10-15 21:34</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2021/10/15/151608651.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['인더숲2' 제작진, BTS 위해 특별 숙소 제작 'PC방→농구장 다 있다' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211015n33121?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211015n33121?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 15 Oct 2021 13:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>10-15 21:16</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2021/10/15/151608649.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['인더숲 BTS편 시즌2' 방탄소년단, 숲 속 힐링 스토리 예고 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211015n32814?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211015n32814?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Fri, 15 Oct 2021 06:19:30 GMT</pubDate>
             <content:encoded><![CDATA[스포티비뉴스							<em>10-15 15:05</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/10/15/447988_569440_5356.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['BTS 뮤비' 제작사 쟈니브로스, 英 임프로버블과 업무협약 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211015n22496?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211015n22496?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 15 Oct 2021 06:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[일간스포츠							<em>10-15 15:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/10/15/1a08beef-f98a-47eb-accc-6aca2282b36a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탁현민, BTS 열정페이 논란에 유감 "아무 문제 없다는데 왜?" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211015n22296?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211015n22296?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 15 Oct 2021 06:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-15 14:59</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/15/1634277447101204.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
