@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 19:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 20:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 뷔, 만능 엔터테인먼트 스타 투표 1위 등극]]></title>
+            <link>https://news.nate.com/view/20211016n01449?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211016n01449?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 15 Oct 2021 20:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-16 05:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/16/1634310181255890.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서태지부터 BTS까지 'MV 명가' 쟈니브로스, 영국 임프로버블과 업무협약]]></title>
             <link>https://news.nate.com/view/20211016n00240?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 15 Oct 2021 16:22:22 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>10-16 00:19</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/13/1634045432368643.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 정국, 남다른 청순미로 여심 저격]]></title>
-            <link>https://news.nate.com/view/20211012n02328?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211012n02328?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 15 Oct 2021 16:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-16 00:18</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/12/1633961205030804.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
