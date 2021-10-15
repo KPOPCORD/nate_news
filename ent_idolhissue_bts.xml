@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 09:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 10:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, '열정페이' 논란…탁현민 "정작 본인들 불만 NO, 법 바꾸던가" [이슈&톡]]]></title>
+            <link>https://news.nate.com/view/20211015n29588?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211015n29588?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 15 Oct 2021 10:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>10-15 18:08</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2021/10/15/1634287389_1608630.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 재벌가와 열애설 간접 언급? "한심해, 독침 쏠 것"]]></title>
+            <link>https://news.nate.com/view/20211015n29518?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211015n29518?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 15 Oct 2021 10:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>10-15 18:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/10/15/htm_202110158618488639.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[퇴근길이슈] BTS 뷔 열애설 부인·피오 아티스트컴퍼니·배달기사 오프데이]]></title>
             <link>https://news.nate.com/view/20211015n28399?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 15 Oct 2021 02:37:20 GMT</pubDate>
             <content:encoded><![CDATA[SBS연예뉴스							<em>10-15 14:21</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2021/10/15/30000718790_700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리트윗종합순위] 방탄소년단 지민 14회째 1위 , 2위 방탄소년단 정국에 10,531회 앞서…3위 임영웅·4위 방탄소년단 뷔·5위 블랙핑크 리사]]></title>
-            <link>https://news.nate.com/view/20211015n14356?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211015n14356?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 15 Oct 2021 02:37:20 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-15 13:52</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/15/14638926_705817_2515_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["Congratulations Jin" 방탄소년단 진, 솔로곡 'Epiphany' 뮤직비디오가 1억뷰 돌파]]></title>
-            <link>https://news.nate.com/view/20211015n19066?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211015n19066?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 15 Oct 2021 06:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-15 13:48</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/15/14638980_705891_4617_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
