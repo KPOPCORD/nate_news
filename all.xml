@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 18:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 19:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/04/1633275900240784.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS 뷔, 신비로운 비주얼로 여심 저격 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211002n03520?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211002n03520?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 15 Oct 2021 19:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-16 00:25</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/02/1633130428859500.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS 제이홉, 시선을 사로잡는 훈남 비주얼 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211005n05347?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211005n05347?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Fri, 15 Oct 2021 16:22:22 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>10-16 00:18</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/12/1633961205030804.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 지민 팬클럽, 아티스트 생일 기념 부산타워서 조명쇼 진행 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211013n00040?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211013n00040?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 15 Oct 2021 16:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-16 00:18</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/13/1634047290935278.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
