@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 00:49:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 02:02:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드벨벳 'Queendom' 리믹스 싱글 오늘(15일) 공개]]></title>
+            <link>https://news.nate.com/view/20211015n09362?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20211015n09362?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Fri, 15 Oct 2021 02:01:14 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>10-15 10:05</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/10/15/202110151003560010_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '새로 산 아이폰13 배경화면은 알파카 커플' (SBS TV 동물농장 퇴근길)]]></title>
             <link>https://news.nate.com/view/20211013n41095?mid=e0608&amp;isq=9012</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 13 Oct 2021 14:17:11 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-13 22:21</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/13/14638404_705030_2023_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '우유 광고 모델 느낌' (SBS TV 동물농장 퇴근길)]]></title>
-            <link>https://news.nate.com/view/20211013n40955?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20211013n40955?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 13 Oct 2021 14:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-13 22:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/13/14638403_705029_1938_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
