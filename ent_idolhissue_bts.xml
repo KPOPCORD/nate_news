@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 03:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 04:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[탁현민 "방탄소년단 불만 없었다…국회가 법 바꿔달라"]]></title>
+            <link>https://news.nate.com/view/20211015n17378?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211015n17378?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 15 Oct 2021 04:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>10-15 13:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/10/15/l_2021101502000752600161511.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[탁현민 발언에 BTS 특사 비용 재차 논란…아미 속만 '부글부글']]></title>
+            <link>https://news.nate.com/view/20211015n14997?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211015n14997?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 15 Oct 2021 03:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>10-15 12:44</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/10/15/l_2021101502000752300161441.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서태지부터 BTS까지…'뮤비 명가' 쟈니브로스, 英 임프로버블과 업무협약]]></title>
             <link>https://news.nate.com/view/20211015n16497?mid=e0608&amp;isq=9009</link>
@@ -22,14 +38,6 @@
             <pubDate>Fri, 15 Oct 2021 03:16:45 GMT</pubDate>
             <content:encoded><![CDATA[스포티비뉴스							<em>10-15 11:56</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/10/15/447939_569388_5431.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탁현민 발언에 BTS 특사 비용 재차 논란…아미 속만 '부글부글']]></title>
-            <link>https://news.nate.com/view/20211015n14997?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211015n14997?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 15 Oct 2021 03:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>10-15 11:47</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/10/15/l_2021101502000749700161111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단 뷔, 때아닌 열애설에 "한심해, 뒷목 조심하세요"]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 15 Oct 2021 02:02:17 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>10-15 09:57</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/15/2021101509535551189_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["팬들에 대한 각별한 애정" 방탄소년단 정국, 프로듀싱한 '매직샵' 스포티파이 2억 돌파…"팬을 사랑하는 마음 담은 팬송"]]></title>
-            <link>https://news.nate.com/view/20211015n08604?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211015n08604?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 15 Oct 2021 02:02:17 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-15 09:53</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/15/14638882_705756_5136_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
