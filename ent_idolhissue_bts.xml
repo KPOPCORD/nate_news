@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Oct 2021 20:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 21:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['인더숲' BTS 정국, 남다른 반려견 사랑으로 팬심 저격]]></title>
+            <link>https://news.nate.com/view/20211017n01618?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211017n01618?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 16 Oct 2021 21:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-17 06:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/17/1634395570279629.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[허주열의 '靑.春일기'] BTS 유엔 활동비 '미지급 논란', 누가 키웠나]]></title>
             <link>https://news.nate.com/view/20211017n00048?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 16 Oct 2021 03:16:39 GMT</pubDate>
             <content:encoded><![CDATA[일간스포츠							<em>10-16 11:21</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/10/16/bc357fe0-e248-4e14-9c6a-63ee80bc7fc3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기사열독종합순위] 이찬원 15회째 1위, 2위 송가인에 16,242회 앞서…3위 영탁·4위 임영웅·5위 방탄소년단 지민]]></title>
-            <link>https://news.nate.com/view/20211016n05021?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211016n05021?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 16 Oct 2021 02:06:26 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-16 10:53</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/16/14639193_706189_4955_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
