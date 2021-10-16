@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Oct 2021 09:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 10:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["great record♥" 블랙핑크 리사, 스포티파이 100만 팔로워 돌파…가장 빠른 kpop 솔리스트 기록 보유]]></title>
+            <link>https://news.nate.com/view/20211016n10398?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20211016n10398?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Sat, 16 Oct 2021 10:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>10-16 18:14</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/16/14639232_706285_634_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 리사, 글로벌 컬래버 성사…전 세계 팬들 '들썩']]></title>
             <link>https://news.nate.com/view/20211016n07540?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 13 Oct 2021 00:44:30 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>10-13 09:15</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/10/13/202110130913410010_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["이정이 멋있다"…블랙핑크(BLACKPINK) 로제, '스우파' YGX 리정 응원→좋아요 독려]]></title>
-            <link>https://news.nate.com/view/20211012n36389?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20211012n36389?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Tue, 12 Oct 2021 10:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-12 18:40</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/12/14637836_704222_367_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
