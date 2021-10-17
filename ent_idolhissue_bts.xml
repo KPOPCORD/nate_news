@@ -4,7 +4,7 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 04:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 05:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,8 +12,24 @@
             <link>https://news.nate.com/view/20211017n07915?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211017n07915?mid=e0608&amp;isq=9009</guid>
             <pubDate>Sun, 17 Oct 2021 04:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-17 13:00</em>]]></content:encoded>
+            <content:encoded><![CDATA[톱스타뉴스							<em>10-17 14:02</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/17/14639317_706441_5556_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔 '황당 열애설'→최성봉 거짓 암투병에 '시끌'[스타#업앤다운]]]></title>
+            <link>https://news.nate.com/view/20211017n08645?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211017n08645?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Oct 2021 05:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠서울							<em>10-17 13:43</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2021/10/17/2021101701000549500036321.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 RM, "작사 작곡 다 하는 셀프 프로듀싱 아이돌은?" 익디 투표 1위]]></title>
+            <link>https://news.nate.com/view/20211017n08377?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211017n08377?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Oct 2021 05:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>10-17 13:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/17/14639337_706467_3021_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트위터 리트윗종합순위] 방탄소년단 지민 16회째 1위 , 2위 방탄소년단 정국에 7,326회 앞서…3위 임영웅·4위 방탄소년단 뷔·5위 블랙핑크 리사]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Sun, 17 Oct 2021 02:01:15 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>10-17 08:29</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/17/2021101708262986359_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 제이홉 '치킨 누들 수프' 유튜브 TOP 100 MOST LIKED VIDEOS 진입 '쾌거']]></title>
-            <link>https://news.nate.com/view/20211017n02471?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211017n02471?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 16 Oct 2021 23:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>10-17 07:48</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/17/2021101707380040882_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에어백에 해맑은 이 남자…방탄소년단 정국, 극강 러블리 순수 미남…사르르♥]]></title>
-            <link>https://news.nate.com/view/20211017n02267?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211017n02267?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 16 Oct 2021 23:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>10-17 07:17</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/17/2021101707132923158_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
