@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 00:46:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 02:01:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 리사 'MONEY', 영국 오피셜 차트서 2주 연속 상승세 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
+            <link>https://news.nate.com/view/20211017n04737?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20211017n04737?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Sun, 17 Oct 2021 01:59:22 GMT</pubDate>
+            <content:encoded><![CDATA[스타데일리뉴스							<em>10-17 10:14</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/10/17/309670_355586_1233.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["great record♥" 블랙핑크 리사, 스포티파이 100만 팔로워 돌파…가장 빠른 kpop 솔리스트 기록 보유 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
             <link>https://news.nate.com/view/20211016n10398?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 13 Oct 2021 02:03:18 GMT</pubDate>
             <content:encoded><![CDATA[스타데일리뉴스							<em>10-13 10:07</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/10/13/309404_355253_60.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 'Pretty Savage' 스포티파이 2억 스트리밍 돌파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
-            <link>https://news.nate.com/view/20211013n07910?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20211013n07910?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Wed, 13 Oct 2021 00:44:30 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>10-13 09:15</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/10/13/202110130913410010_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['음악중심' 레드벨벳vs에스파vsITZY 1위 후보, 걸그룹 전쟁 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
@@ -248,12 +248,84 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/13/14638406_705032_2139_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[BTS 진, 콜드플레이 크리스 마틴이 인정한 월드 와일드 핸섬 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <title><![CDATA["해피지민데이"…스물 일곱 번째 생일 맞은 '방탄소년단(BTS)' 지민, 사진 모아보기[민경훈의 줌인] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211017n02176?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211017n02176?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 16 Oct 2021 23:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>10-17 10:49</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/10/17/202110162110773076_616acc56d5b01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하하 '놀면 뭐하니?'서 신입 기자 변신 BTS 댄스 챌린지 도전…'스우파' 모니카 영상 통화 취재 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211017n04289?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211017n04289?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Oct 2021 02:01:15 GMT</pubDate>
+            <content:encoded><![CDATA[비즈엔터							<em>10-17 09:56</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2021/10/17/20211017095237_1676228_703_398.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[독자추천종합순위] 방탄소년단 뷔 17회째 1위, 2위 영탁에 17,912표 앞서…3위 이찬원·4위 방탄소년단 진·5위 방탄소년단 지민 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211017n04169?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211017n04169?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Oct 2021 02:01:15 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>10-17 09:51</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/17/14639306_706407_4839_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하나투어 방탄소년단 LA 콘서트 에어텔 상품 출시 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211017n03884?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211017n03884?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Oct 2021 02:01:15 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠동아							<em>10-17 09:36</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2021/10/17/109742818.2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[댓글종합순위] 영탁 69회째 1위, 2위 김희재에 760개 앞서…3위 방탄소년단·4위 이찬원·5위 방탄소년단 지민 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211017n03765?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211017n03765?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Oct 2021 02:01:15 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>10-17 09:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/17/14639304_706399_2832_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 지민, 여심을 저격하는 달콤한 비주얼과 고백 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211017n03269?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211017n03269?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Oct 2021 02:01:15 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-17 09:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/17/1634428915259775.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['뮤즈' 방탄소년단 지민, 2021 한국국제아트페어 전시…마릴린 먼로→마하트마 간디와 나란히 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211017n03076?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211017n03076?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Oct 2021 02:01:15 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>10-17 08:51</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/17/2021101708473062269_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 진, 콜드플레이 크리스 마틴이 인정한 월드 와이드 핸섬 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211017n02565?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211017n02565?mid=e0608&amp;isq=9009</guid>
             <pubDate>Sat, 16 Oct 2021 23:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-17 08:01</em>]]></content:encoded>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-17 08:44</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/17/1634425235108859.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지미팰런→윌리엄 샤트너…방탄소년단 지민 생일 셀럽 릴레이 축전 'Happy Birthday Jimin' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211017n02789?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211017n02789?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Oct 2021 02:01:15 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>10-17 08:36</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/17/tn_1634427363583_807449_0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아미 마음 속 뷔밀병기♥ 방탄소년단 뷔, 천의 얼굴 '카멜레온 매력' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211017n02803?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211017n02803?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Oct 2021 02:01:15 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>10-17 08:29</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/17/2021101708262986359_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단 제이홉 '치킨 누들 수프' 유튜브 TOP 100 MOST LIKED VIDEOS 진입 '쾌거' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -294,78 +366,6 @@
             <pubDate>Sat, 16 Oct 2021 23:16:41 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>10-17 07:08</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/17/2021101707040253293_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["해피지민데이"…스물 일곱 번째 생일 맞은 '방탄소년단' 지민, 사진 모아보기[민경훈의 줌인] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211017n02176?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211017n02176?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 16 Oct 2021 23:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>10-17 07:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/10/17/202110162110773076_616acc56d5b01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["잉여의 삶이 내겐 휴식" 방탄소년단 진, 슈퍼스타 진과 청년 김석진의 밸런스…가슴 뭉클 감동 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211017n02175?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211017n02175?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 16 Oct 2021 23:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>10-17 07:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/17/2021101706432045435_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 뷔, 화려한 잘생김으로 여심 저격 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211017n02094?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211017n02094?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 16 Oct 2021 23:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-17 07:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/17/1634397211413942.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['설렘 주의보' 방탄소년단 지민, SMASH 꿈결 고백 "같이 있는 것만으로 너무 행복" 로맨티스트 끝판왕♥ (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211017n02051?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211017n02051?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 16 Oct 2021 23:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>10-17 06:54</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/17/2021101706123910631_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[훈훈티비…방탄소년단 진, 11개 댓글로 보여준 팬사랑꾼 김석진 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211017n01870?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211017n01870?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 16 Oct 2021 23:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>10-17 06:29</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/17/2021101706122815516_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['인더숲' BTS 정국, 남다른 반려견 사랑으로 팬심 저격 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211017n01618?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211017n01618?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 16 Oct 2021 21:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-17 06:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/17/1634395570279629.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[허주열의 '靑.春일기'] BTS 유엔 활동비 '미지급 논란', 누가 키웠나 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211017n00048?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211017n00048?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 16 Oct 2021 15:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[더팩트							<em>10-17 00:03</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2021/10/17/20211025163438188500.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA['인더숲' BTS 뷔, 건강하고 에너지 넘치는 모습으로 팬심 저격 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211017n00022?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211017n00022?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 16 Oct 2021 15:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-17 00:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/17/1634396439386845.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안소희, BTS-태민-JYP 댄스 커버 도전…"역시 원더걸스 출신이구나" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211016n08436?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211016n08436?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 16 Oct 2021 07:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-16 15:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/16/14639222_706270_335_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
