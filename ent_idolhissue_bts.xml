@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 14:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 15:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['BTS', '오징어게임' 다음은 한국 뮤지컬 '엑스칼리버', 韓 뮤지컬 브로드웨이·웨스트엔드 넘본다]]></title>
+            <link>https://news.nate.com/view/20211018n00045?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211018n00045?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Oct 2021 15:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>10-18 00:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/10/18/l_2021101702000819400176523.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에스파, 10월 1주차 아이돌차트 아차랭킹 1위…2위 방탄소년단·3위 아이유·4위 트와이스·5위 임영웅]]></title>
             <link>https://news.nate.com/view/20211017n11981?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 16 Oct 2021 23:16:41 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>10-17 08:44</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/17/1634425235108859.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지미팰런→윌리엄 샤트너…방탄소년단 지민 생일 셀럽 릴레이 축전 'Happy Birthday Jimin']]></title>
-            <link>https://news.nate.com/view/20211017n02789?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211017n02789?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 17 Oct 2021 02:01:15 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>10-17 08:36</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/17/tn_1634427363583_807449_0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
