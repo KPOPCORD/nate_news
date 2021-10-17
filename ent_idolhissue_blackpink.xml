@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 03:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 04:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트위터 리트윗종합순위] 방탄소년단 지민 16회째 1위 , 2위 방탄소년단 정국에 7,326회 앞서…3위 임영웅·4위 방탄소년단 뷔·5위 블랙핑크 리사]]></title>
+            <link>https://news.nate.com/view/20211017n07788?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20211017n07788?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Sun, 17 Oct 2021 04:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>10-17 12:48</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/17/14639316_706436_4114_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 리사 'MONEY' 영국 오피셜 차트서 2주 연속 상승세]]></title>
             <link>https://news.nate.com/view/20211017n05907?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 13 Oct 2021 04:17:40 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-13 12:50</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/13/14638040_704541_109_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리트윗종합순위] 1위 방탄소년단 지민, 2위 임영웅에 5,832회 앞서…3위 방탄소년단 정국·4위 방탄소년단 뷔·5위 블랙핑크 리사]]></title>
-            <link>https://news.nate.com/view/20211013n11328?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20211013n11328?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Wed, 13 Oct 2021 02:03:18 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-13 10:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/13/14638052_704544_1147_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
