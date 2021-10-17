@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 16:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 17:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[덴티스테, '인더숲 BTS편 시즌2' PPL 협찬사 참여]]></title>
+            <link>https://news.nate.com/view/20211018n00903?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211018n00903?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Oct 2021 17:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>10-18 02:02</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2021/10/18/20211017509129.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['BTS', '오징어게임' 다음은 한국 뮤지컬 '엑스칼리버', 韓 뮤지컬 브로드웨이·웨스트엔드 넘본다]]></title>
             <link>https://news.nate.com/view/20211018n00045?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 17 Oct 2021 02:01:15 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>10-17 08:51</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/17/2021101708473062269_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 진, 콜드플레이 크리스 마틴이 인정한 월드 와이드 핸섬]]></title>
-            <link>https://news.nate.com/view/20211017n02565?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211017n02565?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 16 Oct 2021 23:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-17 08:44</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/17/1634425235108859.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
