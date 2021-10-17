@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 02:32:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 03:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, "청순+아련함" 청초한 분위기]]></title>
+            <link>https://news.nate.com/view/20211017n06461?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211017n06461?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Oct 2021 03:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>10-17 11:32</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/10/17/202110171129259083_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["해피지민데이"…스물 일곱 번째 생일 맞은 '방탄소년단(BTS)' 지민, 사진 모아보기[민경훈의 줌인]]]></title>
             <link>https://news.nate.com/view/20211017n02176?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 16 Oct 2021 23:16:41 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>10-17 07:11</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/17/2021101707074073199_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["잘자요" 방탄소년단 뷔가 이끄는 달콤한 천국]]></title>
-            <link>https://news.nate.com/view/20211017n02200?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211017n02200?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 16 Oct 2021 23:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>10-17 07:08</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/17/2021101707040253293_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
