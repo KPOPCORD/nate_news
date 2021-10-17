@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 20:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 21:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/13/14638406_705032_2139_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS 뷔, 황금비율의 이목구비로 여심 저격 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211018n02633?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211018n02633?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Oct 2021 21:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-18 06:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/18/1634481939170725.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[덴티스테, '인더숲 BTS편 시즌2' PPL 협찬사 참여 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211018n00903?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211018n00903?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sun, 17 Oct 2021 02:01:15 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>10-17 09:03</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/17/1634428915259775.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['뮤즈' 방탄소년단 지민, 2021 한국국제아트페어 전시…마릴린 먼로→마하트마 간디와 나란히 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211017n03076?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211017n03076?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 17 Oct 2021 02:01:15 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>10-17 08:51</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/17/2021101708473062269_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
