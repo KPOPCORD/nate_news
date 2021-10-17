@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 22:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 23:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,20 +248,92 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/13/14638406_705032_2139_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 정국, 반려견 '밤'도 글로벌 슈스…'도베르만' 구글 트렌드 장악→틱톡 #jeonbam 1680만뷰 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211018n03988?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211018n03988?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 17 Oct 2021 22:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>10-18 07:09</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/18/2021101807043854921_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA["월드와이드 핸섬 진이 제안" 방탄소년단 진, 크리스 마틴이 밝힌 콜드플레이 컬래버 '숨은 공로자' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211018n05027?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211018n05027?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Oct 2021 23:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>10-18 08:12</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/18/2021101808062578988_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['JK the Actor' 방탄소년단 정국, 스파이 영화 한편 뚝딱…'영찢남' 아우라 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211018n04879?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211018n04879?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Oct 2021 23:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>10-18 08:05</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/18/2021101805174775020_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 제이홉 '치킨누들수프', 유튜브 역대 뮤직비디오 '좋아요' TOP100 진입 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211018n04837?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211018n04837?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Oct 2021 23:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-18 08:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/18/1634511742054420.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['첫 프로듀싱곡 마블신작OST' 방탄소년단 지민 '친구'로 음악역량 인정→전세계 실트 'PRODUCER JIMIN' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211018n04735?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211018n04735?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Oct 2021 23:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>10-18 08:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/18/tn_1634511664626_189459_0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[독자추천종합순위] 방탄소년단 뷔 18회째 1위, 2위 영탁과 260표 차이…3위 이찬원·4위 방탄소년단 진·5위 방탄소년단 지민 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211018n04748?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211018n04748?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Oct 2021 23:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>10-18 08:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/18/14639467_706645_5636_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SC이슈]방탄소년단 노래, 할리우드 블록버스터에 들어간다! 마블 '이터널스' OST에 '친구' 포함돼 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211018n04589?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211018n04589?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Oct 2021 23:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠조선							<em>10-18 07:50</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2021/10/18/2021101901001188900079091.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단독] BTS 'LA 콘서트' 티켓, 최고 1800만원 '암표' 등장 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211018n03835?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211018n03835?mid=e0608&amp;isq=9009</guid>
             <pubDate>Sun, 17 Oct 2021 22:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[더팩트							<em>10-18 07:03</em>]]></content:encoded>
+            <content:encoded><![CDATA[더팩트							<em>10-18 07:43</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2021/10/18/20218484163445391601.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['유끼미남' 방탄소년단 뷔 PTD 챌린지 영상 '최고 조회수'+ '최다 좋아요'…'기록 제조기' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211018n04124?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211018n04124?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Oct 2021 23:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>10-18 07:22</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/18/2021101807172221127_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[댓글종합순위] 영탁 70회째 1위, 2위 김희재에 680개 앞서…3위 이찬원·4위 방탄소년단·5위 방탄소년단 지민 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211018n04119?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211018n04119?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Oct 2021 23:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>10-18 07:22</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/18/14639465_706638_1926_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소고기 연구 중인 방탄소년단 정국, 포브스 선정 '한우의 날, 한우 함께 먹고 싶은 아이돌' 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211018n04036?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211018n04036?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Oct 2021 23:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>10-18 07:14</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/18/2021101807094966086_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 정국, 반려견 '밤'도 글로벌 슈스…'도베르만' 구글 트렌드 장악→틱톡 #jeonbam 1680만뷰 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211018n03988?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211018n03988?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Oct 2021 22:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>10-18 07:09</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/18/2021101807043854921_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS 정국, 순수 미남 자태로 팬심 저격 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -294,78 +366,6 @@
             <pubDate>Sun, 17 Oct 2021 22:15:35 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>10-18 06:45</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/18/2021101806402368403_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공효진 아들이 이렇게 크다니…김강훈=BTS 정국 도플갱어 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211018n02991?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211018n02991?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 17 Oct 2021 22:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>10-18 06:18</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/10/18/202110180029770441_616c436da2c44.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 뷔, 황금비율의 이목구비로 여심 저격 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211018n02633?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211018n02633?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 17 Oct 2021 21:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-18 06:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/18/1634481939170725.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[덴티스테, '인더숲 BTS편 시즌2' PPL 협찬사 참여 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211018n00903?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211018n00903?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 17 Oct 2021 17:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠월드							<em>10-18 02:02</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2021/10/18/20211017509129.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['BTS', '오징어게임' 다음은 한국 뮤지컬 '엑스칼리버', 韓 뮤지컬 브로드웨이·웨스트엔드 넘본다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211018n00045?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211018n00045?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 17 Oct 2021 15:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>10-18 00:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/10/18/l_2021101702000819400176523.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파, 10월 1주차 아이돌차트 아차랭킹 1위…2위 방탄소년단·3위 아이유·4위 트와이스·5위 임영웅 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211017n11981?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211017n11981?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 17 Oct 2021 08:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-17 16:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/17/14639389_706526_321_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[빅데이터가수브랜드종합순위] 1위 방탄소년단 뷔, 2위 영탁에 50054점 앞서…3위 이찬원·4위 송가인·5위 방탄소년단 지민 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211017n07915?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211017n07915?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 17 Oct 2021 04:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-17 14:02</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/17/14639317_706441_5556_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔 '황당 열애설'→최성봉 거짓 암투병에 '시끌'[스타#업앤다운] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211017n08645?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211017n08645?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 17 Oct 2021 05:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠서울							<em>10-17 13:43</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2021/10/17/2021101701000549500036321.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 RM, "작사 작곡 다 하는 셀프 프로듀싱 아이돌은?" 익디 투표 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211017n08377?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211017n08377?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 17 Oct 2021 05:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-17 13:31</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/17/14639337_706467_3021_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 리트윗종합순위] 방탄소년단 지민 16회째 1위 , 2위 방탄소년단 정국에 7,326회 앞서…3위 임영웅·4위 방탄소년단 뷔·5위 블랙핑크 리사 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211017n07788?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211017n07788?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 17 Oct 2021 04:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-17 12:48</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/17/14639316_706436_4114_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
