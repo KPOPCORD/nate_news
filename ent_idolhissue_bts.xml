@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 08:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 09:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 노래 '친구' 마블 신작 '이터널스' OST에 수록]]></title>
+            <link>https://news.nate.com/view/20211018n30586?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211018n30586?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 18 Oct 2021 09:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>10-18 17:25</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/10/18/202110181715340010_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에스파(aespa)의 'Savage', 멜론 주간차트 1위…임영웅 9곡, 방탄소년단 8곡, 아이유 6곡 TOP100 진입]]></title>
             <link>https://news.nate.com/view/20211018n28239?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 18 Oct 2021 07:16:35 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-18 14:49</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/18/14639641_706928_4816_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, MCU '이터널스' OST에 이름 올려…핑크 플로이드·리조와 나란히]]></title>
-            <link>https://news.nate.com/view/20211018n20592?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211018n20592?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 18 Oct 2021 05:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-18 14:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/18/1634533163554092.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
