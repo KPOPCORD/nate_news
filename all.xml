@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 14:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 15:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/13/14638407_705033_2253_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS 뷔, 日 아이돌 랭킹 사이트 '네한'서 남성 아이돌 랭킹 투표 1위 등극 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211019n00045?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211019n00045?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 18 Oct 2021 15:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-19 00:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/19/1634568645441036.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단(BTS), 美 연말쇼 '징글볼' 출연 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211019n00028?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211019n00028?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 18 Oct 2021 15:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>10-19 00:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/19/14639800_707205_3538_org.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[빅데이터가수브랜드종합순위] 1위 영탁, 2위 이찬원에 7093점 앞서…3위 송가인·4위 임영웅·5위 방탄소년단 지민 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211018n10396?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211018n10396?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Mon, 18 Oct 2021 07:16:35 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-18 14:57</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/18/14639651_706960_5547_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['뮤즈' 방탄소년단 지민, 2021 한국국제아트페어 전시…'마릴린 먼로→마하트마 간디'와 작품화 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211018n23526?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211018n23526?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 18 Oct 2021 07:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-18 14:55</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/18/14639649_706957_5341_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, '비가 많이 내리는 요즘, 우산을 함께 쓰고 싶은 스타는?' 아이돌차트 폴 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211018n23370?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211018n23370?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 18 Oct 2021 07:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-18 14:52</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/18/14639648_706937_5053_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
