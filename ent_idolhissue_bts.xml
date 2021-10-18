@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 11:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 12:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[빅데이터가수브랜드종합순위] 1위 영탁, 2위 이찬원에 7093점 앞서…3위 송가인·4위 임영웅·5위 방탄소년단 지민]]></title>
+            <link>https://news.nate.com/view/20211018n10396?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211018n10396?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 18 Oct 2021 12:24:27 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>10-18 20:26</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/18/14639515_706719_1628_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 지민 프로듀싱한 '친구', 美마블 영화 '이터널스' OST에 수록]]></title>
+            <link>https://news.nate.com/view/20211018n34368?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211018n34368?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 18 Oct 2021 12:24:27 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠한국							<em>10-18 19:33</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2021/10/18/wsjmao20211018192420_O_00_C_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 노래 '친구' 마블 신작 '이터널스' OST에 수록]]></title>
             <link>https://news.nate.com/view/20211018n30586?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 18 Oct 2021 07:16:35 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-18 14:52</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/18/14639648_706937_5053_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, 솔로 2곡 韓아이돌 '최초' 빌보드 80주 이상 차트인→최장 1·2위…전무후무 K팝 대기록]]></title>
-            <link>https://news.nate.com/view/20211018n23318?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211018n23318?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 18 Oct 2021 07:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-18 14:51</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/18/14639646_706934_509_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['3년 연속 헌혈증 기부' 방탄소년단 지민 팬들 꾸준한 생명 나눔 동참…헌혈증 1,292장 기부로 뜻깊은 생일 축하]]></title>
-            <link>https://news.nate.com/view/20211018n23222?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211018n23222?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 18 Oct 2021 07:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-18 14:49</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/18/14639641_706928_4816_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
