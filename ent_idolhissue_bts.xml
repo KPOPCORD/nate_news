@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 03:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 04:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["제2의 방탄소년단 어디에" 빅히트 뮤직, 글로벌 오디션 연다]]></title>
+            <link>https://news.nate.com/view/20211018n18445?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211018n18445?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 18 Oct 2021 04:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠한국							<em>10-18 13:08</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2021/10/18/sjmao20211018130500_O_01_C_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['BTS', '오징어게임' 다음은 한국 뮤지컬 '엑스칼리버', 韓 뮤지컬 브로드웨이·웨스트엔드 넘본다]]></title>
+            <link>https://news.nate.com/view/20211018n00045?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211018n00045?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 18 Oct 2021 03:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>10-18 12:45</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/10/18/l_2021101802000857300185333.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엑소·트와이스, 10월에도 '최애돌' 기부천사…방탄소년단·블랙핑크 추격]]></title>
             <link>https://news.nate.com/view/20211018n17140?mid=e0608&amp;isq=9009</link>
@@ -80,14 +96,6 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/10/18/202110180927333388_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['BTS', '오징어게임' 다음은 한국 뮤지컬 '엑스칼리버', 韓 뮤지컬 브로드웨이·웨스트엔드 넘본다]]></title>
-            <link>https://news.nate.com/view/20211018n00045?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211018n00045?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 18 Oct 2021 03:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>10-18 10:25</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/10/18/l_2021101802000851100183833.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[방탄소년단 후배 뽑는다…빅히트 뮤직 글로벌 오디션 개최]]></title>
             <link>https://news.nate.com/view/20211018n10752?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211018n10752?mid=e0608&amp;isq=9009</guid>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 18 Oct 2021 03:17:29 GMT</pubDate>
             <content:encoded><![CDATA[OSEN							<em>10-18 10:19</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/10/18/202110181006774184_616cc8bb36c16.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 이을 K팝 그룹 발굴!…빅히트 뮤직, 글로벌 오디션 개최]]></title>
-            <link>https://news.nate.com/view/20211018n10016?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211018n10016?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 18 Oct 2021 03:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠서울							<em>10-18 10:12</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2021/10/18/2021101801000592400039411.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
