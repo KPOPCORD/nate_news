@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 07:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 08:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['아무튼 출근' BTS부터 '오징어 게임'까지, 프랑스에서 느끼는 한류 열풍]]></title>
+            <link>https://news.nate.com/view/20211019n30121?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211019n30121?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 19 Oct 2021 08:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>10-19 17:10</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/10/19/202110191706622184_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 美 아이하트라디오 '2021 징글볼 투어' 출연]]></title>
+            <link>https://news.nate.com/view/20211019n30079?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211019n30079?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 19 Oct 2021 08:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[TV리포트							<em>10-19 17:09</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2021/10/19/956d7ba2-5521-479f-a65b-d0599d9db0a8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 슈가 리믹스 버전의 'My Universe' 오늘 발매]]></title>
             <link>https://news.nate.com/view/20211019n26888?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 19 Oct 2021 00:48:25 GMT</pubDate>
             <content:encoded><![CDATA[스포츠월드							<em>10-19 11:30</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2021/10/19/20211019504024.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마블 '이터널스', 방탄소년단 '친구' 수록 OST 공개]]></title>
-            <link>https://news.nate.com/view/20211019n13840?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211019n13840?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 19 Oct 2021 02:38:52 GMT</pubDate>
-            <content:encoded><![CDATA[더팩트							<em>10-19 11:13</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2021/10/19/202151021634607362.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 슈가, 리믹스 버전 '마이 유니버스' 공개 "기쁘고 영광"]]></title>
-            <link>https://news.nate.com/view/20211019n13396?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211019n13396?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 19 Oct 2021 02:38:52 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>10-19 11:06</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/10/19/202110191054319912_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
