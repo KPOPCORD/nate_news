@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 20:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 21:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 정국, 우산을 함께 쓰고 싶은 스타 1위 등극]]></title>
+            <link>https://news.nate.com/view/20211020n03153?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211020n03153?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 19 Oct 2021 21:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-20 06:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/20/1634654385394163.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[女心 녹이는 실버보이스…방탄소년단 진, 근본적인 아름다움 빛난 MTV 언플러그드 비하인드]]></title>
+            <link>https://news.nate.com/view/20211020n03049?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211020n03049?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 19 Oct 2021 21:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>10-20 05:52</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/20/2021102005134358067_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 뷔, 느와르 영화 주인공 비주얼로 여심 저격]]></title>
             <link>https://news.nate.com/view/20211020n00026?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 19 Oct 2021 05:15:20 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-19 13:16</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/19/14639956_707432_136_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SC초점] "마동석 끌고, BTS 지민 당기고"…마블민국 상륙할 '이터널스', '위드 코로나' 첫 흥행 예고]]></title>
-            <link>https://news.nate.com/view/20211019n18424?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211019n18424?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 19 Oct 2021 04:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>10-19 13:12</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2021/10/19/2021102001001292200085171.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 리트윗종합순위] 방탄소년단 지민 18회째 1위 , 2위 방탄소년단 정국에 6,100회 앞서…3위 임영웅·4위 블랙핑크 리사·5위 방탄소년단 뷔]]></title>
-            <link>https://news.nate.com/view/20211019n17640?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211019n17640?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 19 Oct 2021 04:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-19 12:41</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/19/14639953_707426_384_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
