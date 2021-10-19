@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 04:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 05:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['전석 매진' 방탄소년단 LA 콘서트…리셀 티켓 1,800만 원까지]]></title>
+            <link>https://news.nate.com/view/20211019n19396?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211019n19396?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 19 Oct 2021 05:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[SBS연예뉴스							<em>10-19 13:36</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2021/10/19/30000719335_700.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[빅데이터가수브랜드종합순위] 1위 이찬원, 2위 영탁에 3068점 앞서…3위 임영웅·4위 방탄소년단 지민·5위 송가인]]></title>
+            <link>https://news.nate.com/view/20211019n18534?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211019n18534?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 19 Oct 2021 05:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>10-19 13:16</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/19/14639956_707432_136_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[SC초점] "마동석 끌고, BTS 지민 당기고"…마블민국 상륙할 '이터널스', '위드 코로나' 첫 흥행 예고]]></title>
             <link>https://news.nate.com/view/20211019n18424?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 19 Oct 2021 02:38:52 GMT</pubDate>
             <content:encoded><![CDATA[스포티비뉴스							<em>10-19 10:55</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/10/19/448506_570111_3648.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 슈가 리믹스 버전, 'My Universe' 발매]]></title>
-            <link>https://news.nate.com/view/20211019n12313?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211019n12313?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 19 Oct 2021 02:03:35 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-19 10:52</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/19/1634608021541881.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 슈가 리믹스 버전 '마이 유니버스' 발매]]></title>
-            <link>https://news.nate.com/view/20211019n11885?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211019n11885?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 19 Oct 2021 02:03:35 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠동아							<em>10-19 10:45</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2021/10/19/109775836.1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
