@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 09:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 10:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MCU '이터널스', BTS 지민 프로듀싱 곡 '친구' 담았다]]></title>
+            <link>https://news.nate.com/view/20211019n32926?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211019n32926?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 19 Oct 2021 10:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[K STAR							<em>10-19 18:18</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kb/2021/10/19/new_news__20211019173336_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단X콜드플레이 'My Universe' 빌보드 핫100 18위 3주 차트인[공식]]]></title>
+            <link>https://news.nate.com/view/20211019n32789?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211019n32789?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 19 Oct 2021 10:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>10-19 18:15</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/19/2021101917482553783_2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['아무튼 출근' BTS부터 '오징어 게임'까지, 프랑스에서 느끼는 한류 열풍]]></title>
             <link>https://news.nate.com/view/20211019n30121?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 19 Oct 2021 03:17:32 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>10-19 12:04</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/10/19/202110191157420010_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 美 아이하트라디오 '2021 징글볼 투어' 출연]]></title>
-            <link>https://news.nate.com/view/20211019n16527?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211019n16527?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 19 Oct 2021 03:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[비즈엔터							<em>10-19 12:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2021/10/19/20211019110320_1676963_1080_1080.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마동석 주연 마블 '이터널스', BTS '친구' OST 수록]]></title>
-            <link>https://news.nate.com/view/20211019n07704?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211019n07704?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 19 Oct 2021 00:48:25 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠월드							<em>10-19 11:30</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2021/10/19/20211019504024.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
