@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 06:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 07:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독] 때아닌 열애설 불거진 BTS 뷔 현장 모습]]></title>
+            <link>https://news.nate.com/view/20211015n08025?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211015n08025?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 20 Oct 2021 07:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>10-20 15:34</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/10/15/l_2021101502000992200217601.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 콜드플레이 협업곡 'My Universe' 美 빌보드 '핫 100' 차트 3주 연속 상위권]]></title>
+            <link>https://news.nate.com/view/20211020n27138?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211020n27138?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 20 Oct 2021 07:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[비즈엔터							<em>10-20 15:26</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2021/10/20/20211020101017_1677314_1200_817.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[빅데이터가수브랜드종합순위] 1위 이찬원, 2위 영탁에 2954점 앞서…3위 임영웅·4위 송가인·5위 방탄소년단 지민]]></title>
             <link>https://news.nate.com/view/20211020n24364?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 20 Oct 2021 03:16:54 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>10-20 11:22</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/20/2021102011185173674_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 RM, 탄생 9900일 맞아 '최애돌' 기부요정 등극]]></title>
-            <link>https://news.nate.com/view/20211020n15813?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211020n15813?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 20 Oct 2021 03:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠투데이							<em>10-20 11:22</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2021/10/20/20_752528_61112.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['4부문 1위 올킬' 방탄소년단 지민, K팝 아이돌 인기차트 일간•주간•월간•생일 최다 득표…GLOBAL IT BOY]]></title>
-            <link>https://news.nate.com/view/20211020n15613?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211020n15613?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 20 Oct 2021 03:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-20 11:19</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/20/14640321_708047_1758_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
