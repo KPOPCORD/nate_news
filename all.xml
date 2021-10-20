@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 20:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 21:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/20/14640580_708519_1210_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS RM, 탄생 9900일 기념 '최애돌' 기부요정 등극 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211021n02726?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211021n02726?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 20 Oct 2021 21:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-21 06:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/21/1634738811593755.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[PAOK 스포츠 아레나에 흐른 BTS·싸이 노래, 태극기 펼친 그리스·한국 팬 등장, 이다영 선발출전 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211021n00288?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211021n00288?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Wed, 20 Oct 2021 03:16:54 GMT</pubDate>
             <content:encoded><![CDATA[K STAR							<em>10-20 11:31</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kb/2021/10/20/new_news__20211020113018_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, '2년 연속' 우산을 함께 쓰고 싶은 스타 1위 선정…'아이돌 차트' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211020n16368?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211020n16368?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 20 Oct 2021 03:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-20 11:31</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/20/14640333_708071_2939_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
