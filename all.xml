@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 07:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 08:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/20/14640582_708522_137_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['콜라붐신' 붐 "BTS RM에 호미 제품 전달하겠다" 소심한 공수표 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211021n26240?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211021n26240?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 21 Oct 2021 07:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[SBS연예뉴스							<em>10-21 16:26</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2021/10/21/30000719880_700.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[빅데이터가수브랜드종합순위] 1위 이찬원, 2위 영탁에 10786점 앞서…3위 임영웅·4위 NCT·5위 방탄소년단 지민 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211021n27709?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211021n27709?mid=e0608&amp;isq=9009</guid>
@@ -270,14 +278,6 @@
             <pubDate>Thu, 21 Oct 2021 07:16:14 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-21 15:38</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/21/14640820_708960_3714_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['콜라붐신' 붐 "BTS RM에 호미 제품 전달하겠다" 소심한 공수표 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211021n26240?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211021n26240?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 21 Oct 2021 07:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[SBS연예뉴스							<em>10-21 15:26</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2021/10/21/30000719880_700.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['컴백' 킹덤 "롤모델은 방탄소년단, 음방 1위 이뤄낼 것" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
