@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 03:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 04:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/20/14640584_708523_1345_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 팝업스토어  'BTS POP-UP : PERMISSION TO DANCE in SEOUL' 오픈 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211022n16931?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211022n16931?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 22 Oct 2021 04:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[스타데일리뉴스							<em>10-22 12:33</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/10/22/309929_355881_3153.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단(BTS) 팝업스토어 'BTS POP-UP : PERMISSION TO DANCE in SEOUL' 오픈 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211022n15020?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211022n15020?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Fri, 22 Oct 2021 02:11:39 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-22 09:59</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/22/14641121_709476_5819_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['찜간지 줄줄' 방탄소년단 지민, 현대차 탄소중립 챌린지→'사고싶다 지민옷' 품절대란 유발 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211022n09460?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211022n09460?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 22 Oct 2021 02:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-22 09:54</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/22/14641117_709456_5111_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
