@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 13:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 14:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, 유니버설뮤직과 손잡고 미국 마케팅]]></title>
+            <link>https://news.nate.com/view/20211022n35579?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211022n35579?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 22 Oct 2021 14:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>10-22 22:49</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/22/14641459_710048_4849_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가온차트 42주차 앨범차트 1위는 ENHYPEN(엔하이픈), 2위는 이찬원…최다앨범 차트진입은 방탄소년단]]></title>
+            <link>https://news.nate.com/view/20211022n35169?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211022n35169?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 22 Oct 2021 14:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>10-22 22:33</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/22/14641447_710034_1224_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단(BTS), LA 콘서트…공연 장 밖에도 '전광판 응원존']]></title>
             <link>https://news.nate.com/view/20211022n34742?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 22 Oct 2021 03:17:21 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-22 11:42</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/22/14641179_709581_3713_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단(BTS), 오는 24일 온라인 콘서트 'BTS PERMISSION TO DANCE ON STAGE' 개최]]></title>
-            <link>https://news.nate.com/view/20211022n14735?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211022n14735?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 22 Oct 2021 03:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-22 11:37</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/22/14641178_709578_3458_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 오는 24일 온라인 콘서트 'BTS PERMISSION TO DANCE ON STAGE' 개최]]></title>
-            <link>https://news.nate.com/view/20211022n14410?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211022n14410?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 22 Oct 2021 03:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[스타데일리뉴스							<em>10-22 11:31</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/10/22/309907_355859_3033.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
