@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 10:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 11:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/20/14640584_708523_1345_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단, 24일 온라인 콘서트 'BTS PERMISSION TO DANCE ON STAGE' 연다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211022n32520?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211022n32520?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 22 Oct 2021 11:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠한국							<em>10-22 19:48</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2021/10/22/sjmao20211022194630_O_01_C_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['가을보다 로맨틱' 방탄소년단 뷔, '함께 단풍여행 가고 싶은 남돌' 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211022n30369?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211022n30369?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Fri, 22 Oct 2021 02:11:39 GMT</pubDate>
             <content:encoded><![CDATA[조이뉴스24							<em>10-22 10:32</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2021/10/22/8db125421c3ad5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 온라인 콘서트 'BTS PERMISSION TO DANCE ON STAGE'…최첨단 기술로 생동감 UP (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211022n11263?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211022n11263?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 22 Oct 2021 02:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[비즈엔터							<em>10-22 10:31</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2021/10/22/20211022085329_1678166_1200_1200.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
