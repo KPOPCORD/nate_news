@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Oct 2021 02:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 03:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/20/14640584_708523_1345_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[빅데이터가수브랜드종합순위] 이찬원 5회째 1위, 2위 임영웅에 34,682점 앞서…3위 영탁·4위 방탄소년단 지민·5위 방탄소년단 정국 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211023n06462?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211023n06462?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 23 Oct 2021 03:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>10-23 12:11</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/23/14641518_710196_758_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["정구기 미소 치이게 달달해" 방탄소년단 정국, 귀여움 만발 꽃받침→지적·세련 매혹적 도시남 '화수분 매력'…고품격 명품 비주얼 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211023n05725?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211023n05725?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sat, 23 Oct 2021 00:49:38 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>10-23 09:11</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/23/1634947763476322.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[독자추천종합순위] 이찬원 18회째 1위, 2위 영탁에 2,140표 앞서…3위 방탄소년단 지민·4위 방탄소년단 정국·5위 임영웅 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211023n03732?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211023n03732?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 23 Oct 2021 00:49:38 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-23 08:54</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/23/14641486_710101_5144_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
