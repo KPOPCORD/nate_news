@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Oct 2021 07:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 08:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/20/14640584_708523_1345_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 RM이 좋아하는 '윤형근의 기록'…PKM 갤러리 자부심 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211023n10240?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211023n10240?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 23 Oct 2021 08:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>10-23 17:07</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/23/14641562_710283_516_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['인더숲 BTS 2' 정국, 반려견과 힐링…영화 같은 비주얼 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211023n08467?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211023n08467?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sat, 23 Oct 2021 00:49:38 GMT</pubDate>
             <content:encoded><![CDATA[스타in							<em>10-23 09:34</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/10/23/PS21102300027.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['비율 천재' 방탄소년단 지민, 마네킹 핫바디 'No.1' 포즈…온라인 콘서트 D-1 예열 완료 'Jimin is Coming' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211023n02720?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211023n02720?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 22 Oct 2021 22:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>10-23 09:28</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/23/tn_1634948883989_54465_0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
