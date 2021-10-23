@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Oct 2021 09:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 10:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/20/14640584_708523_1345_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['감성장인' 임영웅, 10월 가수 브랜드 평판 1위…방탄소년단 2위·아이유 3위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211023n11581?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211023n11581?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 23 Oct 2021 10:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>10-23 18:32</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/10/23/202110231831279014_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[스경연예연구소]무대 위 방탄소년단 영접 D-1, 'PDT' 투어 막 올린다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211023n11030?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211023n11030?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sat, 23 Oct 2021 02:04:02 GMT</pubDate>
             <content:encoded><![CDATA[티브이데일리							<em>10-23 09:58</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2021/10/23/1634950621_1609717.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임영웅, 10월 가수 브랜드평판 1위…2위 방탄소년단·3위 아이유 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211023n04512?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211023n04512?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 23 Oct 2021 02:04:02 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠한국							<em>10-23 09:58</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2021/10/23/eyoree20211023093157_O_01_C_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
