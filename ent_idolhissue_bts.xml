@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Oct 2021 08:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 09:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스경연예연구소]무대 위 방탄소년단 영접 D-1, 'PDT' 투어 막 올린다]]></title>
+            <link>https://news.nate.com/view/20211023n11030?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211023n11030?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 23 Oct 2021 09:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>10-23 17:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/10/23/l_2021102302001170500254121.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 RM이 좋아하는 '윤형근의 기록'…PKM 갤러리 자부심]]></title>
             <link>https://news.nate.com/view/20211023n10240?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 23 Oct 2021 02:04:02 GMT</pubDate>
             <content:encoded><![CDATA[스포츠한국							<em>10-23 09:58</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2021/10/23/eyoree20211023093157_O_01_C_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임영웅, BTS도 제쳤다…10월 가수 브랜드평판 1위]]></title>
-            <link>https://news.nate.com/view/20211023n04220?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211023n04220?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 23 Oct 2021 00:49:38 GMT</pubDate>
-            <content:encoded><![CDATA[스타in							<em>10-23 09:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/10/23/PS21102300027.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
