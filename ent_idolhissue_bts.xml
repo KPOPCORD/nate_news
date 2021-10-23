@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Oct 2021 05:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 06:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['인더숲 BTS 2' 정국, 반려견과 힐링…영화 같은 비주얼]]></title>
+            <link>https://news.nate.com/view/20211023n08467?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211023n08467?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 23 Oct 2021 06:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>10-23 15:08</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/10/23/l_2021102302001168700253871.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임영웅, 10월 가수 브랜드평판 1위…2위 BTS·3위 아이유]]></title>
+            <link>https://news.nate.com/view/20211023n08292?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211023n08292?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 23 Oct 2021 06:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>10-23 14:59</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/10/23/202110231450250010_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[빅데이터가수브랜드종합순위] 이찬원 5회째 1위, 2위 임영웅에 34,682점 앞서…3위 영탁·4위 방탄소년단 지민·5위 방탄소년단 정국]]></title>
             <link>https://news.nate.com/view/20211023n06462?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 22 Oct 2021 22:16:10 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>10-23 09:28</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/23/tn_1634948883989_54465_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS·콜드플레이 '마이 유니버스', 英 오피셜 차트 5위 역주행]]></title>
-            <link>https://news.nate.com/view/20211023n03969?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211023n03969?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 23 Oct 2021 00:49:38 GMT</pubDate>
-            <content:encoded><![CDATA[스타in							<em>10-23 09:12</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/10/23/PS21102300021.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 지민, 팬심을 사로잡는 비주얼]]></title>
-            <link>https://news.nate.com/view/20211023n03959?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211023n03959?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 23 Oct 2021 00:49:38 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-23 09:11</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/23/1634947763476322.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
