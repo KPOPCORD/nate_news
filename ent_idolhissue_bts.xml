@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 14:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 15:16:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["무대가 최고" 방탄소년단, 팬데믹 뚫고 다시 만날 그날까지 (종합)]]></title>
+            <link>https://news.nate.com/view/20211024n20718?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211024n20718?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 24 Oct 2021 15:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>10-24 23:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2021/10/24/20211024510546.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 뷔, 종아리 부상에도 무대 투혼 "아미, 걱정 말라"]]></title>
             <link>https://news.nate.com/view/20211024n20298?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 24 Oct 2021 12:23:04 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-24 21:06</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/24/14641691_710592_115_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["곧 직접 만나요"…방탄소년단, 세계를 집어삼킨 'PTD' 콘서트 [종합]]]></title>
-            <link>https://news.nate.com/view/20211024n19028?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211024n19028?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 24 Oct 2021 12:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>10-24 21:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/24/2021102418174325488_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
