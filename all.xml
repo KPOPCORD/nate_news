@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 08:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 09:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/20/14640584_708523_1345_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 뷔, 콘서트 리허설 중 종아리 통증 호소…"안무 불참" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211024n12670?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211024n12670?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 24 Oct 2021 07:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[SBS연예뉴스							<em>10-24 17:26</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2021/10/24/30000689593_700.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 뷔, 종아리 근육 통증으로 온라인 콘서트 안무 없이 진행 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211024n13861?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211024n13861?mid=e0608&amp;isq=9009</guid>
@@ -310,14 +318,6 @@
             <pubDate>Sun, 24 Oct 2021 07:16:24 GMT</pubDate>
             <content:encoded><![CDATA[스타in							<em>10-24 16:09</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/10/22/PS21102400501.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 콘서트 리허설 중 종아리 통증 호소…"안무 불참" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211024n12670?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211024n12670?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 24 Oct 2021 07:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[SBS연예뉴스							<em>10-24 16:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2021/10/24/30000689593_700.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단 뷔, 종아리 근육 통증 호소…"춤 없이 온라인 콘서트"[전문] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
