@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 20:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 21:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['인더숲' BTS 정국, 반려견과 남다른 케미로 팬심 저격]]></title>
+            <link>https://news.nate.com/view/20211025n02864?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211025n02864?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 24 Oct 2021 21:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-25 06:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/25/1635088726281920.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김태균♥김석류 붕어빵 딸 효린 공개 "방탄소년단 지민 좋아해"(슈돌)[결정적장면]]]></title>
+            <link>https://news.nate.com/view/20211024n21248?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211024n21248?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 24 Oct 2021 21:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>10-25 05:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/10/24/202110242108020010_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, "곧 만나러 갈게" 스타디움 콘서트로 잠실벌 달군 일곱 청년]]></title>
             <link>https://news.nate.com/view/20211025n01506?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sun, 24 Oct 2021 13:21:20 GMT</pubDate>
             <content:encoded><![CDATA[티브이데일리							<em>10-24 21:34</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2021/10/24/241609793.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 "코로나19 상황 점점 좋아져…곧 직접 만나자"]]></title>
-            <link>https://news.nate.com/view/20211024n19114?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211024n19114?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 24 Oct 2021 13:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[스타in							<em>10-24 21:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/10/24/PS21102400625.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['PTD 콘서트' 방탄소년단 제이홉 "7명으로만 채운 엄청난 도전"]]></title>
-            <link>https://news.nate.com/view/20211024n19089?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211024n19089?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 24 Oct 2021 12:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[일간스포츠							<em>10-24 21:12</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/10/24/b8585372-5c18-44bc-98b3-f28c7d8c4ea2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
