@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 03:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 04:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트위터 리트윗종합순위] 방탄소년단 지민 23회째 1위, 2위 임영웅에 5,205회 앞서…3위 방탄소년단 정국·4위 방탄소년단 뷔·5위 NCT]]></title>
+            <link>https://news.nate.com/view/20211024n07061?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211024n07061?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 24 Oct 2021 04:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>10-24 12:25</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/24/14641655_710516_2144_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["조각보다 더 조각 같은 석진이 얼굴♥" 방탄소년단 진, 완벽 비주얼+러블리 장꾸美…'다재다능 김석진']]></title>
             <link>https://news.nate.com/view/20211024n06590?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 24 Oct 2021 02:01:31 GMT</pubDate>
             <content:encoded><![CDATA[스포츠경향							<em>10-24 09:57</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/10/24/l_2021102402001183500255731.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임영웅, 10월 트로트 가수 브랜드평판도 1위]]></title>
-            <link>https://news.nate.com/view/20211024n03300?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211024n03300?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 24 Oct 2021 00:47:12 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>10-24 09:40</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2021/10/24/241609760.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
