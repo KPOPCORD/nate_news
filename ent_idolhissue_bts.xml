@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 02:01:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 02:33:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 지민 'Filter', BTS 인기곡 솔로 1위+유튜브 뮤직 韓솔로 1위 '겹경사']]></title>
+            <link>https://news.nate.com/view/20211024n05730?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211024n05730?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 24 Oct 2021 02:33:37 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>10-24 11:19</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/10/24/202110241107776032_6174c240362fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[댓글종합순위] 영탁 76회째 1위, 2위 이찬원에 361개 앞서…3위 김희재·4위 방탄소년단 지민·5위 방탄소년단 뷔]]></title>
+            <link>https://news.nate.com/view/20211024n05268?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211024n05268?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 24 Oct 2021 02:33:37 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>10-24 11:04</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/24/14641648_710488_5546_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["그저 갓♥" 방탄소년단 뷔, 압도적 슈퍼스타 '아우라' 시선 강탈]]></title>
             <link>https://news.nate.com/view/20211024n04973?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sun, 24 Oct 2021 00:47:12 GMT</pubDate>
             <content:encoded><![CDATA[스타투데이							<em>10-24 08:42</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2021/10/24/20211022_4995506_1635032443.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['본투비 슈퍼스타' 방탄소년단 뷔, 황홀 비주얼+고혹적 카리스마 '라이브 기대 UP'…역시 화보장인]]></title>
-            <link>https://news.nate.com/view/20211024n02386?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211024n02386?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 24 Oct 2021 00:47:12 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>10-24 08:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/24/2021102408320474089_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['BTS 인기곡 솔로1위' 방탄소년단 지민 '필터' 유튜브 오디오 韓솔로 1위→지니어스 코리아 최애곡 '기록神']]></title>
-            <link>https://news.nate.com/view/20211024n02368?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211024n02368?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 24 Oct 2021 00:47:12 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>10-24 08:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/24/tn_1635031923943_611966_0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
