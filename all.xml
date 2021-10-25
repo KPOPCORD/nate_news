@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 08:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 09:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/20/14640584_708523_1345_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['콘서트 찢었다' 방탄소년단 지민, 전 세계 실트 1위+페이스북 장악→바디체인 섹시 아이돌 CD씹은 보컬…제왕의 귀환 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211025n04693?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211025n04693?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 25 Oct 2021 09:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>10-25 17:45</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/25/tn_1635151503891_406690_0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 정국, 콘서트 중 악플러 향한 일침 "어쩌라고!" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211025n31849?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211025n31849?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 25 Oct 2021 09:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[SBS연예뉴스							<em>10-25 17:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2021/10/25/30000709672_700.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아도라, 오라엔터와 전속계약…방탄소년단·TXT 프로듀서 출신 [공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211025n30938?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211025n30938?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Mon, 25 Oct 2021 04:20:08 GMT</pubDate>
             <content:encoded><![CDATA[SBS연예뉴스							<em>10-25 12:51</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2021/10/25/30000720428_700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[E포토] 방탄소년단, '온라인으로 펼치는 콘서트' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211025n17907?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211025n17907?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 25 Oct 2021 04:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[SBS연예뉴스							<em>10-25 12:51</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2021/10/25/30000720429_700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[E포토] 방탄소년단, '카리스마 무대' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211025n17716?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211025n17716?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 25 Oct 2021 04:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[SBS연예뉴스							<em>10-25 12:46</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2021/10/25/30000720427_700.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
