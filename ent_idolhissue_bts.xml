@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 10:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 11:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 온라인 콘서트 'BTS PERMISSION TO DANCE ON STAGE'[영상]]]></title>
+            <link>https://news.nate.com/view/20211025n35453?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211025n35453?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 25 Oct 2021 11:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>10-25 19:28</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/25/2021102519242895265_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS(방탄소년단) 'PERMISSION TO DANCE ON STAGE' 화려한 새 투어 시리즈 [뉴스엔TV]]]></title>
             <link>https://news.nate.com/view/20211025n34793?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 25 Oct 2021 04:20:08 GMT</pubDate>
             <content:encoded><![CDATA[MK스포츠							<em>10-25 12:59</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2021/10/25/20211025_1635134303.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[E포토] 방탄소년단, '아미 황홀']]></title>
-            <link>https://news.nate.com/view/20211025n18089?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211025n18089?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 25 Oct 2021 04:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[SBS연예뉴스							<em>10-25 12:56</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2021/10/25/30000720430_700.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
