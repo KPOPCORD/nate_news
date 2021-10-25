@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 20:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 21:14:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/25/14642124_711320_4436_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS 정국, 자체 발광 비주얼로 여심 저격 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211026n02386?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211026n02386?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 25 Oct 2021 21:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-26 06:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/26/1635176942576026.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["춤추는데 허락은 필요없죠" 화려하게 돌아온 방탄소년단의 새 투어 시리즈 'BTS PERMISSION TO DANCE ON STAGE' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211025n37297?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211025n37297?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Mon, 25 Oct 2021 06:20:11 GMT</pubDate>
             <content:encoded><![CDATA[스포츠한국							<em>10-25 14:53</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2021/10/25/sjmao20211025145201_O_00_C_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가온차트 43주차 리테일 앨범차트 1위는 세븐틴…최다앨범 차트진입은 방탄소년단·마마무·엔하이픈 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211025n21869?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211025n21869?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 25 Oct 2021 06:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-25 14:21</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/25/14641898_711019_1859_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
