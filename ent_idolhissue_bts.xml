@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 11:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 12:23:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["춤추는데 허락은 필요없죠" 화려하게 돌아온 방탄소년단의 새 투어 시리즈 'BTS PERMISSION TO DANCE ON STAGE']]></title>
+            <link>https://news.nate.com/view/20211025n37297?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211025n37297?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 25 Oct 2021 12:23:38 GMT</pubDate>
+            <content:encoded><![CDATA[TD영상							<em>10-25 21:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/td/2021/10/25/1609899.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['지누♥' 임사라, 방탄소년단 사인 CD 공개…"남편 이런 사람이야"]]></title>
+            <link>https://news.nate.com/view/20211025n36301?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211025n36301?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 25 Oct 2021 12:23:38 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠조선							<em>10-25 20:13</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2021/10/25/2021102601001778300117701.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 온라인 콘서트 'BTS PERMISSION TO DANCE ON STAGE'[영상]]]></title>
             <link>https://news.nate.com/view/20211025n35453?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 25 Oct 2021 06:20:11 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-25 14:21</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/25/14641898_711019_1859_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS·TXT 지원 사격, '2021 빅히트 뮤직 글로벌 오디션']]></title>
-            <link>https://news.nate.com/view/20211025n20779?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211025n20779?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 25 Oct 2021 05:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[일간스포츠							<em>10-25 14:02</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/10/25/30e9b92a-702a-418f-ac54-5095e97b0540.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS·TXT 프로듀서·작곡가→아티스트로…아도라, 11월 중 데뷔(공식)]]></title>
-            <link>https://news.nate.com/view/20211025n18148?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211025n18148?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 25 Oct 2021 04:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[MK스포츠							<em>10-25 12:59</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2021/10/25/20211025_1635134303.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
