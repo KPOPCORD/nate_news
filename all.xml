@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 21:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 22:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,46 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/25/14642124_711320_4436_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS 뷔, 부상 속에서 더욱 빛난 프로의식 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211027n04080?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211027n04080?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 26 Oct 2021 22:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-27 07:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/27/1635260065727185.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 'PTD''DNA' 일본서 플래티넘 인증 [연예뉴스 HOT③] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211027n04048?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211027n04048?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 26 Oct 2021 22:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠동아							<em>10-27 06:58</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2021/10/27/109926854.2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔 OST 참여 '이태원 클라쓰', 英가디언 선정 '오징어게임' 이후 꼭 봐야 할 K드라마 10선 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211027n03926?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211027n03926?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 26 Oct 2021 22:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>10-27 06:43</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/27/tn_1635284584422_85401_0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[왕이 될 상이오…방탄소년단 진,  '최고의 사극 배우가 될 K팝 남자아이돌' 선정 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211027n03651?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211027n03651?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 26 Oct 2021 22:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>10-27 06:23</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/27/2021102706165153844_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[석진이 아들 우주대스타 인기…방탄소년단 진 알제이, 일본 출시 직후 품절 'SOLD OUT PRINCE RJ' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211027n03552?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211027n03552?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 26 Oct 2021 22:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>10-27 06:10</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/27/2021102706035267948_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS 정국, 극강의 미소년 비주얼로 여심 저격 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211027n03234?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211027n03234?mid=e0608&amp;isq=9009</guid>
@@ -326,46 +366,6 @@
             <pubDate>Tue, 26 Oct 2021 08:18:42 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-26 16:17</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/26/14642384_711802_1545_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로시, '지리산' OST 참여…태연·방탄소년단 진·넬 잇는다 [공식입장] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211026n29542?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211026n29542?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 26 Oct 2021 08:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-26 16:13</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/26/1635232197586334.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, '팬앤스타' 가수 랭킹 5주 연속 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211026n27565?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211026n27565?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 26 Oct 2021 07:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[더팩트							<em>10-26 15:43</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2021/10/26/20214061635211122.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이승윤 "방탄소년단 엄청난 팬, 온콘 보려고 스케줄도 안 잡아…가족 모두 아미"(아카라) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211026n26696?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211026n26696?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 26 Oct 2021 07:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>10-26 15:31</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/10/26/202110261328030010_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로시, BTS 진→적재와 '지리산' OST 라인업 나란히…폭넓은 음악 행보 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211026n25817?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211026n25817?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 26 Oct 2021 07:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[MK스포츠							<em>10-26 15:18</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2021/10/26/20211026_1635229027.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 진→태연까지…'지리산' OST 막강 라인업 공개 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211026n25702?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211026n25702?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 26 Oct 2021 07:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[비즈엔터							<em>10-26 15:16</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2021/10/26/20211026114147_1679375_1200_1200.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
