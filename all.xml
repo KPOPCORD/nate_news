@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 04:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 05:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/25/14642124_711320_4436_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 'Permission to Dance'·'DNA', 일본 레코드협회 신규 '플래티넘' 인증 획득 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211026n19752?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211026n19752?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 26 Oct 2021 05:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[비즈엔터							<em>10-26 13:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2021/10/26/20211026113921_1679374_1199_799.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["반박불가 중국 내 최고 위상♥" 방탄소년단 뷔, 中 아이만 밸류 BTS 1위+생일모금 K팝 신기록…'대륙인기 NO.1' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211026n18402?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211026n18402?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Tue, 26 Oct 2021 01:57:17 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-26 10:52</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/26/14642240_711522_504_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 진·김종완·태연·가호, '지리산' 막강 OST 라인업 공개 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211026n11987?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211026n11987?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 26 Oct 2021 01:57:17 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>10-26 10:41</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2021/10/26/261609923.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
