@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 13:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 14:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/27/14642934_712654_5144_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['내가키운다' 정찬, 90년대 BTS…한국의 디카프리오 시절[★밤TView] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211027n42432?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211027n42432?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 27 Oct 2021 14:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>10-27 22:35</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/27/2021102720003033041_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[종합] '유퀴즈' 루시드폴, 공학박사에서 감귤 영농인-유재석과 안테나…BTS와 작업 콜드플레이 인사 영상 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211027n41887?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211027n41887?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Wed, 27 Oct 2021 10:18:36 GMT</pubDate>
             <content:encoded><![CDATA[스포츠한국							<em>10-27 18:58</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2021/10/27/sjmao20211027185655_O_00_C_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['레전드 직캠 아이돌' 3위 더보이즈 주연·2위 방탄소년단 뷔, 1위 누구? (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211027n35841?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211027n35841?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 27 Oct 2021 10:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>10-27 18:08</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/10/27/l_2021102702001426700308181.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
