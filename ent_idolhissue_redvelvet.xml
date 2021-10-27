@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 22:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 23:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손태진X레드벨벳 웬디, 로맨틱한 '깊어지네' 티저 영상 공개]]></title>
+            <link>https://news.nate.com/view/20211028n04916?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20211028n04916?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Wed, 27 Oct 2021 23:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>10-28 07:57</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/10/28/202110280755290010_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '가을을 만끽하는 美의 여신' (SBS TV 동물농장 퇴근길)]]></title>
             <link>https://news.nate.com/view/20211027n39035?mid=e0608&amp;isq=9012</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 27 Oct 2021 11:13:38 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-27 19:53</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/27/14642935_712656_5215_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '하트를 드려요' (SBS TV 동물농장 퇴근길)]]></title>
-            <link>https://news.nate.com/view/20211027n38731?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20211027n38731?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 27 Oct 2021 11:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-27 19:52</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/27/14642934_712654_5144_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
