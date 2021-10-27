@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 14:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 15:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["90년대 BTS였다" 정찬, 과거 父 사진에 아이들 깜짝 "누군지 모르겠다"('내가키운다') [Oh!쎈 종합]]]></title>
+            <link>https://news.nate.com/view/20211028n00294?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211028n00294?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 27 Oct 2021 15:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>10-28 00:09</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/10/28/202110272059772550_617952e50923b.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['내가키운다' 정찬, 90년대 BTS…한국의 디카프리오 시절[★밤TView]]]></title>
             <link>https://news.nate.com/view/20211027n42432?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 27 Oct 2021 10:18:36 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-27 19:12</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/27/14642894_712611_118_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단-콜드플레이 협업 'My Universe',  빌보드 '핫 100' 13위…여전히 뜨거운 인기]]></title>
-            <link>https://news.nate.com/view/20211027n37341?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211027n37341?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 27 Oct 2021 10:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠한국							<em>10-27 18:58</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2021/10/27/sjmao20211027185655_O_00_C_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
