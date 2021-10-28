@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 10:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 11:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/27/14642935_712656_5215_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["안젤리나 졸리와 美친 케미"…'이터널스' 마동석, 완벽한 할리우드 데뷔 (ft. 방탄소년단) [마데핫리뷰] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211028n41033?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211028n41033?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 28 Oct 2021 11:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>10-28 19:46</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/10/28/202110281716406782_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 캐릭터 '타이니탄 덴탈케어 세트', 인터파크 사전 예약 판매 오픈 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211028n40727?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211028n40727?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 28 Oct 2021 11:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>10-28 19:36</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/28/14643328_713306_3428_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[공식] 방탄소년단, 美'피플스 초이스 어워즈' 3개 부문 후보 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211028n38097?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211028n38097?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Thu, 28 Oct 2021 04:19:51 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-28 12:29</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/28/14643150_713025_282_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["우주 최강 핵미남♥" 방탄소년단 정국, 강렬함→부드러움 공존 '마성의 눈빛'X환상적 '핵미남 아우라'…'시선 압도' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211028n19126?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211028n19126?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 28 Oct 2021 04:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-28 12:23</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/28/14643148_713020_221_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Hip & young' 완벽 모델 방탄소년단 지민, 휠라 구매욕구 상승시키는 '본투비 큐섹러' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211028n19014?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211028n19014?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 28 Oct 2021 04:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-28 12:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/28/14643147_713004_1841_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
