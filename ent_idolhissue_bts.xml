@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 07:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 08:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["그들의 능력, 재확인했다"…외신, 방탄소년단 콘서트 호평]]></title>
+            <link>https://news.nate.com/view/20211028n34319?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211028n34319?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 28 Oct 2021 08:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[디스패치							<em>10-28 17:07</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2021/10/28/4816e9b7-7521-42af-9ea9-a352a0c56f2d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가온 43주차 디지털차트 1위는 아이유(IU)의 'strawberry moon'…최다곡 차트진입은 아이유(IU)·임영웅·세븐틴·방탄소년단]]></title>
+            <link>https://news.nate.com/view/20211028n34045?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211028n34045?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 28 Oct 2021 08:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>10-28 17:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/28/14643251_713193_5924_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["Kim Taehyung perfect" 방탄소년단 뷔, '핼러윈 분장이 기대되는 아이돌 스타' 1위]]></title>
             <link>https://news.nate.com/view/20211028n29523?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 28 Oct 2021 04:19:51 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-28 12:10</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/28/14643145_712991_87_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["VISUAL KING♥" 방탄소년단 정국, 콘서트 후 소셜 달군 압도적 인기…틱톡 790억+트위터 200만→페이스북 170만 언급]]></title>
-            <link>https://news.nate.com/view/20211028n18495?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211028n18495?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 28 Oct 2021 04:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-28 12:07</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/28/14643143_712986_614_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['7초 지민 1000만 돌파' 방탄소년단 지민에게 매료되는 순간 포착 집중조명…글로벌 연인 JIMIN]]></title>
-            <link>https://news.nate.com/view/20211028n18137?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211028n18137?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 28 Oct 2021 04:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-28 12:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/28/14643138_712974_590_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
