@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 00:46:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 01:57:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,8 +252,24 @@
             <link>https://news.nate.com/view/20211028n03841?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211028n03841?mid=e0608&amp;isq=9009</guid>
             <pubDate>Thu, 28 Oct 2021 00:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>10-28 09:35</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/28/tn_1635381304565_642370_0.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[스타뉴스							<em>10-28 10:27</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/28/tn_1635384425607_74127_0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['드디어' 방탄소년단 새 투어 콘서트, 외신 집중 조명 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211028n10962?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211028n10962?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 28 Oct 2021 01:57:56 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>10-28 10:13</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2021/10/28/20211028505267.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 1년 만의 콘서트 'BTS PERMISSION TO DANCE ON STAGE' 외신 극찬 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211028n10388?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211028n10388?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 28 Oct 2021 01:57:56 GMT</pubDate>
+            <content:encoded><![CDATA[스타데일리뉴스							<em>10-28 10:04</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/10/28/310211_356246_30.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단(BTS) 1년 만의 콘서트 'BTS PERMISSION TO DANCE ON STAGE'에 외신 극찬 쏟아져 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -350,22 +366,6 @@
             <pubDate>Thu, 28 Oct 2021 00:46:07 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>10-28 08:32</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/28/tn_1635377529597_802635_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, 콘서트 후 소셜 핫인기…틱톡 790억+트위터 200만→페이스북 170만 언급 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211028n05723?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211028n05723?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 28 Oct 2021 00:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>10-28 08:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/28/2021102808291714256_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[외신도 방탄소년단 온라인 콘서트 집중 조명…英 NME "BTS 능력 재확인" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211028n05526?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211028n05526?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 28 Oct 2021 00:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[스포티비뉴스							<em>10-28 08:25</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/10/28/450292_572543_2224.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
