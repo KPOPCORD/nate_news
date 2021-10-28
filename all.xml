@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 01:57:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 02:29:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,20 +248,20 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/27/14642935_712656_5215_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['드디어' 방탄소년단 새 투어 콘서트, 외신 집중 조명 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211028n10962?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211028n10962?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 28 Oct 2021 01:57:56 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>10-28 10:57</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2021/10/28/20211028505267.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 제이홉 싱글 'Hope World' 아이튠즈 44개국 1위 달성 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211028n03841?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211028n03841?mid=e0608&amp;isq=9009</guid>
             <pubDate>Thu, 28 Oct 2021 00:46:07 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>10-28 10:27</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/28/tn_1635384425607_74127_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['드디어' 방탄소년단 새 투어 콘서트, 외신 집중 조명 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211028n10962?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211028n10962?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 28 Oct 2021 01:57:56 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠월드							<em>10-28 10:13</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2021/10/28/20211028505267.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단 1년 만의 콘서트 'BTS PERMISSION TO DANCE ON STAGE' 외신 극찬 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
