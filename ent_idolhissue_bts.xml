@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 16:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 17:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, 美 아메리칸뮤직어워즈 대상 격인 올해의 아티스트 후보로 지명]]></title>
+            <link>https://news.nate.com/view/20211029n00756?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211029n00756?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 28 Oct 2021 17:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠투데이							<em>10-29 01:36</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2021/10/29/29_754296_53509.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하이브 측 "아미코인, 방탄소년단과 상관 無…피해 방생하지 않도록 유의해달라" [전문]]]></title>
             <link>https://news.nate.com/view/20211029n00580?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 28 Oct 2021 09:16:53 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>10-28 17:31</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/28/2021102817213588795_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["그들의 능력, 재확인했다"…외신, 방탄소년단 콘서트 호평]]></title>
-            <link>https://news.nate.com/view/20211028n34319?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211028n34319?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 28 Oct 2021 08:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[디스패치							<em>10-28 17:07</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2021/10/28/4816e9b7-7521-42af-9ea9-a352a0c56f2d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
