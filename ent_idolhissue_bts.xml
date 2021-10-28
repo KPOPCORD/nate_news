@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 09:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 10:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공식] 방탄소년단, 美'피플스 초이스 어워즈' 3개 부문 후보]]></title>
+            <link>https://news.nate.com/view/20211028n38097?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211028n38097?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 28 Oct 2021 10:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>10-28 18:13</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/10/28/l_2021102802001501400324111.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공연기획사 "방탄소년단 LA 대면 콘서트 티켓 20만장 매진, 방역수칙 명확"]]></title>
             <link>https://news.nate.com/view/20211028n36206?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 28 Oct 2021 04:19:51 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-28 12:20</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/28/14643147_713004_1841_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["Our shining JUNGKOOK" 방탄소년단 정국, 솔로 2곡 美빌보드 차트 86주·82주 차트인→최장 1위·2위…'초강력 음원 저력']]></title>
-            <link>https://news.nate.com/view/20211028n18873?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211028n18873?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 28 Oct 2021 04:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-28 12:15</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/28/14643146_713001_1352_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
