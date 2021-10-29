@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 10:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 11:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['이십세기 힛트쏭' BTS가 재해석한 '문화 대통령' 서태지 명곡은?]]></title>
+            <link>https://news.nate.com/view/20211029n31214?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211029n31214?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 29 Oct 2021 11:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠동아							<em>10-29 19:18</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2021/10/29/109984033.1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후즈팬 카페, 방탄소년단(BTS) 캐릭터 'TinyTAN Dynamite DIFFUSER (타이니탄 다이너마이트 디퓨저)' POP-UP STORE 오픈]]></title>
+            <link>https://news.nate.com/view/20211029n31196?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211029n31196?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 29 Oct 2021 11:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>10-29 19:17</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/29/14643700_713967_1520_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 日 'MTV VMA' 2관왕…4년 연속 수상]]></title>
             <link>https://news.nate.com/view/20211029n29530?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 29 Oct 2021 07:16:35 GMT</pubDate>
             <content:encoded><![CDATA[OSEN							<em>10-29 15:34</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/10/29/202110291504773111_617b90c6adde2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 'Butter' 'My Universe'로 日 'MTV VMA' 2관왕 영예]]></title>
-            <link>https://news.nate.com/view/20211029n21802?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211029n21802?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 29 Oct 2021 06:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[MK스포츠							<em>10-29 15:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2021/10/29/20211029_1635487758.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 日 'MTV VMA' 2관왕 차지(공식)]]></title>
-            <link>https://news.nate.com/view/20211029n21480?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211029n21480?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 29 Oct 2021 06:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>10-29 15:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/10/29/202110291501250010_1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
