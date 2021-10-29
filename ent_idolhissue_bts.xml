@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 04:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 05:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[빅데이터가수브랜드종합순위] 이찬원 11회째 1위, 2위 임영웅에 52,871점 앞서…3위 영탁·4위 방탄소년단 지민·5위 방탄소년단 뷔]]></title>
+            <link>https://news.nate.com/view/20211029n17163?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211029n17163?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 29 Oct 2021 05:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>10-29 13:20</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/29/14643563_713748_1641_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["소속사가 안티짓"…방탄소년단(BTS), 멤버 지민 비하 자막 삽입 논란→팬들 피드백·사과 요구]]></title>
+            <link>https://news.nate.com/view/20211029n16929?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211029n16929?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 29 Oct 2021 05:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>10-29 13:12</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/29/14643557_713739_649_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기사열독종합순위] 이찬원 26회째 1위, 2위 김선호에 7,822회 앞서…3위 임영웅·4위 영탁·5위 방탄소년단 지민]]></title>
             <link>https://news.nate.com/view/20211029n16553?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 29 Oct 2021 01:57:52 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-29 10:30</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/29/14643469_713499_1949_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["방탄소년단, K팝 앨범시장 10배 이상 성장에 지대한 영향"]]></title>
-            <link>https://news.nate.com/view/20211029n10021?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211029n10021?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 29 Oct 2021 01:57:52 GMT</pubDate>
-            <content:encoded><![CDATA[조이뉴스24							<em>10-29 10:21</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2021/10/29/0bde6deee9e9fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브 "'아미코인', 방탄소년단과 무관…초상권 침해 법적대응"[전문]]]></title>
-            <link>https://news.nate.com/view/20211029n09696?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211029n09696?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 29 Oct 2021 01:57:52 GMT</pubDate>
-            <content:encoded><![CDATA[스포티비뉴스							<em>10-29 10:15</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/10/29/450547_572899_0709.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
