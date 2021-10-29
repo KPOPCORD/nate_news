@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 12:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 13:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/27/14642952_712676_155_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['인더숲2' BTS 정국, 보조 셰프로 변신…조개 손질도 수준급 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211029n33455?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211029n33455?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 29 Oct 2021 13:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>10-29 21:13</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2021/10/29/291610623.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['이십세기 힛트쏭' BTS가 재해석한 '문화 대통령' 서태지 명곡은? (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211029n31214?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211029n31214?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Fri, 29 Oct 2021 07:16:35 GMT</pubDate>
             <content:encoded><![CDATA[마이데일리							<em>10-29 15:38</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/10/29/202110291531581185_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 日 'MTV VMA'베스트 그룹 비디오·컬래버레이션 비디오상 수상 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211029n22775?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211029n22775?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 29 Oct 2021 07:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>10-29 15:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/10/29/202110291504773111_617b90c6adde2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
