@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 14:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 15:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, 日 'MTV VMA' 2관왕 차지…4년 연속 수상[공식]]]></title>
+            <link>https://news.nate.com/view/20211029n35243?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211029n35243?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 29 Oct 2021 15:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[스포티비뉴스							<em>10-29 23:34</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/10/29/450640_573039_0501.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 日 'MTV VMA'서 베스트 그룹 비디오·베스트 컬래버레이션 비디오상 수상]]></title>
+            <link>https://news.nate.com/view/20211029n35205?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211029n35205?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 29 Oct 2021 15:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[스타데일리뉴스							<em>10-29 23:29</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/10/29/310347_356419_2814.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA['인더숲2' BTS 정국, 보조 셰프로 변신…조개 손질도 수준급]]></title>
             <link>https://news.nate.com/view/20211029n33455?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 29 Oct 2021 07:16:35 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>10-29 16:12</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/29/1635491493821097.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 日 'MTV VMA' 2관왕 [공식]]]></title>
-            <link>https://news.nate.com/view/20211029n23395?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211029n23395?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 29 Oct 2021 07:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠동아							<em>10-29 15:48</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2021/10/29/109980542.1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, '2021 MTV VMAJ' 2관왕 달성 [공식]]]></title>
-            <link>https://news.nate.com/view/20211029n22978?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211029n22978?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 29 Oct 2021 07:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>10-29 15:38</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/10/29/202110291531581185_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
