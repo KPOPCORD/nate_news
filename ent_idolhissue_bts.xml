@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Oct 2021 05:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 06:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, '아메리칸 뮤직 어워드' 대상 후보 "아시아 가수 최초"]]></title>
+            <link>https://news.nate.com/view/20211030n07749?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211030n07749?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 30 Oct 2021 06:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>10-30 14:20</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/10/30/1b6ac1b5-a67b-4499-b574-2e84efe32ef5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 10월 아이돌그룹 브랜드평판 1위 차지]]></title>
+            <link>https://news.nate.com/view/20211030n07391?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211030n07391?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 30 Oct 2021 06:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[스타데일리뉴스							<em>10-30 14:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/10/30/310361_356436_5956.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[빅데이터가수브랜드종합순위] 이찬원 12회째 1위, 2위 임영웅에 64,897점 앞서…3위 영탁·4위 방탄소년단 지민·5위 방탄소년단 뷔]]></title>
             <link>https://news.nate.com/view/20211030n06579?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 30 Oct 2021 01:56:35 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-30 10:19</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/30/14643829_714184_1715_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 아이돌그룹 브랜드평판 10월 결과 1위…2위 에스파‧3위 블랙핑크]]></title>
-            <link>https://news.nate.com/view/20211030n04468?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211030n04468?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 30 Oct 2021 01:56:35 GMT</pubDate>
-            <content:encoded><![CDATA[MK스포츠							<em>10-30 10:17</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2021/10/30/20211030_1635556259.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마독스, 방탄소년단X콜드플레이 '마이 유니버스' 커버…퓨처리즘 콘셉트]]></title>
-            <link>https://news.nate.com/view/20211030n04154?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211030n04154?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 30 Oct 2021 01:56:35 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-30 10:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/30/1635555562334082.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
