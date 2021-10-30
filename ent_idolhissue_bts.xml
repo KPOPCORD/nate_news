@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Oct 2021 20:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 21:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 정국, 남다른 미모와 요리 실력으로 여심 저격]]></title>
+            <link>https://news.nate.com/view/20211031n01036?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211031n01036?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 30 Oct 2021 21:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-31 06:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/31/1635605619448945.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['전참시' 박하선, 남편 류수영 영상통화…음원 약자 이승윤과 BTS 케이스로 '아미 인증' "진이 좋아"  (1)]]></title>
             <link>https://news.nate.com/view/20210821n13071?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 30 Oct 2021 03:17:51 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-30 11:30</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/30/14643854_714250_292_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['日오페가 가수 찬사' 방탄소년단 지민, '3옥타브 라' 초고음+소년과 남성의 목소리 함께 있어 '보석 같은 엣지 보이스'탄사]]></title>
-            <link>https://news.nate.com/view/20211030n05593?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211030n05593?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 30 Oct 2021 03:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-30 11:25</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/30/14643851_714242_2352_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
