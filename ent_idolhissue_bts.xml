@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 03:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 04:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[타이 브레이커 티켓, 예매 시작 5분 만에 동났다 "동시 접속자수 12만명. BTS 콘서트 예매 수준" [오!쎈 대구]]]></title>
+            <link>https://news.nate.com/view/20211031n06520?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211031n06520?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 31 Oct 2021 03:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>10-31 12:30</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/10/31/202110311159774177_617e06d764a08.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["퀄리티 더 안 좋아져"…방탄소년단(BTS), 공식 굿즈 'Butter' 카세트 하자 논란]]></title>
+            <link>https://news.nate.com/view/20211031n07074?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211031n07074?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 31 Oct 2021 04:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>10-31 12:29</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/31/14643998_714604_257_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["Perfect Beauty♥" 방탄소년단 뷔, 눈을 감아도 완벽한 아름다움…궁극의 피사체]]></title>
             <link>https://news.nate.com/view/20211031n06792?mid=e0608&amp;isq=9009</link>
@@ -14,14 +30,6 @@
             <pubDate>Sun, 31 Oct 2021 03:16:46 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-31 12:12</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/31/14644003_714592_1049_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타이 브레이크 티켓, 예매 시작 5분 만에 동났다 "동시 접속자수 12만명. BTS 콘서트 예매 수준" [오!쎈 대구]]]></title>
-            <link>https://news.nate.com/view/20211031n06520?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211031n06520?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 31 Oct 2021 03:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>10-31 12:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/10/31/202110311159774177_617e06d764a08.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['Excellent Physical' 방탄소년단 뷔, 'KLPGA 꿈의 페어링'에 뽑혀…'탁월한 운동능력 조명']]></title>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 31 Oct 2021 02:01:16 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-31 10:43</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/31/14643981_714515_4138_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단·세븐틴, 음반 초동 판매량 역대 '톱 10' 장악]]></title>
-            <link>https://news.nate.com/view/20211031n04535?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211031n04535?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 31 Oct 2021 02:01:16 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠투데이							<em>10-31 10:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2021/10/31/31_754590_73309.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
