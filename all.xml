@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 20:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 21:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/27/14642953_712678_230_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS 정국, 로맨틱한 남자친구 매력으로 여심 저격 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211101n02557?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211101n02557?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 31 Oct 2021 21:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>11-01 06:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/01/1635693769529387.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS 지민, UN 총회 비하인드 속 빛나는 미모 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211101n01665?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211101n01665?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sun, 31 Oct 2021 03:16:46 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-31 11:49</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/31/14643997_714585_4754_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["BTS V is a muse that inspires artists" 방탄소년단 뷔, 특별한 수제 도장 공개 "수많은 예술가들에게 영감을 주는 뮤즈" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211031n06100?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211031n06100?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 31 Oct 2021 03:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-31 11:42</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/31/14643996_714582_419_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
