@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 00:46:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 02:01:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2021/10/26/202174771635214382.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[10월 5주 익디 갤차트 컴백순 1위는 방탄소년단…레드벨벳·여자친구·쪼꼬미·마마무 TOP5 랭크 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20211031n04693?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20211031n04693?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Sun, 31 Oct 2021 02:00:30 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>10-31 10:43</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/31/14643981_714515_4138_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[레드벨벳 웬디, 인사도 사랑스러워  [포토엔HD] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
             <link>https://news.nate.com/view/20211029n26817?mid=e0608&amp;isq=9012</link>
             <guid>https://news.nate.com/view/20211029n26817?mid=e0608&amp;isq=9012</guid>
@@ -240,12 +248,76 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/27/14642953_712678_230_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '로맨스 영화의 한장면처럼' (SBS TV 동물농장 퇴근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20211027n39075?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20211027n39075?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 27 Oct 2021 12:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-27 20:03</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/27/14642952_712676_155_org.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[임영웅, 방탄소년단·손흥민도 앞섰다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211031n04020?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211031n04020?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 31 Oct 2021 02:01:16 GMT</pubDate>
+            <content:encoded><![CDATA[스타투데이							<em>10-31 10:46</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2021/10/31/20211031_5002425_1635642500.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10월 5주 익디 갤차트 컴백순 1위는 방탄소년단…레드벨벳·여자친구·쪼꼬미·마마무 TOP5 랭크 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211031n04693?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211031n04693?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 31 Oct 2021 02:01:16 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>10-31 10:43</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/31/14643981_714515_4138_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단·세븐틴, 음반 초동 판매량 역대 '톱 10' 장악 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211031n04535?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211031n04535?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 31 Oct 2021 02:01:16 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠투데이							<em>10-31 10:34</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2021/10/31/31_754590_73309.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임영웅 '10월 스타 브랜드평판' 방탄소년단 넘어 1위 등극 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211031n04346?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211031n04346?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 31 Oct 2021 02:01:16 GMT</pubDate>
+            <content:encoded><![CDATA[스타in							<em>10-31 10:25</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/10/31/PS21103100029.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임영웅, 10월 스타 브랜드평판 1위…2위 방탄소년단·3위 손흥민 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211031n04182?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211031n04182?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 31 Oct 2021 02:01:16 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠투데이							<em>10-31 10:16</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2021/10/31/31_754587_84733.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단·세븐틴, 음반 발매 첫 주 판매량 '톱10' 싹쓸이 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211031n03927?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211031n03927?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 31 Oct 2021 02:01:16 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠서울							<em>10-31 10:04</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2021/10/31/2021103101001142300080271.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단·세븐틴, 음반 첫 주 판매량 '톱10' 장악 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211031n03765?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211031n03765?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 31 Oct 2021 02:01:16 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>10-31 09:58</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/10/31/202110310955485562_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['모든 순간 A컷' 방탄소년단 지민, 삼성 갤럭시 비하인드 다시 없을 신비로운 고혹미…퍼펙트 모델 아우라 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211031n03605?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211031n03605?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 31 Oct 2021 02:01:16 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>10-31 09:50</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/31/14643971_714490_4835_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단·세븐틴, 음반 첫주 판매량 '톱10' 줄세웠다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211031n03572?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211031n03572?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 31 Oct 2021 02:01:16 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>10-31 09:48</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/10/31/l_2021103102001587200342051.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단·세븐틴, 음반 발매 첫 주 판매량 역대 '톱10' 장악 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -294,78 +366,6 @@
             <pubDate>Sun, 31 Oct 2021 00:46:44 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>10-31 08:43</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/31/tn_1635637383763_807286_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[눈 감은 神의 모습이 궁금하다면…방탄소년단 뷔, 찬란한 아름다움 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211031n02259?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211031n02259?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 31 Oct 2021 00:46:44 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>10-31 08:35</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/31/2021103108323366134_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5천만뷰 눈앞…방탄소년단 슈가 어거스트 디 'give it to me' MV 4900만뷰 달성 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211031n02083?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211031n02083?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 31 Oct 2021 00:46:44 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>10-31 08:19</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/31/2021103108143150574_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['얼굴 자체가 힐링' 방탄소년단 지민, 조립→족구 순수 소년美 '만능 아이돌'…'훈제오리' 94개국 품절 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211031n01984?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211031n01984?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 30 Oct 2021 23:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>10-31 08:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/31/tn_1635635404490_131090_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 제이홉 댄스브레이크, 콜드플레이 美 콘서트 대형 전광판 장식 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211031n01918?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211031n01918?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 30 Oct 2021 23:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-31 08:02</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/31/1635634880380977.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["진 군의 노래는 정말 완벽" 방탄소년단 진, 日 공신력 있는 설문 BTS 솔로곡 1위·3위…역시 '보컬킹' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211031n01386?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211031n01386?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 30 Oct 2021 22:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>10-31 07:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/31/tn_1635634204383_797425_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국 커버 'Falling' 美지니어스 차트 1위→3일 연속 유튜브 전세계 인기 동영상 1위…'압도적 인기' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211031n01663?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211031n01663?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 30 Oct 2021 23:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>10-31 07:24</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/31/2021103107203963533_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['패션 아이콘' 방탄소년단 정국 콘서트 의상 '품절'…인도네시아 국민 여배우부터 모델까지 '팬심 인증' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211031n01630?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211031n01630?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 30 Oct 2021 23:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>10-31 07:17</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/31/2021103107133122124_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['만능 스포츠맨' 방탄소년단 뷔, 타이거 우즈와 함께 골프선수가 꼽은 '꿈의 페어링' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211031n01590?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211031n01590?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 30 Oct 2021 22:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>10-31 07:08</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/31/2021103107040957049_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소파이(SoFi) 스타디움은 BTS를 이렇게 소개했다 [BTS 콘서트 특집下] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211031n01523?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211031n01523?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 30 Oct 2021 22:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>10-31 07:02</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/10/31/202110300627393756_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
