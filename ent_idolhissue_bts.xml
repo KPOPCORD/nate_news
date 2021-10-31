@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 05:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 06:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 지민, 다양한 스타일링을 찰떡으로 소화하는 미모]]></title>
+            <link>https://news.nate.com/view/20211031n10262?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211031n10262?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 31 Oct 2021 06:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>10-31 15:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/10/31/1635659981980447.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단·세븐틴, 음반 첫주 판매량 역대 1~7위 줄세웠다]]></title>
+            <link>https://news.nate.com/view/20211031n09056?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211031n09056?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 31 Oct 2021 06:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[스포티비뉴스							<em>10-31 14:09</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/10/31/450907_573337_0654.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단·세븐틴, 음반 발매 첫 주 판매량 역대 1~7위 줄세웠다]]></title>
             <link>https://news.nate.com/view/20211031n08094?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sun, 31 Oct 2021 02:34:39 GMT</pubDate>
             <content:encoded><![CDATA[스타in							<em>10-31 11:03</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/10/31/PS21103100038.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단·세븐틴, 초동 판매량 톱 10 장악…하이브 막강 파워]]></title>
-            <link>https://news.nate.com/view/20211031n05196?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211031n05196?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 31 Oct 2021 02:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>10-31 11:02</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/10/31/2021103110544365730_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임영웅, 방탄소년단·손흥민도 앞섰다]]></title>
-            <link>https://news.nate.com/view/20211031n04020?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211031n04020?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 31 Oct 2021 02:01:16 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>10-31 10:46</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2021/10/31/20211031_5002425_1635642500.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
