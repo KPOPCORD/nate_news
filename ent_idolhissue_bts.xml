@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 13:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 14:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임영웅, 10월 스타 브랜드평판 1위…2위 방탄소년단]]></title>
+            <link>https://news.nate.com/view/20211031n18772?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211031n18772?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 31 Oct 2021 14:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[MK스포츠							<em>10-31 23:02</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2021/10/31/20211031_1635677965.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 日 'MTV VMA'서 2관왕 영예…4년 연속 수상]]></title>
+            <link>https://news.nate.com/view/20211031n18326?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211031n18326?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 31 Oct 2021 14:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[K STAR							<em>10-31 22:24</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kb/2021/10/31/new_news__20211031221942_.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단·세븐틴, 음반 발매 첫 주 판매량 '톱10' 장악]]></title>
             <link>https://news.nate.com/view/20211031n17651?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sun, 31 Oct 2021 02:34:39 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-31 11:17</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/31/14643989_714563_1617_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['얼굴자체가 힐링' 방탄소년단 지민 피톤치드 뿜는 인더숲2…아기와 소년미를 오가는 요리꿈나무→족구 에이스]]></title>
-            <link>https://news.nate.com/view/20211031n05480?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211031n05480?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 31 Oct 2021 02:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-31 11:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/31/14643988_714546_1258_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['막강' 방탄소년단-세븐틴, 음반 첫 주 판매량 역대 1~7위 줄세우기]]></title>
-            <link>https://news.nate.com/view/20211031n05417?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211031n05417?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 31 Oct 2021 02:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠동아							<em>10-31 11:11</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2021/10/31/109997049.1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
