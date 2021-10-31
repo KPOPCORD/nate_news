@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 12:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 13:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단·세븐틴, 음반 발매 첫 주 판매량 '톱10' 장악]]></title>
+            <link>https://news.nate.com/view/20211031n17651?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211031n17651?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 31 Oct 2021 13:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[K STAR							<em>10-31 21:36</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kb/2021/10/31/new_news__20211031213453_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임영웅 브랜드 평판, 방탄소년단·손흥민 앞서]]></title>
+            <link>https://news.nate.com/view/20211031n17480?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211031n17480?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 31 Oct 2021 13:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[K STAR							<em>10-31 21:24</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kb/2021/10/31/new_news__20211031212253_.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[공식] 방탄소년단X세븐틴, 음반 발매 첫 주 판매량 역대 1위부터 7위까지 장악…막강 파워 하이브]]></title>
             <link>https://news.nate.com/view/20211031n12362?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sun, 31 Oct 2021 02:34:39 GMT</pubDate>
             <content:encoded><![CDATA[스포츠동아							<em>10-31 11:11</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2021/10/31/109997049.1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["OUR SINGER JUNGKOOK" 방탄소년단 정국, 커버 'Falling' 美지니어스 차트 1위→'3일 연속' 유튜브 전세계 인기 동영상 1위…'압도적 인기']]></title>
-            <link>https://news.nate.com/view/20211031n05398?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211031n05398?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 31 Oct 2021 02:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-31 11:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/31/14643986_714540_95_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['인스타그램 세계1위' 방탄소년단 지민, #jimin 신기록 경신→틱톡 700억 뷰 'SNS 지존']]></title>
-            <link>https://news.nate.com/view/20211031n05354?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211031n05354?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 31 Oct 2021 02:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-31 11:08</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/31/14643985_714530_645_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
