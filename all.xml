@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 20:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 21:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644546_715518_1324_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS 정국, 치명적인 섹시미로 여심 저격 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211102n02583?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211102n02583?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 01 Nov 2021 21:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>11-02 06:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/02/1635779190579571.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아이유의 'strawberry moon', 멜론 주간차트 1위…임영웅 9곡·방탄소년단 8곡·아이유 7곡 차트 진입 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211101n26764?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211101n26764?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Mon, 01 Nov 2021 02:35:19 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>11-01 11:10</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/01/2021110111071880577_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 캠페인 4주년 축하…"LOVE MYSELF, 감격스럽다" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211101n13483?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211101n13483?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 01 Nov 2021 02:35:19 GMT</pubDate>
-            <content:encoded><![CDATA[디스패치							<em>11-01 11:07</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2021/11/01/ccb496cd-8b7e-4954-8dd3-fdec846c335a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
