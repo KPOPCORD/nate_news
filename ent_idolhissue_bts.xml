@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 06:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 07:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이유의 'strawberry moon', 멜론 주간차트 1위…임영웅 9곡·방탄소년단 8곡·아이유 7곡 차트 진입]]></title>
+            <link>https://news.nate.com/view/20211101n26764?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211101n26764?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 01 Nov 2021 07:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-01 15:51</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644334_715235_4959_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 지민, 최다 득표로 '10월의 기적' 등극…팬들 축하 이어져]]></title>
             <link>https://news.nate.com/view/20211101n23705?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 01 Nov 2021 02:35:19 GMT</pubDate>
             <content:encoded><![CDATA[디스패치							<em>11-01 11:07</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2021/11/01/ccb496cd-8b7e-4954-8dd3-fdec846c335a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기사열독종합순위] 이찬원 28회째 1위, 2위 김선호에 48,819회 앞서…3위 임영웅·4위 영탁·5위 방탄소년단 뷔]]></title>
-            <link>https://news.nate.com/view/20211101n13428?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211101n13428?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 01 Nov 2021 02:35:19 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-01 11:06</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644214_715019_054_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
