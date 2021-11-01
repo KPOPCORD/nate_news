@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 05:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 06:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 지민, 최다 득표로 '10월의 기적' 등극…팬들 축하 이어져]]></title>
+            <link>https://news.nate.com/view/20211101n23705?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211101n23705?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 01 Nov 2021 06:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>11-01 15:02</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/01/1635746505350763.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["BTS부터 김선호까지"…'2021 AAA' 인기투표 2차 예선 결과는?]]></title>
+            <link>https://news.nate.com/view/20211101n23534?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211101n23534?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 01 Nov 2021 06:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-01 15:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644301_715187_3136_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[창간17년] 방탄소년단, '2021 파워피플'…이정재·윤여정 빛났다]]></title>
             <link>https://news.nate.com/view/20211101n19013?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 01 Nov 2021 02:35:19 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-01 11:06</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644214_715019_054_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 리트윗종합순위] 방탄소년단 뷔 4회째 1위, 2위 방탄소년단 지민에 2,558회 앞서…3위 방탄소년단 정국·4위 임영웅·5위 블랙핑크 리사]]></title>
-            <link>https://news.nate.com/view/20211101n12097?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211101n12097?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 01 Nov 2021 02:02:06 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-01 10:47</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644206_715005_4359_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["Top Tier Performer♥" 방탄소년단 뷔, 제왕적 카리스마→아련한 눈빛…"얼굴이 감동실화"]]></title>
-            <link>https://news.nate.com/view/20211101n10684?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211101n10684?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 01 Nov 2021 02:02:06 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-01 10:25</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644199_714988_2346_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
