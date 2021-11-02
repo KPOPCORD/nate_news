@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 07:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 08:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 제이홉 'Finding Hope' 홍보영상 인기]]></title>
+            <link>https://news.nate.com/view/20211102n30047?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211102n30047?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 02 Nov 2021 08:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[더팩트							<em>11-02 16:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2021/11/02/202145041635837918.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단(BTS), 2022 시즌 그리팅 프리뷰 공개→예약 판매 시작…구성품은?]]></title>
+            <link>https://news.nate.com/view/20211102n27575?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211102n27575?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 02 Nov 2021 08:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-02 16:05</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/02/14644744_715913_315_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 '버터' 뮤직비디오, 유튜브 조회수 6억뷰 돌파]]></title>
             <link>https://news.nate.com/view/20211102n24599?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 02 Nov 2021 04:20:14 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-02 12:30</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/02/14644678_715747_2857_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["genius singer-songwriter" 방탄소년단 뷔, RM과 공동 자작곡 '4 O'CLOCK' 사운드 클라우드 8300만 돌파]]></title>
-            <link>https://news.nate.com/view/20211102n17287?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211102n17287?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 02 Nov 2021 04:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-02 12:27</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/02/14644676_715743_260_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["남신 강림" 방탄소년단 정국, 눈부시게 맑은 광채 아우라X비현실 '신비 무드'…청초함 폭발 천상계 비주얼]]></title>
-            <link>https://news.nate.com/view/20211102n17005?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211102n17005?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 02 Nov 2021 03:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-02 12:12</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/02/14644672_715725_1143_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
