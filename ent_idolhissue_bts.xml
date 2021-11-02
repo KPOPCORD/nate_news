@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 06:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 07:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 '버터' 뮤직비디오, 유튜브 조회수 6억뷰 돌파]]></title>
+            <link>https://news.nate.com/view/20211102n24599?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211102n24599?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 02 Nov 2021 07:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[스포티비뉴스							<em>11-02 15:19</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/11/02/451343_573904_1830.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 지민, 아이돌 인기차트 KDOL 10월 1위…15개월 연속]]></title>
             <link>https://news.nate.com/view/20211102n23873?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 02 Nov 2021 03:17:29 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-02 12:12</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/02/14644672_715725_1143_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['김태형이 나눈 감동과 위로' 방탄소년단 뷔, 자작곡 '스노우 플라워' 유튜브 스트리밍 3700만 돌파]]></title>
-            <link>https://news.nate.com/view/20211102n16839?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211102n16839?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 02 Nov 2021 03:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-02 12:07</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/02/14644670_715720_65_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
