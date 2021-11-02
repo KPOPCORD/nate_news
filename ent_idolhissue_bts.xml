@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 10:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 11:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단X콜드플레이 'My Universe' 빌보드 핫100 20위 5주 차트인[공식]]]></title>
+            <link>https://news.nate.com/view/20211102n35819?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211102n35819?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 02 Nov 2021 11:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>11-02 19:36</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/02/2021110219302867760_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단(BTS) 제이홉 고향 광주, 홍보영상 조회 수 287만]]></title>
             <link>https://news.nate.com/view/20211102n33675?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 02 Nov 2021 04:20:14 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-02 12:56</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/02/14644682_715761_5330_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["믿고 듣는 보컬킹" 방탄소년단 진, 환상적인 라이브 선보여 전 세계 열광 ' 해외 매체 호평']]></title>
-            <link>https://news.nate.com/view/20211102n17584?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211102n17584?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 02 Nov 2021 04:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-02 12:48</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/02/14644681_715756_4534_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
