@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 05:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 06:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 지민, 아이돌 인기차트 KDOL 10월 1위…15개월 연속]]></title>
+            <link>https://news.nate.com/view/20211102n23873?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211102n23873?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 02 Nov 2021 06:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>11-02 15:08</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/02/1635833218490989.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 '버터' MV 6억뷰 돌파]]></title>
+            <link>https://news.nate.com/view/20211102n20550?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211102n20550?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 02 Nov 2021 06:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>11-02 14:10</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2021/11/02/021610992.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[빅데이터가수브랜드종합순위] 이찬원 14회째 1위, 2위 영탁에 153,963점 앞서…3위 방탄소년단 뷔·4위 임영웅·5위 방탄소년단 지민]]></title>
             <link>https://news.nate.com/view/20211102n19308?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 02 Nov 2021 03:17:29 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-02 12:07</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/02/14644670_715720_65_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['나눔의 본보기 팬덤' 방탄소년단 지민, '역대급 약 220개 기부 짐토버' 생일 축하도 감동 & 나눔…전세계 선행 물밀듯]]></title>
-            <link>https://news.nate.com/view/20211102n16733?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211102n16733?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 02 Nov 2021 03:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-02 12:03</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/02/14644665_715709_22_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 'Butter' 뮤비 6억뷰 돌파…통산 11번째]]></title>
-            <link>https://news.nate.com/view/20211102n16413?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211102n16413?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 02 Nov 2021 03:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[더팩트							<em>11-02 11:58</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2021/11/02/202192281635820592.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
