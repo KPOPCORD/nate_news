@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 14:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 15:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS, '러브마이셀프' 캠페인 4주년 특별 축하 영상 공개]]></title>
+            <link>https://news.nate.com/view/20211103n00035?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211103n00035?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 02 Nov 2021 15:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>11-03 00:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/03/1635861264105414.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["내부 프로세스 점검"…방탄소년단(BTS) '퀄리티 논란 굿즈' 환불 결정]]></title>
+            <link>https://news.nate.com/view/20211103n00031?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211103n00031?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 02 Nov 2021 15:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-03 00:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/03/14644978_716252_417_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단X콜드플레이 'My Universe' 빌보드 핫100 20위 5주 차트인[공식]]]></title>
             <link>https://news.nate.com/view/20211102n35819?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 02 Nov 2021 04:20:14 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-02 13:05</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/02/14644686_715773_42_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 리트윗종합순위] 방탄소년단 뷔 5회째 1위, 2위 방탄소년단 지민에 3,772회 앞서…3위 방탄소년단 정국·4위 임영웅·5위 블랙핑크 리사]]></title>
-            <link>https://news.nate.com/view/20211102n17735?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211102n17735?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 02 Nov 2021 04:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-02 12:58</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/02/14644684_715766_5529_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["태형아 좋은 작품 보여줘서 고마워" 방탄소년단 뷔, 미술관에서 여유로운 일상]]></title>
-            <link>https://news.nate.com/view/20211102n17690?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211102n17690?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 02 Nov 2021 04:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-02 12:56</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/02/14644682_715761_5330_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
