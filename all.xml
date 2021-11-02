@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 00:49:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 02:03:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 리사, 'MONEY'도 美 빌보드 핫100 진입 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
+            <link>https://news.nate.com/view/20211102n10668?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20211102n10668?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Tue, 02 Nov 2021 02:00:48 GMT</pubDate>
+            <content:encoded><![CDATA[더팩트							<em>11-02 10:23</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2021/11/02/20212081635815089.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 리사 'MONEY' 美 빌보드 핫100 진입 성공 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
             <link>https://news.nate.com/view/20211102n08276?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 28 Oct 2021 08:16:21 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-28 16:38</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/28/14643242_713180_374_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["Elegant Goddess JISOO♥" 블랙핑크 지수, 우아+시크 화보 '눈길' (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
-            <link>https://news.nate.com/view/20211028n28998?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20211028n28998?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Thu, 28 Oct 2021 07:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-28 15:38</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/28/14643210_713129_3716_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '사뭇 진지해진 모습의 완' (웬디의 영스트리트 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
@@ -248,6 +248,70 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644546_715518_1324_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 지민, 최다 득표로 '최애돌' 10월의 기적 등극 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211102n11298?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211102n11298?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 02 Nov 2021 02:03:19 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠투데이							<em>11-02 10:32</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2021/11/02/02_754938_34140.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 11번째 6억뷰 MV…'Butter' 2일 기록 달성 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211102n09585?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211102n09585?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 02 Nov 2021 02:03:19 GMT</pubDate>
+            <content:encoded><![CDATA[디스패치							<em>11-02 10:29</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2021/11/02/07d31e45-fc4b-4eab-80f5-b990209a129a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 '다이너마이트', 美 레코드산업협회 '트리플 플래티넘' 인증 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211102n06355?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211102n06355?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 02 Nov 2021 00:49:03 GMT</pubDate>
+            <content:encoded><![CDATA[SBS연예뉴스							<em>11-02 10:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2021/11/02/30000721933_700.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 'Butter' 뮤직비디오, 유튜브 조회수 6억뷰 돌파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211102n08944?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211102n08944?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 02 Nov 2021 02:03:19 GMT</pubDate>
+            <content:encoded><![CDATA[스타데일리뉴스							<em>11-02 09:54</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/11/02/310480_356583_5235.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, '팬앤스타' 가수 랭킹 6주 연속 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211102n08868?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211102n08868?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 02 Nov 2021 02:03:19 GMT</pubDate>
+            <content:encoded><![CDATA[더팩트							<em>11-02 09:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2021/11/02/2021671635814334.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 '다이너마이트', 美 레코드산업협회 '트리플 플래티넘' 인증 받아 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211102n08652?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211102n08652?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 02 Nov 2021 02:03:19 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠한국							<em>11-02 09:48</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2021/11/02/sjmao20211102094442_O_00_C_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 'Dynamite', 美 레코드산업협회 '트리플 플래티넘' 인증 획득 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211102n08638?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211102n08638?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 02 Nov 2021 02:03:19 GMT</pubDate>
+            <content:encoded><![CDATA[스타데일리뉴스							<em>11-02 09:48</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/11/02/310477_356580_4723.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 '다이너마이트', 美 RIAA '트리플 플래티넘' 인증 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211102n08380?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211102n08380?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 02 Nov 2021 02:03:19 GMT</pubDate>
+            <content:encoded><![CDATA[스타투데이							<em>11-02 09:43</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2021/11/02/20211102_5004242_1635813686.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['글로벌 서머송' 방탄소년단(BTS) 'Butter' 뮤직비디오, 유튜브 조회수 6억뷰 돌파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211102n08146?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211102n08146?mid=e0608&amp;isq=9009</guid>
@@ -302,70 +366,6 @@
             <pubDate>Tue, 02 Nov 2021 00:49:03 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>11-02 09:07</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/02/tn_1635811623916_867350_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 '다이너마이트', 美 레코드산업협회 '트리플 플래티넘' 인증 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211102n06355?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211102n06355?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 02 Nov 2021 00:49:03 GMT</pubDate>
-            <content:encoded><![CDATA[SBS연예뉴스							<em>11-02 09:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2021/11/02/30000721933_700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 美 '트리플 플래티넘' 인증…"Dynamite, 독보적 인기" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211102n06320?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211102n06320?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 02 Nov 2021 00:49:03 GMT</pubDate>
-            <content:encoded><![CDATA[디스패치							<em>11-02 09:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2021/11/02/35d17252-cf8b-488c-b945-38fdebdc98e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 진, 변화무쌍한 매력으로 여심 저격 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211102n06290?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211102n06290?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 02 Nov 2021 00:49:03 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>11-02 09:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/02/1635810137241368.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[독자추천종합순위] 이찬원 27회째 1위, 2위 영탁에 2,301표 앞서…3위 방탄소년단 지민·4위 방탄소년단 뷔·5위 방탄소년단 정국 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211102n06086?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211102n06086?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 02 Nov 2021 00:49:03 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-02 08:55</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/02/14644586_715566_5229_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['경이로운 짐토버' 방탄소년단 지민 생일, 10월 한달간 1일 1축하→6450만회 언급+208개 지역 1위 新기록 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211102n05307?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211102n05307?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 02 Nov 2021 00:49:03 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>11-02 08:38</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/02/tn_1635809884467_63921_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 'Butter' 뮤직비디오, 6억뷰 돌파…통산 11번째 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211102n05295?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211102n05295?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 02 Nov 2021 00:49:03 GMT</pubDate>
-            <content:encoded><![CDATA[MK스포츠							<em>11-02 08:30</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2021/11/02/20211102_1635809341.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 美레코드산업협회 '트리플 플래티넘' 인증 획득 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211102n05242?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211102n05242?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 02 Nov 2021 00:49:03 GMT</pubDate>
-            <content:encoded><![CDATA[더팩트							<em>11-02 08:28</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2021/11/02/202146541635808469.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 '다이너마이트', 美 레코드산업협회 '트리플 플래티넘' 인증 획득 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211102n05052?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211102n05052?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 02 Nov 2021 00:49:03 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠서울							<em>11-02 08:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2021/11/02/2021110201000118000007001.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
