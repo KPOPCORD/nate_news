@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 08:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 09:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644546_715518_1324_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단(BTS) 제이홉 고향 광주, 홍보영상 조회 수 287만 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211102n33675?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211102n33675?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 02 Nov 2021 09:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>11-02 18:10</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/11/02/l_2021110202000149300028561.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS-콜드플레이 '마이 유니버스' 빌보드 글로벌 차트서 5주째 톱10·'버터' 뮤비 6억뷰 돌파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211102n32868?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211102n32868?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 02 Nov 2021 09:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>11-02 17:49</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/11/02/4ce3e1a6-ba7a-468b-a248-c7abb8858510.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS 제이홉 'Finding Hope' 홍보영상 인기 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211102n30047?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211102n30047?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Tue, 02 Nov 2021 04:20:14 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-02 12:48</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/02/14644681_715756_4534_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['굿바이, 짐토버' 방탄소년단 지민 생일 10월 매일 1일 1개 31번 축하→6,450만회 언급+208개 지역 1위 신기록 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211102n17493?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211102n17493?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 02 Nov 2021 04:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-02 12:41</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/02/14644679_715750_4025_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["깊은 울림과 귀 호강" 방탄소년단 정국, 'Falling' 커버 유튜브 3일 만에 300만 '좋아요'…'4일 연속' 인기 급상승 2위 '초강력 인기' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211102n17335?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211102n17335?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 02 Nov 2021 04:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-02 12:30</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/02/14644678_715747_2857_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
