@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 02:30:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 03:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크, UN COP26서 기후 행동 촉구]]></title>
+            <link>https://news.nate.com/view/20211103n16525?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20211103n16525?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Wed, 03 Nov 2021 03:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[스타데일리뉴스							<em>11-03 11:52</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/11/03/310563_356682_4910.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트위터 리트윗종합순위] 방탄소년단 뷔 5회째 1위, 2위 방탄소년단 지민에 3,772회 앞서…3위 방탄소년단 정국·4위 임영웅·5위 블랙핑크 리사]]></title>
             <link>https://news.nate.com/view/20211102n17735?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 29 Oct 2021 03:14:57 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>10-29 11:45</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/29/14643528_713671_4222_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["건강식품을"…'인간 샤넬' 블랙핑크(BLACKPINK) 제니, 크리스마스 선물→소중한 사람 언급]]></title>
-            <link>https://news.nate.com/view/20211028n42789?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20211028n42789?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Thu, 28 Oct 2021 12:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-28 21:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/28/14643344_713341_010_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
