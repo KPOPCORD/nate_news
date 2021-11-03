@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 12:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 13:23:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644546_715518_1324_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['운동뚱' 김민경, 방탄소년단 '버터' 댄스 도전 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211103n39243?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211103n39243?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 03 Nov 2021 13:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>11-03 21:42</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/11/03/b260eeba-cab5-40d5-9470-891fd51f97ff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[또 불량 쏟아진 방탄소년단 굿즈…빅히트 뮤직 "100% 환불"[스타이슈] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211103n37938?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211103n37938?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Wed, 03 Nov 2021 07:22:17 GMT</pubDate>
             <content:encoded><![CDATA[스포츠조선							<em>11-03 15:17</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2021/11/03/2021110301000294500017811.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["나도 봐야지"…BTS 진, '지리산' OST 공개 앞두고 시청 독려 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211103n23340?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211103n23340?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 03 Nov 2021 06:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[조이뉴스24							<em>11-03 15:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2021/11/03/00dd924482524c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
