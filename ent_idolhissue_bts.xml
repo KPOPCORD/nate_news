@@ -4,9 +4,33 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 07:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 08:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 진, 7일 데뷔 첫 OST 발매…'지리산' 메인 테마곡]]></title>
+            <link>https://news.nate.com/view/20211103n30949?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211103n30949?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 03 Nov 2021 08:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[더팩트							<em>11-03 16:58</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2021/11/03/20215391635925460.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 진, 7일 '지리산' OST 발매…"메인 타이틀곡 활용"]]></title>
+            <link>https://news.nate.com/view/20211103n30680?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211103n30680?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 03 Nov 2021 08:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>11-03 16:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/03/2021110316394812325_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['지리산', 방탄소년단 진 첫 솔로 OST 발매…7일 공개]]></title>
+            <link>https://news.nate.com/view/20211103n29692?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211103n29692?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 03 Nov 2021 08:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠서울							<em>11-03 16:36</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2021/11/03/2021110301000221000013931.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이칠린, 백현→방탄소년단 완벽 커버…청량x강렬 퍼포먼스]]></title>
             <link>https://news.nate.com/view/20211103n28197?mid=e0608&amp;isq=9009</link>
@@ -102,30 +126,6 @@
             <pubDate>Wed, 03 Nov 2021 06:19:20 GMT</pubDate>
             <content:encoded><![CDATA[스포츠동아							<em>11-03 14:37</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2021/11/03/110059193.1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 진, '지리산' OST 7일 발매 확정 [공식]]]></title>
-            <link>https://news.nate.com/view/20211103n22514?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211103n22514?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 03 Nov 2021 06:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>11-03 14:37</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2021/11/03/20211103_5005529_1635917289.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식] '지리산', BTS 진 참여 OST 'Yours' 7일 발매]]></title>
-            <link>https://news.nate.com/view/20211103n22382?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211103n22382?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 03 Nov 2021 06:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>11-03 14:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2021/11/03/2021110301000290600017611.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 진, 7일 '지리산' OST 타이틀곡 'Yours' 발매(공식)]]></title>
-            <link>https://news.nate.com/view/20211103n22261?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211103n22261?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 03 Nov 2021 06:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>11-03 14:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/11/03/202111031421250010_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
