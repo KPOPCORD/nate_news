@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 11:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 12:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[또 불량 쏟아진 방탄소년단 굿즈…빅히트 뮤직 "100% 환불"[스타이슈]]]></title>
+            <link>https://news.nate.com/view/20211103n37938?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211103n37938?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 03 Nov 2021 12:23:52 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>11-03 20:47</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/03/tn_1635940023771_292810_0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['비긴어게인 오픈마이크' 마마무(MAMAMOO) 휘인, 방탄소년단(BTS) '보조개'→'Butter' 라이브]]></title>
             <link>https://news.nate.com/view/20211103n34815?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 03 Nov 2021 06:19:20 GMT</pubDate>
             <content:encoded><![CDATA[조이뉴스24							<em>11-03 15:00</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2021/11/03/00dd924482524c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 진, '지리산' OST 7일 음원 발매 "5회부터 삽입"(공식)]]></title>
-            <link>https://news.nate.com/view/20211103n23269?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211103n23269?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 03 Nov 2021 06:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[조이뉴스24							<em>11-03 14:51</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2021/11/03/805264eebe3807.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
