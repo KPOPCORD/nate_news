@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 00:45:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 01:58:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,46 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644546_715518_1324_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[티원엔터 김신영 대표 "전진서 '유스' BTS 정국 役 고민 많이 해"(인터뷰③)[스타메이커] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211103n10884?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211103n10884?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 03 Nov 2021 01:58:15 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>11-03 10:30</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/03/2021110214314223415_5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, '마이 유니버스'로 빌보드 '핫100' 5주 연속 상위권 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211103n09818?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211103n09818?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 03 Nov 2021 01:58:15 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>11-03 10:16</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2021/11/03/1635900902_1611084.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 콜드플레이와 협업곡 '마이 유니버스' 美 빌보드 롱런 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211103n09236?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211103n09236?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 03 Nov 2021 01:58:15 GMT</pubDate>
+            <content:encoded><![CDATA[스포티비뉴스							<em>11-03 10:07</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/11/03/451479_574079_0243.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단X콜드플레이 '마이 유니버스', 美 빌보드 '핫 100' 5주 연속 상위권 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211103n08398?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211103n08398?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 03 Nov 2021 01:58:15 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠한국							<em>11-03 09:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2021/11/03/sjmao20211103095116_O_00_C_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단X콜드플레이, 美 빌보드 '핫 100' 5주 연속 상위권 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211103n07796?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211103n07796?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 03 Nov 2021 01:58:15 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>11-03 09:42</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/11/03/l_2021110302000173600034411.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단, 美 빌보드 차트 '압도적 존재감' 현재 진행형 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211103n06344?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211103n06344?mid=e0608&amp;isq=9009</guid>
@@ -326,46 +366,6 @@
             <pubDate>Wed, 03 Nov 2021 00:45:22 GMT</pubDate>
             <content:encoded><![CDATA[MK스포츠							<em>11-03 08:25</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2021/11/03/20211103_1635895467.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 콜플 협업곡으로 美 '빌보드 핫100' 5주째 상위권 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211103n04699?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211103n04699?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 03 Nov 2021 00:45:22 GMT</pubDate>
-            <content:encoded><![CDATA[조이뉴스24							<em>11-03 08:24</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2021/11/03/0bde6deee9e9fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['꿈결 같은 Good Morning♡' 방탄소년단 지민, 달콤 아침 인사…순백의 천사美 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211103n04680?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211103n04680?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 03 Nov 2021 00:45:22 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>11-03 08:23</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/03/tn_1635895384282_505695_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단X콜드플레이 협업곡 美 빌보드 '핫 100' 5주 연속 상위권 [공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211103n04358?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211103n04358?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 02 Nov 2021 23:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>11-03 08:09</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/11/03/202111030804773823_6181c4dcd9562.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 '마이 유니버스', 5주 연속 '핫100' 상위권 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211103n04356?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211103n04356?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 02 Nov 2021 23:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>11-03 08:09</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2021/11/03/20211103_5005135_1635894500.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국 'Euphoria' 韓아이돌 솔로 최초 스포티파이 2억 9000만 돌파+日50주 차트인…'막강 파워' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211103n04132?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211103n04132?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 02 Nov 2021 23:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>11-03 08:06</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/03/tn_1635894365309_849936_0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
