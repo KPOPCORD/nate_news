@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 09:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 10:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644546_715518_1324_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['비긴어게인 오픈마이크' 마마무(MAMAMOO) 휘인, 방탄소년단(BTS) '보조개'→'Butter' 라이브 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211103n34815?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211103n34815?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 03 Nov 2021 10:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-03 18:21</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/03/14645323_716935_2023_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아이칠린(ICHILLIN'), K팝 커버 댄스 메들리 영상 공개…엑소(EXO) 백현→방탄소년단(BTS) 완벽 소화 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211103n33517?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211103n33517?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Wed, 03 Nov 2021 06:19:20 GMT</pubDate>
             <content:encoded><![CDATA[조이뉴스24							<em>11-03 14:51</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2021/11/03/805264eebe3807.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이칠린, K팝 커버 댄스 메들리 영상 공개…백현→방탄소년단 완벽 소화 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211103n22825?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211103n22825?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 03 Nov 2021 06:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[MK스포츠							<em>11-03 14:43</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2021/11/03/20211103_1635918163.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
