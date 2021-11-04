@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 09:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 10:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644546_715518_1324_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS 굿즈 쇼핑몰 '위버스샵' 피해다발업체 공개 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211104n34076?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211104n34076?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 04 Nov 2021 10:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>11-04 18:13</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/11/04/cdb65f00-3a94-47ea-9e45-a76fa618f3ff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[노홍철, 방탄소년단에 "소유권 이전"…유쾌한 이 조합 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211104n33373?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211104n33373?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Thu, 04 Nov 2021 07:17:03 GMT</pubDate>
             <content:encoded><![CDATA[스타데일리뉴스							<em>11-04 14:44</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/11/04/310663_356804_4326.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 콘서트 실황 영상으로 日 오리콘 장악…영상차트 3개 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211104n22011?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211104n22011?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 04 Nov 2021 07:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[스포티비뉴스							<em>11-04 14:30</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/11/04/451919_574429_2226.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
