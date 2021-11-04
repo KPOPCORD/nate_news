@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 14:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 15:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['이터널스' 클로이 자오 감독, 방탄소년단(BTS) 노래 쓴 이유 공개]]></title>
+            <link>https://news.nate.com/view/20211105n00042?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211105n00042?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 04 Nov 2021 15:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-05 00:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/05/14645861_717910_1748_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세븐틴, 가온차트 44주차 앨범차트 1위…최다앨범 차트진입은 방탄소년단·스트레이 키즈·투모로우바이투게더·블랙핑크·있지]]></title>
+            <link>https://news.nate.com/view/20211104n41169?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211104n41169?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 04 Nov 2021 15:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-04 23:14</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/04/14645860_717906_1258_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 RM, 의미심장글 "단단해지는 데는 무수한 세월 필요할 것"]]></title>
             <link>https://news.nate.com/view/20211104n39301?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 04 Nov 2021 05:15:19 GMT</pubDate>
             <content:encoded><![CDATA[스타in							<em>11-04 16:15</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/11/04/PS21110400170.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브, 커넥트 넘어 '바운드리스'로…BTS IP가 지닌 무한의 힘(종합)]]></title>
-            <link>https://news.nate.com/view/20211104n26086?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211104n26086?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 04 Nov 2021 07:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>11-04 15:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2021/11/04/20211104_5006266_1636003893.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노홍철-방탄소년단, 스킨밀당남 만났다…소유권 이전 "너희가 찰떡"]]></title>
-            <link>https://news.nate.com/view/20211104n24946?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211104n24946?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 04 Nov 2021 07:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>11-04 15:15</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/11/04/202111041459770031_6183786888355.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
