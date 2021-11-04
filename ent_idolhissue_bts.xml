@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 12:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 13:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 RM, 의미심장글 "단단해지는 데는 무수한 세월 필요할 것"]]></title>
+            <link>https://news.nate.com/view/20211104n39301?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211104n39301?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 04 Nov 2021 13:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[조이뉴스24							<em>11-04 21:41</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2021/11/04/9bcbb9e0ba39c5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가온 44주차 디지털차트 1위는 아이유의 'strawberry moon'…최다곡 차트진입은 아이유·임영웅·세븐틴·방탄소년단]]></title>
+            <link>https://news.nate.com/view/20211104n38934?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211104n38934?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 04 Nov 2021 13:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-04 21:24</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/04/14645833_717865_2229_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[노홍철, 방탄소년단과 '무한도전' 포즈 인증샷 "소유권 이전"]]></title>
             <link>https://news.nate.com/view/20211104n38244?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 04 Nov 2021 07:17:03 GMT</pubDate>
             <content:encoded><![CDATA[OSEN							<em>11-04 15:15</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/11/04/202111041459770031_6183786888355.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브 2022 프로젝트 기대 #BTS웹툰 #팝걸그룹 #日오디션[종합]]]></title>
-            <link>https://news.nate.com/view/20211104n24844?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211104n24844?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 04 Nov 2021 07:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>11-04 15:13</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/04/2021110414594677766_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 RM, 팬들에게 전한 진심…"전 아직 고작 28살"]]></title>
-            <link>https://news.nate.com/view/20211104n24164?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211104n24164?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 04 Nov 2021 07:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠월드							<em>11-04 15:03</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2021/11/04/20211104512097.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
