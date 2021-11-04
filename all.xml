@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 07:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 08:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,12 +248,44 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644546_715518_1324_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 RM이 새벽 2시42분에 남긴 의미심장한 글. "그토록 오랫동안 안정과 편안을 찾아 헤맸으나…" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211104n04627?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211104n04627?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 04 Nov 2021 07:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠조선							<em>11-04 17:06</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2021/11/04/2021110501000401500024152.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이브 "방탄소년단 컬래버 판타지 웹툰 내년 공개" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211104n12656?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211104n12656?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 04 Nov 2021 08:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>11-04 16:58</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/11/04/l_2021110402000290600058821.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단·투바투 효과…하이브 3분기 매출 3410억 "역대 최대" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211104n30628?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211104n30628?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 04 Nov 2021 08:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>11-04 16:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/04/2021110416392246483_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 끌고 투모로우바이투게더 밀고…하이브 3분기 매출 3410억 [공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211104n29156?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211104n29156?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 04 Nov 2021 08:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>11-04 16:28</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/11/04/202111041616772939_61838b045add0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[하이브, '오리지널 스토리' 통해 BTS 웹툰·게임 등 출시 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211104n20253?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211104n20253?mid=e0608&amp;isq=9009</guid>
             <pubDate>Thu, 04 Nov 2021 05:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[스타in							<em>11-04 15:39</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/11/04/PS21110400165.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[스타in							<em>11-04 16:15</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/11/04/PS21110400170.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하이브, 커넥트 넘어 '바운드리스'로…BTS IP가 지닌 무한의 힘(종합) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -304,14 +336,6 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/11/04/310663_356804_4326.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 RM이 새벽 2시42분에 남긴 의미심장한 글. "그토록 오랫동안 안정과 편안을 찾아 헤맸으나…" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211104n04627?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211104n04627?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 04 Nov 2021 07:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>11-04 14:43</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2021/11/04/2021110501000380900023242.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[방탄소년단, 콘서트 실황 영상으로 日 오리콘 장악…영상차트 3개 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211104n22011?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211104n22011?mid=e0608&amp;isq=9009</guid>
@@ -342,30 +366,6 @@
             <pubDate>Thu, 04 Nov 2021 07:17:03 GMT</pubDate>
             <content:encoded><![CDATA[스타in							<em>11-04 14:09</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/11/04/PS21110400049.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Duality Visual King' 방탄소년단 지민, 섹시 록스타 정석→트로피컬 남신…6개 품목 품절 '지민이니까' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211104n20641?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211104n20641?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 04 Nov 2021 07:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-04 14:08</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/04/14645611_717492_60_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, '함께 자전거 데이트하고 싶은 남돌' 1위…"태형이와 자전거 타면 세상 다 가진 느낌" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211104n20379?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211104n20379?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 04 Nov 2021 05:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-04 14:03</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/04/14645605_717472_015_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['10월의 기적' 방탄소년단 지민, 베스트 아이돌 1위•최애돌 1위…적립금 유니세프 기부 '화려했던 짐토버' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211104n19723?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211104n19723?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 04 Nov 2021 05:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-04 13:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/04/14645599_717449_4737_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
