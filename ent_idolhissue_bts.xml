@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 11:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 12:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노홍철, 방탄소년단과 '무한도전' 포즈 인증샷 "소유권 이전"]]></title>
+            <link>https://news.nate.com/view/20211104n38244?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211104n38244?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 04 Nov 2021 12:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[조이뉴스24							<em>11-04 20:55</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2021/11/04/f58500a2dc3506.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이유·방탄소년단·세븐틴 등 팬들이 뽑은 '내 가수의 인생가사'는?]]></title>
+            <link>https://news.nate.com/view/20211104n37011?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211104n37011?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 04 Nov 2021 12:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>11-04 20:04</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/11/04/202111041955206360_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 굿즈 쇼핑몰 '위버스샵' 피해다발업체 공개]]></title>
             <link>https://news.nate.com/view/20211104n34076?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 04 Nov 2021 07:17:03 GMT</pubDate>
             <content:encoded><![CDATA[스포츠월드							<em>11-04 15:03</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2021/11/04/20211104512097.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 웹툰·웹소설, 내년 1월 공개]]></title>
-            <link>https://news.nate.com/view/20211104n22942?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211104n22942?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 04 Nov 2021 07:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠동아							<em>11-04 14:45</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2021/11/04/110079995.2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 日 오리콘 '주간 DVD 랭킹'-'Blu-ray 랭킹'-'뮤직 DVD·Blu-ray 랭킹' 1위]]></title>
-            <link>https://news.nate.com/view/20211104n22885?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211104n22885?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 04 Nov 2021 07:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[스타데일리뉴스							<em>11-04 14:44</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/11/04/310663_356804_4326.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
