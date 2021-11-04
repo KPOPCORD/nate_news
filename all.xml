@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 02:34:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 03:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,38 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644546_715518_1324_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 콘서트 실황, 日 오리콘 주간 영상 랭킹 3개 부문 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211104n17144?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211104n17144?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 04 Nov 2021 03:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>11-04 12:12</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/11/04/202111041207530010_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["방탄소년단 웹툰·게임→美·日 글로벌 그룹"…하이브, 경계 없는 확장 예고 [종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211104n16905?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211104n16905?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 04 Nov 2021 03:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>11-04 12:02</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/11/04/202111040950764261_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["이 생각만큼은 변함없어요"…방탄소년단 RM이 전한 진심 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211104n16057?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211104n16057?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 04 Nov 2021 03:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[SBS연예뉴스							<em>11-04 11:46</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2021/11/04/30000722588_700.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 新 세계관…하이브, '오리지널 스토리' 사업 확장 [종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211104n14884?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211104n14884?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 04 Nov 2021 03:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>11-04 11:24</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/04/1635992141196553.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 "설화 차용 '차코' 판타지 주인공…힐링 게임 되길" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211104n13760?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211104n13760?mid=e0608&amp;isq=9009</guid>
@@ -334,38 +366,6 @@
             <pubDate>Thu, 04 Nov 2021 02:02:05 GMT</pubDate>
             <content:encoded><![CDATA[티브이데일리							<em>11-04 10:43</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2021/11/04/041611270.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브 "BTS·투바투·엔하이픈 주인공 웹툰 내년 공개" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211104n12224?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211104n12224?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 04 Nov 2021 02:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[조이뉴스24							<em>11-04 10:38</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2021/11/04/2c1d1876773cdf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브, 내년 상반기 게임 론칭…"방탄소년단 개발 참여" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211104n12201?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211104n12201?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 04 Nov 2021 02:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>11-04 10:38</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/04/1635989841193992.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브 "BTS 컬래버 오리지널 스토리 '세븐페이츠:착호' 1월 공개" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211104n12006?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211104n12006?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 04 Nov 2021 02:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>11-04 10:35</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2021/11/04/20211104_5006264_1635989007.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['하이브' 측 "2022 상반기, BTS 게임 출시 예정…등장 이상의 의미 有" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211104n12004?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211104n12004?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 04 Nov 2021 02:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠투데이							<em>11-04 10:35</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2021/11/04/04755510.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
