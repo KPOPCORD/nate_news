@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 18:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 19:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644546_715518_1324_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NFT 포토카드·웹툰·게임 제작…아미, BTS를 듣고 보고 읽는다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211105n01313?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211105n01313?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 04 Nov 2021 19:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[스타in							<em>11-05 04:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/11/05/PS21110500008.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[비즈 스톡] 방탄소년단(BTS) 소속사 하이브, 3분기 실적 발표…역대 분기 최대 실적 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211105n00718?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211105n00718?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Thu, 04 Nov 2021 08:19:11 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>11-04 16:53</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/04/2021110416392246483_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 끌고 투모로우바이투게더 밀고…하이브 3분기 매출 3410억 [공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211104n29156?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211104n29156?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 04 Nov 2021 08:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>11-04 16:28</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/11/04/202111041616772939_61838b045add0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
