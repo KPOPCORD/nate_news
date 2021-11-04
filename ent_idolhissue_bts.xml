@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 20:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 21:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 뷔, 함께 자전거 데이트하고 싶은 남돌]]></title>
+            <link>https://news.nate.com/view/20211105n02570?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211105n02570?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 04 Nov 2021 21:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>11-05 06:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/05/1636033188652309.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NFT 포토카드·웹툰·게임 제작…아미, BTS를 듣고 보고 읽는다]]></title>
             <link>https://news.nate.com/view/20211105n01313?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 04 Nov 2021 08:19:11 GMT</pubDate>
             <content:encoded><![CDATA[스포츠경향							<em>11-04 16:58</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/11/04/l_2021110402000290600058821.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단·투바투 효과…하이브 3분기 매출 3410억 "역대 최대"]]></title>
-            <link>https://news.nate.com/view/20211104n30628?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211104n30628?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 04 Nov 2021 08:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>11-04 16:53</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/04/2021110416392246483_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
