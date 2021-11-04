@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 06:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 07:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크(BLACKPINK) 지수, 인스타 팔로워 5천만 돌파]]></title>
+            <link>https://news.nate.com/view/20211104n26795?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20211104n26795?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Thu, 04 Nov 2021 07:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-04 15:49</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/04/14645661_717574_4242_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['영화&' 아누팜 트리파티 "블랙핑크 정말 좋아해, 제니 만나 사인 받았다"]]></title>
             <link>https://news.nate.com/view/20211104n06125?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 30 Oct 2021 03:15:20 GMT</pubDate>
             <content:encoded><![CDATA[스타데일리뉴스							<em>10-30 12:02</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/10/30/310353_356426_011.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["오랜 친구 같은 느낌"…'설강화' 지수, 디즈니 향한 애정→블랙핑크(BLACKPINK) 멤버들 언급]]></title>
-            <link>https://news.nate.com/view/20211029n21263?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20211029n21263?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Fri, 29 Oct 2021 06:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>10-29 14:59</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/10/29/14643587_713805_5649_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
