@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 07:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 08:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644546_715518_1324_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단(BTS) 소속사 하이브 주가 7%대 올라 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211105n42475?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211105n42475?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 05 Nov 2021 08:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>11-05 16:20</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/11/05/l_2021110502000347000070551.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[음콘협, 병역 특례 관련 "방탄소년단을 기업인에 비교하는 것은 적절치 않다" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211105n38190?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211105n38190?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Fri, 05 Nov 2021 01:59:36 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-05 09:45</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/05/14645908_717982_4254_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 지민, 극과 극을 오가는 온도차로 여심 저격 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211105n05839?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211105n05839?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 05 Nov 2021 00:45:37 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>11-05 09:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/05/1636068843359617.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
