@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 20:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 21:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644546_715518_1324_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS 정국, 여심을 저격하는 수트 비주얼 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211106n02128?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211106n02128?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 05 Nov 2021 21:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>11-06 06:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/06/1636122472895150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 소속사 하이브, 6천억 건물 통임차 "1년 임대료만 204억"(연중)[결정적장면] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211105n53989?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211105n53989?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 05 Nov 2021 21:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>11-06 05:26</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/11/05/202111052037130010_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['억소리나는 소속사' 하이브, 보증금 171억임직원 1,000명→BTS와 성장ing ('연중') [Oh!쎈 종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211106n00103?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211106n00103?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Fri, 05 Nov 2021 02:30:59 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-05 10:53</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/05/14645934_718031_5117_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["믿고 보는 김태형" 방탄소년단 뷔, '광고계 블루칩'다운 세련된 애티튜드+지성미 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211105n13944?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211105n13944?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 05 Nov 2021 01:59:36 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-05 10:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/05/14645932_718018_326_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이터널스와 찰떡' 방탄소년단 지민과 '친구'를 가장 좋아해…클로이 자오 감독 원픽→OST 선정 이유 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211105n12054?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211105n12054?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 05 Nov 2021 01:59:36 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-05 10:19</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/05/14645925_718005_1639_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
