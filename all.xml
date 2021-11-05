@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 05:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 06:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644546_715518_1324_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[음콘협, 병역 특례 관련 "방탄소년단을 기업인에 비교하는 것은 적절치 않다" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211105n38190?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211105n38190?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 05 Nov 2021 06:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-05 14:55</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/05/14646033_718284_546_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[빅데이터가수브랜드종합순위] 이찬원 17회째 1위, 2위 임영웅에 118,527점 앞서…3위 영탁·4위 방탄소년단 지민·5위 방탄소년단 뷔 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211105n36640?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211105n36640?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 05 Nov 2021 06:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-05 14:15</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/05/14646013_718209_1126_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[기사열독종합순위] 이찬원 32회째 1위, 2위 임영웅에 90,630회 앞서…3위 영탁·4위 김선호·5위 방탄소년단 지민 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211105n35950?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211105n35950?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Fri, 05 Nov 2021 00:45:37 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>11-05 09:00</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/05/1636068843359617.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이터널스 감정과 일치' 방탄소년단 지민과 '친구'가 최애…클로이 자오 감독 '지민을 너무 좋아해요' OST 선정 이유 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211105n05507?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211105n05507?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 05 Nov 2021 00:45:37 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>11-05 08:49</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/05/2021110508464215750_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 슈가 솔로곡 'Trivia 轉 : Seesaw' 스포티파이 1억 3700만 돌파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211105n05154?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211105n05154?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 05 Nov 2021 00:45:37 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>11-05 08:35</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/05/2021110508340068381_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
