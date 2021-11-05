@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 04:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 05:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기사열독종합순위] 이찬원 32회째 1위, 2위 임영웅에 90,630회 앞서…3위 영탁·4위 김선호·5위 방탄소년단 지민]]></title>
+            <link>https://news.nate.com/view/20211105n35950?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211105n35950?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 05 Nov 2021 05:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-05 13:57</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/05/14646010_718202_5415_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[트위터 리트윗종합순위] 방탄소년단 뷔 8회째 1위, 2위 방탄소년단 지민에 1,088회 앞서…3위 방탄소년단 정국·4위 임영웅·5위 몬스타엑스]]></title>
+            <link>https://news.nate.com/view/20211105n35387?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211105n35387?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 05 Nov 2021 05:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-05 13:38</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/05/14646004_718184_3414_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["Worldwide Icon Jungkook" 방탄소년단 정국, 'Falling'커버 美빌보드 '핫 트렌딩 송즈' 차트인…원곡 미국 판매 379% 증가…"정국 파워"]]></title>
             <link>https://news.nate.com/view/20211105n28251?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 05 Nov 2021 00:45:37 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>11-05 08:35</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/05/2021110508340068381_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 슈가 어거스트 디 '대취타' MV 3억 1000만뷰 달성]]></title>
-            <link>https://news.nate.com/view/20211105n05045?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211105n05045?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 05 Nov 2021 00:45:37 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>11-05 08:30</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/05/2021110508263060122_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 슈가, 세상에서 제일 예쁜 '빌런']]></title>
-            <link>https://news.nate.com/view/20211105n04936?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211105n04936?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 05 Nov 2021 00:45:37 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>11-05 08:25</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/05/2021110508172245904_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
