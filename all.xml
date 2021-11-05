@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 01:59:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 02:31:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644546_715518_1324_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["연기 천재 광고 장인" 방탄소년단 정국, 탄탄 연기력X상큼 달달 보이스X잘생쁨 황홀 비주얼 삼박자 '올킬'…'광고 장인' 면모 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211105n16191?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211105n16191?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 05 Nov 2021 02:30:59 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-05 10:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/05/14645934_718031_5117_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["믿고 보는 김태형" 방탄소년단 뷔, '광고계 블루칩'다운 세련된 애티튜드+지성미 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211105n13944?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211105n13944?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Thu, 04 Nov 2021 22:16:54 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>11-05 07:00</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/05/1636034476019892.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어제는 예쁘고, 오늘은 잘생기고…방탄소년단 진, 다정한 팬소통 '왕사랑둥이' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211105n03203?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211105n03203?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 04 Nov 2021 22:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>11-05 06:46</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/05/2021110506384075681_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
