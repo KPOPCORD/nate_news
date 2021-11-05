@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 14:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 15:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['억소리나는 소속사' 하이브, 보증금 171억임직원 1,000명→BTS와 성장ing ('연중') [Oh!쎈 종합]]]></title>
+            <link>https://news.nate.com/view/20211106n00103?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211106n00103?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 05 Nov 2021 15:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>11-06 00:07</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/11/06/202111052026775457_6185290e843fe.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단(BTS) 소속사 하이브 주가 7%대 올라]]></title>
             <link>https://news.nate.com/view/20211105n42475?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 05 Nov 2021 01:59:36 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-05 10:19</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/05/14645925_718005_1639_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["목소리만으로도 극락좌표♥" 방탄소년단 뷔, '흰 셔츠로 잠깬 뷔라니' 매트리스 광고서 '치명적 섹시美' 발산]]></title>
-            <link>https://news.nate.com/view/20211105n08134?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211105n08134?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 05 Nov 2021 01:59:36 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-05 09:45</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/05/14645908_717982_4254_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
