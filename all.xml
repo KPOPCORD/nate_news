@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Nov 2021 02:30:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 03:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644546_715518_1324_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[트위터 리트윗종합순위] 방탄소년단 뷔 9회째 1위, 2위 방탄소년단 지민에 1,490회 앞서…3위 방탄소년단 정국·4위 임영웅·5위 몬스타엑스 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211106n05772?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211106n05772?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 06 Nov 2021 03:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-06 11:30</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/06/14646321_718778_278_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[케이시, BTS 'SAVAGE LOVE' 재해석…생생한 라이브 실력 '감탄' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211106n05742?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211106n05742?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 06 Nov 2021 03:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[비즈엔터							<em>11-06 11:26</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2021/11/06/20211106111450_1683452_900_505.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 리얼리티 '인더숲 BTS편 시즌2', 100시간의 힐링 여행 마무리 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211106n04984?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211106n04984?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Sat, 06 Nov 2021 00:44:15 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-06 09:04</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/06/14646293_718724_139_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['셀린느의 남자' 방탄소년단 지민, 명품 티셔츠 40개국 전사이즈 완판→구글 장악 '브랜드 제왕' 美친 파급력 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211106n03743?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211106n03743?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 06 Nov 2021 00:44:15 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-06 08:54</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/06/14646292_718713_5214_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["태형이가 세계 1등♥" 방탄소년단 뷔, '유미의 세포들' 순록 역 가상 캐스팅 투표 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211106n03674?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211106n03674?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 06 Nov 2021 00:44:15 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-06 08:44</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/06/14646290_718707_4137_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
