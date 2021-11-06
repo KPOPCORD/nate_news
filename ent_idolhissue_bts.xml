@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Nov 2021 05:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 06:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['유희열의 스케치북' 케이시, 방탄소년단 'SAVAGE LOVE' 재해석…라이브 실력에 '감탄']]></title>
+            <link>https://news.nate.com/view/20211106n08045?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211106n08045?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 06 Nov 2021 06:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-06 15:12</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/06/14646354_718841_1012_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["HEALING FAIRY Taehyung♥" 방탄소년단 뷔, 일상의 여유 속에서 태양처럼 빛나는 청춘…방탄소년단 인더숲]]></title>
             <link>https://news.nate.com/view/20211106n07170?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 06 Nov 2021 00:44:15 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>11-06 09:17</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/06/2021110609124830169_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, '인더숲 BTS편 시즌2' 마무리…100시간의 힐링]]></title>
-            <link>https://news.nate.com/view/20211106n03986?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211106n03986?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 06 Nov 2021 00:44:15 GMT</pubDate>
-            <content:encoded><![CDATA[일간스포츠							<em>11-06 09:09</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/11/06/a72635e1-acb1-4771-83c1-745dd3103db1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
