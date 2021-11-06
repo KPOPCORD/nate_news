@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Nov 2021 03:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 04:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기사열독종합순위] 이찬원 33회째 1위, 2위 임영웅에 61,977회 앞서…3위 영탁·4위 방탄소년단 지민·5위 김선호]]></title>
+            <link>https://news.nate.com/view/20211106n06553?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211106n06553?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 06 Nov 2021 04:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-06 12:43</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/06/14646332_718796_3643_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트위터 리트윗종합순위] 방탄소년단 뷔 9회째 1위, 2위 방탄소년단 지민에 1,490회 앞서…3위 방탄소년단 정국·4위 임영웅·5위 몬스타엑스]]></title>
             <link>https://news.nate.com/view/20211106n05772?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 06 Nov 2021 00:44:15 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>11-06 09:05</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/06/tn_1636157104389_576627_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["윤기 비트+정국 멜로디=극락♥" 방탄소년단 정국, 만능 살림꾼→"자연에서 쓰는 건 처음" 새 앨범 곡 작업 몰입 '기대↑'…입은 옷 '품절']]></title>
-            <link>https://news.nate.com/view/20211106n03915?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211106n03915?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 06 Nov 2021 00:44:15 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-06 09:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/06/14646293_718724_139_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
