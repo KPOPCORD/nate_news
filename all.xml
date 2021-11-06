@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Nov 2021 04:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 05:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644546_715518_1324_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["HEALING FAIRY Taehyung♥" 방탄소년단 뷔, 일상의 여유 속에서 태양처럼 빛나는 청춘…방탄소년단 인더숲 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211106n07170?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211106n07170?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 06 Nov 2021 05:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-06 13:47</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/06/14646336_718817_4532_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[빅데이터가수브랜드종합순위] 이찬원 18회째 1위, 2위 임영웅에 83,575점 앞서…3위 영탁·4위 방탄소년단 지민·5위 방탄소년단 뷔 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211106n07045?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211106n07045?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 06 Nov 2021 05:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-06 13:34</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/06/14646335_718803_312_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[기사열독종합순위] 이찬원 33회째 1위, 2위 임영웅에 61,977회 앞서…3위 영탁·4위 방탄소년단 지민·5위 김선호 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211106n06553?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211106n06553?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Sat, 06 Nov 2021 00:44:15 GMT</pubDate>
             <content:encoded><![CDATA[일간스포츠							<em>11-06 09:09</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/11/06/a72635e1-acb1-4771-83c1-745dd3103db1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 리얼리티 '인더숲 BTS편 시즌2', 100시간의 힐링 여행 마무리 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211106n03985?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211106n03985?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 06 Nov 2021 00:44:15 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠동아							<em>11-06 09:09</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2021/11/06/110109214.1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['셀린느의 남자' 방탄소년단 지민, 명품 티셔츠 40개국 전사이즈 완판→구글도 완전 장악 '브랜드 제왕' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211106n03601?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211106n03601?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 06 Nov 2021 00:44:15 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>11-06 09:05</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/06/tn_1636157104389_576627_0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
