@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 11:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 12:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644546_715518_1324_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[스브스夜] '집사부일체' 모니카, "우리의 영향력, 후배들에게 연결시켜 줄 것"…'스우파' BTS 대방출 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211107n17709?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211107n17709?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 07 Nov 2021 12:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[SBS연예뉴스							<em>11-07 21:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2021/11/07/30000723140_700.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 진, tvN '지리산' 네 번째 OST…'Yours' 감미로운 음색 뽐내 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211107n17522?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211107n17522?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 07 Nov 2021 12:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-07 20:50</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/07/14646553_719132_4914_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['강릉' 장혁, '런닝맨' 촬영지 양평 방문…BTS 산책 코스·연꽃빵·아이스크림 만끽 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211107n13879?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211107n13879?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Sun, 07 Nov 2021 03:17:07 GMT</pubDate>
             <content:encoded><![CDATA[더팩트							<em>11-07 11:43</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2021/11/07/202175561636252741.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단·콜드플레이 협업곡 '마이 유니버스' 뮤비 유튜브 1억뷰 돌파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211107n05383?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211107n05383?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 07 Nov 2021 03:17:07 GMT</pubDate>
-            <content:encoded><![CDATA[스포티비뉴스							<em>11-07 11:41</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/11/07/452429_575067_3814.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['지리산' 방탄소년단 진 첫 솔로 OST 'Yours' 오늘(7일) 공개 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211107n04050?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211107n04050?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 07 Nov 2021 02:02:52 GMT</pubDate>
-            <content:encoded><![CDATA[스타in							<em>11-07 10:41</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/11/07/PS21110700021.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
