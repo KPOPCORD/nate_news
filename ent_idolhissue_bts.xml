@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 08:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 09:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단(BTS) 진, '지리산' OST 'Yours' 발매…방송 뒤 뮤직비디오 공개]]></title>
+            <link>https://news.nate.com/view/20211107n15047?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211107n15047?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 07 Nov 2021 09:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[비즈엔터							<em>11-07 18:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2021/11/07/20211107120024_1683596_1024_682.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 진, tvN '지리산' 네 번째 OST 금일 발매…감미로운 음색 뽐내]]></title>
             <link>https://news.nate.com/view/20211107n09796?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 07 Nov 2021 02:02:52 GMT</pubDate>
             <content:encoded><![CDATA[스타투데이							<em>11-07 10:23</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2021/11/07/20211107_1015240.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단·콜드플레이 협업곡 'My Universe' 뮤비, 유튜브 조회수 1억뷰 돌파]]></title>
-            <link>https://news.nate.com/view/20211107n03638?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211107n03638?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 07 Nov 2021 02:02:52 GMT</pubDate>
-            <content:encoded><![CDATA[MK스포츠							<em>11-07 10:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2021/11/07/20211107_1636247963.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
