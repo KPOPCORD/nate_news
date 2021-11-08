@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 01:58:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 02:30:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644546_715518_1324_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['독보적 음색의 탁월한 eye catcher' 방탄소년단 뷔, 문화지 극찬…K팝 역사 통틀어도 드물어 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211108n13270?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211108n13270?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 08 Nov 2021 02:30:46 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-08 11:20</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/08/14646715_719347_1449_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS의 아버지 방시혁, 요요왔나. 건강 염려되는 근황사진 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211108n07312?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211108n07312?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sun, 07 Nov 2021 23:17:00 GMT</pubDate>
             <content:encoded><![CDATA[스포츠조선							<em>11-08 07:45</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2021/11/08/2021110901000645900043191.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 진, 퇴근길 패션 보니 '깔맞춤' 츄리닝·츄리닝·츄리닝…스타일리스트 적극 개입 필요! (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211108n02999?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211108n02999?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 07 Nov 2021 23:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>11-08 07:39</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2021/11/08/2021110901000645700043181.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
