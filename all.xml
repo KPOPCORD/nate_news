@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 00:45:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 01:58:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크, 'How You Like That' 안무 영상 9억뷰 돌파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
+            <link>https://news.nate.com/view/20211108n06827?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20211108n06827?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Mon, 08 Nov 2021 01:56:28 GMT</pubDate>
+            <content:encoded><![CDATA[스타데일리뉴스							<em>11-08 09:36</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/11/08/310750_356916_3446.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 'How You Like That' 안무 영상 9억뷰 돌파…독보적 행보 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
             <link>https://news.nate.com/view/20211108n03533?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 01 Nov 2021 01:59:39 GMT</pubDate>
             <content:encoded><![CDATA[스타데일리뉴스							<em>11-01 09:44</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/11/01/310389_356464_4242.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["LISOO♥" 블랙핑크 지수, 할로윈데이 맞아 '라리사'로 변신 "오늘은 내가 라리사" (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
-            <link>https://news.nate.com/view/20211101n00335?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20211101n00335?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Sun, 31 Oct 2021 16:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-01 00:23</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644130_714825_2139_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '사뭇 진지해진 모습의 완' (웬디의 영스트리트 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644546_715518_1324_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS의 아버지 방시혁, 요요왔나. 건강 염려되는 근황사진 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211108n07312?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211108n07312?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 08 Nov 2021 01:58:19 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠서울							<em>11-08 09:47</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2021/11/08/20211108094635_bang1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[스브스夜] '집사부일체' 모니카, "우리의 영향력, 후배들에게 연결시켜 줄 것"…'스우파' BTS 대방출 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211107n17709?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211107n17709?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sun, 07 Nov 2021 23:17:00 GMT</pubDate>
             <content:encoded><![CDATA[스포츠조선							<em>11-08 07:39</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2021/11/08/2021110901000645700043181.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 슈가 'Interlude : Shadow' 스포티파이 7800만 스트리밍 돌파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211108n02989?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211108n02989?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 07 Nov 2021 23:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>11-08 07:39</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/08/2021110807370244671_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
