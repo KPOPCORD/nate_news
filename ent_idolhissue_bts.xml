@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 00:46:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 01:58:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단(BTS), 美 '아메리칸 뮤직 어워드'서 메건 디 스탤리언과 'Butter' 퍼포먼스 펼친다]]></title>
+            <link>https://news.nate.com/view/20211109n07893?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211109n07893?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 09 Nov 2021 01:58:49 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-09 09:49</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/09/14647075_719893_4712_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트위터 리트윗종합순위] 방탄소년단 뷔 11회째 1위, 2위 방탄소년단 지민에 1,626회 앞서…3위 방탄소년단 정국·4위 임영웅·5위 방탄소년단 진]]></title>
             <link>https://news.nate.com/view/20211109n07274?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 08 Nov 2021 23:17:09 GMT</pubDate>
             <content:encoded><![CDATA[조이뉴스24							<em>11-09 07:53</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2021/11/09/0a6e8f5f5ab92f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 美 '2021 AMA'출격…'Butter'퍼포먼스[공식]]]></title>
-            <link>https://news.nate.com/view/20211109n03564?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211109n03564?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 08 Nov 2021 23:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>11-09 07:53</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/11/09/202111090726774840_6189a622cf741.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
