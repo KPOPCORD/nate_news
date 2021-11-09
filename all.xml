@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 07:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 08:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,20 +248,36 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644547_715519_1415_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본 MZ세대에 '최신 유행' 물었더니…방탄소년단 인기 '대단하네!' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211109n29920?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211109n29920?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 09 Nov 2021 08:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>11-09 17:06</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/11/09/202111091658946389_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["웸블리는 시작에 불과했다" '월클' 방탄소년단의 정상급 월드투어 행보 (종합)[Oh!쎈 레터] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211109n28589?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211109n28589?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 09 Nov 2021 08:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>11-09 16:42</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/11/09/202111091627771802_618a24eb67fef.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA['야생돌', 제2의 BTS? 브라질·페루 남미서 뜨겁다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211109n21234?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211109n21234?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 09 Nov 2021 06:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>11-09 16:32</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/09/tn_1636443123698_482678_0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS 효과 '야생돌'까지 영향…브라질 방송국서 러브콜 봇물 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211109n26494?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211109n26494?mid=e0608&amp;isq=9009</guid>
             <pubDate>Tue, 09 Nov 2021 07:16:49 GMT</pubDate>
             <content:encoded><![CDATA[OSEN							<em>11-09 16:01</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/11/09/202111091455775396_618a0e164f989.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['야생돌', 제2의 BTS? 브라질·페루 남미서 뜨껍다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211109n21234?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211109n21234?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 09 Nov 2021 06:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>11-09 14:37</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/09/2021110914320311014_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["올해도 美 'AMA' 출격" 방탄소년단, 정상급 뮤지션들과 어깨 나란히[SS뮤직] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -350,22 +366,6 @@
             <pubDate>Tue, 09 Nov 2021 03:17:22 GMT</pubDate>
             <content:encoded><![CDATA[SBS연예뉴스							<em>11-09 13:21</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2021/11/09/30000723496_700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['韓사클 3관왕' 방탄소년단 지민 약속•크리스마스 러브…세계 사로잡은 자작곡 퍼레이드 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211109n17783?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211109n17783?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 09 Nov 2021 05:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-09 13:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/09/14647139_720062_1832_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[빅데이터가수브랜드종합순위] 이찬원 19회째 1위, 2위 임영웅에 18,458점 앞서…3위 방탄소년단 지민·4위 영탁·5위 방탄소년단 뷔 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211109n17774?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211109n17774?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 09 Nov 2021 05:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-09 13:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/09/14647138_720046_1543_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
