@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 09:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 10:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드벨벳 웬디, 늘푸른 초록 완디 (영스트리트 출근)[뉴스엔TV]]]></title>
+            <link>https://news.nate.com/view/20211109n32831?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20211109n32831?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Tue, 09 Nov 2021 10:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>11-09 18:04</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/11/09/202111091756410010_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레드벨벳 웬디(Red Velvet WENDY), '어두워도 빛나는 완디' [뉴스엔TV]]]></title>
             <link>https://news.nate.com/view/20211108n31275?mid=e0608&amp;isq=9012</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 01 Nov 2021 15:16:37 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-01 23:16</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644548_715521_1455_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '와니라면 죽어도 좋아' (웬디의 영스트리트 출근길)]]></title>
-            <link>https://news.nate.com/view/20211101n41384?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20211101n41384?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Mon, 01 Nov 2021 15:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-01 23:15</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644547_715519_1415_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
