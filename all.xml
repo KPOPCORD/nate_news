@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 10:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 11:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644548_715521_1455_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단X콜드플레이 'My Universe' 빌보드 핫100 23위 6주 차트인[공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211109n34916?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211109n34916?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 09 Nov 2021 11:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>11-09 19:20</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/09/2021110919153637573_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본 MZ세대에 '최신 유행' 물었더니…방탄소년단 인기 '대단하네!' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211109n29920?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211109n29920?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Tue, 09 Nov 2021 05:15:25 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-09 13:26</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/09/14647141_720075_2353_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 美 AMA서 메건 디 스탤리언과 'Butter' 퍼포먼스 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211109n13921?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211109n13921?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 09 Nov 2021 03:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[SBS연예뉴스							<em>11-09 13:21</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2021/11/09/30000723496_700.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
