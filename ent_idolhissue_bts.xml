@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 14:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 15:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 뷔, 日 인기 아이돌 랭킹 사이트 '네한'서 30주 연속 1위]]></title>
+            <link>https://news.nate.com/view/20211109n02814?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211109n02814?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 09 Nov 2021 15:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>11-10 00:09</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/09/1636389624722070.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, '2021 AMA'서 메건 디 스탤리언과 합동무대]]></title>
             <link>https://news.nate.com/view/20211109n03102?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 09 Nov 2021 05:15:25 GMT</pubDate>
             <content:encoded><![CDATA[비즈엔터							<em>11-09 13:31</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2021/11/09/20211109105307_1684328_1080_1080.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["심쿵 자태에 심장소멸할 지경" 방탄소년단 지민, 완벽 보디라인 눈길→딥 섹시 극반전 심장쫄깃♥]]></title>
-            <link>https://news.nate.com/view/20211109n18089?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211109n18089?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 09 Nov 2021 05:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-09 13:31</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/09/14647145_720082_2838_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
