@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 01:58:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 02:31:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644548_715521_1455_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단X콜드플레이 'My Universe', 美 빌보드 '핫 100' 차트 6주 연속 차트인 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211110n12050?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211110n12050?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 10 Nov 2021 02:31:09 GMT</pubDate>
+            <content:encoded><![CDATA[비즈엔터							<em>11-10 10:55</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2021/11/10/20211110094519_1684747_1200_1200.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단, 'Butter' 美 빌보드 신설 차트 '핫 트렌딩 송즈' 2주 연속 정상 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211110n08695?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211110n08695?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Tue, 09 Nov 2021 23:17:06 GMT</pubDate>
             <content:encoded><![CDATA[스타투데이							<em>11-10 07:54</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2021/11/10/20211110_5011332_1636498419.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[순위표] 방탄소년단 'My Universe', 빌보드 '핫100' 6주 연속 차트인 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211110n03636?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211110n03636?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 09 Nov 2021 23:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[조이뉴스24							<em>11-10 07:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2021/11/10/0bde6deee9e9fd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
