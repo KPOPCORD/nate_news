@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 12:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 13:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, 현재 MMA2021 투표 1위…임영웅·NCT DREAM 등 경합 중]]></title>
+            <link>https://news.nate.com/view/20211110n41423?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211110n41423?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 10 Nov 2021 13:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-10 22:10</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/10/14647959_721437_750_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['비긴어게인 오픈마이크' 마마무(MAMAMOO) 휘인, 방탄소년단(BTS) '보조개'→'Butter' 라이브]]></title>
             <link>https://news.nate.com/view/20211103n34815?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 10 Nov 2021 05:14:03 GMT</pubDate>
             <content:encoded><![CDATA[MK스포츠							<em>11-10 13:54</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2021/11/10/20211110_1636519981.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 리트윗종합순위] 방탄소년단 지민 26회째 1위, 2위 방탄소년단 뷔에 501회 앞서…3위 방탄소년단 정국·4위 임영웅·5위 방탄소년단 진]]></title>
-            <link>https://news.nate.com/view/20211110n19887?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211110n19887?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 10 Nov 2021 05:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-10 13:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/10/14647691_720951_4626_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
