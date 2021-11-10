@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 06:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 07:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[빅데이터가수브랜드종합순위] 김희재 1회째 1위, 2위 이찬원에 15,435점 앞서…3위 임영웅·4위 방탄소년단 지민·5위 영탁]]></title>
+            <link>https://news.nate.com/view/20211110n26951?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211110n26951?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 10 Nov 2021 07:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-10 15:56</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/10/14647757_721134_5328_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기사열독종합순위] 김희재 1회째 1위, 2위 이찬원에 51,605회 앞서…3위 임영웅·4위 영탁·5위 방탄소년단 지민]]></title>
+            <link>https://news.nate.com/view/20211110n25482?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211110n25482?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 10 Nov 2021 07:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-10 15:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/10/14647742_721096_295_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["역시 갓정국 내 심장 저격♥" 방탄소년단 정국, 근엄한 카리스마 폭발 '찬란한 남신미'→흡입력 만렙 '모델 포스'…'시선 압도']]></title>
             <link>https://news.nate.com/view/20211110n24383?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 10 Nov 2021 04:21:07 GMT</pubDate>
             <content:encoded><![CDATA[스포츠경향							<em>11-10 12:38</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/11/10/l_2021111002000586700121211.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실력파 싱어송라이터 미스피츠(msftz), '방탄소년단(BTS) – Butter' 커버 영상 공개]]></title>
-            <link>https://news.nate.com/view/20211110n17077?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211110n17077?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 10 Nov 2021 04:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-10 12:26</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/10/14647621_720834_2445_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 콘서트 DVD로 日 레코드협회 '골드' 인증 획득]]></title>
-            <link>https://news.nate.com/view/20211110n16903?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211110n16903?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 10 Nov 2021 04:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>11-10 12:21</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/11/10/202111101214777388_618b3a5a156da.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
