@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 14:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 15:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/11/01/310396_356472_147.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[레드벨벳 조이, 가을을 물들인 아름다운 미모(동물농장 출근)[뉴스엔TV] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20211110n17252?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20211110n17252?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Wed, 10 Nov 2021 15:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>11-10 23:21</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/11/10/202111101231230010_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '행복해보이는 퇴근길' (SBS TV 동물농장 출퇴근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
             <link>https://news.nate.com/view/20211110n40393?mid=e0608&amp;isq=9012</link>
             <guid>https://news.nate.com/view/20211110n40393?mid=e0608&amp;isq=9012</guid>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 10 Nov 2021 12:23:10 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-10 21:11</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/10/14647928_721402_914_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '수영이는 행복합니다' (SBS TV 동물농장 출퇴근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20211110n40186?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20211110n40186?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 10 Nov 2021 12:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-10 21:09</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/10/14647927_721400_839_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단, 현재 MMA2021 투표 1위…임영웅·NCT DREAM 등 경합 중 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
