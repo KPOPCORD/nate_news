@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 20:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 21:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 뷔, 팔색조 매력으로 여심 저격]]></title>
+            <link>https://news.nate.com/view/20211111n02500?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211111n02500?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 10 Nov 2021 21:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>11-11 06:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/11/1636559017457444.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Jimin, the Legend Maker' 방탄소년단 지민, 스스로의 삶을 신화로…예술가이자 영웅서사의 롤모델 '집중 조명']]></title>
+            <link>https://news.nate.com/view/20211111n01968?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211111n01968?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 10 Nov 2021 21:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>11-11 05:18</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/11/2021111105081112887_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지난 주 유튜브 인기아티스트 1위는 아이유(IU)…2위 BTS(방탄소년단), 3위 aespa]]></title>
             <link>https://news.nate.com/view/20211111n00254?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 10 Nov 2021 06:19:03 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-10 14:36</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/10/14647713_721020_3431_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["얼굴 너무 아름다워 요정인가요?" 방탄소년단 지민 '오늘은 큐티 러블리'…현대 친환경 수소차 찰떡 광고 '비누방울 요정']]></title>
-            <link>https://news.nate.com/view/20211110n22168?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211110n22168?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 10 Nov 2021 06:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-10 14:33</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/10/14647709_721001_306_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["밀짚모자를 쓰고도 남신이 되는 매직" 방탄소년단 뷔, CGV미모로 화려하면서 청순한 팔색조 화보장인]]></title>
-            <link>https://news.nate.com/view/20211110n21863?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211110n21863?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 10 Nov 2021 06:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-10 14:27</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/10/14647705_720991_2435_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
