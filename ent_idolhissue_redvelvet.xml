@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 19:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 20:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '레드벨벳의 사랑둥이' (SBS TV 동물농장 출퇴근길)]]></title>
+            <link>https://news.nate.com/view/20211110n40287?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20211110n40287?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Wed, 10 Nov 2021 13:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-11 04:33</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/10/14647936_721408_1313_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레드벨벳 조이, 가을을 물들인 아름다운 미모(동물농장 출근)[뉴스엔TV]]]></title>
             <link>https://news.nate.com/view/20211110n17252?mid=e0608&amp;isq=9012</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 10 Nov 2021 13:22:15 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-10 21:15</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/10/14647938_721411_149_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '조이 좋아하세요? 안좋아하세요? 이렇게 예쁜데 왜 안좋아하세요?' (SBS TV 동물농장 출퇴근길)]]></title>
-            <link>https://news.nate.com/view/20211110n40287?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20211110n40287?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 10 Nov 2021 13:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-10 21:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/10/14647936_721408_1313_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '왜이렇게 사랑스럽지?' (SBS TV 동물농장 출퇴근길)]]></title>
