@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 07:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 08:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/10/14647670_720916_2934_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 콘서트 DVD 'BTS MAP OF THE SOUL ON:E', 日 레코드협회 5번째 '골드' 인증! (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211110n31275?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211110n31275?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 10 Nov 2021 08:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠서울							<em>11-10 17:13</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2021/11/10/2021111001000577100040611.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 日레코드 골드 획득…"벌써 5번째, 오리콘까지 싹쓸이" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211110n29717?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211110n29717?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 10 Nov 2021 08:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[디스패치							<em>11-10 16:43</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2021/11/10/9b705b6a-bd9d-4e69-b2f6-c857533b1ad3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[빅데이터가수브랜드종합순위] 김희재 1회째 1위, 2위 이찬원에 15,435점 앞서…3위 임영웅·4위 방탄소년단 지민·5위 영탁 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211110n26951?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211110n26951?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Wed, 10 Nov 2021 05:14:03 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-10 13:22</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/10/14647656_720901_2027_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 'BTS MAP OF THE SOUL ON:E' 日레코드협회 '골드'[공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211110n17526?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211110n17526?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 10 Nov 2021 04:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>11-10 12:43</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/10/2021111012403488201_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식] 방탄소년단, 日 레코드협회 '골드' 인증 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211110n17379?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211110n17379?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 10 Nov 2021 04:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>11-10 12:38</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/11/10/l_2021111002000586700121211.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
