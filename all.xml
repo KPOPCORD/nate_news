@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 15:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 16:23:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/10/14647928_721402_914_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지난 주 유튜브 인기아티스트 1위는 아이유(IU)…2위 BTS(방탄소년단), 3위 aespa (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211111n00254?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211111n00254?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 10 Nov 2021 16:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-11 00:16</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/11/14647977_721480_1512_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단, 현재 MMA2021 투표 1위…임영웅·NCT DREAM 등 경합 중 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211110n41423?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211110n41423?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Wed, 10 Nov 2021 06:19:03 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-10 14:27</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/10/14647705_720991_2435_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 콘서트 실황담은 DVD, 日 레코드협회 '골드' 인증 획득 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211110n20111?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211110n20111?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 10 Nov 2021 05:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[MK스포츠							<em>11-10 13:54</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2021/11/10/20211110_1636519981.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
