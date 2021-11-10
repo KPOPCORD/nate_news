@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 00:46:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 01:58:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/01/14644548_715521_1455_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단, 'Butter' 美 빌보드 신설 차트 '핫 트렌딩 송즈' 2주 연속 정상 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211110n08695?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211110n08695?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 10 Nov 2021 01:58:37 GMT</pubDate>
+            <content:encoded><![CDATA[스타데일리뉴스							<em>11-10 09:58</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/11/10/310866_357053_5657.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단(BTS)·콜드플레이 협업곡 'My Universe', 美 빌보드 '핫 100' 차트 6주 연속 차트인 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211110n08003?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211110n08003?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 10 Nov 2021 01:58:37 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-10 09:46</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/10/14647514_720703_4322_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단X콜드플레이 '마이 유니버스' 여전한 인기 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211110n07005?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211110n07005?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Tue, 09 Nov 2021 23:17:06 GMT</pubDate>
             <content:encoded><![CDATA[조이뉴스24							<em>11-10 07:50</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2021/11/10/0bde6deee9e9fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS·콜드플레이 'My Universe', 빌보드 '핫 100' 차트 6주 연속 차트인 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211110n03517?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211110n03517?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 09 Nov 2021 23:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠동아							<em>11-10 07:42</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2021/11/10/110165616.1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단X콜드플레이 '마이 유니버스', 美 빌보드 '핫 100' 6주 연속 차트인 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211110n03342?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211110n03342?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 09 Nov 2021 23:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠투데이							<em>11-10 07:29</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2021/11/10/10_756987_63753.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
