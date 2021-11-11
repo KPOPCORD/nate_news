@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 08:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 09:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['퍼포 맛집' 버가부, BTS→현아&던 커플댄스까지 완벽 소화]]></title>
+            <link>https://news.nate.com/view/20211111n33897?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211111n33897?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 11 Nov 2021 09:16:36 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠투데이							<em>11-11 17:30</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2021/11/11/11_757535_94276.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가온차트 10월 디지털차트 1위는 임영웅의 '사랑은 늘 도망가'…최다곡 차트진입은 아이유·임영웅·방탄소년단]]></title>
             <link>https://news.nate.com/view/20211111n32188?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 11 Nov 2021 06:20:06 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-11 14:33</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/11/14648135_721797_3046_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["모범적인 팬덤 문화 장착" 방탄소년단 뷔 글로벌 팬들, 꾸준한 기부와 나눔 선행으로 '선한영향력' 전파]]></title>
-            <link>https://news.nate.com/view/20211111n21877?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211111n21877?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 11 Nov 2021 06:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-11 14:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/11/14648127_721769_1148_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
