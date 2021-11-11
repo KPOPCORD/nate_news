@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 03:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 04:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/10/14647928_721402_914_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[빅데이터가수브랜드종합순위] 김희재 2회째 1위, 2위 이찬원에 18,174점 앞서…3위 임영웅·4위 방탄소년단 지민·5위 영탁 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211111n18309?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211111n18309?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 11 Nov 2021 04:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-11 12:42</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/11/14648101_721710_3939_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[왓챠, AMA 독점 생중계…BTS '올해의 아티스트' 수상 여부 주목 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211111n15439?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211111n15439?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Thu, 11 Nov 2021 00:46:51 GMT</pubDate>
             <content:encoded><![CDATA[마이데일리							<em>11-11 09:32</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/11/11/202111110919281308_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민, '쿠키데이'에 쿠키를 선물하고 싶은 스타 1위 차지 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211111n07422?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211111n07422?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 11 Nov 2021 00:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[스타데일리뉴스							<em>11-11 09:21</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/11/11/310933_357135_189.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
