@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 15:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 16:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가온차트 10월 소셜차트 1위는 방탄소년단…2위 리사·3위 블랙핑크·4위 임영웅·5위 에스파]]></title>
+            <link>https://news.nate.com/view/20211112n00295?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211112n00295?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 11 Nov 2021 16:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-12 00:24</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/12/14648365_722248_2228_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세븐틴, 가온차트 10월 앨범차트 1위…최다앨범 차트진입은 방탄소년단·스트레이 키즈·NCT·투모로우바이투게더·마마무]]></title>
             <link>https://news.nate.com/view/20211111n39394?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 11 Nov 2021 01:59:42 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-11 14:53</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/11/14648052_721851_5233_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["Kim Taehyung's gift♥" 방탄소년단 뷔, 자작곡 '풍경' 2억 스트리밍 돌파 '강력한 음원파워']]></title>
-            <link>https://news.nate.com/view/20211111n23938?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211111n23938?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 11 Nov 2021 06:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-11 14:48</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/11/14648143_721827_4543_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
