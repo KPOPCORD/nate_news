@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 11:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 12:23:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세븐틴, 가온차트 10월 앨범차트 1위…최다앨범 차트진입은 방탄소년단·스트레이 키즈·NCT·투모로우바이투게더·마마무]]></title>
+            <link>https://news.nate.com/view/20211111n39394?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211111n39394?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 11 Nov 2021 12:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-11 21:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/11/14648326_722186_573_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['퍼포 맛집' 버가부, BTS→현아&던 커플댄스까지 완벽 소화]]></title>
             <link>https://news.nate.com/view/20211111n33897?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 11 Nov 2021 06:20:06 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-11 14:48</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/11/14648143_721827_4543_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["No1. 글로벌 음원 파급력♥" 방탄소년단 진, '지리산' OST 'Yours' 3일 연속 美아마존 베스트셀러 1위…英도 1위 'Powerful Popularity']]></title>
-            <link>https://news.nate.com/view/20211111n22930?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211111n22930?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 11 Nov 2021 06:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-11 14:33</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/11/14648135_721797_3046_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
