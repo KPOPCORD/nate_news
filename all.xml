@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 02:30:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 03:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/10/14647928_721402_914_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[왓챠, AMA 독점 생중계…BTS '올해의 아티스트' 수상 여부 주목 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211111n15439?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211111n15439?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 11 Nov 2021 03:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[조이뉴스24							<em>11-11 11:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2021/11/11/7258bc74134637.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["VISUAL KING V♥" 방탄소년단 뷔, 독보적인 미모와 탁월한 콘셉트 소화력 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211111n15293?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211111n15293?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 11 Nov 2021 03:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-11 11:28</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/11/14648075_721673_2649_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 출격 'AMA 2021', 왓챠 생중계로 본다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211111n14905?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211111n14905?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Thu, 11 Nov 2021 00:46:51 GMT</pubDate>
             <content:encoded><![CDATA[스타데일리뉴스							<em>11-11 09:21</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/11/11/310933_357135_189.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왓챠, 방탄소년단 출연 'AMA' 국내 독점 생중계 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211111n06888?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211111n06888?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 11 Nov 2021 00:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[스타in							<em>11-11 09:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/11/11/PS21111100034.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왓챠, AMA 생중계…BTS 노미네이션 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211111n05991?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211111n05991?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 11 Nov 2021 00:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>11-11 08:49</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2021/11/11/1636588036_1612181.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
