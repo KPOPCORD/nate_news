@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 16:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 17:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 RM, "작업물 일부 날아갔다…멘붕 그 자체"]]></title>
+            <link>https://news.nate.com/view/20211112n00764?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211112n00764?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 11 Nov 2021 17:22:54 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-12 01:30</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/12/14648426_722322_2852_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가온차트 10월 소셜차트 1위는 방탄소년단…2위 리사·3위 블랙핑크·4위 임영웅·5위 에스파]]></title>
             <link>https://news.nate.com/view/20211112n00295?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 11 Nov 2021 06:20:06 GMT</pubDate>
             <content:encoded><![CDATA[스포츠서울							<em>11-11 15:02</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2021/11/11/2021111101000637300045411.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 리트윗종합순위] 방탄소년단 지민 28회째 1위, 2위 방탄소년단 뷔에 1,191회 앞서…3위 방탄소년단 정국·4위 임영웅·5위 엑소]]></title>
-            <link>https://news.nate.com/view/20211111n12364?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211111n12364?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 11 Nov 2021 01:59:42 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-11 14:53</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/11/14648052_721851_5233_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
