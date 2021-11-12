@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 15:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 16:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/10/14647929_721403_1042_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["♥엄태웅 카메라 훔쳤다" 윤혜진, 엄정화 옷 입고 '힙지로' 투어(ft.BTS) ('해방타운') [Oh!쎈 종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211113n00413?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211113n00413?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 12 Nov 2021 16:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>11-13 01:07</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/11/13/202111122234776046_618e86bceec68.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[빅뱅 지드래곤, '月 관리비만 109만원' 펜트하우스 거주…'송중기·방탄소년단 RM·지민 등 이웃' ('연중') (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211113n00047?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211113n00047?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Fri, 12 Nov 2021 03:16:54 GMT</pubDate>
             <content:encoded><![CDATA[K STAR							<em>11-12 11:26</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kb/2021/11/12/new_news__20211112112455_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[비즈 스톡] 방탄소년단(BTS) 소속사 하이브, 주가 40만원 돌파…신규 레이블 '어도어' 설립 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211112n12429?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211112n12429?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 12 Nov 2021 02:31:44 GMT</pubDate>
-            <content:encoded><![CDATA[비즈엔터							<em>11-12 11:19</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2021/11/12/20211112111450_1685692_1000_1510.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
