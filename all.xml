@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 01:58:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 02:31:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,38 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/10/14647929_721403_1042_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[비즈 스톡] 방탄소년단(BTS) 소속사 하이브, 주가 40만원 돌파…신규 레이블 '어도어' 설립 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211112n12429?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211112n12429?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 12 Nov 2021 02:31:44 GMT</pubDate>
+            <content:encoded><![CDATA[비즈엔터							<em>11-12 11:19</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2021/11/12/20211112111450_1685692_1000_1510.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 전 프로듀서에서 솔로 아티스트로…아도라, 성공적 데뷔 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211112n12218?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211112n12218?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 12 Nov 2021 02:31:44 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠투데이							<em>11-12 11:15</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2021/11/12/12_757735_38183.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 진→임영웅, 한류 드라마 OST까지 '뜨거운 관심' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211112n11861?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211112n11861?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 12 Nov 2021 02:31:44 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>11-12 11:06</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/12/1636682735286954.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 AMA 공연 어디서 보나…왓챠 생중계 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211112n09450?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211112n09450?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 12 Nov 2021 01:58:56 GMT</pubDate>
+            <content:encoded><![CDATA[SBS연예뉴스							<em>11-12 11:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2021/11/12/30000723496_700.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 RM "올해 최악의 날, 1년 넘게 작업한 파일 날아가" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211112n11218?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211112n11218?mid=e0608&amp;isq=9009</guid>
@@ -296,14 +328,6 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/12/14648473_722437_2035_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 AMA 공연 어디서 보나…왓챠 생중계 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211112n09450?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211112n09450?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 12 Nov 2021 01:58:56 GMT</pubDate>
-            <content:encoded><![CDATA[SBS연예뉴스							<em>11-12 10:21</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2021/11/12/30000723496_700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[방탄소년단 RM "올해 최악의 날" 말한 사연은? (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211112n07552?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211112n07552?mid=e0608&amp;isq=9009</guid>
@@ -342,30 +366,6 @@
             <pubDate>Fri, 12 Nov 2021 00:47:24 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-12 09:30</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/12/14648446_722369_2852_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 지민, 쿠키 선물하고 싶은 스타 1위…김선호 2위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211112n06730?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211112n06730?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 12 Nov 2021 00:47:24 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>11-12 09:28</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2021/11/12/20211112_1298953.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["일본 내 원탑 인기♥" 방탄소년단 뷔, 日 인기랭킹 투표 32주 연속 1위…신한류 열풍 주도 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211112n06289?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211112n06289?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 12 Nov 2021 00:47:24 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-12 09:18</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/12/14648441_722357_1532_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["수트핏의 정석♥" 방탄소년단 지민, 'UN 셔츠 지민은 전설' 완벽 도섹남 비주얼 킹 소환…얼굴•몸매가 다했네 'God Jimin' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211112n05926?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211112n05926?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 12 Nov 2021 00:47:24 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-12 09:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/12/14648440_722347_810_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
