@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 14:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 15:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빅뱅 지드래곤, '月 관리비만 109만원' 펜트하우스 거주…'송중기·방탄소년단 RM·지민 등 이웃' ('연중')]]></title>
+            <link>https://news.nate.com/view/20211113n00047?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211113n00047?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 12 Nov 2021 15:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>11-13 00:02</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/11/13/202111122203541393_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['해방타운' 윤혜진, BTS 다녀간 핫플레이스 다방 방문]]></title>
             <link>https://news.nate.com/view/20211112n31097?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 12 Nov 2021 02:31:44 GMT</pubDate>
             <content:encoded><![CDATA[비즈엔터							<em>11-12 11:19</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2021/11/12/20211112111450_1685692_1000_1510.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 전 프로듀서에서 솔로 아티스트로…아도라, 성공적 데뷔]]></title>
-            <link>https://news.nate.com/view/20211112n12218?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211112n12218?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 12 Nov 2021 02:31:44 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠투데이							<em>11-12 11:15</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2021/11/12/12_757735_38183.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
