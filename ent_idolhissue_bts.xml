@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Nov 2021 22:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 23:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 뷔, '풍경' 사운드 클라우드 2억 스트리밍 돌파]]></title>
+            <link>https://news.nate.com/view/20211114n01603?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211114n01603?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 13 Nov 2021 23:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>11-14 08:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/14/1636841235682837.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 정국, 순수한 어린아이 같은 매력으로 여심 저격]]></title>
             <link>https://news.nate.com/view/20211114n01221?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 13 Nov 2021 01:55:19 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-13 10:01</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/13/14648808_723172_5918_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["몽글 순둥 사랑둥이♥" 방탄소년단 정국, 아이 같은 순수 미소X몽글 몽글 댕댕미…천진 난만 싱그러운 미소년 자태]]></title>
-            <link>https://news.nate.com/view/20211113n03296?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211113n03296?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 13 Nov 2021 01:55:19 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-13 09:39</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/13/14648806_723164_3816_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
