@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 03:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 04:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유튜브 인기 아티스트 1위 아이유…2위 방탄소년단·3위 에스파·4위 365릿·5위 염따]]></title>
+            <link>https://news.nate.com/view/20211114n06941?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211114n06941?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 14 Nov 2021 04:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-14 13:04</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/14/14648941_723490_215_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유튜브 인기 뮤직 비디오 1위는 임영웅…최다곡 진입은 에스파·김호중·세븐틴·이찬원·방탄소년단]]></title>
+            <link>https://news.nate.com/view/20211114n06359?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211114n06359?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 14 Nov 2021 04:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-14 12:25</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/14/14648939_723487_2347_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 정국, 솔로 2곡 美빌보드 차트 88주·84주→최장 1위·2위+20주 동시 차트인…'막강 저력']]></title>
             <link>https://news.nate.com/view/20211114n04211?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 13 Nov 2021 05:15:25 GMT</pubDate>
             <content:encoded><![CDATA[일간스포츠							<em>11-13 13:38</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/11/13/88852750-7f6b-43e3-8fa2-83ab25a1811b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 11월 보이그룹 브랜드평판 1위 차지]]></title>
-            <link>https://news.nate.com/view/20211113n05630?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211113n05630?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 13 Nov 2021 04:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[스타데일리뉴스							<em>11-13 12:33</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/11/13/311086_357298_3227.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[빅데이터가수브랜드종합순위] 김희재 4회째 1위, 2위 이찬원에 32,091점 앞서…3위 영탁·4위 방탄소년단 지민·5위 임영웅]]></title>
-            <link>https://news.nate.com/view/20211113n05114?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211113n05114?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 13 Nov 2021 03:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-13 11:42</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/13/14648817_723214_3822_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
