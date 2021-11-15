@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 08:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 09:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드벨벳 웬디, 꽃이 여기있네~[포토엔HD]]]></title>
+            <link>https://news.nate.com/view/20211115n28676?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20211115n28676?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Mon, 15 Nov 2021 09:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>11-15 17:06</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/11/15/202111151705241810_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레드벨벳 예리 '볼하트하면 귀여움 UP'[포토엔HD]]]></title>
             <link>https://news.nate.com/view/20211113n10874?mid=e0608&amp;isq=9012</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 13 Nov 2021 00:44:08 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>11-13 09:07</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/11/13/202111130906093510_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳 예리 '오랜만에 봐도 예쁜 예브기'[포토엔HD]]]></title>
-            <link>https://news.nate.com/view/20211113n02857?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20211113n02857?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Sat, 13 Nov 2021 00:44:08 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>11-13 09:03</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/11/13/202111130901543510_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
