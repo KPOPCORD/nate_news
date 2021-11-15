@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 06:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 07:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 정국에게 무슨 일이? 헤어컬러가 민트→블루→브라운으로 급변…"가을 분위기 물씬"]]></title>
+            <link>https://news.nate.com/view/20211115n24823?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211115n24823?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 15 Nov 2021 07:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠조선							<em>11-15 15:52</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2021/11/15/2021111601001234300082551.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이유, 11월 1주차 아이돌차트 아차랭킹 1위…2위 에스파·3위 방탄소년단·4위 임영웅·5위 전소미]]></title>
             <link>https://news.nate.com/view/20211115n21125?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 15 Nov 2021 03:17:13 GMT</pubDate>
             <content:encoded><![CDATA[스타데일리뉴스							<em>11-15 11:56</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/11/15/311140_357352_5414.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 유럽 최대 음악 시상식 '2021 MTV EMA'서 4관왕]]></title>
-            <link>https://news.nate.com/view/20211115n15140?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211115n15140?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 15 Nov 2021 03:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠한국							<em>11-15 11:48</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2021/11/15/sjmao20211115114709_O_00_C_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
