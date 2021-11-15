@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 05:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 06:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이정재, 블랙핑크 제니와 특별한 인연…여친 임세령도 함께 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
+            <link>https://news.nate.com/view/20211115n19709?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20211115n19709?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Mon, 15 Nov 2021 06:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-15 14:13</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/15/14649133_723859_1014_org.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 리사, 유튜브 전세계 인기곡 TOP10에 2곡 랭크 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
             <link>https://news.nate.com/view/20211114n12885?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 07 Nov 2021 23:14:41 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>11-08 08:08</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/11/08/202111080806080010_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캐나다+한국 혼혈 보미세라 "원래 모델이 꿈, 블랙핑크 보며 아이돌 되고 싶었다"(등교전망설임) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
-            <link>https://news.nate.com/view/20211107n13244?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20211107n13244?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Sun, 07 Nov 2021 08:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>11-07 16:51</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/11/07/202111071617130010_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레드벨벳 예리 '볼하트하면 귀여움 UP'[포토엔HD] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
@@ -248,6 +248,54 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/11/13/202111130901543510_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아이유, 11월 1주차 아이돌차트 아차랭킹 1위…2위 에스파·3위 방탄소년단·4위 임영웅·5위 전소미 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211115n21125?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211115n21125?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 15 Nov 2021 06:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-15 14:40</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/15/14649152_723888_3914_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, '2021 MTV EMA' 4관왕 쾌거…올해 최다관왕 [공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211115n21091?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211115n21091?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 15 Nov 2021 06:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>11-15 14:40</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/11/15/202111151431773634_6191f2956ae65.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가온차트 46주차 리테일 앨범차트 1위는 트와이스…최다앨범 차트진입은 방탄소년단·세븐틴·슈퍼주니어·NCT (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211115n20234?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211115n20234?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 15 Nov 2021 06:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-15 14:24</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/15/14649143_723871_2310_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, '2021 MTV EMA' 4관왕…'베스트 팝' 최초 수상 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211115n19844?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211115n19844?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 15 Nov 2021 06:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>11-15 14:16</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2021/11/15/151612642.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, '예능 프로그램 '나혼자 산다'에서 보고 싶은 스타는?' 아이돌차트 폴 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211115n19358?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211115n19358?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 15 Nov 2021 06:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-15 14:06</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/15/14649132_723848_455_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 지난해 이어 올해도 'MTV EMA' 4관왕 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211115n19214?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211115n19214?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 15 Nov 2021 06:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[더팩트							<em>11-15 14:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2021/11/15/202179671636950529.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단(BTS), '2021 MTV EMA'서 4관왕, 올해 최다관왕 영예 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211115n19191?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211115n19191?mid=e0608&amp;isq=9009</guid>
@@ -318,54 +366,6 @@
             <pubDate>Mon, 15 Nov 2021 03:17:13 GMT</pubDate>
             <content:encoded><![CDATA[스포츠한국							<em>11-15 11:48</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2021/11/15/sjmao20211115114709_O_00_C_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 '2021 MTV EMA'서 4관왕, 올해 최다관왕 쾌거 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211115n14844?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211115n14844?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 15 Nov 2021 03:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>11-15 11:42</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/11/15/202111151138408010_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단(BTS), '2021 MTV EMA'서 4관왕…'베스트 팝' 첫 수상 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211115n14831?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211115n14831?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 15 Nov 2021 03:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[비즈엔터							<em>11-15 11:42</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2021/11/15/20211115114119_1686418_1148_1148.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, '2021 MTV EMA' 4관왕…최다관왕 [공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211115n14630?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211115n14630?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 15 Nov 2021 03:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠동아							<em>11-15 11:38</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2021/11/15/110250053.1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식] 방탄소년단, MTV 유럽 뮤직 어워즈 4관왕 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211115n10238?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211115n10238?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 15 Nov 2021 01:58:41 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>11-15 11:37</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/11/15/l_2021111502000849400173141.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 2년 연속 'MTV 유럽 뮤직 어워즈' 4관왕 달성[공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211115n12202?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211115n12202?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 15 Nov 2021 02:31:01 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>11-15 11:36</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/15/tn_1636943764197_9544_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, '2021 MTV EMA' 4관왕…올해 최다관왕 [공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211115n14547?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211115n14547?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 15 Nov 2021 03:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>11-15 11:36</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/11/15/202111151132577646_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
