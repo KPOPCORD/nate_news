@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 12:24:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 13:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 타임캡슐 전시…2039년 성년의 날에 오픈]]></title>
+            <link>https://news.nate.com/view/20211116n35803?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211116n35803?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 16 Nov 2021 13:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>11-16 21:35</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/11/16/9dfe759f-4fd4-4eee-90e6-470c2bae8077.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단X콜드플레이 'My Universe' 빌보드 핫100 43위 7주 차트인[공식]]]></title>
+            <link>https://news.nate.com/view/20211116n35650?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211116n35650?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 16 Nov 2021 13:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>11-16 21:26</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/16/2021111621204547780_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 뷔, '나혼자산다'에서 보고 싶은 스타 1위 선정…2위는 진]]></title>
             <link>https://news.nate.com/view/20211116n32239?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 16 Nov 2021 06:19:04 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-16 14:16</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/16/14649459_724444_153_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기사열독종합순위] 이찬원 34회째 1위, 2위 영탁에 24,630회 앞서…3위 임영웅·4위 장민호·5위 방탄소년단 지민]]></title>
-            <link>https://news.nate.com/view/20211116n20447?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211116n20447?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 16 Nov 2021 06:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-16 14:07</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/16/14649455_724426_444_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["눈부신 별박눈 왕자님♥" 방탄소년단 정국, 기품 넘치는 젠틀미→'별박눈' 극강의 러블리…잘생쁨 폭발 '세젤미 포스']]></title>
-            <link>https://news.nate.com/view/20211116n20373?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211116n20373?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 16 Nov 2021 06:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-16 14:06</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/16/14649454_724420_43_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
