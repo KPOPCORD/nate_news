@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 07:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 08:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MAMA 박찬욱CP "지난해 BTS 완전체 무대 가장 인상 깊어"]]></title>
+            <link>https://news.nate.com/view/20211116n30057?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211116n30057?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 16 Nov 2021 08:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>11-16 17:05</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/11/16/l_2021111602000954400193181.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[퇴근길이슈] 영탁·'신사와 아가씨' 확진·BTS 티켓 폭등·이재명 부인 외출]]></title>
+            <link>https://news.nate.com/view/20211116n29441?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211116n29441?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 16 Nov 2021 08:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[조이뉴스24							<em>11-16 16:51</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2021/11/16/320467c529cd1b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["여기가 끝이라고?" 방탄소년단의 전성기는 지금부터 [SW뮤직]]]></title>
             <link>https://news.nate.com/view/20211116n26440?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 16 Nov 2021 05:15:38 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-16 14:03</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/16/14649451_724407_131_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 리트윗종합순위] 방탄소년단 뷔 15회째 1위, 2위 방탄소년단 지민에 1,334회 앞서…3위 방탄소년단 정국·4위 임영웅·5위 엑소]]></title>
-            <link>https://news.nate.com/view/20211116n19324?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211116n19324?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 16 Nov 2021 05:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-16 13:48</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/16/14649438_724380_3653_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 美 '제임스 코든쇼' 출격…명불허전 월드스타]]></title>
-            <link>https://news.nate.com/view/20211116n16979?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211116n16979?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 16 Nov 2021 04:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠투데이							<em>11-16 12:19</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2021/11/16/16_758509_69261.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
