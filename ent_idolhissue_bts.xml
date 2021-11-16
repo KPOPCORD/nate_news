@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 06:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 07:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["여기가 끝이라고?" 방탄소년단의 전성기는 지금부터 [SW뮤직]]]></title>
+            <link>https://news.nate.com/view/20211116n26440?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211116n26440?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 16 Nov 2021 07:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>11-16 16:02</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2021/11/16/20211116512957.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단·임영웅→김선호·정호연, '2021 AAA' 인기상 주인공]]></title>
+            <link>https://news.nate.com/view/20211116n25001?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211116n25001?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 16 Nov 2021 07:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[MK스포츠							<em>11-16 15:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2021/11/16/20211116_1637044147.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['2021 AAA' 방탄소년단-엑소-블랙핑크-트와이스-임영웅-김선호-정호연-송지효, 인기상 주인공]]></title>
             <link>https://news.nate.com/view/20211116n23630?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 16 Nov 2021 04:20:36 GMT</pubDate>
             <content:encoded><![CDATA[스포츠투데이							<em>11-16 12:19</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2021/11/16/16_758509_69261.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가요계, 월드투어 스타트…"BTS 포함 10팀 이상 해외 行"]]></title>
-            <link>https://news.nate.com/view/20211116n16940?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211116n16940?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 16 Nov 2021 04:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[디스패치							<em>11-16 12:18</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2021/11/16/548a3b81-e35f-496c-a9f3-835f77d292f4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["티켓 하나에 860만 원"…BTS, LA 콘서트에 '플미표' 기승→공연 일정은?]]></title>
-            <link>https://news.nate.com/view/20211116n15699?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211116n15699?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 16 Nov 2021 03:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-16 11:47</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/16/14649412_724330_453_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
