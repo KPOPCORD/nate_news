@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 21:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 22:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전 세계 사로잡은 실버보이스…방탄소년단 진 'Yours' 빌보드킹]]></title>
+            <link>https://news.nate.com/view/20211117n03340?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211117n03340?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 16 Nov 2021 22:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>11-17 06:57</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/17/2021111706442660395_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美의 남신, 뉴욕 빛낸다…방탄소년단 진, 후즈팬 1위 생일 축하 타임스스퀘어 전광판 광고]]></title>
+            <link>https://news.nate.com/view/20211117n03026?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211117n03026?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 16 Nov 2021 22:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>11-17 06:30</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/17/2021111703050892493_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["여기가 끝이라고?" 방탄소년단의 전성기는 지금부터 [SW뮤직]]]></title>
             <link>https://news.nate.com/view/20211116n26440?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 16 Nov 2021 06:19:04 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-16 14:20</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/16/14649462_724457_1813_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 밤이와 다정한 투샷…조각 같은 이목구비]]></title>
-            <link>https://news.nate.com/view/20211116n20957?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211116n20957?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 16 Nov 2021 06:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>11-16 14:17</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/11/16/202111161345360410_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['강양이' 방탄소년단 지민 X 아기 댕댕이…질투심 부르는 그림 같은 힐링 조합 '천국이 따로 없네']]></title>
-            <link>https://news.nate.com/view/20211116n20890?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211116n20890?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 16 Nov 2021 06:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-16 14:16</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/16/14649459_724444_153_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
