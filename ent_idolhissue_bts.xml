@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 10:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 11:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, 올해도 잊지않고…수능 앞둔 수험생 아미 응원…"파이팅"]]></title>
+            <link>https://news.nate.com/view/20211117n37524?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211117n37524?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 17 Nov 2021 11:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>11-17 19:57</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/17/2021111719384849036_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단(BTS), 수능 D-1 맞아 "노력한 만큼 좋은 결과 있길" 응원]]></title>
+            <link>https://news.nate.com/view/20211117n37202?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211117n37202?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 17 Nov 2021 11:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>11-17 19:50</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/11/17/l_2021111702001040900210891.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최초최고최다…방탄소년단이 써 내려온 빌보드 대기록]]></title>
             <link>https://news.nate.com/view/20211117n33639?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 17 Nov 2021 08:19:25 GMT</pubDate>
             <content:encoded><![CDATA[스포티비뉴스							<em>11-17 16:21</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/11/17/454458_577511_1242.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['나는 솔로', BTS 제이홉→장범준 닮은꼴 4기 솔로남 공개]]></title>
-            <link>https://news.nate.com/view/20211117n28760?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211117n28760?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 17 Nov 2021 07:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>11-17 16:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2021/11/17/20211117_5018362_1637133178.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 RM, 출국길 인사 "수능 힘내세요" (feat. 정국) [TD#]]]></title>
-            <link>https://news.nate.com/view/20211117n28353?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211117n28353?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 17 Nov 2021 07:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>11-17 16:07</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2021/11/17/171613010.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
