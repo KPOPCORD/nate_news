@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 14:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 15:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS, 코디의 완성은 '아미 사랑' [조은정의 라이크픽]]]></title>
+            <link>https://news.nate.com/view/20211117n42032?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211117n42032?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 17 Nov 2021 15:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>11-17 23:13</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/11/17/202111172254772864_61950daa8d2ab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[월드 프레임] 갈라타 탑서 빛난 BTS·김연경]]></title>
             <link>https://news.nate.com/view/20211117n40638?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 17 Nov 2021 08:19:25 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>11-17 16:51</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/11/17/202111171650253510_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2년만 BTS 콘서트에 LA 후끈, 티켓 25배 껑충 인근 호텔숙박료도 3배↑]]></title>
-            <link>https://news.nate.com/view/20211117n30362?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211117n30362?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 17 Nov 2021 08:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠서울							<em>11-17 16:43</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2021/11/17/2021111601000839300061651.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
