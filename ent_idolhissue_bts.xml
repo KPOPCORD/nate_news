@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 12:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 13:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[월드 프레임] 갈라타 탑서 빛난 BTS·김연경]]></title>
+            <link>https://news.nate.com/view/20211117n40638?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211117n40638?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 17 Nov 2021 13:23:52 GMT</pubDate>
+            <content:encoded><![CDATA[OBS TV							<em>11-17 21:54</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ob/2021/11/17/1333956_532440_493.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 수능 앞둔 팬에 응원 메세지 "노력한 만큼 좋은 결과 있길"]]></title>
             <link>https://news.nate.com/view/20211117n38743?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 17 Nov 2021 08:19:25 GMT</pubDate>
             <content:encoded><![CDATA[스포츠서울							<em>11-17 16:43</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2021/11/17/2021111601000839300061651.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 팬아트 공모전, 전통 한지와 먹 글씨로 쓴 '화합' 대상]]></title>
-            <link>https://news.nate.com/view/20211117n30324?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211117n30324?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 17 Nov 2021 08:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[더팩트							<em>11-17 16:43</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2021/11/17/202136681637133555.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
