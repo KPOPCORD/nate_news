@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 13:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 14:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, 美 'AMA'서 콜드플레이와 합동 무대]]></title>
+            <link>https://news.nate.com/view/20211118n08927?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211118n08927?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 18 Nov 2021 14:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>11-18 22:43</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2021/11/18/20211118503505.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 'AMA'서 콜드플레이와 합동무대]]></title>
             <link>https://news.nate.com/view/20211118n03613?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 18 Nov 2021 06:20:30 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-18 14:19</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/18/14650187_725648_167_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단(BTS), 美 '아메리칸 뮤직 어워드'서 콜드플레이와 합동 무대]]></title>
-            <link>https://news.nate.com/view/20211118n21360?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211118n21360?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 18 Nov 2021 06:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[비즈엔터							<em>11-18 13:46</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2021/11/18/20211118111915_1687814_1080_1080.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
