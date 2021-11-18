@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 20:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 21:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/17/14650025_725395_1454_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS 정국, 치명적 잘생김으로 여심 저격 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211119n02624?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211119n02624?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 18 Nov 2021 21:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>11-19 06:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/19/1637248595753041.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 진 'Yours' 빌보드 글로벌 200 韓남성 솔로 첫 진입…美의 남신 '눈부신 기록' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211119n02542?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211119n02542?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 18 Nov 2021 21:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>11-19 05:58</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/19/2021111905483162169_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단, 美 'AMA'서 콜드플레이와 합동 무대 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211118n08927?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211118n08927?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Thu, 18 Nov 2021 04:20:01 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-18 14:51</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/18/14650166_725621_1541_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[빅데이터가수브랜드종합순위] 이찬원 22회째 1위, 2위 임영웅에 18,671점 앞서…3위 영탁·4위 방탄소년단 지민·5위 방탄소년단 뷔 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211118n23732?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211118n23732?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 18 Nov 2021 06:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-18 14:36</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/18/14650190_725658_3335_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기사열독종합순위] 이찬원 36회째 1위, 2위 임영웅에 3,346회 앞서…3위 영탁·4위 장민호·5위 방탄소년단 뷔 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211118n22875?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211118n22875?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 18 Nov 2021 06:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-18 14:19</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/18/14650187_725648_167_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
