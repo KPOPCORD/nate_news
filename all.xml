@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 06:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 07:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/17/14650025_725395_1454_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['2022 수능 응원' 방탄소년단 RM→브레이브걸스 "모두 파이팅" [ST이슈] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211118n28060?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211118n28060?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 18 Nov 2021 07:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠투데이							<em>11-18 15:52</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2021/11/18/18759014.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크래비티 세림·형준·태영, 방탄소년단 'I NEED U' 댄스 커버 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211118n26218?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211118n26218?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 18 Nov 2021 07:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>11-18 15:19</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2021/11/18/20211118512762.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[9년차에도 커리어하이, 상상초월 방탄소년단 월드클래스 행보[뮤직와치] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211118n25517?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211118n25517?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Thu, 18 Nov 2021 02:30:51 GMT</pubDate>
             <content:encoded><![CDATA[OSEN							<em>11-18 11:18</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/11/18/202111181106777245_6195b7a7af96e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["막강한 뷔다스 효과" 방탄소년단 뷔, 공항패션 "루이비통 코트+구찌로퍼" 품절…커피전문점 홈페이지 다운 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211118n15532?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211118n15532?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 18 Nov 2021 02:30:51 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-18 11:15</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/18/14650148_725566_1329_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 21일 '2021 AMA'서 콜드플레이와 합동 무대 펼쳐 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211118n14485?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211118n14485?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 18 Nov 2021 02:30:51 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠한국							<em>11-18 10:58</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2021/11/18/sjmao20211118105632_O_00_C_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
