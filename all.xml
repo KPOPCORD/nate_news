@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 11:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 12:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/17/14650025_725395_1454_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단, 'AMA'서 콜드플레이와 합동무대 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211118n03613?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211118n03613?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 18 Nov 2021 12:25:16 GMT</pubDate>
+            <content:encoded><![CDATA[스타in							<em>11-18 21:15</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/11/18/PS21111800115.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[변정수, 언니美 뿜뿜…'역시 패셔니스타' (ft.BTS아미) [★SHOT!] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211118n38089?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211118n38089?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Thu, 18 Nov 2021 06:20:30 GMT</pubDate>
             <content:encoded><![CDATA[비즈엔터							<em>11-18 13:46</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2021/11/18/20211118111915_1687814_1080_1080.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['King of K-Pop♥' 방탄소년단 뷔, 英 누비아 어워즈 선정 '올해의 K팝 아이돌' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211118n18402?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211118n18402?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 18 Nov 2021 03:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-18 12:02</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/18/14650163_725617_050_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
