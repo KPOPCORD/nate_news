@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 08:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 09:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['생방송오늘저녁' 의령 '표고버섯 배지' 농장 위치는?…강릉 여행, BTS 버스정류장 & 스킨스쿠버 체험 & 연탄빵·케이크 카페 外]]></title>
+            <link>https://news.nate.com/view/20211118n32823?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211118n32823?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 18 Nov 2021 09:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-18 17:25</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/18/14650239_725756_5453_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아픔도 잊게 만든 BTS 효과…안현모 "방탄 보며 힘내야겠다"]]></title>
             <link>https://news.nate.com/view/20211118n32031?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 18 Nov 2021 02:30:51 GMT</pubDate>
             <content:encoded><![CDATA[SBS연예뉴스							<em>11-18 11:31</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2021/11/18/30000725400_700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['수험생들 화이팅!' 방탄소년단 지민이 보내는 2022 수능 따뜻한 격려와 응원♥]]></title>
-            <link>https://news.nate.com/view/20211118n16588?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211118n16588?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 18 Nov 2021 03:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-18 11:29</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/18/14650154_725596_2830_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
