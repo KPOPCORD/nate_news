@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 10:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 11:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[변정수, 언니美 뿜뿜…'역시 패셔니스타' (ft.BTS아미) [★SHOT!]]]></title>
+            <link>https://news.nate.com/view/20211118n38089?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211118n38089?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 18 Nov 2021 11:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>11-18 19:35</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/11/18/202107152034773394_60f01f5b820b8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단(BTS), 미국 도착…AMA·방송출연·공연 등 일정 이어져]]></title>
+            <link>https://news.nate.com/view/20211118n37453?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211118n37453?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 18 Nov 2021 11:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>11-18 19:21</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/11/18/l_2021111802001116600226011.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요다영, "음악적 도전 계속…BTS와 작업하고파"[K단독 인터뷰②]]]></title>
             <link>https://news.nate.com/view/20211118n35266?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 18 Nov 2021 03:16:43 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-18 12:02</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/18/14650163_725617_050_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 18일 LA 도착…"AMA에서 징글볼까지 달린다"]]></title>
-            <link>https://news.nate.com/view/20211118n18148?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211118n18148?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 18 Nov 2021 03:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[디스패치							<em>11-18 12:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2021/11/18/17f1cc25-4f29-4b5f-91fd-3ea0f621d5c9.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[크래비티 세림·형준·태영, BTS 'I NEED U' 커버…레전드 영상 탄생]]></title>
-            <link>https://news.nate.com/view/20211118n17917?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211118n17917?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 18 Nov 2021 03:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠투데이							<em>11-18 11:54</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2021/11/18/18_758989_56807.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
