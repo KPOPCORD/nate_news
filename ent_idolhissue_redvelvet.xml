@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 06:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 07:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["사랑합미도♥" 조이, 레드벨벳 멤버들 간식차 응원에 광대승천]]></title>
+            <link>https://news.nate.com/view/20211119n22950?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20211119n22950?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Fri, 19 Nov 2021 07:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>11-19 15:56</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/11/19/202111191540592310_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스타서베이] GLOBAL IT GIRL은 누구? 에스파 카리나 32,470표로 현재 1위, 2위 블랙핑크 리사에 4,310표 앞서…블랙핑크 제니·레드벨벳 아이린·레드벨벳 슬기 추격 중]]></title>
             <link>https://news.nate.com/view/20211119n09503?mid=e0608&amp;isq=9012</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 17 Nov 2021 14:14:59 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-17 22:17</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/17/14650027_725397_1618_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '오늘도 즐거운 출근길 포토타임' (웬디의 영스트리트 출근길)]]></title>
-            <link>https://news.nate.com/view/20211117n41308?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20211117n41308?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 17 Nov 2021 14:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-17 22:16</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/17/14650026_725396_1540_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
