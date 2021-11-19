@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 11:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 12:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/17/14650028_725398_1644_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[티빙, 'MAMA' 방탄소년단 스페셜 영상 공개 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211119n31319?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211119n31319?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 19 Nov 2021 12:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>11-19 21:09</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/11/19/9012e34c-94b2-4322-a7a8-5d89b2dbdeb3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단, 병역혜택 받나…25일 병역법 개정안 재논의에 쏠린 시선[Oh!쎈 레터] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211119n29928?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211119n29928?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Fri, 19 Nov 2021 07:17:04 GMT</pubDate>
             <content:encoded><![CDATA[스포티비뉴스							<em>11-19 16:17</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/11/19/454970_578141_1036.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['놀면 뭐하니?+' 미주, '위드 유+'서 BTS '다이너마이트' 안무 영상 실시간 카피! 역시 메인 댄서! '엄지 척' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211119n23626?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211119n23626?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 19 Nov 2021 07:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-19 16:13</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/19/14650658_726520_1126_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
