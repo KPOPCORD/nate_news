@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 19:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 20:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[어제픽] '연중 라이브' BTS-전지현-손흥민-제니-임영웅-조정 外 올해 광고료 많이 번 스타 1위는?]]></title>
+            <link>https://news.nate.com/view/20211120n00913?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211120n00913?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 19 Nov 2021 20:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-20 05:05</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/20/14650795_726785_560_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['연중 라이브' 방탄소년단, 역시 월드클래스 '광고계도 휩쓸어']]></title>
             <link>https://news.nate.com/view/20211119n32656?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 19 Nov 2021 10:18:00 GMT</pubDate>
             <content:encoded><![CDATA[스포티비뉴스							<em>11-19 19:03</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/11/19/454987_578166_4055.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 병역 특례 받을까…25일 병역법 개정안 심사 재개]]></title>
-            <link>https://news.nate.com/view/20211119n26704?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211119n26704?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 19 Nov 2021 09:17:07 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>11-19 17:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/19/2021111916581966794_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
