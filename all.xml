@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 10:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 11:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/17/14650028_725398_1644_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단, 병역혜택 받나…25일 병역법 개정안 재논의에 쏠린 시선[Oh!쎈 레터] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211119n29928?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211119n29928?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 19 Nov 2021 11:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>11-19 19:59</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/11/19/202111191928775635_619781fe76300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["방탄소년단, 병역 특례 받을까?"…국방위, 25일 개정안 심사 재개 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211119n29801?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211119n29801?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 19 Nov 2021 11:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[디스패치							<em>11-19 19:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2021/11/19/709eb1ae-5d3c-4b32-bee2-a8a89d8792d2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단, 日 레코드대상 특별국제음악상…2년 연속 쾌거 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211119n29116?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211119n29116?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Fri, 19 Nov 2021 07:17:04 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-19 16:13</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/19/14650658_726520_1126_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙, 'MAMA' 방탄소년단 스페셜 영상 공개 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211119n22401?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211119n22401?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 19 Nov 2021 07:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>11-19 15:43</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2021/11/19/20211119_5020689_1637303353.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙, 'MAMA' 방탄소년단 스페셜 비하인드 영상 공개 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211119n22244?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211119n22244?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 19 Nov 2021 07:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[MK스포츠							<em>11-19 15:39</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2021/11/19/20211119_1637303884.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
