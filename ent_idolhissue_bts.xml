@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 05:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 06:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[독자추천종합순위] 이찬원 40회째 1위, 2위 영탁에 86표 앞서…3위 방탄소년단 지민·4위 방탄소년단 뷔·5위 방탄소년단 정국]]></title>
+            <link>https://news.nate.com/view/20211119n18420?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211119n18420?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 19 Nov 2021 06:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-19 14:16</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/19/14650613_726439_1325_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[펀펀한 현장] 방탄소년단, '전 세계 아미들 만나러']]></title>
             <link>https://news.nate.com/view/20211119n16379?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 19 Nov 2021 00:46:31 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-19 09:32</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/19/14650474_726112_316_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['놀면 뭐하니?+' BTS 원데이 클래스 미주→한국어 교실 하하]]></title>
-            <link>https://news.nate.com/view/20211119n06707?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211119n06707?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 19 Nov 2021 00:46:31 GMT</pubDate>
-            <content:encoded><![CDATA[일간스포츠							<em>11-19 09:16</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/11/19/5120db65-cd0a-46ca-a0bc-07ad15278a9a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
