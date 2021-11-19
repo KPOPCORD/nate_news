@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 01:59:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 02:32:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/17/14650026_725396_1540_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['지민없는 한국대신 브이라이브로' 방탄소년단 지민 생일 영상→전체국가 및 지역 월간차트 1위 '벌써 그리워' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211119n11306?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211119n11306?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 19 Nov 2021 02:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-19 10:56</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/19/14650523_726238_5434_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 정국, '시차' 스포티파이 1억 5000만 스트리밍 돌파→솔로 3곡 합산 5억 5000만…'음원킹 강력 파워' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211119n11087?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211119n11087?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Fri, 19 Nov 2021 00:46:31 GMT</pubDate>
             <content:encoded><![CDATA[OSEN							<em>11-19 08:58</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/11/19/202111190830779281_6196e8514df84.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["방탄소년단 지민이니까" 루이 비통 또 품절…브랜드평판 34개월 연속 1위 위엄→160만원 후드 12개국 품절 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211119n03719?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211119n03719?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 18 Nov 2021 22:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>11-19 08:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/19/tn_1637277604655_393344_0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
