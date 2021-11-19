@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 20:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 21:15:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스치면 완판…방탄소년단, 올해 광고 수익만 650억 '깜짝' ('연중') [MD리뷰]]]></title>
+            <link>https://news.nate.com/view/20211120n01275?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211120n01275?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 19 Nov 2021 21:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>11-20 06:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/11/20/202111192119128109_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 650억→전지현 150억·박서준 98억, '억'소리 나는 광고 수입(연중)[어제TV]]]></title>
+            <link>https://news.nate.com/view/20211119n33054?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211119n33054?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 19 Nov 2021 21:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>11-20 05:47</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/11/19/202111192238142510_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[어제픽] '연중 라이브' BTS-전지현-손흥민-제니-임영웅-조정 外 올해 광고료 많이 번 스타 1위는?]]></title>
             <link>https://news.nate.com/view/20211120n00913?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 19 Nov 2021 11:14:51 GMT</pubDate>
             <content:encoded><![CDATA[디스패치							<em>11-19 19:53</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2021/11/19/709eb1ae-5d3c-4b32-bee2-a8a89d8792d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 日 레코드대상 특별국제음악상…2년 연속 쾌거]]></title>
-            <link>https://news.nate.com/view/20211119n29116?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211119n29116?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 19 Nov 2021 10:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[스포티비뉴스							<em>11-19 19:07</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/11/19/455016_578209_0417.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왓챠, '2021 AMA' 생중계…방탄소년단-콜드플레이 본다]]></title>
-            <link>https://news.nate.com/view/20211119n29055?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211119n29055?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 19 Nov 2021 10:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[스포티비뉴스							<em>11-19 19:03</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/11/19/454987_578166_4055.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
