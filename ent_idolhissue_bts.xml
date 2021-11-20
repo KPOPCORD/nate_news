@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 05:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 06:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 지민, 11월 보이그룹 개인 브랜드평판 1위 차지]]></title>
+            <link>https://news.nate.com/view/20211120n06301?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211120n06301?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 20 Nov 2021 06:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[스타데일리뉴스							<em>11-20 14:58</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/11/20/311504_357782_5735.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 'Dynamite' MV로 통산 3번째 13억뷰 기록]]></title>
+            <link>https://news.nate.com/view/20211120n06071?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211120n06071?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 20 Nov 2021 06:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[스타데일리뉴스							<em>11-20 14:40</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/11/20/311499_357776_3929.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 뷔, 열도 흔들었다]]></title>
             <link>https://news.nate.com/view/20211120n05138?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 20 Nov 2021 02:32:54 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-20 11:00</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/20/14650827_726856_5429_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['JIMIN 35개월 연속 브평 1위' 방탄소년단 지민, 11월 보이그룹 개인 브랜드 1위 '상상초월 원탑 신화']]></title>
-            <link>https://news.nate.com/view/20211120n03853?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211120n03853?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 20 Nov 2021 01:57:19 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-20 10:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/20/14650824_726846_4722_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[독자추천종합순위] 이찬원 41회째 1위, 2위 영탁에 454표 앞서…3위 방탄소년단 지민·4위 방탄소년단 뷔·5위 방탄소년단 정국]]></title>
-            <link>https://news.nate.com/view/20211120n03775?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211120n03775?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 20 Nov 2021 01:57:19 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-20 10:43</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/20/14650821_726839_4025_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
