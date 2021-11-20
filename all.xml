@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 01:57:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 02:32:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,8 +252,32 @@
             <link>https://news.nate.com/view/20211120n03854?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211120n03854?mid=e0608&amp;isq=9009</guid>
             <pubDate>Sat, 20 Nov 2021 01:57:19 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>11-20 10:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/11/20/l_2021112002001188400240511.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[스포츠경향							<em>11-20 11:28</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/11/20/l_2021112002001189600240611.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 '다이너마이트' MV 13억뷰 돌파…통산 3번째 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211120n04265?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211120n04265?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 20 Nov 2021 02:32:54 GMT</pubDate>
+            <content:encoded><![CDATA[스타투데이							<em>11-20 11:23</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2021/11/20/20211120_5021205_1637374730.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 'Dynamite'='글로벌 메가 히트송' 입증…뮤비 13억뷰 돌파 [공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211120n03963?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211120n03963?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 20 Nov 2021 02:32:54 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>11-20 11:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/11/20/202111200901776502_61983b55457c6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["남친짤 필드 탑티어♥" 방탄소년단 뷔, "오랜만이에요" LA에서 보낸 안부…'It's been a long long time' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211120n03961?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211120n03961?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 20 Nov 2021 02:32:54 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-20 11:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/20/14650827_726856_5429_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['JIMIN 35개월 연속 브평 1위' 방탄소년단 지민, 11월 보이그룹 개인 브랜드 1위 '상상초월 원탑 신화' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -342,30 +366,6 @@
             <pubDate>Sat, 20 Nov 2021 01:57:19 GMT</pubDate>
             <content:encoded><![CDATA[스포티비뉴스							<em>11-20 09:58</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/11/20/455049_578252_5701.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단(BTS), '다이너마이트' MV 13억뷰↑ (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211120n02870?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211120n02870?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 20 Nov 2021 01:57:19 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>11-20 09:38</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2021/11/20/1637368543_1613460.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 '다이너마이트' MV 13억뷰…1년 3개월만 대기록 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211120n02838?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211120n02838?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 20 Nov 2021 01:57:19 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>11-20 09:35</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/20/2021112009235542288_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[댓글종합순위] 영탁 99회째 1위, 2위 이찬원에 974개 앞서…3위 방탄소년단 지민·4위 김희재·5위 방탄소년단 뷔 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211120n02800?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211120n02800?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 20 Nov 2021 00:45:34 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-20 09:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/20/14650811_726812_2415_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
