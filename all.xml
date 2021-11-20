@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 03:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 04:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/17/14650029_725399_1730_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 뷔, 열도 흔들었다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211120n05138?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211120n05138?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 20 Nov 2021 04:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>11-20 12:59</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/11/20/l_2021112002001191800240831.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["V Brand Reputation♥" 방탄소년단 뷔, 중국 '아이만 상업가치지수'서 BTS 최고 순위 기록 '대륙의 왕자' 위용 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211120n04840?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211120n04840?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 20 Nov 2021 04:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-20 12:20</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/20/14650846_726924_1838_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[빅데이터가수브랜드종합순위] 이찬원 25회째 1위, 2위 임영웅에 19,747점 앞서…3위 영탁·4위 방탄소년단 지민·5위 방탄소년단 뷔 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211120n04733?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211120n04733?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Sat, 20 Nov 2021 01:57:19 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-20 10:43</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/20/14650821_726839_4025_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 '다이너마이트' MV 13억뷰 [공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211120n03750?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211120n03750?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 20 Nov 2021 01:57:19 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠동아							<em>11-20 10:41</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2021/11/20/110344086.1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['150억' 전지현 제친 광고 스타 1위는…방탄소년단 650억 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211120n02558?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211120n02558?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 20 Nov 2021 00:45:34 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>11-20 10:40</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2021/11/20/20211120_5021164_1637366753.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
