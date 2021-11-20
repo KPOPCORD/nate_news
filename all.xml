@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 15:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 16:21:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/17/14650029_725399_1730_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 지민, "디올 패션위크에 초대된다면 뜨거운 주목을 받을 것 같은 아이돌은?" 익디 투표 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211121n00223?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211121n00223?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 20 Nov 2021 16:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-21 00:34</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/21/14650949_727126_3217_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가온 46주차 디지털차트 1위는 아넌딜라이트·언오피셜보이·비오·지구인·머드더스튜던트의 '쉬어'…최다곡 차트진입은 아이유·임영웅·방탄소년단·세븐틴 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211120n10652?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211120n10652?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sat, 20 Nov 2021 03:17:18 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-20 11:54</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/20/14650842_726906_5150_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, 韓아이돌 '최초·유일' 솔로 2곡 '빌보드' 85주 차트인→최장 1·2위…'신기록 제조기' 위상 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211120n04583?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211120n04583?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 20 Nov 2021 03:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-20 11:53</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/20/14650840_726901_4856_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
