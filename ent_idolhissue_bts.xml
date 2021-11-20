@@ -4,15 +4,23 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 10:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 11:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가온 46주차 다운로드차트 1위는 방탄소년단 진…최다곡 차트진입은 트와이스·창모·임창정·방탄소년단·강형호·10CM·임영웅]]></title>
+            <link>https://news.nate.com/view/20211120n09144?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211120n09144?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 20 Nov 2021 11:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-20 19:38</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/20/14650920_727062_3649_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['놀면뭐하니?' 미주, 새신랑과 동료에 BTS '다이너마이트' 안무 강습…하하는 외국인에 '있지' 노래로 한국어 과외 (1)]]></title>
             <link>https://news.nate.com/view/20211120n08847?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211120n08847?mid=e0608&amp;isq=9009</guid>
             <pubDate>Sat, 20 Nov 2021 10:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-20 19:04</em>]]></content:encoded>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-20 19:10</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/20/14650916_727058_5414_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 20 Nov 2021 03:17:18 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-20 11:43</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/20/14650839_726890_4135_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스경X초점]'BTS 병역법' 이번엔 될까?…국방위, 25일 개정안 논의]]></title>
-            <link>https://news.nate.com/view/20211120n03854?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211120n03854?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 20 Nov 2021 01:57:19 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>11-20 11:43</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/11/20/l_2021112002001189800240631.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
