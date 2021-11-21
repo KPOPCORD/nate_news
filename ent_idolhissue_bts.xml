@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 20:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 21:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스한초점] "BTS·트와이스·NCT127"…위드코로나로 발 풀린 K팝 스타들]]></title>
+            <link>https://news.nate.com/view/20211122n02154?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211122n02154?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 21 Nov 2021 21:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠한국							<em>11-22 06:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2021/11/22/dyhero21320211120190254_O_00_C_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 오늘(22일) 콜드플레이와 'AMA' 합동무대…첫 대상 거머쥘까]]></title>
+            <link>https://news.nate.com/view/20211121n18718?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211121n18718?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 21 Nov 2021 21:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>11-22 05:38</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/11/21/202111211207280410_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS '버터', 美 버라이어티 '히트메이커' 올해의 음반 수상]]></title>
             <link>https://news.nate.com/view/20211121n04374?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sun, 21 Nov 2021 06:18:47 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-21 14:29</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/21/14651048_727293_2619_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["Jungkook aka fashion icon!♥" 美라디오 공식 계정 방탄소년단 정국 셀카 게재 "정국은 일명 패션 아이콘!♥"…폭풍 애정·찬사]]></title>
-            <link>https://news.nate.com/view/20211121n09226?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211121n09226?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 21 Nov 2021 06:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-21 14:26</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/21/14651046_727289_2445_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['LV FRONTMAN' 방탄소년단 지민 '21FW 패션쇼' 멋짐 지수 '19951013점'→역시 오프닝 모델 아우라]]></title>
-            <link>https://news.nate.com/view/20211121n09044?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211121n09044?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 21 Nov 2021 06:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-21 14:17</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/21/14651044_727278_1327_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
