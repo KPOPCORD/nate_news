@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 12:24:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 13:21:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/17/14650030_725400_1832_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS '버터', 美 버라이어티 '히트메이커' 올해의 음반 수상 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211121n04374?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211121n04374?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 21 Nov 2021 13:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[스타in							<em>11-21 21:49</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/11/21/PS21112100185.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유튜브 국내 인기곡 1위는 에스파…최다곡 진입은 아이유·임영웅·저스틴 비버·방탄소년단·십센치·창모 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211121n17006?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211121n17006?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 21 Nov 2021 13:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-21 21:20</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/21/14651086_727382_195_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[유튜브 인기 뮤직 비디오 1위는 트와이스…최다곡 진입은 김호중·트와이스·에스파·방탄소년단·이찬원·아이유·임영웅 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211121n13302?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211121n13302?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Sun, 21 Nov 2021 06:18:47 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-21 14:17</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/21/14651044_727278_1327_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 메건 디 스탤리온과 'AMA' 합동 무대 불발…"예기치 못한 이유" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211121n08013?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211121n08013?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 21 Nov 2021 05:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[스포티비뉴스							<em>11-21 13:26</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/11/21/455118_578332_3420.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 美 버라이어티 선정 '히트메이커스' 2년 연속 수상…23일 '그래미' 후보 발표 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211121n07783?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211121n07783?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 21 Nov 2021 05:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>11-21 13:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2021/11/21/2021112201001630900108961.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
