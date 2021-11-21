@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 04:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 05:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, 메건 디 스탤리온과 'AMA' 합동 무대 불발…"예기치 못한 이유"]]></title>
+            <link>https://news.nate.com/view/20211121n08013?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211121n08013?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 21 Nov 2021 05:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[스포티비뉴스							<em>11-21 13:26</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/11/21/455118_578332_3420.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 美 버라이어티 선정 '히트메이커스' 2년 연속 수상…23일 '그래미' 후보 발표]]></title>
+            <link>https://news.nate.com/view/20211121n07783?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211121n07783?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 21 Nov 2021 05:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠조선							<em>11-21 13:14</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2021/11/21/2021112201001630900108961.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메간디스탈리온 "개인사정 탓 방탄소년단과 합동무대 무산, 너무 슬퍼"]]></title>
             <link>https://news.nate.com/view/20211121n06686?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sun, 21 Nov 2021 00:47:26 GMT</pubDate>
             <content:encoded><![CDATA[스포티비뉴스							<em>11-21 09:21</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/11/21/455108_578321_2017.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 '버터', 美 버라이어티 '올해의 음반' 수상]]></title>
-            <link>https://news.nate.com/view/20211121n02890?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211121n02890?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 21 Nov 2021 00:47:26 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>11-21 09:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/11/21/l_2021112102001205500242691.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['인간 名品' 방탄소년단 지민 '디올 패션위크에 초대된다면 뜨거운 주목 받을 것 같은 아이돌' 1위]]></title>
-            <link>https://news.nate.com/view/20211121n02829?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211121n02829?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 21 Nov 2021 00:47:26 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>11-21 09:12</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/21/tn_1637453523706_594315_0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
