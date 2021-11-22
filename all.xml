@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 10:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 11:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/17/14650032_725402_2034_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유튜브 인기 아티스트 1위 아이유…2위 방탄소년단·3위 트와이스·4위 에스파·5위 임영웅 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211122n33908?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211122n33908?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 22 Nov 2021 11:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-22 19:52</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/22/14651430_727982_5116_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김부겸 총리 "방탄소년단 'AMA' 3관왕은 새 역사, K팝 자긍심 세운 성취" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211122n33405?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211122n33405?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 22 Nov 2021 11:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[스포티비뉴스							<em>11-22 19:20</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/11/22/455323_578597_0550.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['亞 최초 AMA 대상' 역사 쓴 방탄소년단, 이제 '그래미' 노린다 [종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211122n32912?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211122n32912?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Mon, 22 Nov 2021 08:19:39 GMT</pubDate>
             <content:encoded><![CDATA[조이뉴스24							<em>11-22 16:51</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2021/11/22/2caf4db0c5510c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['亞 최초' AMA 대상 방탄소년단, 트로피 3개 들고 '미소' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211122n28038?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211122n28038?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 22 Nov 2021 08:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>11-22 16:48</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2021/11/22/20211122_5022478_1637567201.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 슈가, 의젓한 아기 애옹이 "오랜만에 반가웠어요 아미" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211122n28027?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211122n28027?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 22 Nov 2021 08:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>11-22 16:48</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/11/22/202111221633445625_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
