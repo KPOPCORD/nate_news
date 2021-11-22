@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 12:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 13:24:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['천만배우' 이이경 "시상식 한 번도 못 가봐"…BTS父 방시혁에 혹평받은 이유는? ('떡볶이집') [종합]]]></title>
+            <link>https://news.nate.com/view/20211122n35550?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211122n35550?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 22 Nov 2021 13:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>11-22 21:51</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/11/22/202111222045775963_619b921d5644e.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, AMA서 美 첫 무대→4년만에 대상까지…그래미에 한 발 더 (종합)[Oh!쎈 레터]]]></title>
+            <link>https://news.nate.com/view/20211122n35279?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211122n35279?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 22 Nov 2021 13:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>11-22 21:29</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/11/22/202111222026770759_619b8c0768fb5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단(BTS), 美 '2021 아메리칸 뮤직 어워드'서 '올해의 아티스트' 수상! "새로운 챕터의 시작"]]></title>
             <link>https://news.nate.com/view/20211122n34719?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 22 Nov 2021 10:18:23 GMT</pubDate>
             <content:encoded><![CDATA[TV리포트							<em>11-22 18:07</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2021/11/22/5f6d484d-5437-4c19-857f-2850c9891a02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한지혜도 아미였어? "방탄소년단 'AMA' 대상 진짜 대박 소름"]]></title>
-            <link>https://news.nate.com/view/20211122n31682?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211122n31682?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 22 Nov 2021 10:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>11-22 18:03</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/11/22/202111221752570810_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['2021 AMA' BTS "아미 아니었으면 아무 것도 아니다" 뭉클 소감]]></title>
-            <link>https://news.nate.com/view/20211122n31666?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211122n31666?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 22 Nov 2021 10:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[일간스포츠							<em>11-22 18:03</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/11/22/068c5901-f4ac-4858-9f33-be036c471b7c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
