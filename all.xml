@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 09:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 10:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/11/18/202111180557163510_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[레드벨벳 웬디, 오늘의 포인트 'W'목걸이~(영스트리트 출근)[뉴스엔TV] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20211122n29763?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20211122n29763?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Mon, 22 Nov 2021 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>11-22 17:18</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/11/22/202111221717051310_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[스타서베이] GLOBAL IT GIRL은 누구? 에스파 카리나 338,750표로 현재 1위, 2위 블랙핑크 리사에 7,480표 앞서…블랙핑크 제니·케플러 최유진·레드벨벳 슬기 추격 중 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
             <link>https://news.nate.com/view/20211122n03598?mid=e0608&amp;isq=9012</link>
             <guid>https://news.nate.com/view/20211122n03598?mid=e0608&amp;isq=9012</guid>
@@ -240,12 +248,76 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/17/14650032_725402_2034_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '안경 가져왔어요~!' (웬디의 영스트리트 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20211117n41385?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20211117n41385?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 17 Nov 2021 14:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-17 22:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/17/14650031_725401_191_org.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['亞 최초 AMA 대상' 역사 쓴 방탄소년단, 이제 '그래미' 노린다 [종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211122n32912?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211122n32912?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 22 Nov 2021 10:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>11-22 18:50</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/22/1637568953220542.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 'AMA' 3관왕 병역 면제 힘 실릴까?…25일 병역법 개정 재논의 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211122n32574?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211122n32574?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 22 Nov 2021 10:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>11-22 18:34</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/11/22/001d3a43-9b3e-4d2f-94d3-04c2360ea9b0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['검사♥' 한지혜, 그랜드 피아노+트리의 럭셔리한 조화…BTS는 더 못참지! (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211122n32506?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211122n32506?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 22 Nov 2021 10:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>11-22 18:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/11/22/202111221814773334_619b621f87046.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['2021 AMA' 방탄소년단 '아티스트 오브 더 이어' 등 3관왕 대기록 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211122n31933?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211122n31933?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 22 Nov 2021 10:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>11-22 18:11</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/11/22/2abfdbb0-6e90-446f-8aca-5b37d676e2b9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS, 아시아 가수 최초로 'AMA 2021' 대상 수상…범접불가 월드스타 등극 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211122n31811?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211122n31811?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 22 Nov 2021 10:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[TV리포트							<em>11-22 18:07</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2021/11/22/5f6d484d-5437-4c19-857f-2850c9891a02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한지혜도 아미였어? "방탄소년단 'AMA' 대상 진짜 대박 소름" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211122n31682?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211122n31682?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 22 Nov 2021 10:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>11-22 18:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/11/22/202111221752570810_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['2021 AMA' BTS "아미 아니었으면 아무 것도 아니다" 뭉클 소감 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211122n31666?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211122n31666?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 22 Nov 2021 10:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>11-22 18:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/11/22/068c5901-f4ac-4858-9f33-be036c471b7c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['검사♥' 한지혜, BTS AMA 대상에 감격 "진짜 대박 소오름!" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211122n31662?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211122n31662?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 22 Nov 2021 10:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>11-22 18:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/22/1637571767076366.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 4년 만에 미국 삼켰다 [가요공감] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211122n30617?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211122n30617?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 22 Nov 2021 10:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>11-22 17:38</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2021/11/22/221613589.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["美 데뷔 4년만, 아미 감사"…방탄소년단, 'AMA' 대상 자축 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -294,78 +366,6 @@
             <pubDate>Mon, 22 Nov 2021 08:19:39 GMT</pubDate>
             <content:encoded><![CDATA[마이데일리							<em>11-22 16:48</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/11/22/202111221633445625_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, AMA 3관왕은 '아미 덕' [TD#] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211122n27819?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211122n27819?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 22 Nov 2021 08:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>11-22 16:44</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2021/11/22/221613611.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 "AMA 수상도 좋았지만 아미 본 게 최고였다" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211122n26891?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211122n26891?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 22 Nov 2021 08:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>11-22 16:27</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/22/1637565960776812.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 정국-슈가, 2021 AMA 대상 수상소감 '화제'…"focus on army" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211122n26749?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211122n26749?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 22 Nov 2021 08:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-22 16:25</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/22/14651294_727789_2252_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["새로운 챕터 시작" 방탄소년단, 'AMA' 대상 수상→콘서트 개최 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211122n26483?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211122n26483?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 22 Nov 2021 08:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[조이뉴스24							<em>11-22 16:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2021/11/22/7583b83b7c7b6e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['2021 AMA' 방탄소년단 정국, 귀여운 실수 "focus on…" 뒷말은? (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211122n26368?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211122n26368?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 22 Nov 2021 08:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>11-22 16:18</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/11/22/202111221615704340_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 美 '2021 아메리칸 뮤직 어워드'서 '올해의 아티스트' 수상 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211122n25994?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211122n25994?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 22 Nov 2021 08:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[스타데일리뉴스							<em>11-22 16:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/11/22/311598_357879_916.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[종합] "최고의 기적"…방탄소년단, 전세계 울린 亞 최초 'AMA' 대상·3관왕 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211122n25986?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211122n25986?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 22 Nov 2021 08:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>11-22 16:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2021/11/22/2021112301001714100113211.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["대상까지! AMA 트로피 3개 들고 찰칵"…방탄소년단 단체사진 공개 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211122n25968?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211122n25968?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 22 Nov 2021 08:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>11-22 16:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/11/22/202111221604241386_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 지민·RM, 대상 수상 후 가장 먼저 챙긴 건 팬들 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211122n25109?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211122n25109?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 22 Nov 2021 08:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠월드							<em>11-22 16:09</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2021/11/22/20211122512509.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
