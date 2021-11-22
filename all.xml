@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 13:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 14:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/17/14650032_725402_2034_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['2021 MAMA' 1차 투표 결과는?…방탄소년단-스트레이키즈 1·2위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211122n35842?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211122n35842?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 22 Nov 2021 14:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-22 22:20</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/22/14651488_728076_1755_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['천만배우' 이이경 "시상식 한 번도 못 가봐"…BTS父 방시혁에 혹평받은 이유는? ('떡볶이집') [종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211122n35550?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211122n35550?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Mon, 22 Nov 2021 10:18:23 GMT</pubDate>
             <content:encoded><![CDATA[일간스포츠							<em>11-22 18:11</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/11/22/2abfdbb0-6e90-446f-8aca-5b37d676e2b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS, 아시아 가수 최초로 'AMA 2021' 대상 수상…범접불가 월드스타 등극 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211122n31811?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211122n31811?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 22 Nov 2021 10:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[TV리포트							<em>11-22 18:07</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2021/11/22/5f6d484d-5437-4c19-857f-2850c9891a02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
