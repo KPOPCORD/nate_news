@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 20:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 21:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, 수상소감도 월드클래스 '2021 AMA' 말말말]]></title>
+            <link>https://news.nate.com/view/20211123n01877?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211123n01877?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 22 Nov 2021 21:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>11-23 06:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/11/23/l_2021112202001313000263691.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['마스크 착용의 본보기' 방탄소년단 지민, WHO도 주목한 철저한 보건 수칙 모범 스타…"Exactly!"]]></title>
+            <link>https://news.nate.com/view/20211123n01500?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211123n01500?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 22 Nov 2021 21:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>11-23 05:28</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/23/2021112206431753845_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['K 아이돌' 방탄소년단, 세계 팝 시장 정상에 깃발 꽂다]]></title>
             <link>https://news.nate.com/view/20211123n01423?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 22 Nov 2021 12:25:03 GMT</pubDate>
             <content:encoded><![CDATA[MK스포츠							<em>11-22 20:07</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2021/11/22/20211122_1637571405.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜브 인기 아티스트 1위 아이유…2위 방탄소년단·3위 트와이스·4위 에스파·5위 임영웅]]></title>
-            <link>https://news.nate.com/view/20211122n33908?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211122n33908?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 22 Nov 2021 11:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-22 19:52</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/22/14651430_727982_5116_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김부겸 총리 "방탄소년단 'AMA' 3관왕은 새 역사, K팝 자긍심 세운 성취"]]></title>
-            <link>https://news.nate.com/view/20211122n33405?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211122n33405?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 22 Nov 2021 11:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[스포티비뉴스							<em>11-22 19:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/11/22/455323_578597_0550.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
