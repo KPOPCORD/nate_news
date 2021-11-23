@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 10:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 11:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/17/14650033_725403_2117_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 "대통령님 감사합니다"…文 축하에 화답 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211123n34852?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211123n34852?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 23 Nov 2021 11:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>11-23 19:48</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/23/1637664461069589.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[문재인 대통령 "BTS, AMA 대상 축하…자부심 가질 만하지 않나" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211123n25639?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211123n25639?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Tue, 23 Nov 2021 09:17:13 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>11-23 17:33</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/23/2021112317263919760_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 문재인 대통령 축전에 화답 "우리도 자긍심 느껴" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211123n30962?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211123n30962?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 23 Nov 2021 09:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>11-23 17:31</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/11/23/l_2021112302001374200275541.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
