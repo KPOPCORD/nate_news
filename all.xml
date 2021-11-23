@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 15:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 16:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,12 +248,28 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/17/14650033_725403_2117_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김갑수, 장민호 사윗감으로 거절 '폭소'→BTS '유료 아미' 고백 ('옥문아들')[종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211124n00407?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211124n00407?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 23 Nov 2021 16:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠조선							<em>11-24 00:41</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2021/11/24/2021112401001808200118661.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["가장 독특한 아미"…김갑수, 방탄소년단과 일화 공개+팬심 고백 ('옥문아들') (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211124n00226?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211124n00226?mid=e0608&amp;isq=9009</guid>
             <pubDate>Tue, 23 Nov 2021 15:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>11-24 00:08</em>]]></content:encoded>
+            <content:encoded><![CDATA[마이데일리							<em>11-24 00:32</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/11/24/202111240005813492_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['옥문아' 김갑수 "BTS 팬클럽 유료 가입"→장민호, KBS의 아들[★밤TView] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211124n00297?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211124n00297?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 23 Nov 2021 16:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>11-24 00:18</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/24/2021112319520890169_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단, 그래미 후보 오를까…오늘 발표 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -350,22 +366,6 @@
             <pubDate>Tue, 23 Nov 2021 09:17:13 GMT</pubDate>
             <content:encoded><![CDATA[스포츠월드							<em>11-23 18:43</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2021/11/23/20211123516222.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 문재인 대통령 축전에 화답 "자긍심 느낀다" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211123n33628?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211123n33628?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 23 Nov 2021 10:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>11-23 18:41</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/23/2021112318355654416_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["자긍심 느껴"…방탄소년단, AMA 대상 수상이 갖는 의미[Oh!쎈 레터] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211123n33475?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211123n33475?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 23 Nov 2021 10:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>11-23 18:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/11/23/202111231706779417_619ca4800ca44.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
