@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 01:58:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 02:31:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 포브스-빌보드 "BTS 그래미 올해의 레코드 후보 유력"]]></title>
+            <link>https://news.nate.com/view/20211123n13636?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211123n13636?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 23 Nov 2021 02:31:39 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>11-23 11:14</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/11/23/5c1c8aed-6269-4f48-a092-7e3a176a66c3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 美 '2021 AMA'서 '올해의 아티스트' 수상…콜드플레이와 합동 공연[종합]]]></title>
+            <link>https://news.nate.com/view/20211122n28368?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211122n28368?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 23 Nov 2021 02:31:39 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠한국							<em>11-23 10:58</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2021/11/22/sjmao20211122165139_O_01_C_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["방탄소년단, 그래미상 '올해의 레코드' 후보 유력" (美 포브스)]]></title>
             <link>https://news.nate.com/view/20211123n11035?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 23 Nov 2021 00:45:43 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>11-23 09:00</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/23/1637624120559648.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스타서베이] GLOBAL IT BOY는 누구? 방탄소년단 지민 810,960표로 현재 1위, 2위 방탄소년단 뷔에 95,620표 앞서…김재환·아스트로 라키·방탄소년단 진 추격 중]]></title>
-            <link>https://news.nate.com/view/20211123n05095?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211123n05095?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 23 Nov 2021 00:45:43 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-23 08:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/23/14651519_728122_494_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["남친미 톱티어" 방탄소년단 뷔, 아름다운 비현실 비주얼로 훈훈한 현실 남친美]]></title>
-            <link>https://news.nate.com/view/20211123n04502?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211123n04502?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 23 Nov 2021 00:45:43 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>11-23 08:30</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/23/2021112308270576251_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
