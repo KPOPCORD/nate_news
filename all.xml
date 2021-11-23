@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 14:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 15:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,38 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/17/14650033_725403_2117_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["가장 독특한 아미"…김갑수, 방탄소년단과 일화 공개+팬심 고백 ('옥문아들') (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211124n00226?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211124n00226?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 23 Nov 2021 15:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>11-24 00:08</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/11/24/202111240005813492_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 그래미 후보 오를까…오늘 발표 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211124n00073?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211124n00073?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 23 Nov 2021 15:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[스타투데이							<em>11-24 00:02</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2021/11/24/20211123_5023330_1637653451.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA['옥문아' 김갑수 "사위 장민호? NO···너무 잘 알아"→BTS 팬 '아미' 인증 [종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211123n38201?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211123n38201?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 23 Nov 2021 15:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>11-23 23:52</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/11/23/202111232249772388_619cffc54ae34.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["유료 아미"…김갑수, 방탄소년단 팬심→첫 만남 일화 공개 (옥문아들) [종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211123n38182?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211123n38182?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 23 Nov 2021 15:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>11-23 23:50</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/23/1637678807576951.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["자긍심 느낀다"…방탄소년단, 문재인 대통령 대상 축하에 화답 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211123n36390?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211123n36390?mid=e0608&amp;isq=9009</guid>
@@ -334,38 +366,6 @@
             <pubDate>Tue, 23 Nov 2021 10:18:41 GMT</pubDate>
             <content:encoded><![CDATA[OSEN							<em>11-23 18:34</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/11/23/202111231706779417_619ca4800ca44.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 문재인 대통령 축전에 화답…"韓 자긍심 느낀다" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211123n33320?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211123n33320?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 23 Nov 2021 10:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[스포티비뉴스							<em>11-23 18:30</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/11/23/455480_578784_4301.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 문 대통령 축전에 화답 "자긍심 느껴" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211123n33181?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211123n33181?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 23 Nov 2021 10:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>11-23 18:26</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2021/11/23/1637658915_1613770.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS, 그래미 정조준…'올해의 레코드' 후보 지명될까 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211123n33105?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211123n33105?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 23 Nov 2021 10:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[스타in							<em>11-23 18:24</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/11/23/PS21112300094.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["방탄소년단, '올해의 음반' 후보 유력"…24일 그래미 발표에 전 세계 시선 집중 [MD이슈] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211123n32592?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211123n32592?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 23 Nov 2021 10:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>11-23 18:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/11/23/202111231728857990_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
