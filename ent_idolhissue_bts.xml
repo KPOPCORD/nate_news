@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 04:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 05:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美언론 "방탄소년단, 그래미상 후보 오를 것" 전망]]></title>
+            <link>https://news.nate.com/view/20211123n20137?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211123n20137?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 23 Nov 2021 05:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[SBS연예뉴스							<em>11-23 13:56</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2021/11/23/30000726053_700.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 2022 그래미 노미네이트 발표 생중계 참여[공식]]]></title>
             <link>https://news.nate.com/view/20211123n17102?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 23 Nov 2021 01:58:30 GMT</pubDate>
             <content:encoded><![CDATA[OSEN							<em>11-23 10:20</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/11/23/202111230916779156_619c38cd1f80f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HOT 피플]'K 아이돌' 방탄소년단, 세계 팝 시장 정상에 깃발 꽂다]]></title>
-            <link>https://news.nate.com/view/20211123n01423?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211123n01423?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 23 Nov 2021 01:58:30 GMT</pubDate>
-            <content:encoded><![CDATA[스타in							<em>11-23 10:11</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/11/23/PS21112300046.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
