@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 20:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 21:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/24/14652345_729578_3221_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['2년 연속 그래미 노미네이트' 방탄소년단 지민 "기회 만들어준 큰 사랑 감사"…아미 사랑은 '박다정♥' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211125n01917?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211125n01917?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 24 Nov 2021 21:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>11-25 05:56</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/25/2021112505525623086_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[그래미 후보 'BTS', 병역 혜택받나?…대선 화약고 될 수도 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211125n01558?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211125n01558?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Wed, 24 Nov 2021 09:18:13 GMT</pubDate>
             <content:encoded><![CDATA[티브이데일리							<em>11-24 18:02</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2021/11/24/241613949.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, '제임스 코든쇼'서 'Permission to Dance' 퍼포먼스 펼쳐 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211124n33278?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211124n33278?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 24 Nov 2021 09:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[스타데일리뉴스							<em>11-24 17:46</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/11/24/311789_358096_4452.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
