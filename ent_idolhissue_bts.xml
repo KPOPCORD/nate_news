@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 03:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 04:21:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['제임스 코든 쇼', 방탄소년단 출연 '크로스워크 콘서트' 선공개]]></title>
+            <link>https://news.nate.com/view/20211124n17305?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211124n17305?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 24 Nov 2021 04:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-24 12:30</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/24/14651977_728949_3929_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS, 그래미 본상 후보 불발 말 나오는 심사 기준]]></title>
+            <link>https://news.nate.com/view/20211124n16927?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211124n16927?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 24 Nov 2021 04:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>11-24 12:15</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/11/24/001d3a43-9b3e-4d2f-94d3-04c2360ea9b0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[굳건한 인기…BTS, '마이 유니버스'로 빌보드 핫100 8주 연속 상위권]]></title>
             <link>https://news.nate.com/view/20211124n16646?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 24 Nov 2021 01:59:27 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>11-24 10:29</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/24/1637717287447316.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["BTS '버터' 퇴짜" 외신들도 그래미 비판]]></title>
-            <link>https://news.nate.com/view/20211124n10628?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211124n10628?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 24 Nov 2021 01:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>11-24 10:23</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/11/24/l_2021112402001408300282611.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SC초점] 방탄소년단, '그래미' 수상 청신호…외신도 화난 '퇴짜 논란']]></title>
-            <link>https://news.nate.com/view/20211124n10388?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211124n10388?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 24 Nov 2021 01:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>11-24 10:18</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2021/11/24/2021112501001830300120131.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
