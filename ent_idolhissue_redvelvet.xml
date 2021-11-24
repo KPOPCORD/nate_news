@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 23:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 00:46:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스타서베이] GLOBAL IT GIRL은 누구? 블랙핑크 리사 589,560표로 현재 1위, 2위 에스파 카리나에 173,360표 앞서…블랙핑크 제니·케플러 최유진·레드벨벳 슬기 추격 중]]></title>
+            <link>https://news.nate.com/view/20211124n05486?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20211124n05486?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Wed, 24 Nov 2021 00:45:19 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-24 08:42</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/24/14651959_728923_4021_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스타서베이] GLOBAL IT GIRL은 누구? 블랙핑크 리사 463,490표로 현재 1위, 2위 에스파 카리나에 58,460표 앞서…블랙핑크 제니·케플러 최유진·레드벨벳 슬기 추격 중]]></title>
             <link>https://news.nate.com/view/20211123n04964?mid=e0608&amp;isq=9012</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 17 Nov 2021 14:14:59 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-17 22:23</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/17/14650034_725404_2152_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[UHD포토] 레드벨벳(Red Velvet) 웬디, '안경와니가 보고싶습니다' (웬디의 영스트리트 출근길)]]></title>
-            <link>https://news.nate.com/view/20211117n41437?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20211117n41437?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 17 Nov 2021 14:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-17 22:22</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/17/14650033_725403_2117_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
