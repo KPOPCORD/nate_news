@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 12:24:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 13:24:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단X콜드플레이 'My Universe' 美빌보드 8주연속 상위권]]></title>
+            <link>https://news.nate.com/view/20211124n38965?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211124n38965?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 24 Nov 2021 13:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>11-24 21:43</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/11/24/8e3bb892-e27a-41df-9ba5-449aed97c690.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 '작은 것들을 위한 시' 뮤비, 최초 '14억뷰' 돌파]]></title>
+            <link>https://news.nate.com/view/20211124n38564?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211124n38564?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 24 Nov 2021 13:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>11-24 21:19</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/11/24/c6c101e7-eb35-4d4b-b3b8-694e4a535e9a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 2년 연속 그래미 후보…본상 후보 탈락 논란]]></title>
             <link>https://news.nate.com/view/20211124n37288?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 24 Nov 2021 09:18:13 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>11-24 17:34</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/11/24/202111241729228010_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 '제임스 코든쇼' 엔딩 장식…'Permission to Dance' 한옥 배경 퍼포먼스]]></title>
-            <link>https://news.nate.com/view/20211124n32318?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211124n32318?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 24 Nov 2021 09:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>11-24 17:25</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/24/2021112417201945862_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제임스 코든, 방탄소년단 UN 오프닝→"아미 15살 소녀들" 발언 해명→사과]]></title>
-            <link>https://news.nate.com/view/20211124n32308?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211124n32308?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 24 Nov 2021 09:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>11-24 17:25</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/11/24/202111241657228010_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
