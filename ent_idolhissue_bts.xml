@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 09:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 10:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단(BTS), 美 인기 토크쇼 '제임스 코든쇼' 출연! 유쾌한 인터뷰+특별한 퍼포먼스]]></title>
+            <link>https://news.nate.com/view/20211124n35753?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211124n35753?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 24 Nov 2021 10:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-24 19:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/24/14652260_729442_121_org.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 美 '제임스 코든쇼' 출연…서울에서 LA로]]></title>
+            <link>https://news.nate.com/view/20211124n34391?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211124n34391?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 24 Nov 2021 10:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[더팩트							<em>11-24 18:13</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2021/11/24/202117981637743283.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 美 '제임스 코든쇼' 출연…"벌써 많은 일들 있었다"]]></title>
             <link>https://news.nate.com/view/20211124n34081?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 24 Nov 2021 09:18:13 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>11-24 17:14</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/24/1637741528830206.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 美 '제임스 코든쇼'서 한옥 배경 퍼포먼스…서울→LA 품었다]]></title>
-            <link>https://news.nate.com/view/20211124n31633?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211124n31633?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 24 Nov 2021 08:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>11-24 17:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/11/24/202111241701567121_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 美토크쇼 '제임스 코든쇼'서 매료]]></title>
-            <link>https://news.nate.com/view/20211124n31411?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211124n31411?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 24 Nov 2021 08:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[TV리포트							<em>11-24 17:06</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2021/11/24/ba2af445-cb85-4d2c-9804-421719b1cd3c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
