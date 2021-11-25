@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 21:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 22:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 제이홉, "그래미 후보 감사, 팬들의 함성과 응원이 에너지 드링크"]]></title>
+            <link>https://news.nate.com/view/20211126n03669?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211126n03669?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 25 Nov 2021 22:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>11-26 07:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/26/1637875130320597.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 병역특례 허용 법안 일단 보류 [연예뉴스 HOT①]]]></title>
+            <link>https://news.nate.com/view/20211126n03605?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211126n03605?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 25 Nov 2021 22:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠동아							<em>11-26 06:58</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2021/11/26/110463935.2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AMA 석권…방탄소년단, 박신혜-최태준 결혼 소식外 [★온탕냉탕]]]></title>
             <link>https://news.nate.com/view/20211126n03216?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 25 Nov 2021 07:17:03 GMT</pubDate>
             <content:encoded><![CDATA[SBS연예뉴스							<em>11-25 17:21</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2021/11/25/30000726053_700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[퇴근길이슈] BTS 병역특례 보류·최현우 열애설·팝핀현준 일침]]></title>
-            <link>https://news.nate.com/view/20211125n31661?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211125n31661?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 25 Nov 2021 08:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[조이뉴스24							<em>11-25 17:06</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2021/11/25/7583b83b7c7b6e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최시원, 유니세프 고액후원자 '아너스클럽' 가입. 김연아 BTS도]]></title>
-            <link>https://news.nate.com/view/20211125n31072?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211125n31072?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 25 Nov 2021 08:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠서울							<em>11-25 16:55</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2021/11/25/2021112501001305200095361.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
