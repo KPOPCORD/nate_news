@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 10:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 11:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전대미문 BTS, 48년만의 대중가수 병역특례 요구가 말하는 것[SS톡]]]></title>
+            <link>https://news.nate.com/view/20211125n36910?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211125n36910?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 25 Nov 2021 11:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠서울							<em>11-25 20:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2021/11/25/2021112601001319000096921.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정청래 의원 "대중가요계 공정한 저작권료 분배해야 제2의 방탄소년단(BTS) 나온다"…K-POP 상생을 위한 대중음악 저작권료 분배율 개선 방안 토론회 개최]]></title>
+            <link>https://news.nate.com/view/20211125n36274?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211125n36274?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 25 Nov 2021 11:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>11-25 19:28</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/11/25/l_2021112502001528300307811.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["방탄소년단, 병역특례 가능할까?"…국방위, 25일 '병역법 개정안' 논의]]></title>
             <link>https://news.nate.com/view/20211125n15121?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 25 Nov 2021 08:20:45 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-25 16:17</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/25/14652592_730036_1636_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단(BTS) 뷔, 드라마 '그 해 우리는' OST 가창 참여]]></title>
-            <link>https://news.nate.com/view/20211125n28611?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211125n28611?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 25 Nov 2021 07:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-25 16:08</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/25/14652586_730024_733_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안철수 대선후보 "방탄소년단(BTS) 대체복무 자격 충분"]]></title>
-            <link>https://news.nate.com/view/20211125n27267?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211125n27267?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 25 Nov 2021 07:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>11-25 15:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/11/25/l_2021112502001507800303571.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
