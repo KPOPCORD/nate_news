@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 09:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 10:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/24/14652348_729582_341_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["방탄소년단, 병역특례 가능할까?"…국방위, 25일 '병역법 개정안' 논의 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211125n15121?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211125n15121?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 25 Nov 2021 10:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[디스패치							<em>11-25 19:08</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2021/11/25/d40ab1fd-9a34-4096-b09a-53b764c15695.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 제이홉 "여러분들의 함성과 응원은 에너지 드링크" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211125n35318?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211125n35318?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 25 Nov 2021 10:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠한국							<em>11-25 18:33</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2021/11/25/sjmao20211125182824_O_00_C_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["방탄소년단이 만진 '차' 내가 살래"…전 세계 아미 '들썩' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211125n34470?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211125n34470?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Thu, 25 Nov 2021 07:17:03 GMT</pubDate>
             <content:encoded><![CDATA[스포츠경향							<em>11-25 15:50</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/11/25/l_2021112502001507800303571.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국회, '방탄소년단 병역특례법' 보류…국방부 난색 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211125n26484?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211125n26484?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 25 Nov 2021 07:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>11-25 15:38</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/11/25/202111251423617531_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스타서베이 결과] GLOBAL IT BOY는 방탄소년단 지민 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211125n24817?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211125n24817?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 25 Nov 2021 07:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-25 15:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/25/14652545_729953_1214_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
