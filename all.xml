@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 11:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 12:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/24/14652348_729582_341_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS 병역특례법…국방위, 처리 보류 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211125n37296?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211125n37296?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 25 Nov 2021 12:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[OBS TV							<em>11-25 20:24</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ob/2021/11/25/1334783_533264_4317.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[전문] 기동민 의원 "방탄소년단(BTS) 발자취가 계속될 수 있도록 지혜를 모아주십시오" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211125n36932?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211125n36932?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 25 Nov 2021 12:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>11-25 20:11</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/11/25/l_2021112502001529900308552.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전대미문 BTS, 48년만의 대중가수 병역특례 요구가 말하는 것[SS톡] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211125n36910?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211125n36910?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Thu, 25 Nov 2021 08:20:45 GMT</pubDate>
             <content:encoded><![CDATA[조이뉴스24							<em>11-25 16:36</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2021/11/25/7583b83b7c7b6e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["방탄소년단 병역 특례, 신중할 필요"…국방부, BTS 병역법 개정 논의 보류[종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211125n30031?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211125n30031?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 25 Nov 2021 08:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>11-25 16:35</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/11/25/202111251530775086_619f2e42d5d98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스타서베이] 글로벌 브랜드 밸류가 가장 높은 KPOP 제왕은 누구? 방탄소년단 지민 22,220표로 현재 1위…엔하이픈 선우·엔하이픈 제이·방탄소년단 뷔·김재환 추격 중 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211125n29062?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211125n29062?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 25 Nov 2021 08:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-25 16:17</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/25/14652592_730036_1636_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
