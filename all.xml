@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 02:31:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 03:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,30 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/24/14652350_729584_3722_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["미모도 NO.1, 신뢰도 NO.1" 방탄소년단 지민, '걷는 길이 곧 런웨이' 신한카드 메이킹 영상 톱모델 아우라 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211126n14159?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211126n14159?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 26 Nov 2021 03:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-26 12:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/26/14652936_730646_599_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박명수 "싸이·박진영·방시혁 길 닦고…BTS, AMA 수상 자랑스러워"(라디오쇼) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211126n13648?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211126n13648?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 26 Nov 2021 03:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>11-26 11:44</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/11/26/202111261058346810_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["응원 애정 감동♥" 방탄소년단 정국, '中팬클럽' 미국 콘서트 스타디움 순회 'WISH JK A GREAT CONCERT' LED 트럭 응원 서포트…'지극 정성 팬심' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211126n13091?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211126n13091?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 26 Nov 2021 03:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-26 11:32</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/26/14652923_730613_293_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[스타서베이] 글로벌 브랜드 밸류가 가장 높은 KPOP 제왕은 누구? 방탄소년단 지민 119,440표로 현재 1위…엔하이픈 선우·김재환·스트레이 키즈 리노·방탄소년단 뷔 추격 중 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211126n12017?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211126n12017?mid=e0608&amp;isq=9009</guid>
@@ -342,30 +366,6 @@
             <pubDate>Thu, 25 Nov 2021 23:16:36 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>11-26 08:00</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/26/1637880039910758.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SC초점] "의리도 월드클래스"…방탄소년단 뷔, '그 해 우리는' OST 참여에 쏠린 기대 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211125n40349?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211125n40349?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 25 Nov 2021 23:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>11-26 07:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2021/11/25/2021112701001969400128331.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[종합] "'AMA' 대상도 부족했나"…방탄소년단, 병역특례 보류→완전체 활동 내년까지 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211125n40348?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211125n40348?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 25 Nov 2021 23:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>11-26 07:31</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2021/11/25/2021112701001969300128321.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 제이홉, "그래미 후보 감사, 팬들의 함성과 응원이 에너지 드링크" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211126n03669?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211126n03669?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 25 Nov 2021 22:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>11-26 07:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/26/1637875130320597.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
