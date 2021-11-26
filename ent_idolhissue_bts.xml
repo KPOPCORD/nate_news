@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 22:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 23:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 정국, 고혹적인 비주얼로 여심 저격]]></title>
+            <link>https://news.nate.com/view/20211127n02100?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211127n02100?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 26 Nov 2021 23:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>11-27 08:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/27/1637966572253383.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KBS '2TV 생생정보', 광주 양림동 BTS 제이홉 벽화 소개 "광주의 아들"]]></title>
+            <link>https://news.nate.com/view/20211127n01880?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211127n01880?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 26 Nov 2021 23:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>11-27 07:19</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/27/1637965088566460.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[스한초점] "美 AMA 정상" 방탄소년단, 마지막 퍼즐로 남은 '그래미']]></title>
             <link>https://news.nate.com/view/20211127n01756?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 26 Nov 2021 06:20:06 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-26 14:21</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/26/14653011_730793_1858_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 전원 입영 연기 신청→내년까지 '완전체' 가능]]></title>
-            <link>https://news.nate.com/view/20211126n17212?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211126n17212?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 26 Nov 2021 05:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>11-26 13:56</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/11/26/202111261338398083_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 리트윗종합순위] 방탄소년단 지민 31회째 1위, 2위 방탄소년단 뷔에 1,747회 앞서…3위 방탄소년단 정국·4위 블랙핑크 리사·5위 임영웅]]></title>
-            <link>https://news.nate.com/view/20211126n16941?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211126n16941?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 26 Nov 2021 05:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-26 13:49</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/26/14652962_730719_4713_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
