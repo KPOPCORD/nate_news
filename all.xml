@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 06:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 07:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/24/14652350_729584_3722_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[박명수 "BTS AMA 수상, 나라의 경사…예의도 바르더라" (라디오쇼) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211126n22278?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211126n22278?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 26 Nov 2021 07:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>11-26 16:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2021/11/26/20211126509153.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 캐릭터 타이니탄 초콜릿, 두 번째 버전 공개 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211126n22197?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211126n22197?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 26 Nov 2021 07:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[스포티비뉴스							<em>11-26 15:58</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/11/26/456103_579559_3108.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가온차트 47주차 디지털차트 1위는 소코도모의 '회전목마'…최다곡 차트진입은 아이유·임영웅·방탄소년단·비오·10CM·폴킴 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211126n20024?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211126n20024?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Fri, 26 Nov 2021 04:20:19 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-26 13:04</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/26/14652940_730677_210_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["BTS는 달콤하다"…타이니탄, 초콜릿 2탄 출시 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211126n14543?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211126n14543?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 26 Nov 2021 04:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[디스패치							<em>11-26 12:53</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2021/11/26/cea56681-6e46-4085-bfba-9d01f4b0a3b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[독자추천종합순위] 영탁 68회째 1위, 2위 방탄소년단 지민에 8,985표 앞서…3위 이찬원·4위 방탄소년단 뷔·5위 방탄소년단 정국 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211126n15011?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211126n15011?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 26 Nov 2021 04:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-26 12:45</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/26/14652946_730670_430_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
