@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 20:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 21:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/24/14652350_729584_3722_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[美서 만난 BTS 팬들 "'AMA' 대상 자랑스러워…그래미도 기대해" [BTS LA 공연 현장… (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211127n01300?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211127n01300?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 26 Nov 2021 21:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[스타in							<em>11-27 06:02</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/11/27/PS21112700053.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤여정 "방탄소년단·'오징어 게임' 등 각광받는 이유? 세계가 갑자기 주목했을 뿐" [청룡영화상] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211126n31878?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211126n31878?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Fri, 26 Nov 2021 05:15:17 GMT</pubDate>
             <content:encoded><![CDATA[K STAR							<em>11-26 13:39</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kb/2021/11/26/new_news__20211126114155_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 캐릭터 타이니탄 메시지 초콜릿 2탄 11월 29일 출시 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211126n16196?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211126n16196?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 26 Nov 2021 05:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>11-26 13:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/11/26/202111261328257910_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
