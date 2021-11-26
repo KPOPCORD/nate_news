@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 01:57:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 02:31:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/24/14652350_729584_3722_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[스타서베이] 글로벌 브랜드 밸류가 가장 높은 KPOP 제왕은 누구? 방탄소년단 지민 119,440표로 현재 1위…엔하이픈 선우·김재환·스트레이 키즈 리노·방탄소년단 뷔 추격 중 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211126n12017?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211126n12017?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 26 Nov 2021 02:31:03 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-26 11:10</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/26/14652912_730587_842_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["BTS는 행복"…14세 다운증후군 소년, 기적 같은 선물을 받았다 [종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211126n10512?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211126n10512?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Thu, 25 Nov 2021 22:16:50 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>11-26 07:01</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/26/1637875130320597.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 병역특례 허용 법안 일단 보류 [연예뉴스 HOT①] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211126n03605?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211126n03605?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 25 Nov 2021 22:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠동아							<em>11-26 06:58</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2021/11/26/110463935.2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
