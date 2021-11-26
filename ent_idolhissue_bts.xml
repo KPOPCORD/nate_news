@@ -4,16 +4,24 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 21:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 22:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[美서 만난 BTS 팬들 "'AMA' 대상 자랑스러워…그래미도 기대해" [BTS LA 공연 현장…]]></title>
+            <title><![CDATA[[스한초점] "美 AMA 정상" 방탄소년단, 마지막 퍼즐로 남은 '그래미']]></title>
+            <link>https://news.nate.com/view/20211127n01756?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211127n01756?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 26 Nov 2021 22:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠한국							<em>11-27 07:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2021/11/27/dyhero21320211126182750_O_01_C_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美서 만난 BTS 팬들 "'AMA' 대상 자랑스러워…그래미도 기대해" [BTS LA 현장]]]></title>
             <link>https://news.nate.com/view/20211127n01300?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211127n01300?mid=e0608&amp;isq=9009</guid>
             <pubDate>Fri, 26 Nov 2021 21:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[스타in							<em>11-27 06:02</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/11/27/PS21112700053.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[스타in							<em>11-27 06:11</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/11/27/PS21112700058.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤여정 "방탄소년단·'오징어 게임' 등 각광받는 이유? 세계가 갑자기 주목했을 뿐" [청룡영화상]]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 26 Nov 2021 05:15:17 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-26 13:49</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/26/14652962_730719_4713_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국방부, 방탄소년단 병역특례 사실상 반대…"사회적 합의 필요"]]></title>
-            <link>https://news.nate.com/view/20211126n16491?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211126n16491?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 26 Nov 2021 05:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[K STAR							<em>11-26 13:39</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kb/2021/11/26/new_news__20211126114155_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
