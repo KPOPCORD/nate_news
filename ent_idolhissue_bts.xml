@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 08:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 09:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["BTS 공연 보려고 청소 알바"…다운증후군 소년에 일어난 기적[이슈S]]]></title>
+            <link>https://news.nate.com/view/20211126n25951?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211126n25951?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 26 Nov 2021 09:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[스포티비뉴스							<em>11-26 17:45</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/11/26/456151_579623_3111.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["방탄소년단 보려고 청소 알바" 美 다운증후군 소년에 기적같은 선물 [이슈&톡]]]></title>
+            <link>https://news.nate.com/view/20211126n25140?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211126n25140?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 26 Nov 2021 09:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>11-26 17:22</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2021/11/26/261614279.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박명수 "BTS AMA 수상, 나라의 경사…예의도 바르더라" (라디오쇼)]]></title>
             <link>https://news.nate.com/view/20211126n22278?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 26 Nov 2021 05:15:17 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-26 13:17</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/26/14652948_730686_1453_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["남신 강림" 방탄소년단 정국, '오드 아이' 신비 눈빛X 고귀한 천상계 남신 자태→환상적 라이브 퍼포먼스 '토코페디아']]></title>
-            <link>https://news.nate.com/view/20211126n15463?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211126n15463?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 26 Nov 2021 04:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-26 13:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/26/14652947_730680_78_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["넓은 음역대와 깊은 보이스톤" 방탄소년단 뷔, 최우식 주연 '그 해 우리는' OST 가창 낙점…세번째 OST참여곡]]></title>
-            <link>https://news.nate.com/view/20211126n15367?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211126n15367?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 26 Nov 2021 04:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-26 13:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/26/14652940_730677_210_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
