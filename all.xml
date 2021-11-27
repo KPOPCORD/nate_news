@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 04:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 05:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,8 +252,16 @@
             <link>https://news.nate.com/view/20211127n05806?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211127n05806?mid=e0608&amp;isq=9009</guid>
             <pubDate>Sat, 27 Nov 2021 04:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[더팩트							<em>11-27 13:08</em>]]></content:encoded>
+            <content:encoded><![CDATA[더팩트							<em>11-27 14:03</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2021/11/27/202195081637984934.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보랏빛 한국어로 물든 LA스타디움, 방탄소년단 2년만 대면공연 전야제 어땠나[BTS in LA] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211127n06293?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211127n06293?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 27 Nov 2021 05:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>11-27 13:46</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/11/27/202111271324390410_1.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단, 11월 가수 브랜드평판 1위 차지 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -358,14 +366,6 @@
             <pubDate>Sat, 27 Nov 2021 00:44:59 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>11-27 09:21</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/27/2021112709171044426_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최고·최초·최단·최장·유일…방탄소년단 진 'Yours' 日열도 '점령' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211127n03145?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211127n03145?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 27 Nov 2021 00:44:59 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>11-27 09:19</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/27/2021112709154732212_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
