@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 09:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 10:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LA 현장]입국심사관도 "최고의 선택" 엄지척…온 도시가 BTS로 들썩]]></title>
+            <link>https://news.nate.com/view/20211127n10362?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211127n10362?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 27 Nov 2021 10:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[스포티비뉴스							<em>11-27 18:55</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/11/27/456219_579740_1352.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["화끈한 중국팬", 방탄소년단 뷔 LA콘서트 위해 "할리우드 대형광고+LED 트럭 동원"]]></title>
+            <link>https://news.nate.com/view/20211127n09926?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211127n09926?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 27 Nov 2021 10:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>11-27 18:14</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/11/27/202111271812158255_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["눈물 날 듯…" 방탄소년단 다시 만나는 소감 물어보니 [BTS LA 현장]]]></title>
             <link>https://news.nate.com/view/20211127n08123?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 27 Nov 2021 01:57:00 GMT</pubDate>
             <content:encoded><![CDATA[스타in							<em>11-27 10:23</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/11/27/PS21112700105.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[11월 가수 브랜드평판, 1위 방탄소년단·2위 임영웅·3위 에스파]]></title>
-            <link>https://news.nate.com/view/20211127n04086?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211127n04086?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 27 Nov 2021 01:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠투데이							<em>11-27 10:16</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2021/11/27/1637975659_20210521125954-986.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 임영웅 그리고 에스파]]></title>
-            <link>https://news.nate.com/view/20211127n03401?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211127n03401?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 27 Nov 2021 01:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>11-27 09:35</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/11/27/l_2021112702001587100320301.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
