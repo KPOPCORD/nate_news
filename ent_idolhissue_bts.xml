@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 01:56:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 02:31:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['방탄소년단♥' 아미, 꿈이야? 현실이야? "BTS 만난 후 인생 바뀌어"[BTS in LA]]]></title>
+            <link>https://news.nate.com/view/20211128n06746?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211128n06746?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 28 Nov 2021 02:31:40 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>11-28 11:21</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/11/28/202111280856770981_61a2cbe799162.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유튜브 인기 아티스트 1위 아이유…2위 방탄소년단·3위 트와이스·4위 에스파·5위 임영웅]]></title>
+            <link>https://news.nate.com/view/20211128n06508?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211128n06508?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 28 Nov 2021 02:31:40 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-28 11:12</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/28/14653333_731370_1114_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 기다리고 기다렸다 [#더가보자고③]]]></title>
             <link>https://news.nate.com/view/20211128n06022?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sun, 28 Nov 2021 00:47:25 GMT</pubDate>
             <content:encoded><![CDATA[마이데일리							<em>11-28 09:28</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/11/28/202111280927158407_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BTS in LA]놀이기구에도 공연장 지붕에도 온통 BTS…'천사의 도시'가 들썩]]></title>
-            <link>https://news.nate.com/view/20211128n04602?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211128n04602?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 28 Nov 2021 00:47:25 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>11-28 09:27</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2021/11/28/2021112901002094600139363.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 콘서트장, 하늘서 봤더니…'전세계 가장 비싼 구장', 어마어마했다]]></title>
-            <link>https://news.nate.com/view/20211128n04594?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211128n04594?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 28 Nov 2021 00:47:25 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>11-28 09:26</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/11/28/202111280923454220_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
