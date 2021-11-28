@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 13:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 14:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, LA 첫 공연 찾은 '그래미 스타' 리조·앤더슨팩]]></title>
+            <link>https://news.nate.com/view/20211128n18323?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211128n18323?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 28 Nov 2021 14:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>11-28 22:56</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/11/28/4b26c3eb-41a7-4acf-8f39-52c99233ec64.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 2년만 아미 함성 가득한 공연장에 "이거 꿈 아니죠?"]]></title>
             <link>https://news.nate.com/view/20211128n17832?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 28 Nov 2021 09:16:48 GMT</pubDate>
             <content:encoded><![CDATA[스타투데이							<em>11-28 17:45</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2021/11/28/20211128_5027687_1638088914.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA['당나귀 귀' 백지선 감독, 아이스하키계의 BTS…"감독은 조금 뚱뚱해야"]]></title>
-            <link>https://news.nate.com/view/20211128n14661?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211128n14661?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 28 Nov 2021 09:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>11-28 17:42</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2021/11/28/20211128_1000895.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
