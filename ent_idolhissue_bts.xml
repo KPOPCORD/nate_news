@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 10:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 11:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["이거 꿈 아니죠?" 방탄소년단, 美LA서 2년만의 대면 공연]]></title>
+            <link>https://news.nate.com/view/20211128n16743?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211128n16743?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 28 Nov 2021 11:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[스타in							<em>11-28 20:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/11/28/PS21112800154.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[아미 인터뷰] 사춘기 딸과 아빠를 이어준건, BTS]]></title>
+            <link>https://news.nate.com/view/20211128n16704?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211128n16704?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 28 Nov 2021 11:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>11-28 19:59</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/11/28/l_2021112802001647000330131.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["내가 '아미'다!" 이색 아이템으로 시선 끈 방탄소년단 팬들 [BTS LA 현장]]]></title>
             <link>https://news.nate.com/view/20211128n09859?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sun, 28 Nov 2021 08:18:44 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>11-28 16:47</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/11/28/202111281627420410_1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스경X현장]보라색으로 물든 LA…BTS 공연장부터 코리아타운까지 '아미의 도시']]></title>
-            <link>https://news.nate.com/view/20211128n12113?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211128n12113?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 28 Nov 2021 07:17:07 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>11-28 16:43</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/11/28/l_2021112902001635500328003.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 오늘(28일) 2년만 오프라인 美콘서트 개최(공식)]]></title>
-            <link>https://news.nate.com/view/20211128n13038?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211128n13038?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 28 Nov 2021 08:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[조이뉴스24							<em>11-28 16:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2021/11/28/726028b5101907.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
