@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 04:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 05:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[빅데이터가수브랜드종합순위] 영탁 8회째 1위, 2위 블랙핑크 리사에 266,081점 앞서…3위 이찬원·4위 방탄소년단 지민·5위 임영웅]]></title>
+            <link>https://news.nate.com/view/20211128n09243?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20211128n09243?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Sun, 28 Nov 2021 05:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-28 13:44</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/28/14653357_731441_4114_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙핑크, 유튜브 구독자 7천만 명 돌파]]></title>
+            <link>https://news.nate.com/view/20211128n08966?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20211128n08966?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Sun, 28 Nov 2021 05:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[스타데일리뉴스							<em>11-28 13:29</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/11/28/312058_358401_2843.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기사열독종합순위] 영탁 7회째 1위, 2위 블랙핑크 리사에 174,300회 앞서…3위 이찬원·4위 임영웅·5위 방탄소년단 지민]]></title>
             <link>https://news.nate.com/view/20211128n08302?mid=e0608&amp;isq=9895</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 25 Nov 2021 07:15:05 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-25 15:37</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/25/14652566_729982_3526_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["자존심 세우지 마"…소련여자, 블랙핑크(BLACKPINK) 제니 저격한 이유]]></title>
-            <link>https://news.nate.com/view/20211125n25329?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20211125n25329?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Thu, 25 Nov 2021 07:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-25 15:22</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/25/14652554_729964_2010_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[빅데이터가수브랜드종합순위] 영탁 6회째 1위, 2위 블랙핑크 리사에 241,559점 앞서…3위 방탄소년단 지민·4위 방탄소년단 뷔·5위 임영웅]]></title>
-            <link>https://news.nate.com/view/20211125n19917?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20211125n19917?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Thu, 25 Nov 2021 05:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-25 13:46</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/25/14652505_729869_4439_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
