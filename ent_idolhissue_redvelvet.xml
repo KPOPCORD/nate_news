@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 23:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 00:47:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스타서베이] 글로벌 브랜드 밸류가 가장 높은 KPOP 여왕은 누구? 에스파 카리나 125,150표로 현재 1위…케플러 최유진·레드벨벳 슬기·케플러 션샤오팅·블랙핑크 리사 추격 중]]></title>
+            <link>https://news.nate.com/view/20211128n04390?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20211128n04390?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Sun, 28 Nov 2021 00:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-28 09:12</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/28/14653317_731339_115_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[문세윤X키, 한 건 했다…레드벨벳 '포즈' 찬스 없이 정답 성공(놀토)[어제TV]]]></title>
             <link>https://news.nate.com/view/20211127n13767?mid=e0608&amp;isq=9012</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 24 Nov 2021 13:22:57 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-24 21:41</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/24/14652353_729586_399_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '돌아서는 찰나' (SBS TV 동물농장 출퇴근길)]]></title>
-            <link>https://news.nate.com/view/20211124n38929?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20211124n38929?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 24 Nov 2021 13:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-24 21:40</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/24/14652354_729587_3939_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
