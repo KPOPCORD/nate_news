@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 12:24:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 13:24:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,12 +248,28 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/24/14652358_729591_4337_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 진, '오징어 게임' 영희 변신…귀여운 양갈래 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211129n35789?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211129n35789?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 29 Nov 2021 13:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>11-29 21:36</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/29/2021112920355396419_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단, 美 LA 2회차 공연 성료…메건 디 스탤리언 깜짝 등장 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211129n33203?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211129n33203?mid=e0608&amp;isq=9009</guid>
             <pubDate>Mon, 29 Nov 2021 10:18:13 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>11-29 21:17</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/29/tn_1638188224984_451000_0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전 세계 아미 LA 집결…BTS 2년만 대면 콘서트 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211129n35417?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211129n35417?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 29 Nov 2021 13:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[OBS TV							<em>11-29 21:09</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ob/2021/11/29/1335160_533631_215.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단 진, '오징어게임' 영희 변신 [TD#] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -350,22 +366,6 @@
             <pubDate>Mon, 29 Nov 2021 09:17:30 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>11-29 17:35</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/29/1638174852286473.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 진 '보라빛 천사가 내려와'[엑's HD포토] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211129n30756?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211129n30756?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 29 Nov 2021 09:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>11-29 17:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/29/1638174803687129.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS '치명적인 뒤태라인'[엑's HD포토] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211129n30495?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211129n30495?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 29 Nov 2021 09:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>11-29 17:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/29/1638174711987675.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
