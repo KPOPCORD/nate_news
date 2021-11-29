@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 11:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 12:24:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/24/14652358_729591_4337_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단, 美 LA 2회차 공연 성료…메건 디 스탤리언 깜짝 등장 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211129n33203?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211129n33203?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 29 Nov 2021 10:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>11-29 21:17</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/29/tn_1638188224984_451000_0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 진, '오징어게임' 영희 변신 [TD#] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211129n34384?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211129n34384?mid=e0608&amp;isq=9009</guid>
@@ -286,14 +294,6 @@
             <pubDate>Mon, 29 Nov 2021 10:18:13 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>11-29 18:50</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/29/1638158182847869.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 美 LA 2회차 공연 성료…매건 디 스탤리언 깜짝 등장 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211129n33203?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211129n33203?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 29 Nov 2021 10:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>11-29 18:46</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/29/2021112917333422004_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단, 또 하나의 기록…"소파이 스타디움 최다 티켓 판매" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
