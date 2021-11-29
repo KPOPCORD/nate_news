@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 22:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 23:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스타서베이] 글로벌 브랜드 밸류가 가장 높은 KPOP 여왕은 누구? 에스파 카리나 167,070표로 현재 1위…케플러 최유진·레드벨벳 슬기·블랙핑크 리사·케플러 션샤오팅 추격 중]]></title>
+            <link>https://news.nate.com/view/20211130n03784?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20211130n03784?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Mon, 29 Nov 2021 23:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-30 07:48</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/30/14653789_732054_4513_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[빅데이터가수브랜드종합순위] 영탁 9회째 1위, 2위 블랙핑크 리사에 291,626점 앞서…3위 이찬원·4위 방탄소년단 지민·5위 임영웅]]></title>
             <link>https://news.nate.com/view/20211129n21076?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 28 Nov 2021 00:45:10 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-28 09:12</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/28/14653317_731339_115_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스타서베이] 글로벌 브랜드 밸류가 가장 높은 KPOP 여왕은 누구? 에스파 카리나 85,150표로 현재 1위…케플러 최유진·레드벨벳 슬기·케플러 션샤오팅·블랙핑크 리사 추격 중]]></title>
-            <link>https://news.nate.com/view/20211127n02952?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20211127n02952?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Sat, 27 Nov 2021 00:42:56 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-27 09:09</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/27/14653224_731147_751_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
