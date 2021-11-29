@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 20:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 21:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/24/14652358_729591_4337_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['2년 응축' 에너지 폭발…BTS, '아미' 곁에서 다시 날갯짓 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211130n02302?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211130n02302?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 29 Nov 2021 21:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[스타in							<em>11-30 06:02</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/11/30/PS21113000003.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메건 디 스탤리언, BTS 콘서트 깜짝 출연…AMA서 못한 '버터' 불렀다 [LA현장] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211130n01836?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211130n01836?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 29 Nov 2021 21:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>11-30 05:18</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/11/30/202111291158827740_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS 지민, 아미 설레게 하는 장꾸 미소 "지금 만나러 가요"[스타IN★] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211129n33292?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211129n33292?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Mon, 29 Nov 2021 09:17:30 GMT</pubDate>
             <content:encoded><![CDATA[스포츠경향							<em>11-29 18:04</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/11/29/l_2021113002001709100343753.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["자부심 가져요"…방탄소년단, 눈물 더한 고백 (콘서트 종합)[엑's in LA: BTS] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211129n31598?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211129n31598?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 29 Nov 2021 09:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>11-29 17:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/29/1638158192169592.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 뷔 '촉촉한 미소에 아미들은 심쿵'[엑's HD포토] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211129n30981?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211129n30981?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 29 Nov 2021 09:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>11-29 17:39</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/11/29/1638175082774451.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
