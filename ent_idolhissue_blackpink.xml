@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 00:47:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 01:59:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 리사 'MONEY' 안무 영상 3억뷰 돌파]]></title>
+            <link>https://news.nate.com/view/20211129n08458?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20211129n08458?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Mon, 29 Nov 2021 01:57:49 GMT</pubDate>
+            <content:encoded><![CDATA[스타데일리뉴스							<em>11-29 10:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/11/29/312065_358409_5925.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스타서베이] 글로벌 브랜드 밸류가 가장 높은 KPOP 여왕은 누구? 에스파 카리나 150,850표로 현재 1위…케플러 최유진·레드벨벳 슬기·케플러 션샤오팅·블랙핑크 리사 추격 중]]></title>
+            <link>https://news.nate.com/view/20211129n06970?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20211129n06970?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Mon, 29 Nov 2021 01:57:49 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>11-29 09:33</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/29/14653441_731585_3218_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 리사 'MONEY' 안무 영상 3억뷰 돌파…최단 신기록]]></title>
             <link>https://news.nate.com/view/20211129n03929?mid=e0608&amp;isq=9895</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 26 Nov 2021 05:13:43 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-26 13:49</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/26/14652962_730719_4713_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스타서베이] 글로벌 브랜드 밸류가 가장 높은 KPOP 여왕은 누구? 케플러 최유진 12,210표로 현재 1위…케플러 션샤오팅·케플러 휴닝바히에·블랙핑크 리사·레드벨벳 슬기 추격 중]]></title>
-            <link>https://news.nate.com/view/20211125n28762?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20211125n28762?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Thu, 25 Nov 2021 08:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-25 16:12</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/25/14652584_730028_1129_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 블랙핑크 리사 코로나19 확진→지수·제니·로제 검사 진행]]></title>
-            <link>https://news.nate.com/view/20211124n35447?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20211124n35447?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Wed, 24 Nov 2021 10:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-25 16:06</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/24/14652249_729431_5133_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
