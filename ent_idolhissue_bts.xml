@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 06:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 07:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 콘서트에 등장한 할아버지 팬, 응원 위해 준비물도 직접]]></title>
+            <link>https://news.nate.com/view/20211130n24883?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211130n24883?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 30 Nov 2021 07:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>11-30 15:36</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2021/11/30/20211130513166.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['LA댁' 김민, '아미'인가봐…방탄소년단 콘서트 직관 "자랑스럽다"]]></title>
+            <link>https://news.nate.com/view/20211130n24439?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211130n24439?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 30 Nov 2021 07:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[스포티비뉴스							<em>11-30 15:29</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/11/30/456722_580372_5224.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[빅데이터가수브랜드종합순위] 영탁 10회째 1위, 2위 블랙핑크 리사에 159,077점 앞서…3위 이찬원·4위 방탄소년단 지민·5위 임영웅]]></title>
             <link>https://news.nate.com/view/20211130n21796?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 30 Nov 2021 04:18:15 GMT</pubDate>
             <content:encoded><![CDATA[더팩트							<em>11-30 13:03</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2021/11/30/202172741638232743.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["CONCERT KING JIMIN♥" 방탄소년단 지민 눈빛에 기절 '셀럽 팬보이' 대거등장 LA공연…하이라이트 장식 SNS강타]]></title>
-            <link>https://news.nate.com/view/20211130n17339?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211130n17339?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 30 Nov 2021 04:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-30 13:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/30/14653836_732129_5739_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 2년만 대면 콘서트 어땠나…'♥아미', "그저 감사하다는 말뿐"[BTS in LA]]]></title>
-            <link>https://news.nate.com/view/20211130n17312?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211130n17312?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 30 Nov 2021 04:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>11-30 12:59</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/11/30/202111300609777667_61a5422baac34.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
