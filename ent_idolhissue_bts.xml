@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 14:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 15:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 MAP OF THE SOUL:7 빌보드 200 187위 '재진입'[공식]]]></title>
+            <link>https://news.nate.com/view/20211130n09480?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211130n09480?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 30 Nov 2021 15:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>11-30 23:28</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/30/tn_1638282484436_491066_0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단X콜드플레이 'My Universe' 빌보드 핫100 29위 9주 차트인[공식]]]></title>
+            <link>https://news.nate.com/view/20211130n38229?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211130n38229?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 30 Nov 2021 15:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>11-30 23:27</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/11/30/2021113023212282845_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['끝내주는 연애' 붐 "데이트 장소 7번 이동? BTS 스케줄도 안 그래"→시즌1 종료 [종합]]]></title>
             <link>https://news.nate.com/view/20211130n37539?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 30 Nov 2021 08:17:41 GMT</pubDate>
             <content:encoded><![CDATA[스포츠월드							<em>11-30 16:31</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2021/11/30/20211130514695.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이키 "스물다섯에 출산, '서른즈음에' 듣고 위로받아…BTS 안무창작 원해"(아카라)[종합]]]></title>
-            <link>https://news.nate.com/view/20211130n26985?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211130n26985?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 30 Nov 2021 08:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>11-30 16:12</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/11/30/202111301347355410_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 콘서트에 등장한 할아버지 팬, 응원 위해 준비물도 직접]]></title>
-            <link>https://news.nate.com/view/20211130n24883?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211130n24883?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 30 Nov 2021 07:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠월드							<em>11-30 15:36</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2021/11/30/20211130513166.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
