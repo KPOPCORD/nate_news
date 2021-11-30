@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 16:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 17:23:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['미녀는 지민을 좋아해' 방탄소년단 지민에 청혼한 빅토리아 시크릿'엔젤'…Jimin stan for life]]></title>
+            <link>https://news.nate.com/view/20211201n00709?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211201n00709?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 30 Nov 2021 17:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>12-01 01:43</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/01/14653990_732413_4154_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 MAP OF THE SOUL:7 빌보드 200 187위 '재진입'[공식]]]></title>
             <link>https://news.nate.com/view/20211130n09480?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 30 Nov 2021 09:15:04 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-30 17:14</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/30/14653902_732289_1141_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이키 "BTS에 안무 선물 하고파…RM 춤 스타일 귀여워서 좋다" (아카라)]]></title>
-            <link>https://news.nate.com/view/20211130n27991?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211130n27991?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 30 Nov 2021 08:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠월드							<em>11-30 16:31</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2021/11/30/20211130514695.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
