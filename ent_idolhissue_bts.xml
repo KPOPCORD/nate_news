@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 11:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 12:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["지민 결혼하자"…BTS 美 콘서트서 청혼한 주인공은]]></title>
+            <link>https://news.nate.com/view/20211130n36391?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211130n36391?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 30 Nov 2021 12:21:02 GMT</pubDate>
+            <content:encoded><![CDATA[스타투데이							<em>11-30 21:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2021/11/30/20211130_5029826_1638273528.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이키 "방탄소년단과 작업하고 싶다…RM 귀여운 춤 스타일 좋아"]]></title>
+            <link>https://news.nate.com/view/20211130n35950?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211130n35950?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 30 Nov 2021 12:21:02 GMT</pubDate>
+            <content:encoded><![CDATA[조이뉴스24							<em>11-30 20:40</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2021/11/30/862240ee96bb0b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["함성 큰 힘 돼"…정국, 삶의 원동력 [엑's in LA: BTS⑦]]]></title>
             <link>https://news.nate.com/view/20211130n31764?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 30 Nov 2021 07:15:19 GMT</pubDate>
             <content:encoded><![CDATA[스포티비뉴스							<em>11-30 15:29</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/11/30/456722_580372_5224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[빅데이터가수브랜드종합순위] 영탁 10회째 1위, 2위 블랙핑크 리사에 159,077점 앞서…3위 이찬원·4위 방탄소년단 지민·5위 임영웅]]></title>
-            <link>https://news.nate.com/view/20211130n21796?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211130n21796?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 30 Nov 2021 06:17:07 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-30 14:44</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/30/14653869_732235_4136_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기사열독종합순위] 영탁 9회째 1위, 2위 블랙핑크 리사에 105,000회 앞서…3위 이찬원·4위 임영웅·5위 방탄소년단 지민]]></title>
-            <link>https://news.nate.com/view/20211130n21249?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211130n21249?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 30 Nov 2021 06:17:07 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>11-30 14:35</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/30/14653864_732222_3313_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
