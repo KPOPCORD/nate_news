@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 07:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 08:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/24/14652359_729592_448_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 '다이너마이트', 올해 애플뮤직 글로벌 스트리밍 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211201n31153?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211201n31153?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 01 Dec 2021 08:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠서울							<em>12-01 16:35</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2021/12/01/2021120201000077300003081.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단(BTS) '다이너마이트', 올해 애플뮤직 글로벌 스트리밍 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211201n28272?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211201n28272?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Wed, 01 Dec 2021 04:21:01 GMT</pubDate>
             <content:encoded><![CDATA[티브이데일리							<em>12-01 13:13</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2021/12/01/1638331789_1614934.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[TD포토] BTS 방탄소년단 지민 '감미로운 보이스' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211201n18965?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211201n18965?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 01 Dec 2021 04:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>12-01 13:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2021/12/01/1638331754_1614933.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
