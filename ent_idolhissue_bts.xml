@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 06:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 07:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단(BTS) '다이너마이트', 올해 애플뮤직 글로벌 스트리밍 1위]]></title>
+            <link>https://news.nate.com/view/20211201n28272?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211201n28272?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 01 Dec 2021 07:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>12-01 15:47</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/12/01/l_2021120102000053300008561.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 'BTS PERMISSION TO DANCE ON STAGE - LA' 콘서트 하이라이트 [SS쇼캠]]]></title>
+            <link>https://news.nate.com/view/20211201n27044?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211201n27044?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 01 Dec 2021 07:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠서울							<em>12-01 15:28</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2021/12/01/20211201152543_m1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[서태지부터 BTS까지 'MV 명가' 쟈니브로스 창립 20주년 "100년 전진하겠다"]]></title>
             <link>https://news.nate.com/view/20211201n23753?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 01 Dec 2021 04:21:01 GMT</pubDate>
             <content:encoded><![CDATA[티브이데일리							<em>12-01 13:10</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2021/12/01/1638331754_1614933.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[TD포토] BTS 방탄소년단 진 '보고싶었어~ 아미~']]></title>
-            <link>https://news.nate.com/view/20211201n18964?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211201n18964?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 01 Dec 2021 04:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>12-01 13:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2021/12/01/1638331736_1614932.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[TD포토] BTS 방탄소년단 정국 '조각인가?']]></title>
-            <link>https://news.nate.com/view/20211201n18963?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211201n18963?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 01 Dec 2021 04:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>12-01 13:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2021/12/01/1638331704_1614931.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
