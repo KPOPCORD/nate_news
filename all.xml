@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 16:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 17:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/24/14652359_729592_448_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['2021 AAA' 이정재·유아인·BTS·에스파 대상…임영웅 4관왕 [종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211202n44051?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211202n44051?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 02 Dec 2021 17:23:52 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>12-03 01:34</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2021/12/02/021615327.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[2021 AAA] "대상만 9개" 임영웅 4관왕·이정재 3관왕→BTS·유아인 2관왕(종합) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211203n00327?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211203n00327?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Thu, 02 Dec 2021 10:18:10 GMT</pubDate>
             <content:encoded><![CDATA[스타투데이							<em>12-02 19:06</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2021/12/02/20211202_4871004_1638439520.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, AAA U+ 아이돌 라이브 인기상 수상 "아미와 영광"[2021 AAA] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211202n36972?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211202n36972?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 02 Dec 2021 10:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>12-02 18:53</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/12/02/2021120218222679532_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
