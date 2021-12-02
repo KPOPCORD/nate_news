@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 15:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 16:23:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2021 AAA] "대상만 9개" 임영웅 4관왕·이정재 3관왕→BTS·유아인 2관왕(종합)]]></title>
+            <link>https://news.nate.com/view/20211203n00327?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211203n00327?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 02 Dec 2021 16:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>12-03 00:24</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/12/03/9f79c334-e71b-4bc5-87a9-6ec5674cd744.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이정재→BTS·세븐틴 '2021 AAA' 대상…임영웅 4관왕 [종합]]]></title>
             <link>https://news.nate.com/view/20211203n00236?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 02 Dec 2021 10:18:10 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>12-02 18:53</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/12/02/2021120218222679532_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단·할시, LA에서 다시 뭉쳤다]]></title>
-            <link>https://news.nate.com/view/20211202n35906?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211202n35906?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 02 Dec 2021 10:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>12-02 18:25</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2021/12/02/021615257.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
