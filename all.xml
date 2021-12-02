@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 02:01:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 02:34:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/24/14652359_729592_448_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[SW시선] '최초·최고' BTS 따라 간다…아미(Army) 응집력도 '월클급' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211202n13107?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211202n13107?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 02 Dec 2021 02:34:39 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>12-02 10:59</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2021/12/02/20211202507619.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단(BTS), '2021 MAMA' 사실상 불참…오미크론 여파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211202n12233?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211202n12233?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Thu, 02 Dec 2021 00:46:19 GMT</pubDate>
             <content:encoded><![CDATA[일간스포츠							<em>12-02 09:14</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/12/02/a1ea74eb-5e36-4fb1-a397-2048e9ebcdd5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브 주식 판 방탄소년단, 100억 이익 실현…가장 많이 판 멤버는? (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211202n06603?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211202n06603?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 02 Dec 2021 00:46:19 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>12-02 09:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/12/02/2021120208550115679_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
