@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 23:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 00:46:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["안녕 블링크" 블랙핑크 지수, 코로나19 음성 판정 후 근황 공개]]></title>
+            <link>https://news.nate.com/view/20211202n05351?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20211202n05351?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Thu, 02 Dec 2021 00:44:21 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>12-02 08:39</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/02/14654282_732868_3759_org.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["대세들의 만남"…이정재, 블랙핑크(BLACKPINK) 제니와 또 만났다?]]></title>
             <link>https://news.nate.com/view/20211201n39489?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 29 Nov 2021 06:17:23 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>11-29 14:16</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/29/14653487_731687_146_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 리사 'MONEY' 안무 영상 3억뷰 돌파]]></title>
-            <link>https://news.nate.com/view/20211129n08458?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20211129n08458?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Mon, 29 Nov 2021 01:57:49 GMT</pubDate>
-            <content:encoded><![CDATA[스타데일리뉴스							<em>11-29 10:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/11/29/312065_358409_5925.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
