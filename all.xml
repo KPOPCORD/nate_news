@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 11:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 12:24:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/24/14652360_729593_4447_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단, 2년 만의 오프라인 콘서트 성료…81만 아미와 '눈맞춤' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211203n31678?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211203n31678?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 03 Dec 2021 12:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>12-03 21:10</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/12/03/202112032109228766_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, '버터' 홀리데이 리믹스 버전 발표 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211203n31146?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211203n31146?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 03 Dec 2021 12:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>12-03 20:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/12/03/7a15a084-e147-43f9-bc8a-ada802576728.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["내년 한국 行" 방탄소년단(BTS), 美 콘서트 성료 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211203n30500?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211203n30500?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Fri, 03 Dec 2021 10:18:43 GMT</pubDate>
             <content:encoded><![CDATA[티브이데일리							<em>12-03 18:04</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2021/12/03/1638522169_1615461.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 오늘(3일) 'Butter' 리믹스 발표…홀리데이 버전 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211203n28785?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211203n28785?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 03 Dec 2021 10:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[MK스포츠							<em>12-03 18:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2021/12/03/20211203_1638522218.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LA 아미 만난 방탄소년단, 내년 3월 국내 콘서트 개최[공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211203n28417?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211203n28417?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 03 Dec 2021 09:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>12-03 18:02</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/12/03/tn_1638522123663_13914_0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
