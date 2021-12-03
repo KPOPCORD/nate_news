@@ -4,9 +4,33 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 04:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 05:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 "마지막 콘서트, 온라인 생중계…실수하면 안 돼"]]></title>
+            <link>https://news.nate.com/view/20211203n17430?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211203n17430?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 03 Dec 2021 05:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[스타투데이							<em>12-03 13:33</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2021/12/03/20211203_5032688_1638505914.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] 방탄소년단, 2년만 오프라인 콘서트…"세계 최고의 밴드" 주요 외신 극찬]]></title>
+            <link>https://news.nate.com/view/20211203n17188?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211203n17188?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 03 Dec 2021 05:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠조선							<em>12-03 13:25</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2021/12/03/2021120401000241100012351.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[역시 BTS…LA공연에 쏟아진 찬사]]></title>
+            <link>https://news.nate.com/view/20211203n12302?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211203n12302?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 03 Dec 2021 02:33:16 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>12-03 13:14</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2021/12/03/20211203506177.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 진, 팬들 깜짝 생일 축하에 "눈물 나" 감격]]></title>
             <link>https://news.nate.com/view/20211203n16719?mid=e0608&amp;isq=9009</link>
@@ -102,30 +126,6 @@
             <pubDate>Fri, 03 Dec 2021 02:33:16 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>12-03 11:15</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/03/14654554_733363_1239_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 LA타임즈 "방탄소년단, 가장 인기많은 그룹"…콘서트 호평]]></title>
-            <link>https://news.nate.com/view/20211203n09784?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211203n09784?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 03 Dec 2021 01:59:47 GMT</pubDate>
-            <content:encoded><![CDATA[SBS연예뉴스							<em>12-03 11:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2021/12/03/30000728350_700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역시 BTS…LA공연에 쏟아진 찬사]]></title>
-            <link>https://news.nate.com/view/20211203n12302?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211203n12302?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 03 Dec 2021 02:33:16 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠월드							<em>12-03 11:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2021/12/03/20211203506177.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美·英 매체 "방탄소년단 콘서트, 눈부셔"]]></title>
-            <link>https://news.nate.com/view/20211203n11770?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211203n11770?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 03 Dec 2021 01:59:47 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠동아							<em>12-03 10:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2021/12/03/110583015.1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
