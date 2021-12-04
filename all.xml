@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 22:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 23:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,54 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/24/14652360_729593_4447_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단, 美 버라이어티 선정 '올해의 음반' 수상 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211205n01735?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211205n01735?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 04 Dec 2021 23:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠동아							<em>12-05 08:10</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2021/12/05/110612690.1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 美 버라이어티 선정 '올해의 음반'…"영광스러운 상 감사" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211205n01728?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211205n01728?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 04 Dec 2021 23:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>12-05 08:09</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/12/05/2021120508035840896_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 美 버라이어티 선정 '올해의 음반' 수상 "영광스러운 상 감사" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211205n01691?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211205n01691?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 04 Dec 2021 23:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>12-05 08:05</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/12/05/202112050802580410_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 진, 생일 기념 자작곡 '슈퍼 참치' 공개…러블리 비타민 매력 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211205n01672?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211205n01672?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 04 Dec 2021 23:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>12-05 08:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/12/05/202112050750240410_1.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 제이홉, 美 징글볼 투어 무대서 멋진 댄스 브레이크 활약 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211205n01624?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211205n01624?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 04 Dec 2021 23:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>12-05 08:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/12/05/1638657123577185.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이유 5관왕→임영웅 컬래버…BTS 영상 인사 (MMA) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211205n01599?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211205n01599?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 04 Dec 2021 23:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠동아							<em>12-05 07:59</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2021/12/05/110612641.1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS 뷔, 성탄절 함께 보내고 싶게 만드는 남친 비주얼 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211205n01298?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211205n01298?mid=e0608&amp;isq=9009</guid>
@@ -318,54 +366,6 @@
             <pubDate>Sat, 04 Dec 2021 14:16:02 GMT</pubDate>
             <content:encoded><![CDATA[스포츠동아							<em>12-04 22:41</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2021/12/04/110610659.1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['MMA 2021' 아이유·BTS 대상 포함 5관왕…'신인' 에스파 4관왕(종합) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211204n12194?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211204n12194?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 04 Dec 2021 14:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠한국							<em>12-04 22:38</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2021/12/04/eyoree20211204223201_O_01_C_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 美 '징글볼 투어'도 휩쓸었다…'다이나마이트' 리믹스 버전 선곡 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211204n07394?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211204n07394?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 04 Dec 2021 14:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠월드							<em>12-04 22:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2021/12/04/20211204504900.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['MMA2021' 아이유, '올해의 아티스트' 5관왕…BTS 5관왕·임영웅 2관왕·에스파 4관왕[종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211204n11757?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211204n11757?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 04 Dec 2021 13:24:05 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>12-04 22:22</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/12/04/tn_1638624123539_162942_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2021 MMA]아이유BTS, 대상 포함 5관왕…에스파, 신인상-대상 동시 수상(종합) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211204n12091?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211204n12091?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 04 Dec 2021 14:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[스포티비뉴스							<em>12-04 22:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/12/04/457653_581567_5543.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유·BTS·에스파, 'MMA 2021' 대상 [종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211204n11792?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211204n11792?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 04 Dec 2021 13:24:05 GMT</pubDate>
-            <content:encoded><![CDATA[스타in							<em>12-04 22:13</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/12/04/PS21120400113.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유, 대상 2개 포함 '5관왕' 영예…방탄소년단 5관왕·에스파 4관왕 (종합) [MMA2021] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211204n11607?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211204n11607?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 04 Dec 2021 13:24:05 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>12-04 21:52</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/12/04/202112042100776152_61ab5e178c814.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
