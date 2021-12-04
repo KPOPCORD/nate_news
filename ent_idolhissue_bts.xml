@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 21:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 22:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 뷔, 성탄절 함께 보내고 싶게 만드는 남친 비주얼]]></title>
+            <link>https://news.nate.com/view/20211205n01298?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211205n01298?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 04 Dec 2021 22:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>12-05 07:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/12/05/1638655208184703.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 불참에도 '5관왕' 존재감…"아미 덕분" 따뜻한 팬♥ [MMA 2021②]]]></title>
+            <link>https://news.nate.com/view/20211205n01296?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211205n01296?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 04 Dec 2021 22:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>12-05 07:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/12/05/1638647264824388.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['놀뭐' 타블로 "'Fly' 없다면 방탄소년단 없었을뻔"…유재석 싸늘[결정적장면]]]></title>
             <link>https://news.nate.com/view/20211204n12716?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 04 Dec 2021 13:24:05 GMT</pubDate>
             <content:encoded><![CDATA[OSEN							<em>12-04 21:52</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/12/04/202112042100776152_61ab5e178c814.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유X방탄소년단, 대상 포함 5관왕…에스파 4관왕(종합)[MMA2021]]]></title>
-            <link>https://news.nate.com/view/20211204n11775?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211204n11775?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 04 Dec 2021 13:24:05 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>12-04 21:46</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/12/04/202112041758462510_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유·방탄소년단, 대상 포함 5관왕→에스파 신인 파워 [MMA 2021] (종합)]]></title>
-            <link>https://news.nate.com/view/20211204n11773?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211204n11773?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 04 Dec 2021 13:24:05 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>12-04 21:46</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/12/04/202112042056198850_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
