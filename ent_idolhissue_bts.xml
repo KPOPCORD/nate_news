@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 02:00:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 02:34:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 日 'K팝 아이돌랭킹' 35주 연속 1위…표지모델로 나선 잡지도 '완판']]></title>
+            <link>https://news.nate.com/view/20211204n04622?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211204n04622?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 04 Dec 2021 02:34:30 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠조선							<em>12-04 10:58</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2021/12/04/2021120501000271900014531.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, LA 콘서트 성료…"잊지 않고 기억할 것"]]></title>
             <link>https://news.nate.com/view/20211204n04566?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 03 Dec 2021 23:16:47 GMT</pubDate>
             <content:encoded><![CDATA[마이데일리							<em>12-04 07:28</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/12/04/202112040722184210_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 정국, 팬들의 심장을 저격하는 귀여움…잘생김은 기본]]></title>
-            <link>https://news.nate.com/view/20211204n01966?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211204n01966?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 03 Dec 2021 22:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>12-04 07:05</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/12/04/1638569066105509.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
