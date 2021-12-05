@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 13:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 14:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/24/14652360_729593_4447_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['슈돌' 김태균 "BTS처럼 입잖아"→딸 효린 "무슨 소리, 뚱보 아저씨" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211205n16646?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211205n16646?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 05 Dec 2021 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>12-05 22:17</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2021/12/05/20211205510147.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 '버터', 美 버라이어티 선정 '올해의 음반' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211205n02868?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211205n02868?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sun, 05 Dec 2021 04:21:21 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>12-05 12:18</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/05/14655014_734157_1612_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['또 보고싶어' 방탄소년단 지민 '내 삶의 이유인 아미'→감동받은 팬들 #JiminOurReason 화답♥ (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211205n05971?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211205n05971?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 05 Dec 2021 03:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>12-05 12:12</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/05/14655013_734149_1032_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
