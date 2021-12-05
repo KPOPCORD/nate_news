@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 12:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 13:22:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 '버터', 美 버라이어티 선정 '올해의 음반']]></title>
+            <link>https://news.nate.com/view/20211205n02868?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211205n02868?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 05 Dec 2021 13:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[스타in							<em>12-05 21:48</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/12/05/PS21120500086.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김태균 딸 "BTS처럼 입잖아" 아빠 말에 "뚱보 아저씨면서" 돌직구(슈돌)]]></title>
+            <link>https://news.nate.com/view/20211205n16230?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211205n16230?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 05 Dec 2021 13:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>12-05 21:42</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/12/05/202112051940080410_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 진 생일 자작곡 '슈퍼 참치', 챌린지 열풍]]></title>
             <link>https://news.nate.com/view/20211205n13744?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sun, 05 Dec 2021 03:17:19 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>12-05 12:12</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/05/14655013_734149_1032_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국 '유포리아' 스포티파이 3억 돌파→디제이 스위벨 "내 인생을 바꾼 가장 자랑스러운 곡 중 하나"]]></title>
-            <link>https://news.nate.com/view/20211205n05913?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211205n05913?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 05 Dec 2021 03:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>12-05 12:08</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/05/14655012_734145_710_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 美 버라이어티 선정 '올해의 음반' 수상]]></title>
-            <link>https://news.nate.com/view/20211205n05855?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211205n05855?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 05 Dec 2021 03:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[스포티비뉴스							<em>12-05 12:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/12/05/457674_581595_0325.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
