@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 04:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 05:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/24/14652360_729593_4447_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단, 美 콘서트 통해 매출 730억원 기록…굿즈 판매 포함하면 1천억까지 늘어날 수도 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211205n07346?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211205n07346?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 05 Dec 2021 05:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠조선							<em>12-05 13:49</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2021/12/05/2021120601000316800017891.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 美 '징글볼' 인터뷰서 "콘서트 너무 행복했다" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211205n06964?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211205n06964?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 05 Dec 2021 05:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>12-05 13:26</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/12/05/2021120513114648739_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[美 접수한 방탄소년단, 내년 3월 서울서 만나요 [이슈] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211205n06601?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211205n06601?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Sun, 05 Dec 2021 03:17:19 GMT</pubDate>
             <content:encoded><![CDATA[OSEN							<em>12-05 11:24</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/12/05/202112051110777425_61ac229d8677c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단(BTS), 미국 연예지 선정 올해의 음반 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211205n03765?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211205n03765?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 05 Dec 2021 02:07:30 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠서울							<em>12-05 11:19</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2021/12/05/2021120601000198600012931.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 美 버라이어티 '올해의 음반' 수상 "새로운 챕터의 시작" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211205n04307?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211205n04307?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 05 Dec 2021 02:07:30 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠투데이							<em>12-05 11:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2021/12/05/05_762132_93021.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
