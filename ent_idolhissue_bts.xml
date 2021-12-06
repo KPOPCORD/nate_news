@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 08:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 09:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 정국, 전세계 팬들이 뽑은 '2021년 최고의 K-POP스타' 4년 연속 1위]]></title>
+            <link>https://news.nate.com/view/20211206n12678?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211206n12678?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 06 Dec 2021 09:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>12-06 17:46</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2021/12/06/202112061102338382_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 데뷔 후 첫 연말연시 휴가…연말 시상식 불참]]></title>
+            <link>https://news.nate.com/view/20211206n19482?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211206n19482?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 06 Dec 2021 06:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[SBS연예뉴스							<em>12-06 17:21</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2021/12/06/30000728641_700.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 장기휴가 떠난다…"가족들과 함께하는 첫 연말"]]></title>
             <link>https://news.nate.com/view/20211206n23219?mid=e0608&amp;isq=9009</link>
@@ -96,14 +112,6 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/06/14655162_734467_711_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[방탄소년단, 데뷔 후 첫 연말연시 휴가…연말 시상식 불참]]></title>
-            <link>https://news.nate.com/view/20211206n19482?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211206n19482?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 06 Dec 2021 06:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[SBS연예뉴스							<em>12-06 14:06</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2021/12/06/30000728641_700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[방탄소년단 뷔, '美 Forbes'에 생일 광고 실려…진화하는 K팝 아이돌 서포트]]></title>
             <link>https://news.nate.com/view/20211206n19455?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211206n19455?mid=e0608&amp;isq=9009</guid>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 06 Dec 2021 02:41:33 GMT</pubDate>
             <content:encoded><![CDATA[스포츠경향							<em>12-06 14:01</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/12/06/l_2021120602000314200060051.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민, 美징글볼 무대, 센스, 브랜드 파워까지 완벽…루이비통 111개국 완판 'Perfect Jimin']]></title>
-            <link>https://news.nate.com/view/20211206n19110?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211206n19110?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 06 Dec 2021 05:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>12-06 13:59</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/06/14655160_734459_5751_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
