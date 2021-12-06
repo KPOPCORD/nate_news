@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 12:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 13:24:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, 8년만 전원 개인 SNS 개설…최다 팔로워 뷔 '910만'[종합]]]></title>
+            <link>https://news.nate.com/view/20211206n35911?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211206n35911?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 06 Dec 2021 13:24:36 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>12-06 22:16</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/12/06/tn_1638796564238_558071_0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['장기휴가' BTS, 개인 인스타 개설…4백만 팔로워 돌파]]></title>
+            <link>https://news.nate.com/view/20211206n35803?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211206n35803?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 06 Dec 2021 13:24:36 GMT</pubDate>
+            <content:encoded><![CDATA[스타투데이							<em>12-06 22:04</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2021/12/06/20211206_5035186_1638795739.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["나 너무 떨려"…방탄소년단, 데뷔 8년만 멤버 전원 개인 SNS 개설→팔로워 폭발[종합]]]></title>
             <link>https://news.nate.com/view/20211206n34676?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 06 Dec 2021 08:20:15 GMT</pubDate>
             <content:encoded><![CDATA[스포츠한국							<em>12-06 16:48</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2021/12/06/sjmao20211206164547_O_01_C_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 장기휴가 돌입 "재충전 후 새 앨범·콘서트 준비"]]></title>
-            <link>https://news.nate.com/view/20211206n26818?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211206n26818?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 06 Dec 2021 08:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[더팩트							<em>12-06 16:13</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2021/12/06/202189481638773737.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빌보드 재팬 1위, 열도의 방탄소년단(BTS) 요아소비 정규 2집 발매]]></title>
-            <link>https://news.nate.com/view/20211206n26656?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211206n26656?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 06 Dec 2021 08:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>12-06 16:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/12/06/l_2021120602000324600062402.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
