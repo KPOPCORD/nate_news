@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 03:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 04:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/24/14652360_729593_4447_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[코로나에도 열일한 방탄소년단, 2년만 장기휴가에 쏟아진 응원[뮤직와치] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211206n17302?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211206n17302?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 06 Dec 2021 04:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>12-06 13:04</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/12/06/202112061147480410_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 2021 일정 마치고 장기휴가…진·지민·정국 먼저 입국[종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211206n16294?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211206n16294?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 06 Dec 2021 04:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>12-06 12:14</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/12/06/2021120612031261398_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 진, 생일 맞아 '기부요정'…코로나19 고립 장애인에 기부 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211206n16207?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211206n16207?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Mon, 06 Dec 2021 02:41:33 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>12-06 11:22</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/06/14655135_734382_204_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BTS 병역논란 왜?①] "방탄소년단도 가야 하나?"…대중음악계 '허탈' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211206n03236?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211206n03236?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 06 Dec 2021 02:03:14 GMT</pubDate>
-            <content:encoded><![CDATA[더팩트							<em>12-06 11:18</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2021/12/06/20216307163869061700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 두번째 장기휴가…"데뷔후 처음 연말연시를 가족과"(종합) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211206n11531?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211206n11531?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 06 Dec 2021 02:03:14 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>12-06 11:15</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2021/12/06/20211206_5034414_1638754163.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
