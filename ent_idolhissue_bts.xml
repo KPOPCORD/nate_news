@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 11:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 12:25:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["나 너무 떨려"…방탄소년단, 데뷔 8년만 멤버 전원 개인 SNS 개설→팔로워 폭발[종합]]]></title>
+            <link>https://news.nate.com/view/20211206n34676?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211206n34676?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 06 Dec 2021 12:25:04 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>12-06 20:45</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/12/06/202112062015779478_61adf52dd4a19.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['호랑나비' 김흥국 "싸이→BTS 세계적 가수? 내가 원조다" (건강한집)]]></title>
             <link>https://news.nate.com/view/20211206n33632?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 06 Dec 2021 08:20:15 GMT</pubDate>
             <content:encoded><![CDATA[스포츠경향							<em>12-06 16:10</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/12/06/l_2021120602000324600062402.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 LA 공연 티켓 수익 394억원…누적 3039억 판매고 '대박']]></title>
-            <link>https://news.nate.com/view/20211206n25324?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211206n25324?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 06 Dec 2021 07:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>12-06 15:49</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/12/06/2021120615361950901_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
