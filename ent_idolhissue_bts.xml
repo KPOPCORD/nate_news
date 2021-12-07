@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 10:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 11:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 인★시대 개막…하루만에 2000만명 줄세워]]></title>
+            <link>https://news.nate.com/view/20211207n35096?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211207n35096?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 07 Dec 2021 11:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>12-07 20:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2021/12/07/l_2021120702000390300075973.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[빅데이터가수브랜드종합순위] 에스파 1회째 1위, 2위 영탁에 2,204점 앞서…3위 방탄소년단 지민·4위 임영웅·5위 방탄소년단 뷔]]></title>
+            <link>https://news.nate.com/view/20211207n34417?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211207n34417?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 07 Dec 2021 11:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>12-07 19:21</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/07/14655569_735029_1850_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 뷔, SNS 열자마자 블핑 제니 언팔 해프닝…"무서운 어플"]]></title>
             <link>https://news.nate.com/view/20211207n34283?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 07 Dec 2021 09:18:21 GMT</pubDate>
             <content:encoded><![CDATA[스타투데이							<em>12-07 17:10</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2021/12/07/20211207_5035967_1638864553.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브 연말 콘서트 시동, 팝스타 저스틴 비버 등장…BTS는 휴가]]></title>
-            <link>https://news.nate.com/view/20211207n29849?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211207n29849?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 07 Dec 2021 09:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠서울							<em>12-07 17:05</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2021/12/07/2021120701000324300021621.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 '버터', 롤링스톤 '올해의 베스트 송 50' 16위]]></title>
-            <link>https://news.nate.com/view/20211207n29826?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211207n29826?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 07 Dec 2021 09:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[스타in							<em>12-07 17:05</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/12/07/PS21120700089.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
