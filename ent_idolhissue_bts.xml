@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 11:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 12:24:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, 美'제임스 코든쇼' 1000회 특집 출연]]></title>
+            <link>https://news.nate.com/view/20211208n35550?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211208n35550?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 08 Dec 2021 12:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>12-08 20:29</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/12/08/dba8b46f-16d3-47fb-9adc-3bb263468aab.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 美 '피플스초이스어워즈' 3관왕…'올해의 노래'·'올해의 그룹' 포함]]></title>
+            <link>https://news.nate.com/view/20211208n35406?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211208n35406?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 08 Dec 2021 12:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>12-08 20:20</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/12/08/56bedbf6-f6fb-4d37-893b-fe3daa0833da.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 美 '피플스 초이스 어워즈' 3관왕…"노력 인정 기뻐"]]></title>
             <link>https://news.nate.com/view/20211208n27405?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 08 Dec 2021 09:17:25 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>12-08 16:31</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/08/14655761_735327_308_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 "노력 인정 기쁘다"…소속사 통해 전한 수상 소감]]></title>
-            <link>https://news.nate.com/view/20211208n28172?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211208n28172?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 08 Dec 2021 09:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>12-08 16:27</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/12/08/1638948348347921.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜브 국내 인기곡 1위는 에스파…최다곡 진입은 아이유·임영웅·방탄소년단·조광일]]></title>
-            <link>https://news.nate.com/view/20211208n28018?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211208n28018?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 08 Dec 2021 09:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>12-08 16:24</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/08/14655764_735325_2313_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
