@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 12:24:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 13:24:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, 美 '피플스 초이스 어워즈' 3관왕 영예]]></title>
+            <link>https://news.nate.com/view/20211208n25531?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211208n25531?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 08 Dec 2021 13:24:59 GMT</pubDate>
+            <content:encoded><![CDATA[스타in							<em>12-08 21:20</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/12/08/PS21120800110.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 美'제임스 코든쇼' 1000회 특집 출연]]></title>
             <link>https://news.nate.com/view/20211208n35550?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 08 Dec 2021 09:17:25 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>12-08 16:37</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/12/08/2021120815585394736_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['日열도 핫인기' 방탄소년단 지민, 표지 VOGUE매거진 日야후 공식 사이트 전찬리 판매→멤버 유일 인기마크 'BRAND KING']]></title>
-            <link>https://news.nate.com/view/20211208n28367?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211208n28367?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 08 Dec 2021 09:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>12-08 16:31</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/08/14655761_735327_308_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

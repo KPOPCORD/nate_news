@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 12:24:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 13:24:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["자매 같은 비주얼"…레드벨벳 조이, 아이브 레이 응원]]></title>
+            <link>https://news.nate.com/view/20211208n36908?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20211208n36908?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Wed, 08 Dec 2021 13:24:18 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>12-08 21:44</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/08/14655879_735472_4340_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '섹시다이너마이트한 뒤태' (SBS TV 동물농장 퇴근길)]]></title>
+            <link>https://news.nate.com/view/20211208n36491?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20211208n36491?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Wed, 08 Dec 2021 13:24:18 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>12-08 21:17</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/08/14655874_735467_1526_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '다음에 또 만나요' (SBS TV 동물농장 퇴근길)]]></title>
             <link>https://news.nate.com/view/20211208n36270?mid=e0608&amp;isq=9012</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 08 Dec 2021 12:23:58 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>12-08 20:56</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/08/14655859_735452_5451_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '마스크로 가려도 보이는듯한 미소' (SBS TV 동물농장 퇴근길)]]></title>
-            <link>https://news.nate.com/view/20211208n36028?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20211208n36028?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 08 Dec 2021 12:23:58 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>12-08 20:55</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/08/14655857_735449_548_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '섹시다이너마이트 각선미' (SBS TV 동물농장 퇴근길)]]></title>
-            <link>https://news.nate.com/view/20211208n36013?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20211208n36013?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 08 Dec 2021 12:23:58 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>12-08 20:54</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/08/14655855_735448_5319_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
