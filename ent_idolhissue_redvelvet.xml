@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 04:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 05:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드벨벳 조이(RedVelvet JOY), '오늘도 참 예쁜 조이~' [뉴스엔TV]]]></title>
+            <link>https://news.nate.com/view/20211208n18538?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20211208n18538?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Wed, 08 Dec 2021 05:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>12-08 13:24</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/12/08/202112081322381410_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레드벨벳 조이, 추위도 시기 할만한 포즈 [포토엔HD]]]></title>
             <link>https://news.nate.com/view/20211208n17316?mid=e0608&amp;isq=9012</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 06 Dec 2021 10:17:16 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>12-06 17:16</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/12/06/202112061715331510_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳 웬디, 손인사보니 시크한 도시녀  [포토엔HD]]]></title>
-            <link>https://news.nate.com/view/20211206n29693?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20211206n29693?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Mon, 06 Dec 2021 10:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>12-06 17:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/12/06/202112061713261510_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
