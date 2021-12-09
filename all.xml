@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 11:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 12:25:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,46 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/08/14655859_735452_5451_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 RM "얼굴이 서른 같네"…맏형 진 "정신력 문제" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211209n37863?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211209n37863?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 09 Dec 2021 12:25:26 GMT</pubDate>
+            <content:encoded><![CDATA[TV리포트							<em>12-09 20:40</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2021/12/09/b0e9f77d-1343-4308-a4eb-b9e6874d294c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['이제 진짜 휴가' 방탄소년단 뷔X제이홉 입국 현장 풀 영상 (BTS V & J HOPE) [뉴스엔TV] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211209n37773?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211209n37773?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 09 Dec 2021 12:25:26 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>12-09 20:35</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/12/09/202112092004361410_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, '제임스 코든쇼' 엔딩…'Butter'로 하나 된 무대 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211209n37418?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211209n37418?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 09 Dec 2021 12:25:26 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠동아							<em>12-09 20:16</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2021/12/09/110715363.1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사진]방탄소년단 제이홉,'가운패션도 멋지게' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211209n37078?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211209n37078?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 09 Dec 2021 12:25:26 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>12-09 20:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/12/09/202112091955775058_61b1e170f3349.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사진]방탄소년단 제이홉,'귀국하는 슈퍼스타' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211209n36950?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211209n36950?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 09 Dec 2021 12:25:26 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>12-09 19:55</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/12/09/202112091953777294_61b1e04465b1a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[사진]방탄소년단 제이홉,'입국장에 들어서며 손인사' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211209n36907?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211209n36907?mid=e0608&amp;isq=9009</guid>
@@ -326,46 +366,6 @@
             <pubDate>Thu, 09 Dec 2021 11:15:31 GMT</pubDate>
             <content:encoded><![CDATA[OSEN							<em>12-09 19:36</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/12/09/202112091929776804_61b1dbf6c92be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 제이홉 입국 현장 풀 영상 (BTS J HOPE ICN AIRPORT ARRIVAL) [뉴스엔TV] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211209n36618?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211209n36618?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 09 Dec 2021 11:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>12-09 19:36</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/12/09/202112091934581410_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 제이홉, 제이홉만의 특별함 [포토엔HD] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211209n36614?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211209n36614?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 09 Dec 2021 11:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>12-09 19:36</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/12/09/202112091934565510_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 제이홉, 심쿵 눈빛 [포토엔HD] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211209n36569?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211209n36569?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 09 Dec 2021 11:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>12-09 19:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/12/09/202112091933175510_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 제이홉(J HOPE) 입국, '글로벌 패셔니스타 호석' [뉴스엔TV] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211209n36551?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211209n36551?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 09 Dec 2021 11:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>12-09 19:33</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/12/09/202112091932401410_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 제이홉, 훈훈한 선글라스 [포토엔HD] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211209n36533?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211209n36533?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 09 Dec 2021 11:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>12-09 19:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/12/09/202112091931415510_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
