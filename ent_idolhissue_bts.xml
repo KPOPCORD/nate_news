@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 06:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 07:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["Stop Asian Hate" 방탄소년단 인종차별 반대, 올해 전세계 최다 리트윗]]></title>
+            <link>https://news.nate.com/view/20211210n22806?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211210n22806?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 10 Dec 2021 07:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>12-10 15:52</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/12/10/202112101550360410_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS, 5년 연속 전 세계서 가장 많이 트윗된 인물 1위]]></title>
             <link>https://news.nate.com/view/20211210n20822?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 10 Dec 2021 01:58:39 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>12-10 10:38</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/10/14656152_735938_3619_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 스타랭킹 男아이돌 톱3…역시 글로벌 스타]]></title>
-            <link>https://news.nate.com/view/20211210n10600?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211210n10600?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 10 Dec 2021 01:58:39 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>12-10 10:37</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/12/10/2021121009400194554_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
