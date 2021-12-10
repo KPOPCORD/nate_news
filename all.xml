@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 05:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 06:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/08/14655859_735452_5451_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS, 5년 연속 전 세계서 가장 많이 트윗된 인물 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211210n20822?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211210n20822?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 10 Dec 2021 06:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[스타in							<em>12-10 15:07</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/12/10/PS21121000096.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 정국·뷔, 형광등 1000개 켠 미모가 이런 거였네 '자체발광' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211210n19712?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211210n19712?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 10 Dec 2021 06:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[스포티비뉴스							<em>12-10 14:45</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2021/12/10/458683_582855_3354.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[빅데이터가수브랜드종합순위] 임영웅 4회째 1위, 2위 영탁에 89,626점 앞서…3위 방탄소년단 지민·4위 장민호·5위 송가인 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211210n17017?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211210n17017?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Fri, 10 Dec 2021 01:58:39 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>12-10 10:37</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/12/10/2021121009400194554_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[독자추천종합순위] 영탁 79회째 1위, 2위 방탄소년단 지민에 4,737표 앞서…3위 방탄소년단 뷔·4위 임영웅·5위 에스파 카리나 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211210n10407?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211210n10407?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 10 Dec 2021 01:58:39 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>12-10 10:33</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/10/14656153_735932_3127_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['韓인플루언서 TOP데뷔' 방탄소년단 지민, 인스타그램 개설 사진 단 2개로 멤버 1위 순위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211210n09894?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211210n09894?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 10 Dec 2021 01:58:39 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>12-10 10:25</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/10/14656148_735919_2336_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
