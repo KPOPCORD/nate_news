@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 13:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 14:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가온차트 11월 앨범차트 1위는 스트레이 키즈…최다진입은 방탄소년단·스트레이 키즈·투모로우바이투게더·블랙핑크]]></title>
+            <link>https://news.nate.com/view/20211210n33393?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20211210n33393?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Fri, 10 Dec 2021 14:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>12-10 22:48</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/10/14656313_736190_4646_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 지수 머리에 총 겨눈 정해인, 긴장감 넘치는 '설강화' 예고영상]]></title>
             <link>https://news.nate.com/view/20211210n16860?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 08 Dec 2021 23:15:07 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>12-02 08:39</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/02/14654282_732868_3759_org.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["대세들의 만남"…이정재, 블랙핑크(BLACKPINK) 제니와 또 만났다?]]></title>
-            <link>https://news.nate.com/view/20211201n39489?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20211201n39489?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Wed, 08 Dec 2021 23:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>12-01 20:44</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/01/14654189_732733_4152_org.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
