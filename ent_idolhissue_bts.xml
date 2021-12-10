@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 11:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 12:24:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["너네 집 인스타야?" 방탄소년단 진, 제이홉 뼈때리는 유쾌 입담 [★SHOT!]]]></title>
+            <link>https://news.nate.com/view/20211210n31984?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211210n31984?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 10 Dec 2021 12:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>12-10 21:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/12/10/202112102045776956_61b341bcb4b8a.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[공식] BTS 진→태연…'지리산' OST 음반 예약 판매]]></title>
             <link>https://news.nate.com/view/20211210n28541?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 10 Dec 2021 08:19:27 GMT</pubDate>
             <content:encoded><![CDATA[OSEN							<em>12-10 16:48</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/12/10/202112101635779711_61b30604d4f9a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["Stop Asian Hate" 방탄소년단 인종차별 반대, 올해 전세계 최다 리트윗]]></title>
-            <link>https://news.nate.com/view/20211210n22806?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211210n22806?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 10 Dec 2021 07:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>12-10 15:52</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/12/10/202112101550360410_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
