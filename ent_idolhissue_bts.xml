@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 12:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 13:24:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['다수의 수다' 종교인들의 대담 "우린 사실 대중문화 관심 많아, BTS 팬이다"]]></title>
+            <link>https://news.nate.com/view/20211210n32804?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211210n32804?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 10 Dec 2021 13:23:59 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>12-10 21:57</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/10/14656301_736165_5331_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['지리산' OST 음반 발매, BTS 진·태연·이소라 등 "초호화 라인업"]]></title>
+            <link>https://news.nate.com/view/20211210n32726?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211210n32726?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 10 Dec 2021 13:23:59 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>12-10 21:48</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/12/10/fd7e3df0-a661-484e-8ef2-8f213cb2b41c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["너네 집 인스타야?" 방탄소년단 진, 제이홉 뼈때리는 유쾌 입담 [★SHOT!]]]></title>
             <link>https://news.nate.com/view/20211210n31984?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 10 Dec 2021 08:19:27 GMT</pubDate>
             <content:encoded><![CDATA[조이뉴스24							<em>12-10 16:54</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2021/12/10/071eb0d4fab7f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['쉼 없는 열일'…BTS가 휴가를 보내는 법]]></title>
-            <link>https://news.nate.com/view/20211210n25465?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211210n25465?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 10 Dec 2021 08:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[스타in							<em>12-10 16:52</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/12/10/PS21121000109.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 진, 태연, 이소라 등 초호화 라인업'지리산'OST, 오늘(10일) 예약 판매 시작]]></title>
-            <link>https://news.nate.com/view/20211210n25226?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211210n25226?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 10 Dec 2021 08:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>12-10 16:48</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/12/10/202112101635779711_61b30604d4f9a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
