@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 19:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 20:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/08/14655859_735452_5451_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 진, 반응 빠른 제이홉에 "인스타에서 사네" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211211n01262?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211211n01262?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 10 Dec 2021 20:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>12-11 05:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2021/12/11/1639158711947341.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 진→태연 '지리산' OST, 오늘(10일) 예판 시작 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211210n33407?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211210n33407?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Fri, 10 Dec 2021 08:19:27 GMT</pubDate>
             <content:encoded><![CDATA[비즈엔터							<em>12-10 17:05</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2021/12/10/20211210165806_1696288_1000_661.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 슈가, 주스 월드 신보 참여…한국어 가사 눈길 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211210n25860?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211210n25860?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 10 Dec 2021 08:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[스타in							<em>12-10 17:02</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2021/12/10/PS21121000111.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
