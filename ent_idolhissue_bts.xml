@@ -4,7 +4,7 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 03:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 04:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,8 +12,16 @@
             <link>https://news.nate.com/view/20211211n06033?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211211n06033?mid=e0608&amp;isq=9009</guid>
             <pubDate>Sat, 11 Dec 2021 03:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>12-11 12:10</em>]]></content:encoded>
+            <content:encoded><![CDATA[OSEN							<em>12-11 12:20</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2021/12/11/202112111149779938_61b4164495ff5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[빅데이터가수브랜드종합순위] 임영웅 4회째 1위, 2위 영탁에 75,660점 앞서…3위 방탄소년단 지민·4위 장민호·5위 송가인]]></title>
+            <link>https://news.nate.com/view/20211211n06107?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211211n06107?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 11 Dec 2021 04:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>12-11 12:20</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/11/14656389_736329_1633_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[기사열독종합순위] 영탁 16회째 1위, 2위 임영웅에 31,696회 앞서…3위 방탄소년단 지민·4위 방탄소년단 뷔·5위 에스파 카리나]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 11 Dec 2021 02:00:12 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>12-11 09:53</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/11/14656362_736273_508_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 11월 5주차 아차랭킹 1위]]></title>
-            <link>https://news.nate.com/view/20211211n04145?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211211n04145?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 11 Dec 2021 02:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠동아							<em>12-11 09:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2021/12/11/110545996.1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
