@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 04:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 05:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, 'MIC Drop' 리믹스 뮤비 11억 뷰]]></title>
+            <link>https://news.nate.com/view/20211211n07271?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211211n07271?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 11 Dec 2021 05:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[더팩트							<em>12-11 14:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2021/12/11/202189921639198732.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[월드클래스 스스로 입증한 '방탄소년단' 진-정국-지민의 새벽 귀국 장면[민경훈의 줌인]]]></title>
             <link>https://news.nate.com/view/20211211n06033?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 11 Dec 2021 02:00:12 GMT</pubDate>
             <content:encoded><![CDATA[일간스포츠							<em>12-11 09:55</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/12/11/fe90125d-a7b1-48bf-966d-f5364eb4f94a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[댓글종합순위] 영탁 117회째 1위, 2위 방탄소년단 지민에 1464개 앞서…3위 김희재·4위 에스파 카리나·5위 방탄소년단 뷔]]></title>
-            <link>https://news.nate.com/view/20211211n04177?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211211n04177?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 11 Dec 2021 02:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>12-11 09:53</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/11/14656362_736273_508_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
