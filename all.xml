@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 05:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 06:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/08/14655859_735452_5451_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단(BTS), '마이크드롭' 리믹스 MV 11억뷰 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20211211n07446?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211211n07446?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 11 Dec 2021 06:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>12-11 14:20</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2021/12/11/1639199501_1616515.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단, 'MIC Drop' 리믹스 뮤비 11억 뷰 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20211211n07271?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20211211n07271?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sat, 11 Dec 2021 02:00:12 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>12-11 10:00</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2021/12/11/2021121109530499179_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 개인 SNS 개설 5일만에 2100만 팔로워 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20211211n04202?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20211211n04202?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 11 Dec 2021 02:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[일간스포츠							<em>12-11 09:55</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2021/12/11/fe90125d-a7b1-48bf-966d-f5364eb4f94a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
