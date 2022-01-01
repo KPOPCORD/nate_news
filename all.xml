@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 03:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 04:05:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/28/14659730_741920_2556_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[트위터 리트윗종합순위] 임영웅 8회째 1위, 2위 방탄소년단 지민에 1,593회 앞서…3위 방탄소년단 정국·4위 방탄소년단 뷔·5위 뱀뱀 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220101n09491?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220101n09491?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 01 Jan 2022 04:05:36 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-01 12:22</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/01/14660836_743811_2022_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 RM, 열애설에 직접 부인…"전혀 모르는 분" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220101n05008?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220101n05008?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sat, 01 Jan 2022 00:20:33 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>01-01 08:21</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/01/2022010108164721075_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['K팝 프론트맨' 방탄소년단 지민, 3년간 가장 많이 사랑받은 男아이돌 1위 'KING JIMIN' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220101n04505?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220101n04505?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 01 Jan 2022 00:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-01 08:16</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/01/2022010108130044084_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
