@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 04:05:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 05:08:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드벨벳 웬디, 아이린, 슬기, 조이, 예리,   모두가 인정한 매력 [포토엔HD]]]></title>
+            <link>https://news.nate.com/view/20220101n10131?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220101n10131?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Sat, 01 Jan 2022 05:07:32 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>01-01 13:20</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/01/202201011319291510_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장포토] "여기가 꽃밭"…레드벨벳, 비주얼 파티]]></title>
             <link>https://news.nate.com/view/20220101n00878?mid=e0608&amp;isq=9012</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 31 Dec 2021 17:38:43 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>12-28 00:27</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/28/14659731_741921_2637_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[UHD포토] 레드벨벳(Red Velvet) 웬디, '무대 위 얼음여왕' (2021 SBS 가요대전)]]></title>
-            <link>https://news.nate.com/view/20211228n00341?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20211228n00341?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Fri, 31 Dec 2021 17:38:43 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>12-28 00:27</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/28/14659730_741920_2556_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
