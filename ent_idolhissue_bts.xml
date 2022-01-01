@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 06:05:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 07:04:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 역시 사랑과 긍정의 아이콘…'새해 해돋이 함께 보고 싶은 男 아이돌' 1위]]></title>
+            <link>https://news.nate.com/view/20220101n11408?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220101n11408?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 01 Jan 2022 07:04:47 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>01-01 15:19</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/01/01/202201011508775582_61cff22592d5f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["아포방포♥︎" 방탄소년단 정국, 새해 인사 2분 만에 100만 '좋아요'→기네스 기록 깬 역대 '최단' 기록]]></title>
+            <link>https://news.nate.com/view/20220101n11259?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220101n11259?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 01 Jan 2022 07:04:47 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-01 15:07</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/01/14660882_743931_616_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['K팝 프론트맨' 방탄소년단 지민, 한국에서 3년간 가장 많이 사랑받은 男아이돌1위 'KING JIMIN']]></title>
             <link>https://news.nate.com/view/20220101n10429?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 01 Jan 2022 01:59:10 GMT</pubDate>
             <content:encoded><![CDATA[스포츠조선							<em>01-01 10:33</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2021/12/31/2022010201000045300000541.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[댓글종합순위] 영탁 135회째 1위, 2위 박서진에 178개 앞서…3위 방탄소년단 지민·4위 김희재·5위 이찬원]]></title>
-            <link>https://news.nate.com/view/20220101n05638?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220101n05638?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 01 Jan 2022 00:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-01 09:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/01/14660829_743782_84_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 지민, 새해를 밝게 비추는 미모]]></title>
-            <link>https://news.nate.com/view/20220101n05443?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220101n05443?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 01 Jan 2022 00:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-01 09:03</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/01/1640995312340684.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
