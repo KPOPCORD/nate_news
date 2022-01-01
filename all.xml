@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 12:08:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 13:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/12/18/202112181024196810_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[레드벨벳 아이린, 푹 패인 볼살-야윈 얼굴→걱정 쇄도 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20220101n14965?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220101n14965?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Sat, 01 Jan 2022 13:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-01 21:51</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/01/14660947_744038_4912_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[현장포토] "완전체, 반가워!"…레드벨벳, 깜찍한 카리스마 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
             <link>https://news.nate.com/view/20220101n13851?mid=e0608&amp;isq=9012</link>
             <guid>https://news.nate.com/view/20220101n13851?mid=e0608&amp;isq=9012</guid>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 31 Dec 2021 17:38:43 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>12-28 00:30</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/28/14659734_741924_2833_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '후광 비치는 여신미모' (2021 SBS 가요대전) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20211228n00349?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20211228n00349?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Fri, 31 Dec 2021 17:38:43 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>12-28 00:29</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/28/14659733_741923_2740_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디스패치, 2022 1월1일 열애설 대신 공개한 영상…방탄소년단→NCT (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
