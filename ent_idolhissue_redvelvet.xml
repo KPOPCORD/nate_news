@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 13:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 14:05:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드벨벳 웬디, '갓 더비 트-Step Back' 출근길 맛보기 안무 (영스트리트 출근)[뉴스엔TV]]]></title>
+            <link>https://news.nate.com/view/20220103n31332?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220103n31332?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Mon, 03 Jan 2022 09:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>01-03 22:22</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/03/202201031715521310_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레드벨벳 웬디 '갓 더 비트 6시 음원 공개합니다~'[포토엔HD]]]></title>
             <link>https://news.nate.com/view/20220103n32961?mid=e0608&amp;isq=9012</link>
@@ -102,14 +110,6 @@
             <pubDate>Mon, 03 Jan 2022 09:04:26 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>01-03 17:32</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/03/202201031730523510_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳 웬디, '갓 더비 트-Step Back' 출근길 맛보기 안무 (영스트리트 출근)[뉴스엔TV]]]></title>
-            <link>https://news.nate.com/view/20220103n31332?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220103n31332?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Mon, 03 Jan 2022 09:04:26 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>01-03 17:17</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/03/202201031715521310_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[S포토] 레드벨벳, '아이스크림 주시오' (SMTOWN LIVE 2022)]]></title>
