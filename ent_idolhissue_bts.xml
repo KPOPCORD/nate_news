@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 16:05:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 17:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단(BTS) 잠옷 굿즈, 11만원 고가 논란…진 "나도 놀랐네"]]></title>
+            <link>https://news.nate.com/view/20220104n00555?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220104n00555?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 03 Jan 2022 17:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[비즈엔터							<em>01-04 02:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2022/01/04/20220103235303_1704266_1080_1080.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['옥문아' 나태주 시인, BTS 제이홉과 특별한 인연 공개]]></title>
             <link>https://news.nate.com/view/20220103n38636?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 03 Jan 2022 09:05:39 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>01-03 17:31</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/03/1641196419852297.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 굿즈, 이번엔 가격 논란…진 "나도 놀랐네"]]></title>
-            <link>https://news.nate.com/view/20220103n28379?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220103n28379?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 03 Jan 2022 09:05:39 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>01-03 16:45</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/01/03/l_2022010302000107500019962.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
