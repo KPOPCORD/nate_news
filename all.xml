@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 02:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 03:07:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/28/14659735_741925_2924_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 뷔, 새해 첫 기부요정 등극 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220103n16573?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220103n16573?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 03 Jan 2022 03:07:17 GMT</pubDate>
+            <content:encoded><![CDATA[MK스포츠							<em>01-03 11:54</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/01/03/20220103_1641178356.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['옥문아' 나태주 시인, BTS 제이홉 특별인연…"직접 사인한 시집 선물" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220103n15857?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220103n15857?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 03 Jan 2022 03:07:17 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-03 11:41</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/03/2022010311322872090_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나태주 "방탄소년단 제이홉, 내 팬이라고 해서 직접 책 선물"(옥문아) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220103n11548?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220103n11548?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Mon, 03 Jan 2022 00:20:36 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>01-03 08:18</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/03/2022010307532964375_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[속보]방탄소년단 뷔, 3천만 팔로워 돌파. 인스타 개설 28일 만의 대기록 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220103n03333?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220103n03333?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 03 Jan 2022 00:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>01-03 08:07</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/01/03/2022010401000132900006541.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블리처스 "롤모델은 BTS·세븐틴…2022년에는 더 레벨업 하고파" [인터뷰②] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220103n03289?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220103n03289?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 03 Jan 2022 00:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>01-03 08:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/01/03/202201030728773103_61d22b9ea25d1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
