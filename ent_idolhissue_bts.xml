@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 10:05:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 11:05:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["잠옷이 12만원"…BTS 진, 굿즈 가격 뻥튀기 논란에 "나도 놀라" 당황]]></title>
+            <link>https://news.nate.com/view/20220103n35827?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220103n35827?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 03 Jan 2022 11:05:15 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>01-03 19:35</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/01/03/202201031847772521_61d2d1289afa2.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[종합]방탄소년단, 잠옷 고가 판매 논란. 아미 위해 방송까지 찍었는데→멤버 마저 "무슨 가격이…나도 놀랐네"]]></title>
             <link>https://news.nate.com/view/20220103n34632?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 03 Jan 2022 07:05:24 GMT</pubDate>
             <content:encoded><![CDATA[스포츠조선							<em>01-03 15:44</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/01/03/2022010401000169700008584.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민, 속깊은 내면 VOGUExGQ 인터뷰 잔잔한 감동 선사…'다 그렇더라']]></title>
-            <link>https://news.nate.com/view/20220103n26166?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220103n26166?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 03 Jan 2022 07:05:24 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-03 15:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/03/14661230_744685_3026_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
