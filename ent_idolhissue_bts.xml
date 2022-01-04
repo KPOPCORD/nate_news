@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 11:05:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 12:06:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['코로나 완치' 방탄소년단 진, 제이홉에 "4kg 빠졌어, 밥 사줘"]]></title>
+            <link>https://news.nate.com/view/20220104n33044?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220104n33044?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 04 Jan 2022 12:06:25 GMT</pubDate>
+            <content:encoded><![CDATA[스타투데이							<em>01-04 20:42</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/01/04/20220104_5060176_1641296443.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA['코로나 완치' 방탄소년단 진 "4kg 빠졌다…밥 사줘"]]></title>
+            <link>https://news.nate.com/view/20220104n32434?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220104n32434?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 04 Jan 2022 12:06:25 GMT</pubDate>
+            <content:encoded><![CDATA[조이뉴스24							<em>01-04 20:07</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/01/04/9808ecb4af18ec.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['코로나19 완치' 방탄소년단(BTS) 진, "4kg 빠졌다"]]></title>
             <link>https://news.nate.com/view/20220104n31943?mid=e0608&amp;isq=9009</link>
@@ -109,22 +125,6 @@
             <pubDate>Tue, 04 Jan 2022 07:05:14 GMT</pubDate>
             <content:encoded><![CDATA[스포츠한국							<em>01-04 15:23</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2022/01/04/eyoree20220104152051_O_01_C_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['코로나 완치' BTS 진 "4kg 빠졌다, 밥 사줘"…고생 많았나보네]]></title>
-            <link>https://news.nate.com/view/20220104n22823?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220104n22823?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 04 Jan 2022 07:05:14 GMT</pubDate>
-            <content:encoded><![CDATA[스포티비뉴스							<em>01-04 15:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2022/01/04/462746_588257_3555.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민 '필터' 스포티파이+유튜브 도합 스트리밍 '3억2200만']]></title>
-            <link>https://news.nate.com/view/20220104n21608?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220104n21608?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 04 Jan 2022 07:05:14 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-04 14:57</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/04/2022010414435636759_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
