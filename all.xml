@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 05:09:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 06:05:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 리사, 'MONEY' 미국 빌보드 팝 에어플레이 차트서 3주째 '인기' (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
+            <link>https://news.nate.com/view/20220104n18506?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20220104n18506?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Tue, 04 Jan 2022 06:03:26 GMT</pubDate>
+            <content:encoded><![CDATA[스타데일리뉴스							<em>01-04 13:57</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/01/04/314338_360883_5630.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['설강화' 블랙핑크 지수 "두려움 없이 과감하게 도전하고파" (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
             <link>https://news.nate.com/view/20220104n05056?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 31 Dec 2021 17:37:34 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>12-22 10:00</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/22/14658597_740013_5824_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국민청원에 블랙핑크 해외팬 난입? '설강화' 옹호 청원 등장 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
-            <link>https://news.nate.com/view/20211221n25462?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20211221n25462?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Fri, 31 Dec 2021 17:37:34 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>12-21 16:03</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/12/21/202112211602142410_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[S포토] 레드벨벳 조이-십센치, '감히 옥상에서 달빛 받으며 커플하트를 해?' (2021 MBC 가요대제전) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
@@ -248,6 +248,78 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/03/202201031730523510_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['은퇴' 이상화 "해설위원 첫 도전…롤모델=배성재" # BTS (2022 베이징올림픽)[종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220104n21289?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220104n21289?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 04 Jan 2022 06:05:43 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-04 14:50</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/04/1641262691926715.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[U2·BTS 노래→진영·윤도현 활약 '씽2게더', 관람 포인트 셋 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220104n20704?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220104n20704?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 04 Jan 2022 06:05:43 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-04 14:39</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/04/2022010414172711602_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] 방탄소년단 RM-진, 코로나19 완치판정 "건강상 특별한 증세無" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220104n20339?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220104n20339?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 04 Jan 2022 06:05:43 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠조선							<em>01-04 14:33</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/01/04/2022010401000246700013551.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["JIMIN LOVE" 방탄소년단 지민 팬덤, '약속3주년 축하' 소외계층•동물입양•나무기증•연탄기부…JIMIN♥전해지길 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220104n20066?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220104n20066?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 04 Jan 2022 06:05:43 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-04 14:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/04/14661482_745101_2810_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 슈가→RM·진, 코로나 완치…격리해제 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220104n19692?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220104n19692?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 04 Jan 2022 06:05:43 GMT</pubDate>
+            <content:encoded><![CDATA[스타in							<em>01-04 14:22</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/01/04/PS22010400073.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈가→진·RM 완치판정…방탄소년단 전원 격리 해제 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220104n19656?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220104n19656?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 04 Jan 2022 06:05:43 GMT</pubDate>
+            <content:encoded><![CDATA[SBS연예뉴스							<em>01-04 14:21</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/01/04/30000700302_700.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['완치' BTS 진, 코로나19 후유증? "4kg 빠졌어 밥 사줘야 해" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220104n19526?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220104n19526?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 04 Jan 2022 06:05:43 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠조선							<em>01-04 14:18</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/01/04/2022010501000243300013421.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 RM·진, 코로나19 완치 판정 "특별 증세 없어" [전문] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220104n19172?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220104n19172?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 04 Jan 2022 06:05:43 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠투데이							<em>01-04 14:11</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/01/04/04_768887_30559.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 RM·진, 코로나19 완치 판정 "오늘 격리 해제" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220104n18591?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220104n18591?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 04 Jan 2022 06:05:43 GMT</pubDate>
+            <content:encoded><![CDATA[조이뉴스24							<em>01-04 13:59</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/01/04/e365b46b0b513a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 RM·진, 코로나19 완치…오늘(4일) 격리해제[공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220104n17806?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220104n17806?mid=e0608&amp;isq=9009</guid>
@@ -294,78 +366,6 @@
             <pubDate>Tue, 04 Jan 2022 05:09:52 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-04 13:17</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/04/14661476_745057_1641_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["이 남자 완전 매혹적♥" 방탄소년단 정국, 극강 매혹적 자태X달콤 시크한 눈빛 '출구 없는 마력'…은혜로운 남신 아우라 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220104n16961?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220104n16961?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 04 Jan 2022 05:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-04 13:12</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/04/14661475_745053_1138_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 RM진, 코로나19 완치…"일상 활동 가능"[전문] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220104n16115?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220104n16115?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 04 Jan 2022 04:05:02 GMT</pubDate>
-            <content:encoded><![CDATA[스포티비뉴스							<em>01-04 12:36</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2022/01/04/462725_588235_2625.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단(BTS) RM-진, 코로나19 완치…격리 해제 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220104n16113?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220104n16113?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 04 Jan 2022 04:05:02 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-04 12:36</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/04/14661472_745045_3441_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 슈가→진·RM 코로나 완치 판정 "방역지침 성실히 준수"(종합) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220104n15817?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220104n15817?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 04 Jan 2022 04:05:02 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>01-04 12:21</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/04/202201041207540410_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 RM·진, 코로나19 완치 후 격리 해제 "특별한 증세 없어" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220104n15807?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220104n15807?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 04 Jan 2022 04:05:02 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>01-04 12:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/01/04/1641266147_1620582.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 RM·진 코로나19 완치 "일상 활동 가능"[전문] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220104n15741?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220104n15741?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 04 Jan 2022 04:05:02 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-04 12:17</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/04/2022010412101481579_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 RM·진, 코로나19 완치 "오늘(4일) 격리 해제" [공식입장] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220104n15544?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220104n15544?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 04 Jan 2022 04:05:02 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-04 12:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/04/1641265715962694.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 측 "RM·진 코로나 완치 판정, 오늘(4일) 격리 해제"(공식) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220104n15436?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220104n15436?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 04 Jan 2022 04:05:02 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>01-04 12:07</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/04/202201041202560410_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['코리아 프론트맨' 방탄소년단 지민, 떡볶이•불닭면•커피→만두까지 'K푸드 열풍주역' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220104n14926?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220104n14926?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 04 Jan 2022 03:07:27 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-04 11:57</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/04/14661466_745035_5544_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
