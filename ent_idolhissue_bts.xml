@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 16:05:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 17:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 정국, '스걸파' 종영에 "뉴니온 원픽…쉬면서 재밌게 봤다"]]></title>
+            <link>https://news.nate.com/view/20220105n00718?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220105n00718?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 04 Jan 2022 17:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠한국							<em>01-05 01:33</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2022/01/05/kda20220105012620_O_01_C_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["연예인 도움 많이 받아"…나태주 시인, 방탄소년단 제이홉·태연·이종석과 무슨 인연?]]></title>
             <link>https://news.nate.com/view/20220105n00458?mid=e0608&amp;isq=9009</link>
@@ -117,14 +125,6 @@
             <guid>https://news.nate.com/view/20220104n24315?mid=e0608&amp;isq=9009</guid>
             <pubDate>Tue, 04 Jan 2022 07:05:14 GMT</pubDate>
             <content:encoded><![CDATA[스포츠서울							<em>01-04 15:49</em>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[슈가→RM·진 코로나19 완치, 휴가마저 도우는 방탄소년단 [ST이슈]]]></title>
-            <link>https://news.nate.com/view/20220104n23894?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220104n23894?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 04 Jan 2022 07:05:14 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠투데이							<em>01-04 15:40</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/01/04/04_768909_58019.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
