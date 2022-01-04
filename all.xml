@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 21:04:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 22:05:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 지수, 새빨간 드레스 입으니 진짜 배우 같아 '고혹적' (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
+            <link>https://news.nate.com/view/20220105n02717?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20220105n02717?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Tue, 04 Jan 2022 22:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>01-05 06:30</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/05/202201050538280310_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 리사, 'MONEY' 미국 빌보드 팝 에어플레이 차트서 3주째 '인기' (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
             <link>https://news.nate.com/view/20220104n18506?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 31 Dec 2021 17:37:34 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>12-22 11:35</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/12/22/202112221110320310_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['설강화' 블랙핑크 팬덤 "이한열 열사 기념관에 항의? 허위사실" (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
-            <link>https://news.nate.com/view/20211222n08759?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20211222n08759?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Fri, 31 Dec 2021 17:37:34 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>12-22 10:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/12/22/14658597_740013_5824_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[S포토] 레드벨벳 조이-십센치, '감히 옥상에서 달빛 받으며 커플하트를 해?' (2021 MBC 가요대제전) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
@@ -248,6 +248,62 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/03/202201031730523510_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 정국, 美하이틴 매거진 선정 'HOTTEST GUY' 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220105n02985?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220105n02985?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 04 Jan 2022 22:05:10 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-05 06:57</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/05/2022010506533240892_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[완판남 김석진…방탄소년단 진 잠옷·베개 韓·美·日 'SOLD OUT' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220105n02938?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220105n02938?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 04 Jan 2022 22:05:10 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-05 06:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/05/2022010506485529096_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['틱톡 최강자' 방탄소년단 지민, BGM 개인 1위→1230억 언급량…2022년에도 'JIMIN JIMIN' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220105n02890?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220105n02890?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 04 Jan 2022 22:05:10 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-05 06:48</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/05/2022010506441921801_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 역대 최단 3000만 팔로워 돌파…'인스타 제왕' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220105n02854?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220105n02854?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 04 Jan 2022 22:05:10 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-05 06:44</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/05/2022010506402963341_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나태주, BTS 제이홉·태연·이종석도 사랑한 시인 (옥문아들)[전일야화] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220105n02825?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220105n02825?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 04 Jan 2022 22:05:10 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-05 06:40</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/05/1641309931655585.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['OST킹'방탄소년단 뷔, 스포티파이 최고 순위 데뷔…주간 차트도 최고 순위 '최강 음원 파워' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220105n02816?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220105n02816?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 04 Jan 2022 22:05:10 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-05 06:39</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/05/2022010506364375298_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나태주 시인 "BTS 제이홉에 직접 시집 선물"('옥문아들') (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220105n02768?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220105n02768?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 04 Jan 2022 22:05:10 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>01-05 06:33</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/01/05/202201050116978226_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 정국, '스걸파' 종영에 "뉴니온 원픽…쉬면서 재밌게 봤다" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220105n00718?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220105n00718?mid=e0608&amp;isq=9009</guid>
@@ -310,61 +366,6 @@
             <pubDate>Tue, 04 Jan 2022 10:05:15 GMT</pubDate>
             <content:encoded><![CDATA[OSEN							<em>01-04 18:44</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/01/04/202201041811773641_61d41458c46df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["제이홉 나 4㎏ 빠졌어"…방탄소년단 진, 코로나19 완치 후 근황 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220104n29795?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220104n29795?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 04 Jan 2022 10:05:15 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-04 18:03</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/04/1641286934457023.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 멤버들 코엑스 거대 전광판에 떴다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220104n29117?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220104n29117?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 04 Jan 2022 10:05:15 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠서울							<em>01-04 17:46</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/01/04/2022010401000153900009251.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 진, 코로나 완치 후 "4kg 빠졌다"…제이홉에 "밥사줘" 당당 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220104n27381?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220104n27381?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 04 Jan 2022 09:05:13 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>01-04 17:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/01/04/202201041647778642_61d3ff586548f.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["죄홉 밥 사줘"…방탄소년단 진, 코로나19 완치 후 4kg 체중 감소 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220104n27212?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220104n27212?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 04 Jan 2022 09:05:14 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-04 17:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/04/14661537_745166_5930_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[퇴근길이슈] 박나래 열애설·정창욱 음주운전·BTS 완치·오스템임플란트 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220104n27162?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220104n27162?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 04 Jan 2022 09:05:14 GMT</pubDate>
-            <content:encoded><![CDATA[조이뉴스24							<em>01-04 16:59</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/01/04/5d06e7cc0ccfb5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[종합]방탄소년단 진·RM·슈가 모두 코로나19 완치 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220104n26784?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220104n26784?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 04 Jan 2022 09:05:14 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>01-04 16:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/01/04/l_2022010402000175800033611.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[격리해제 BTS 진, 체중 4kg 빠졌다. "밥 사줘" 제이홉에 응석 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220104n24315?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220104n24315?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 04 Jan 2022 07:05:14 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠서울							<em>01-04 15:49</em>]]></content:encoded>
         </item>
     </channel>
 </rss>
