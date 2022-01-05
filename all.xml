@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 08:05:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 09:05:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/01/04/314297_360841_1122.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 정국, '스걸파' 종영에 아쉬움 토로 "원픽은 뉴니온" [TD#] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220105n34796?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220105n34796?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 05 Jan 2022 09:05:32 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>01-05 17:40</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/01/05/051620850.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[TOP이슈] '방탄소년단(BTS) 후보' 美 그래미 시상식, 연기?…오미크론 확산 여파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220105n11976?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220105n11976?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Wed, 05 Jan 2022 02:34:47 GMT</pubDate>
             <content:encoded><![CDATA[스타in							<em>01-05 11:11</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/01/05/PS22010500056.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔 'Christmas Tree' 빌보드 핫100 79위 '기염'[공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220105n03304?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220105n03304?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 05 Jan 2022 02:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-05 11:05</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/05/tn_1641348308218_945500_0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
