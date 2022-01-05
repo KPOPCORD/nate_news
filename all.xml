@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 10:05:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 11:04:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/01/04/314297_360841_1122.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단X콜드플레이 'My Universe' 빌보드 핫100 14주 차트인[종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220105n38122?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220105n38122?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 05 Jan 2022 11:04:57 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-05 19:51</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/05/tn_1641379863876_875476_0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 제이홉, 월드스타의 OOTD…이걸 다 소화하네! (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220105n37718?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220105n37718?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 05 Jan 2022 11:04:57 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>01-05 19:26</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/01/05/202201051908775539_61d56fafefc76.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 지민 '세렌디피티' 스포티파이+유튜브 '2억 스트리밍' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220105n36871?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220105n36871?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Wed, 05 Jan 2022 04:05:12 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-05 12:38</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/05/14661781_745521_3344_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["국적 불문 핫가이♥" 방탄소년단 정국, 美하이틴 매거진서 가장 핫한 'HOTTEST GUY' 1위 선정…글로벌 슈퍼 섹시킹 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220105n18203?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220105n18203?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 05 Jan 2022 04:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-05 12:28</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/05/14661779_745514_2632_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['틱톡 최강자' 방탄소년단 지민, 개인1위 BGM 돌풍→1230억 언급량…22년에도 'JIMIN JIMIN' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220105n17964?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220105n17964?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 05 Jan 2022 04:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-05 12:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/05/14661777_745500_1952_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
