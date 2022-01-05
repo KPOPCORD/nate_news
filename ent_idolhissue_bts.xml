@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 09:05:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 10:05:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 지민 '세렌디피티' 스포티파이+유튜브 '2억 스트리밍']]></title>
+            <link>https://news.nate.com/view/20220105n36871?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220105n36871?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 05 Jan 2022 10:05:28 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-05 18:47</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/05/2022010518311672812_2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["뉴니온 원픽이었음" BTS 정국, '스걸파' 생중계하며 작별 인사]]></title>
+            <link>https://news.nate.com/view/20220105n35530?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220105n35530?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 05 Jan 2022 10:05:28 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>01-05 17:58</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/01/05/l_2022010502000240000048951.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 정국, '스걸파' 종영에 아쉬움 토로 "원픽은 뉴니온" [TD#]]]></title>
             <link>https://news.nate.com/view/20220105n34796?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 05 Jan 2022 04:05:12 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-05 12:20</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/05/14661777_745500_1952_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 리트윗종합순위] 임영웅 11회째 1위, 2위 방탄소년단 지민에 682회 앞서…3위 방탄소년단 뷔·4위 방탄소년단 정국·5위 뱀뱀]]></title>
-            <link>https://news.nate.com/view/20220105n14274?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220105n14274?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 05 Jan 2022 02:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-05 11:17</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/05/14661769_745485_1159_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 뷔 '크리스마스 트리', 한국 OST 첫 빌보드 핫100 진입]]></title>
-            <link>https://news.nate.com/view/20220105n13810?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220105n13810?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 05 Jan 2022 02:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[스타in							<em>01-05 11:11</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/01/05/PS22010500056.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
