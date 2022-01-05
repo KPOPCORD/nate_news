@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 04:05:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 05:10:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[속보]방탄소년단 뷔 '크리스마스 트리', 빌보드 '핫100' 79위 올라. 韓 드라마 OST로는 처음]]></title>
+            <link>https://news.nate.com/view/20220105n03691?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220105n03691?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 05 Jan 2022 05:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠조선							<em>01-05 13:38</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/01/05/2022010601000321600018362.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["OST KING BTS V♥" 방탄소년단 뷔, 'Christmas Tree' 美 빌보드 '핫 100' 79위 등극…글로벌 인기 입증]]></title>
             <link>https://news.nate.com/view/20220105n18583?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 05 Jan 2022 02:00:55 GMT</pubDate>
             <content:encoded><![CDATA[티브이데일리							<em>01-05 09:30</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/01/05/1641342123_15092627-6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기사열독종합순위] 영탁 32회째 1위, 2위 임영웅에 22,836회 앞서…3위 방탄소년단 지민·4위 김호중·5위 이찬원]]></title>
-            <link>https://news.nate.com/view/20220105n06651?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220105n06651?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 05 Jan 2022 00:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-05 09:05</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/05/14661733_745432_255_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
