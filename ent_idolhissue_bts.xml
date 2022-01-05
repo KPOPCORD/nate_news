@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 12:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 13:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 슈가, '어거스트디' 2021 스포티파이 최다 스트리밍 韓남성솔로가수…2년 연속 1위]]></title>
+            <link>https://news.nate.com/view/20220105n40741?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220105n40741?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 05 Jan 2022 13:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-05 22:10</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/05/14661934_745784_755_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 슈가, '어거스트디' 2021 스포티파이 최다 스트리밍 韓남성솔로가수…2년 연속 1위]]></title>
+            <link>https://news.nate.com/view/20220105n39792?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220105n39792?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 05 Jan 2022 13:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-05 21:22</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/05/14661877_745721_1041_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단X콜드플레이 'My Universe' 빌보드 핫100 14주 차트인[종합]]]></title>
             <link>https://news.nate.com/view/20220105n38122?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 05 Jan 2022 05:10:14 GMT</pubDate>
             <content:encoded><![CDATA[스포츠조선							<em>01-05 13:38</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/01/05/2022010601000321600018362.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["OST KING BTS V♥" 방탄소년단 뷔, 'Christmas Tree' 美 빌보드 '핫 100' 79위 등극…글로벌 인기 입증]]></title>
-            <link>https://news.nate.com/view/20220105n18583?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220105n18583?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 05 Jan 2022 04:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-05 12:39</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/05/14661780_745534_3630_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[빅데이터가수브랜드종합순위] 임영웅 26회째 1위, 2위 영탁에 52,058점 앞서…3위 방탄소년단 지민·4위 이찬원·5위 김호중]]></title>
-            <link>https://news.nate.com/view/20220105n18511?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220105n18511?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 05 Jan 2022 04:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-05 12:38</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/05/14661781_745521_3344_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
