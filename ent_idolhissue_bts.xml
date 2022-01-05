@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 07:05:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 08:05:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[TOP이슈] '방탄소년단(BTS) 후보' 美 그래미 시상식, 연기?…오미크론 확산 여파]]></title>
+            <link>https://news.nate.com/view/20220105n11976?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220105n11976?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 05 Jan 2022 02:00:55 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-05 16:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/05/14661760_745470_415_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 정국·RM, '스걸파' 애청자 인증…"덕분에 격리 즐거웠어요"]]></title>
+            <link>https://news.nate.com/view/20220105n29809?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220105n29809?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 05 Jan 2022 08:05:35 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>01-05 16:14</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/01/05/20220105513295.PNG" length="0" type="image/PNG"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 정국, "아포방포♥︎" 새해 인사 2분 만에 100만 '좋아요'→기네스 기록 깬 역대 '최단' 기록]]></title>
             <link>https://news.nate.com/view/20220105n25783?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 05 Jan 2022 02:34:47 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>01-05 11:05</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/05/tn_1641348308218_945500_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['방탄소년단(BTS) 후보' 美 그래미 시상식, 연기?…오미크론 확산 여파]]></title>
-            <link>https://news.nate.com/view/20220105n11976?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220105n11976?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 05 Jan 2022 02:00:55 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-05 10:43</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/05/14661760_745470_415_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['옥문아들' 시인 나태주 "BTS 제이홉, 태연에게 책 선물"]]></title>
-            <link>https://news.nate.com/view/20220105n11419?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220105n11419?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 05 Jan 2022 02:00:55 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠월드							<em>01-05 10:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/01/05/20220105505924.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
