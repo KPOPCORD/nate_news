@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 06:05:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 07:05:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/01/04/314297_360841_1122.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 정국, "아포방포♥︎" 새해 인사 2분 만에 100만 '좋아요'→기네스 기록 깬 역대 '최단' 기록 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220105n25783?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220105n25783?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 05 Jan 2022 07:05:33 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-05 15:09</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/05/14661811_745617_819_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['22년에도 짐메리카' 방탄소년단 지민, 美라디오 14개 동시다발 새해 첫 월요일 지민처럼 사랑스럽게 보내!…찐팬심♥ (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220105n25597?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220105n25597?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 05 Jan 2022 07:05:33 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-05 15:05</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/05/14661810_745614_359_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS 뷔 '크리스마스 트리' 빌보드 '핫 100' 진입…한국 OST 최초 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220105n24462?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220105n24462?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Wed, 05 Jan 2022 02:00:55 GMT</pubDate>
             <content:encoded><![CDATA[스포츠월드							<em>01-05 10:34</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/01/05/20220105505924.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, '스걸파' 2위 뉴니온 "원픽"→RM "덕분에 격리가 즐거워" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220105n11414?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220105n11414?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 05 Jan 2022 02:00:55 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-05 10:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/05/1641346346443635.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['옥문아' 나태주 시인 "BTS 제이홉·소시 태연·이종석에 시집 선물" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220105n11153?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220105n11153?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 05 Jan 2022 02:00:55 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>01-05 10:30</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/01/05/20220105_5060459_1641345422.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
