@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 10:05:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 11:05:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 지민·진과 함께 스타랭킹 男아이돌 '톱3']]></title>
+            <link>https://news.nate.com/view/20220106n35170?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220106n35170?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 06 Jan 2022 11:05:06 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-06 19:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/06/2022010618431381358_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 뷔, 아침에도 조각 같은 비주얼 'Good morning'[스타IN★]]]></title>
             <link>https://news.nate.com/view/20220106n34768?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 06 Jan 2022 07:05:00 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>01-06 15:09</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/06/tn_1641449344921_285757_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 日 베스트 앨범으로 오리콘 누적 판매량 100만 장 돌파…"해외 男 아티스트로는 17년 만의 기록"]]></title>
-            <link>https://news.nate.com/view/20220106n24838?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220106n24838?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 06 Jan 2022 07:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-06 15:02</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/06/14662117_746133_19_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
