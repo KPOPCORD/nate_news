@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 14:04:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 15:05:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/05/14661961_745820_3043_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단X콜드플레이 'My Universe' 14주 연속 빌보드 차트인 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220106n39986?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220106n39986?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 06 Jan 2022 15:05:31 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>01-06 23:33</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/01/06/6b146fb0-6a63-4487-9567-3e158c8a5ef4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가온차트 1주차 디지털차트 1위는 소코도모의 '회전목마'…최다곡 차트진입은 아이유·임영웅·방탄소년단·비오·성시경 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220106n39741?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220106n39741?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 06 Jan 2022 15:05:31 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-06 23:06</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/06/14662210_746265_514_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['방탄소년단 참석 예정' 그래미 어워즈, 시상 연기 "오미크론 여파" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220106n22819?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220106n22819?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Thu, 06 Jan 2022 07:05:00 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>01-06 15:48</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/06/2022010615343663501_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 후보 오른 그래미 어워즈, 오미크론 확산 여파로 연기 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220106n08935?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220106n08935?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 06 Jan 2022 07:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠월드							<em>01-06 15:37</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/01/06/20220106504851.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 그래미 연기에 미국행도 취소3월 서울 콘서트[종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220106n26878?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220106n26878?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 06 Jan 2022 07:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>01-06 15:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/01/06/202201061423776341_61d6855d32878.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
