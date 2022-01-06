@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 12:06:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 13:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['방탄소년단 참석 예정' 그래미 어워즈, 시상 연기 "오미크론 여파"]]></title>
+            <link>https://news.nate.com/view/20220106n22819?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220106n22819?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 06 Jan 2022 13:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[더팩트							<em>01-06 21:58</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2022/01/06/202257191641445106.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[춤도 스타일도…방탄소년단 지민 '2022 가장 스타일리쉬한 아이돌' 1위 질주]]></title>
             <link>https://news.nate.com/view/20220106n36775?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 06 Jan 2022 07:05:00 GMT</pubDate>
             <content:encoded><![CDATA[OSEN							<em>01-06 15:34</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/01/06/202201061423776341_61d6855d32878.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단(BTS) 뷔, 일본인이 뽑은 'K-POP 최고 미남' 1위]]></title>
-            <link>https://news.nate.com/view/20220106n25792?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220106n25792?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 06 Jan 2022 07:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-06 15:18</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/06/14662119_746136_1417_org.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
