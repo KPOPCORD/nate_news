@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 08:05:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 09:05:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, 콜드플레이 협업곡 'My Universe'로 美 빌보드 '핫 100' 14주 연속 차트인]]></title>
+            <link>https://news.nate.com/view/20220106n32282?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220106n32282?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 06 Jan 2022 09:05:19 GMT</pubDate>
+            <content:encoded><![CDATA[비즈엔터							<em>01-06 17:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2022/01/06/20220106085311_1705330_1199_799.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 그래미 연기로 미국行 취소→3월 서울 콘서트 변동 無 [종합]]]></title>
+            <link>https://news.nate.com/view/20220106n31930?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220106n31930?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 06 Jan 2022 09:05:19 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>01-06 17:22</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/01/06/202201061653809779_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[일간스포츠x뮤빗] 방탄소년단, 2022년 새해도 '마이 유니버스'!]]></title>
             <link>https://news.nate.com/view/20220106n30110?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 06 Jan 2022 07:05:00 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>01-06 14:53</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/06/2022010613331125726_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['방탄소년단 참석 예정' 그래미 어워즈, 시상 연기 "오피크론 여파"]]></title>
-            <link>https://news.nate.com/view/20220106n22819?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220106n22819?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 06 Jan 2022 06:05:31 GMT</pubDate>
-            <content:encoded><![CDATA[더팩트							<em>01-06 14:28</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2022/01/06/202257191641445106.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그래미 어워드 연기, 방탄소년단 미국행도 연기 [종합]]]></title>
-            <link>https://news.nate.com/view/20220106n21880?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220106n21880?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 06 Jan 2022 06:05:31 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠동아							<em>01-06 14:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/01/06/107046977.1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
