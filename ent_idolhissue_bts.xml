@@ -4,7 +4,7 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 19:04:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 20:05:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/06/tn_1641461884147_292597_0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독] BTS 'LA 콘서트' 티켓, 최고 1800만원 '암표' 등장]]></title>
+            <link>https://news.nate.com/view/20211018n03835?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20211018n03835?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 06 Jan 2022 20:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[더팩트							<em>01-06 17:33</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2021/10/18/20218484163445391601.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단, 콜드플레이 협업곡 'My Universe'로 美 빌보드 '핫 100' 14주 연속 차트인]]></title>
             <link>https://news.nate.com/view/20220106n32282?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220106n32282?mid=e0608&amp;isq=9009</guid>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 06 Jan 2022 08:05:41 GMT</pubDate>
             <content:encoded><![CDATA[스포츠투데이							<em>01-06 16:09</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/01/06/1641452118_20210521125613-231.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 그래미 연기에 미국 行 취소…"서울 콘서트는 변경 無" [종합]]]></title>
-            <link>https://news.nate.com/view/20220106n27876?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220106n27876?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 06 Jan 2022 07:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-06 15:48</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/06/2022010615343663501_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
