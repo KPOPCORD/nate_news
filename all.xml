@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 09:04:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 10:05:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/05/14661961_745820_3043_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 'Butter', 지난해 '美 디지털 음원 판매량' 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220107n25986?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220107n25986?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 07 Jan 2022 10:05:24 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>01-07 18:12</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/01/07/20220107511671.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 'Butter', 얼마나 들었길래…2021 美 음원 판매량 1위 "2년 연속 쾌거"[공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220107n24786?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220107n24786?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Fri, 07 Jan 2022 08:05:07 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>01-07 16:46</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/07/202201071644050410_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 'Butter', 2021년 미국 내 디지털 음원 판매량 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220107n23146?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220107n23146?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 07 Jan 2022 08:05:07 GMT</pubDate>
-            <content:encoded><![CDATA[MK스포츠							<em>01-07 16:45</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/01/07/20220107_1641541415.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
