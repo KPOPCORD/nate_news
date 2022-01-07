@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 19:05:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 20:05:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[염정아, 방탄소년단 향한 팬심 "뷔, 나 알아봐줘" (십오야2)]]></title>
+            <link>https://news.nate.com/view/20220108n00915?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220108n00915?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 07 Jan 2022 20:05:15 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-08 05:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/08/1641570438667675.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["Congratulations Taehyung♥" 방탄소년단 뷔, 美 빌보드 세일즈차트 1위 '韓 솔로곡' 최고 데뷔]]></title>
             <link>https://news.nate.com/view/20220107n30388?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 07 Jan 2022 09:04:58 GMT</pubDate>
             <content:encoded><![CDATA[스포츠동아							<em>01-07 17:06</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/01/07/111144360.1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 'Dynamite' 이어 2021년 'Butter'로 2년 연속 미국 음원 판매량 1위]]></title>
-            <link>https://news.nate.com/view/20220107n23762?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220107n23762?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 07 Jan 2022 09:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠서울							<em>01-07 17:03</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/01/07/2022010701000296700020191.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
