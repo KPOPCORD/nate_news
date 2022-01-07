@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 06:05:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 07:05:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/05/14661961_745820_3043_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS, 美 디지털 음원 판매 2년 연속 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220107n20500?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220107n20500?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 07 Jan 2022 07:05:36 GMT</pubDate>
+            <content:encoded><![CDATA[스타in							<em>01-07 15:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/01/07/PS22010700078.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 누적 앨범판매량 3천만장 넘어…엑소·NCT·세븐틴 1천만↑ (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220107n20274?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220107n20274?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 07 Jan 2022 07:05:36 GMT</pubDate>
+            <content:encoded><![CDATA[조이뉴스24							<em>01-07 15:19</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/01/07/8f3a40c8505bcf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["서 있는 모습 자체가 작품♥" 방탄소년단 지민, '팬들과 나누고 싶어' 겨울 바다와 함께 찾아온…순수미 가득 소년의 미소 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220107n16796?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220107n16796?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Fri, 07 Jan 2022 00:21:49 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-07 09:05</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/07/14662253_746368_314_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유, 2021 연간 가온차트 2관왕…방탄소년단·임영웅도 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220107n05989?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220107n05989?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 07 Jan 2022 00:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-07 09:03</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/07/2022010708494750733_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["LOVELY ANGEL JIMIN♥" 방탄소년단 지민 방문에 핫플된 제주 누에마루 새 포토존까지 탄생→연장운영 요청쇄도 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220107n05863?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220107n05863?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 07 Jan 2022 00:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-07 09:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/07/14662250_746355_017_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
