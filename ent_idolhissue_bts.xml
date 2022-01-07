@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 04:06:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 05:10:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["서 있는 모습 자체가 작품♥" 방탄소년단 지민, '팬들과 나누고 싶어' 겨울 바다와 함께 찾아온…순수미 가득 소년의 미소]]></title>
+            <link>https://news.nate.com/view/20220107n16796?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220107n16796?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 07 Jan 2022 05:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-07 13:55</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/07/14662373_746594_5338_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["ALWAYS WITH JK♥" 방탄소년단 정국, K팝 남자 아이돌 '최강 막내' 랭킹 1위…올라운더 '황금 막내' 위엄 과시]]></title>
+            <link>https://news.nate.com/view/20220107n16705?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220107n16705?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 07 Jan 2022 05:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-07 13:52</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/07/14662371_746588_5027_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박명수 "딸 민서, BTS 티켓 끊으라고…컴퓨터 2대 켜고 돌려야"(라디오쇼)]]></title>
             <link>https://news.nate.com/view/20220107n12953?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 07 Jan 2022 00:21:49 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-07 09:01</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/07/14662250_746355_017_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 지민 팬클럽, 연말연시 기념 기부 릴레이 실천]]></title>
-            <link>https://news.nate.com/view/20220107n05830?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220107n05830?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 07 Jan 2022 00:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-07 09:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/07/1641511804028062.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["we proud of you♥" 방탄소년단 뷔, 日 인기 랭킹 네한 40주 연속 1위…적수 없는 태태랜드 '롱런 원톱 인기']]></title>
-            <link>https://news.nate.com/view/20220107n05703?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220107n05703?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 07 Jan 2022 00:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-07 08:57</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/07/14662247_746350_563_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
