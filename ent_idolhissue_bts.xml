@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 12:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 13:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 정국, '스걸파' 턴즈 조나인에게 추천한 채널명 무엇?…"해버굿나인"]]></title>
+            <link>https://news.nate.com/view/20220107n29629?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220107n29629?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 07 Jan 2022 13:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-07 21:50</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/07/14662430_746672_4853_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 RM, 책 무게에 휘어버린 책장 공개 "뇌섹남 포스"]]></title>
             <link>https://news.nate.com/view/20220107n28163?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 07 Jan 2022 09:04:58 GMT</pubDate>
             <content:encoded><![CDATA[티브이데일리							<em>01-07 17:01</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/01/07/071621151.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["또 기록" 방탄소년단, 2년 연속 2021년 美 디지털 음원 판매량 1위]]></title>
-            <link>https://news.nate.com/view/20220107n23639?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220107n23639?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 07 Jan 2022 09:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠투데이							<em>01-07 17:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/01/07/07_769828_81946.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
