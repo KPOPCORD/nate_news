@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 02:04:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 03:12:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/05/14661961_745820_3043_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[박명수 "딸 민서, BTS 티켓 끊으라고…컴퓨터 2대 켜고 돌려야"(라디오쇼) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220107n12953?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220107n12953?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 07 Jan 2022 03:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>01-07 11:28</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/07/202201071037296810_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단·트레저·세븐틴, '후즈팬덤상' 수상…케이팝 최강 팬덤 입증 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220107n10149?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220107n10149?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Fri, 07 Jan 2022 00:21:49 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-07 08:57</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/07/14662247_746350_563_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민의 행복한 여행, 달콤한 추억 공유 "고마워요♥" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220107n05529?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220107n05529?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 07 Jan 2022 00:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-07 08:53</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/07/tn_1641513184417_854303_0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
