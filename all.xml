@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 03:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 04:05:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,38 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/05/14661961_745820_3043_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[빅데이터가수브랜드종합순위] 임영웅 29회째 1위, 2위 영탁에 61,457점 앞서…3위 방탄소년단 지민·4위 이찬원·5위 장민호 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220108n05520?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220108n05520?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 08 Jan 2022 04:05:04 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-08 12:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/08/14662522_746877_2821_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[골든디스크 어워즈, 오늘(8일) 개최…방탄소년단 LA 공연 공개 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220108n05307?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220108n05307?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 08 Jan 2022 04:05:04 GMT</pubDate>
+            <content:encoded><![CDATA[K STAR							<em>01-08 12:08</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kb/2022/01/08/new_news__20220108120637_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['BTS 찐팬' 염정아 "하이브 배우 있어요?" 급관심, 이정재 '귀마개' 진땀(출장 십오야) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220108n05210?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220108n05210?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 08 Jan 2022 04:05:04 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠서울							<em>01-08 11:59</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/01/08/2022010801000312600021461.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[트위터 리트윗종합순위] 방탄소년단 지민 57회째 1위, 2위 임영웅에 5,124회 앞서…3위 방탄소년단 뷔·4위 방탄소년단 정국·5위 뱀뱀 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220108n05192?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220108n05192?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 08 Jan 2022 04:05:04 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-08 11:58</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/08/14662520_746872_5617_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["전정국 작명소 차리자" 방탄소년단 정국, "해버굿나인" 턴즈 조나인에 '재치만점' 채널명 추천…'스걸파' 열혈 팬 재인증 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220108n04964?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220108n04964?mid=e0608&amp;isq=9009</guid>
@@ -334,38 +366,6 @@
             <pubDate>Sat, 08 Jan 2022 01:57:53 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>01-08 10:28</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/08/1641605092169462.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 1월 보이그룹 브랜드평판 '1위'…2위 세븐틴 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220108n03719?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220108n03719?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 08 Jan 2022 01:57:53 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠한국							<em>01-08 10:08</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2022/01/08/eyoree20220108093825_O_03_C_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기사열독종합순위] 영탁 35회째 1위, 2위 임영웅에 24,602회 앞서…3위 방탄소년단 지민·4위 이찬원·5위 NCT (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220108n03639?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220108n03639?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 08 Jan 2022 01:57:53 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-08 10:02</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/08/14662480_746791_5951_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 LA 공연, TV최초 공개…골든디스크 어워즈 오늘(8일) 개최 [DA:투데이] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220108n03344?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220108n03344?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 08 Jan 2022 01:57:53 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠동아							<em>01-08 09:42</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/01/08/111149473.1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[골든디스크, BTS 'LA 콘서트' 단독 공개 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220108n03223?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220108n03223?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 08 Jan 2022 01:57:53 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>01-08 09:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/01/08/l_2022010802000371800077961.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
