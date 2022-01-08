@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 02:33:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 03:10:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["전정국 작명소 차리자" 방탄소년단 정국, "해버굿나인" 턴즈 조나인에 '재치만점' 채널명 추천…'스걸파' 열혈 팬 재인증]]></title>
+            <link>https://news.nate.com/view/20220108n04964?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220108n04964?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 08 Jan 2022 03:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-08 11:36</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/08/14662516_746863_3432_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["Borahae V♥" 방탄소년단 뷔, 넘사벽 미모+독보적 센스 'Special Veauty' 화보장인]]></title>
+            <link>https://news.nate.com/view/20220108n04884?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220108n04884?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 08 Jan 2022 03:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-08 11:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/08/14662514_746860_297_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["훅 빨려들어갈 듯 완벽해♥" 방탄소년단 지민, 코웨이 영상 완벽한 조형미…맑은 미모+신뢰도 No.1]]></title>
             <link>https://news.nate.com/view/20220108n04785?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 08 Jan 2022 01:57:53 GMT</pubDate>
             <content:encoded><![CDATA[스포츠경향							<em>01-08 09:34</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/01/08/l_2022010802000371800077961.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 1월 보이그룹 브래드평판 1위. '수상'·'기부'·'완치' 높게 분석돼]]></title>
-            <link>https://news.nate.com/view/20220108n03222?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220108n03222?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 08 Jan 2022 01:57:53 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>01-08 09:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/01/08/2022010901000506100030621.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[독자추천종합순위] 영탁 97회째 1위, 2위 임영웅에 188표 앞서…3위 방탄소년단 지민·4위 이찬원·5위 장민호]]></title>
-            <link>https://news.nate.com/view/20220108n03143?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220108n03143?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 08 Jan 2022 01:57:53 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-08 09:31</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/08/14662472_746770_2952_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
