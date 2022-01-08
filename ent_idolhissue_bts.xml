@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 16:05:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 17:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[종합] 방탄소년단·아이유 '2022 골든디스크' 대상…임영웅 '베스트 솔로 아티스트상' 수상]]></title>
+            <link>https://news.nate.com/view/20220109n00353?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220109n00353?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 08 Jan 2022 17:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[비즈엔터							<em>01-09 02:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2022/01/09/20220109003755_1706266_550_825.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS, 5년 연속 대상…"'대'상이란 '상'당히 기분이 좋다"[2022 골든디스크]]]></title>
             <link>https://news.nate.com/view/20220108n12311?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 08 Jan 2022 11:05:01 GMT</pubDate>
             <content:encoded><![CDATA[스타투데이							<em>01-08 19:33</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/01/08/20220108_5063491_1641636976.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 이변 없이 '음반 대상'→영상편지 "기분이가 좋다" [2022 골든디스크]]]></title>
-            <link>https://news.nate.com/view/20220108n12408?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220108n12408?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 08 Jan 2022 11:05:01 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-08 19:31</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/08/1641637792068746.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
