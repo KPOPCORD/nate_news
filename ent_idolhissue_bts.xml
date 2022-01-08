@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 12:06:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 13:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 슈가, 틱톡 #SUGA 누적 440억뷰 넘어섰다]]></title>
+            <link>https://news.nate.com/view/20220108n13623?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220108n13623?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 08 Jan 2022 13:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-08 21:44</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/08/2022010821341439773_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 음반·아이유 음원 대상…에스파 4관왕 (종합) [2022 골든디스크]]]></title>
             <link>https://news.nate.com/view/20220108n13032?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 08 Jan 2022 11:05:01 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>01-08 19:31</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/08/1641637792068746.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 '음반', 아이유 '음원' 대상…에스파 4관왕→스테이씨 2관왕(종합)[36회 골든디스크]]]></title>
-            <link>https://news.nate.com/view/20220108n12382?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220108n12382?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 08 Jan 2022 11:05:01 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>01-08 19:28</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/01/08/202201081637776937_61d966e989403.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
