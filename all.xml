@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 11:05:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 12:06:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,12 +248,76 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/05/14661961_745820_3043_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 음반·아이유 음원 대상…에스파 4관왕 (종합) [2022 골든디스크] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220108n13032?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220108n13032?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 08 Jan 2022 12:06:10 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>01-08 20:46</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/01/08/202201082039345259_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단·아이유, '골든디스크' 대상…에스파 4관왕 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220108n13019?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220108n13019?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 08 Jan 2022 12:06:10 GMT</pubDate>
+            <content:encoded><![CDATA[더팩트							<em>01-08 20:43</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2022/01/08/202222061641640950.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, '골든디스크' 음반 대상 "원동력은 여러분의 응원" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220108n12976?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220108n12976?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 08 Jan 2022 12:06:10 GMT</pubDate>
+            <content:encoded><![CDATA[K STAR							<em>01-08 20:39</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kb/2022/01/08/new_news__20220108203845_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단·아이유, 골든디스크 대상 수상…에스파 4관왕 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220108n12905?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220108n12905?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 08 Jan 2022 12:06:10 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-08 20:29</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/08/14662597_746997_2810_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 음반·아이유 음원 대상…진격의 에스파 4관왕 (종합)[2022 골든디스크] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220108n12760?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220108n12760?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 08 Jan 2022 12:06:10 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-08 20:10</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/08/1641638659582521.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[종합] 아이유·방탄소년단, 골든디스크 대상 "뜻깊은 한 해" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220108n12734?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220108n12734?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 08 Jan 2022 12:06:10 GMT</pubDate>
+            <content:encoded><![CDATA[조이뉴스24							<em>01-08 20:07</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/01/08/38ed98c3014710.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[36회 골든디스크] 아이유 2년 연속 음원 대상-BTS 5년연속 음반 대상(종합) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220108n12721?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220108n12721?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 08 Jan 2022 12:06:10 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>01-08 20:05</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/01/08/0611977b-10f3-48ef-b9cd-b025bbcf4d65.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단, 5년 연속 음반 대상…"대상이란 기분이가 좋다" [2022 골든디스크] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220108n12311?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220108n12311?mid=e0608&amp;isq=9009</guid>
             <pubDate>Sat, 08 Jan 2022 11:05:01 GMT</pubDate>
             <content:encoded><![CDATA[스타in							<em>01-08 19:54</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/01/08/PS22010800101.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['골든디스크 어워즈' 방탄소년단, 음반 부문 대상 "기분이가 좋다" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220108n12598?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220108n12598?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 08 Jan 2022 12:06:10 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠한국							<em>01-08 19:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2022/01/08/eun20220108194457_O_01_C_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이유·방탄소년단, 골든디스크 대상 [종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -302,70 +366,6 @@
             <pubDate>Sat, 08 Jan 2022 11:05:01 GMT</pubDate>
             <content:encoded><![CDATA[OSEN							<em>01-08 19:28</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/01/08/202201081637776937_61d966e989403.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['2022 골든디스크' 방탄소년단·아이유 대상 영예, 에스파 4관왕 등극 [종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220108n12381?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220108n12381?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 08 Jan 2022 11:05:01 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>01-08 19:28</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/01/08/1641637575_1621321.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[36회 골든디스크] 방탄소년단 논란의 여지 없는 음반 부문 대상 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220108n12314?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220108n12314?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 08 Jan 2022 11:05:01 GMT</pubDate>
-            <content:encoded><![CDATA[일간스포츠							<em>01-08 19:24</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/01/08/6b146fb0-6a63-4487-9567-3e158c8a5ef4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['골든디스크어워즈' 방탄소년단, 2년 연속 음반 대상 수상 "벅찬 마음" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220108n12287?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220108n12287?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 08 Jan 2022 11:05:01 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠투데이							<em>01-08 19:22</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/01/08/08_770000_22310.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 불참에도 음반 대상 포함 4관왕 "안주하지 않겠다"[골든디스크] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220108n12271?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220108n12271?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 08 Jan 2022 11:05:01 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>01-08 19:21</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/08/202201081509290410_51.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, LA 공연 첫 공개 '무한 애교+에너지 발산'('골든디스크 어워즈') (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220108n12152?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220108n12152?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 08 Jan 2022 11:05:01 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>01-08 19:11</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/01/08/20220108_5063490_1641636486.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[36회 골든디스크] 아이유-방탄소년단 디지털 음원 부문 본상 '더블 크라운' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220108n12072?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220108n12072?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 08 Jan 2022 11:05:01 GMT</pubDate>
-            <content:encoded><![CDATA[일간스포츠							<em>01-08 19:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/01/08/33d1e6c7-b5d1-4324-9505-cd034a4bca31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유·방탄소년단, 음원 본상 "너무너무 행복한 한 해" [2022 골든디스크] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220108n11991?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220108n11991?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 08 Jan 2022 11:05:01 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>01-08 18:58</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/01/08/202201081856524171_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단·아이유, 음원 본상 영예…더블 크라운 달성 [2022 골든디스크] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220108n11960?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220108n11960?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 08 Jan 2022 11:05:01 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-08 18:55</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/08/1641635628718533.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
