@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 04:05:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jan 2022 05:10:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["그래도 아직은 블랙핑크" 1월 걸그룹 브랜드평판 1위]]></title>
+            <link>https://news.nate.com/view/20220109n07084?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20220109n07084?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Sun, 09 Jan 2022 05:07:57 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>01-09 13:48</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/09/202201091344116710_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크, 1월 걸그룹 브랜드평판 1위 차지]]></title>
             <link>https://news.nate.com/view/20220109n03329?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 31 Dec 2021 17:37:34 GMT</pubDate>
             <content:encoded><![CDATA[스타데일리뉴스							<em>12-30 11:32</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/12/30/313997_360524_2139.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 리사 'MONEY' 스포티파이 3억 스트리밍 돌파]]></title>
-            <link>https://news.nate.com/view/20211230n13306?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20211230n13306?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Fri, 31 Dec 2021 17:37:34 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>12-30 11:21</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2021/12/30/202112301119432410_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
