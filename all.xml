@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 12:06:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jan 2022 13:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/05/14661961_745820_3043_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 뷔, 빌보드 핫 트렌딩차트 韓솔로 최초 1위 재등극…'최강 K솔로' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220109n16763?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220109n16763?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 09 Jan 2022 13:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-09 21:39</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/09/14662721_747244_387_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사유리X젠, 춘천 삼악산 호수 케이블카→BTS 해피초원목장 한우버거 먹방 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220109n16321?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220109n16321?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 09 Jan 2022 13:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[비즈엔터							<em>01-09 21:05</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2022/01/09/20220109201407_1706446_1085_610.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['복면가왕' 얼음왕자=카바디 국대 이장군 "인도서 인기 BTS급" [TV캡처] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220109n14824?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220109n14824?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Sun, 09 Jan 2022 03:09:40 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-09 11:40</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/09/14662646_747125_393_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["현실 만찢남♥" 방탄소년단 정국, 웹툰 캐릭터도 꽃미남 미모→'#WEBTOON_JUNGKOOK' 월드 실트 1위…폭발적 관심 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220109n04897?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220109n04897?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 09 Jan 2022 03:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-09 11:31</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/09/14662645_747118_3011_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민 팬덤 '골든디스크' 편집배제에 뿔났다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220109n03515?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220109n03515?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 09 Jan 2022 02:06:43 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>01-09 11:06</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/01/09/l_2022010902000394500081133.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
