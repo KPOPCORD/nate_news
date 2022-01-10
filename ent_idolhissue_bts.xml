@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 09:05:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 10:05:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 지민 '크리스마스 러브' 사운드클라우드 4900만 스트리밍 넘었다]]></title>
+            <link>https://news.nate.com/view/20220110n33237?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220110n33237?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 10 Jan 2022 10:05:50 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-10 18:29</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/10/2022011018223831192_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["방탄소년단처럼"…엔하이픈, '역대급 퍼포먼스' 자부심 [종합]]]></title>
             <link>https://news.nate.com/view/20220110n31834?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 10 Jan 2022 06:06:26 GMT</pubDate>
             <content:encoded><![CDATA[OSEN							<em>01-10 14:28</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/01/10/202201101347772012_61dbc3bf17099.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["BTS 잇는 칼군무 대명사 될 것" 엔하이픈, 퍼포먼스로 입증할 성장 [종합]]]></title>
-            <link>https://news.nate.com/view/20220110n21153?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220110n21153?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 10 Jan 2022 06:06:26 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠투데이							<em>01-10 14:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/01/10/1641787823_20220110132824-366.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
