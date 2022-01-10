@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 02:32:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 03:10:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/05/14661962_745821_3129_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['미녀스타들 원픽♥' 방탄소년단 지민, 인스타 개설 후 글로벌 스타들 팔로우, 또 팔로우…세계가 탐내는 남자 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220110n05685?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220110n05685?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 10 Jan 2022 00:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-10 11:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/10/tn_1641783184036_338355_0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["You are so creative♥" 방탄소년단 지민, '행복요정' 귀여운 얼굴에 그렇지 못한 놀라운 코어힘…'큐티섹시'의 정석 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220110n12727?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220110n12727?mid=e0608&amp;isq=9009</guid>
@@ -310,14 +318,6 @@
             <pubDate>Mon, 10 Jan 2022 00:20:56 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>01-10 09:00</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/10/1641769758422559.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['미녀스타들 원픽♥' 방탄소년단 지민, 인스타 개설 후 글로벌 스타들 팔로우, 또 팔로우…세계가 탐내는 남자 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220110n05685?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220110n05685?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 10 Jan 2022 00:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-10 08:59</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/10/2022011008542112276_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[기사열독종합순위] 영탁 36회째 1위, 2위 임영웅에 3,413회 앞서…3위 방탄소년단 지민·4위 이찬원·5위 레드벨벳 조이 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
