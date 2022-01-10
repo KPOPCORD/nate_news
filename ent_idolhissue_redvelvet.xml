@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 12:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 13:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '눈빛 반짝이며' (웬디의 영스트리트 출근길)]]></title>
+            <link>https://news.nate.com/view/20220110n36893?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220110n36893?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Mon, 10 Jan 2022 13:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-10 22:12</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/10/14663052_747729_112_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '멍뭉이처럼 달려오는 와니' (웬디의 영스트리트 출근길)]]></title>
+            <link>https://news.nate.com/view/20220110n36878?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220110n36878?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Mon, 10 Jan 2022 13:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-10 22:11</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/10/14663051_747728_1018_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레드벨벳 웬디, 러블리 천사 (영스트리트 출근)[뉴스엔TV]]]></title>
             <link>https://news.nate.com/view/20220110n31151?mid=e0608&amp;isq=9012</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 05 Jan 2022 14:03:57 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-05 22:35</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/05/14661965_745824_3435_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '미모 뽐낸 손인사' (SBS TV 동물농장 출근길)]]></title>
-            <link>https://news.nate.com/view/20220105n41107?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220105n41107?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 05 Jan 2022 14:03:57 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-05 22:35</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/05/14661964_745823_3331_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '볼륨 몸매 뽐내며' (SBS TV 동물농장 출근길)]]></title>
-            <link>https://news.nate.com/view/20220105n41085?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220105n41085?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 05 Jan 2022 14:03:57 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-05 22:33</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/05/14661963_745822_3224_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

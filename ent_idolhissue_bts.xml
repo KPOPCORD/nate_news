@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 12:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 13:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['물어보살' 서장훈, BTS '호르몬 전쟁' 50대에 "잘 추면 화제 될것"[별별TV]]]></title>
+            <link>https://news.nate.com/view/20220110n36050?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220110n36050?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 10 Jan 2022 13:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-10 21:09</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/10/2022011019300316028_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['옥문아' 권율, BTS 팬심→이승우와 남다른 친분  [MK★TV컷]]]></title>
+            <link>https://news.nate.com/view/20220110n35775?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220110n35775?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 10 Jan 2022 13:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[MK스포츠							<em>01-10 20:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/01/10/20220110_1641815542.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 지민 '크리스마스 러브' 사운드클라우드 4900만 스트리밍 넘었다]]></title>
             <link>https://news.nate.com/view/20220110n33237?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 10 Jan 2022 06:06:26 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-10 14:52</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/10/14662870_747527_5134_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임시완 "가장 최근 팔로우한 연예인은 BTS 뷔"…의외의 인맥]]></title>
-            <link>https://news.nate.com/view/20220110n21623?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220110n21623?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 10 Jan 2022 06:06:26 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>01-10 14:28</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/01/10/20220110_5064647_1641790793.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["가장 엔하이픈 다운 앨범"…BTS 계보 이을 '무결점 칼군무돌' 출격 [종합]]]></title>
-            <link>https://news.nate.com/view/20220110n21606?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220110n21606?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 10 Jan 2022 06:06:26 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>01-10 14:28</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/01/10/202201101347772012_61dbc3bf17099.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
