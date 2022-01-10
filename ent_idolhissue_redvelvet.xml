@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 23:05:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 00:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기사열독종합순위] 영탁 36회째 1위, 2위 임영웅에 3,413회 앞서…3위 방탄소년단 지민·4위 이찬원·5위 레드벨벳 조이]]></title>
+            <link>https://news.nate.com/view/20220110n04612?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220110n04612?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Mon, 10 Jan 2022 00:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-10 08:25</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/10/14662768_747345_2338_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '안녕~' (SBS TV 동물농장 출근길)]]></title>
             <link>https://news.nate.com/view/20220105n41218?mid=e0608&amp;isq=9012</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 05 Jan 2022 14:03:57 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-05 22:32</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/05/14661962_745821_3129_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '러비향한 손짓' (SBS TV 동물농장 출근길)]]></title>
-            <link>https://news.nate.com/view/20220105n41070?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220105n41070?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 05 Jan 2022 14:03:57 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-05 22:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/05/14661961_745820_3043_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

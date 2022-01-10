@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 23:05:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 00:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2021/12/30/313997_360524_2139.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[기사열독종합순위] 영탁 36회째 1위, 2위 임영웅에 3,413회 앞서…3위 방탄소년단 지민·4위 이찬원·5위 레드벨벳 조이 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20220110n04612?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220110n04612?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Mon, 10 Jan 2022 00:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-10 08:25</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/10/14662768_747345_2338_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '안녕~' (SBS TV 동물농장 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
             <link>https://news.nate.com/view/20220105n41218?mid=e0608&amp;isq=9012</link>
             <guid>https://news.nate.com/view/20220105n41218?mid=e0608&amp;isq=9012</guid>
@@ -240,12 +248,60 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/05/14661962_745821_3129_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '러비향한 손짓' (SBS TV 동물농장 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20220105n41070?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220105n41070?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 05 Jan 2022 14:03:57 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-05 22:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/05/14661961_745820_3043_org.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[BTS 지민, 남다른 비주얼로 여심 저격 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220110n05735?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220110n05735?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 10 Jan 2022 00:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-10 09:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/10/1641769758422559.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['미녀스타들 원픽♥' 방탄소년단 지민, 인스타 개설 후 글로벌 스타들 팔로우, 또 팔로우…세계가 탐내는 남자 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220110n05685?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220110n05685?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 10 Jan 2022 00:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-10 08:59</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/10/2022011008542112276_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기사열독종합순위] 영탁 36회째 1위, 2위 임영웅에 3,413회 앞서…3위 방탄소년단 지민·4위 이찬원·5위 레드벨벳 조이 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220110n04612?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220110n04612?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 10 Jan 2022 00:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-10 08:25</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/10/14662768_747345_2338_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[독자추천종합순위] 임영웅 2회째 1위, 2위 방탄소년단 지민에 1,273표 앞서…3위 영탁·4위 이찬원·5위 장민호 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220110n04286?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220110n04286?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 10 Jan 2022 00:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-10 08:09</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/10/14662767_747340_752_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 정국, 남다른 카리스마로 여심 강탈 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220110n04092?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220110n04092?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 10 Jan 2022 00:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-10 08:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/10/1641768068091303.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 슈가 솔로곡 'Trivia 轉 : Seesaw' 스포티파이 1억 4400만 달성 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220110n04054?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220110n04054?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 10 Jan 2022 00:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-10 07:59</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/10/2022011007573195053_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 슈가 어거스트디 'D-2' 믹스테이프 스포티파이 4억 6800만 돌파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220110n04021?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220110n04021?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 10 Jan 2022 00:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-10 07:56</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/10/2022011007534414602_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['윙즈앨범 솔로 최초' 방탄소년단 지민 '라이' 스포티파이 1억 6000만…韓솔로 유일 3곡 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -310,62 +366,6 @@
             <pubDate>Sun, 09 Jan 2022 23:05:02 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>01-10 07:04</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/10/2022011006585648161_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['버터' 앨범 매출만 534억원…"역시 BTS!" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220110n03127?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220110n03127?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 09 Jan 2022 23:05:02 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠동아							<em>01-10 06:58</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/01/10/107047513.24.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세상 뒤집은 방탄소년단 지민, 놀라운 코어힘 큐.티.섹.시 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220110n03125?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220110n03125?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 09 Jan 2022 23:05:02 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-10 06:58</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/10/2022011006532853027_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['솔로 최강' 방탄소년단 뷔, 스포티파이 팔로워 증가 全세계 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220110n03094?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220110n03094?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 09 Jan 2022 23:05:02 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-10 06:53</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/10/2022011006491029182_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 빌보드 핫 트렌딩차트 韓솔로 최초 1위 재등극…'최강 K솔로' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220109n16763?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220109n16763?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 09 Jan 2022 13:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-09 21:39</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/09/14662721_747244_387_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사유리X젠, 춘천 삼악산 호수 케이블카→BTS 해피초원목장 한우버거 먹방 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220109n16321?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220109n16321?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 09 Jan 2022 13:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[비즈엔터							<em>01-09 21:05</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2022/01/09/20220109201407_1706446_1085_610.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['복면가왕' 얼음왕자=카바디 국대 이장군 "인도서 인기 BTS급" [TV캡처] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220109n14824?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220109n14824?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 09 Jan 2022 11:04:42 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠투데이							<em>01-09 19:02</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/01/09/09770197.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['복면가왕' 카바디 국대 이장군 "인도 BTS…공항 프리 패스" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220109n14816?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220109n14816?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 09 Jan 2022 11:04:42 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>01-09 19:02</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/01/09/l_2022010902000424600085991.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
