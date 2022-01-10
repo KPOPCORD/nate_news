@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 00:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 01:58:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박하선 "BTS 팬, 다른 남자 좋아하는 걸 딸이 이상하게 생각해"(문제아들)]]></title>
+            <link>https://news.nate.com/view/20220110n09077?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220110n09077?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 10 Jan 2022 01:58:23 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>01-10 10:06</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/10/202201101003252410_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['윙즈앨범 솔로 최초' 방탄소년단 지민 '라이' 스포티파이 1억 6000만…韓솔로 유일 3곡]]></title>
+            <link>https://news.nate.com/view/20220110n03954?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220110n03954?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 09 Jan 2022 23:05:02 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-10 10:05</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/10/tn_1641776704362_111265_0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 지민, 남다른 비주얼로 여심 저격]]></title>
             <link>https://news.nate.com/view/20220110n05735?mid=e0608&amp;isq=9009</link>
@@ -64,14 +80,6 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/10/2022011007534414602_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['윙즈앨범 솔로 최초' 방탄소년단 지민 '라이' 스포티파이 1억 6000만…韓솔로 유일 3곡]]></title>
-            <link>https://news.nate.com/view/20220110n03954?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220110n03954?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 09 Jan 2022 23:05:02 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-10 07:51</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/10/2022011007435021449_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[댓글종합순위] 영탁 142회째 1위, 2위 박서진에 660개 앞서…3위 이찬원·4위 방탄소년단 지민·5위 강혜연]]></title>
             <link>https://news.nate.com/view/20220110n03820?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220110n03820?mid=e0608&amp;isq=9009</guid>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 09 Jan 2022 23:05:02 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>01-10 07:11</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/10/2022011007050679752_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국 팬들, '정국데이' 기부 행렬…선한 영향력 실천 'OurGoldenStarJK♡']]></title>
-            <link>https://news.nate.com/view/20220110n03283?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220110n03283?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 09 Jan 2022 23:05:02 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-10 07:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/10/2022011006585648161_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
