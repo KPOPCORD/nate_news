@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 09:05:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 10:05:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["방탄소년단(BTS) 지민이 찾은 제주 관광지 찾아 인증하세요"]]></title>
+            <link>https://news.nate.com/view/20220111n32285?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220111n32285?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 11 Jan 2022 10:05:34 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>01-11 17:56</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/01/11/l_2022011102000549100113401.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[투모로우바이투게더, 2021 미국 최다판매 K-팝 앨범…NCT127-방탄소년단 순위권]]></title>
             <link>https://news.nate.com/view/20220111n30550?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 11 Jan 2022 04:05:35 GMT</pubDate>
             <content:encoded><![CDATA[티브이데일리							<em>01-11 12:14</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/01/11/111621683.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['타고난 아티스트' 방탄소년단 뷔, 아티스트 메이드 뮤트 보스턴 백 & 브로치 세트 "아미를 위해 만들었어요"…팬사랑 듬뿍]]></title>
-            <link>https://news.nate.com/view/20220111n15202?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220111n15202?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 11 Jan 2022 04:05:35 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-11 11:58</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/11/14663222_747964_5626_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
