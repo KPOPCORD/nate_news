@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 06:05:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 07:05:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 울고 있는 최우식 콧구멍에 '?'…장난도 클라쓰가 다르네[★SHOT!]]]></title>
+            <link>https://news.nate.com/view/20220111n25549?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220111n25549?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 11 Jan 2022 07:05:02 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>01-11 15:49</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/01/11/202201111537774753_61dd28225e9c9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 뷔, 최우식 놀리기에 진심이네? '찐친 케미']]></title>
             <link>https://news.nate.com/view/20220111n18541?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 11 Jan 2022 02:34:27 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-11 11:07</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/11/14663206_747932_58_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기사열독종합순위] 영탁 37회째 1위, 2위 임영웅에 16,456회 앞서…3위 방탄소년단 지민·4위 이찬원·5위 에스파 윈터]]></title>
-            <link>https://news.nate.com/view/20220111n12413?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220111n12413?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 11 Jan 2022 02:34:27 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-11 11:05</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/11/14663207_747926_221_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
