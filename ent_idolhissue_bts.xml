@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 07:05:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 08:05:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 RM 픽, 의정부미술도서관 화제 [TD#]]]></title>
+            <link>https://news.nate.com/view/20220111n26122?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220111n26122?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 11 Jan 2022 08:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>01-11 15:58</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/01/11/111621738.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 뷔, 울고 있는 최우식 콧구멍에 '?'…장난도 클라쓰가 다르네[★SHOT!]]]></title>
             <link>https://news.nate.com/view/20220111n25549?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 11 Jan 2022 02:34:27 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-11 11:12</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/11/14663210_747944_1059_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['지민급 인기란 이런것' 방탄소년단 지민, K팝 인기투표 79주 역대급 1위 행진…새해에도 따라올자 없어]]></title>
-            <link>https://news.nate.com/view/20220111n12509?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220111n12509?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 11 Jan 2022 02:34:27 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-11 11:07</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/11/14663206_747932_58_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
