@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 08:05:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 09:05:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투모로우바이투게더, 2021 미국 최다판매 K-팝 앨범…NCT127-방탄소년단 순위권]]></title>
+            <link>https://news.nate.com/view/20220111n30550?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220111n30550?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 11 Jan 2022 09:05:20 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-11 17:19</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/11/14663374_748198_1753_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제주관광공사, 방탄소년단 지민 다녀간 누웨마루 거리 이벤트 "MZ세대에 긍정 이미지"]]></title>
+            <link>https://news.nate.com/view/20220111n30384?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220111n30384?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 11 Jan 2022 09:05:20 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-11 17:18</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/11/tn_1641889084314_598003_0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 RM 픽, 의정부미술도서관 화제 [TD#]]]></title>
             <link>https://news.nate.com/view/20220111n26122?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 11 Jan 2022 04:05:35 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-11 11:58</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/11/14663222_747964_5626_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 마스크 가격 논란 "너무 비싸" VS "굿즈일 뿐"]]></title>
-            <link>https://news.nate.com/view/20220111n13225?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220111n13225?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 11 Jan 2022 02:34:27 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>01-11 11:19</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/01/11/l_2022011102000506700105271.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, 2022년 가장 인기 있는 남자 K팝 아이돌 1위…초대세 아이콘의 영향력]]></title>
-            <link>https://news.nate.com/view/20220111n12818?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220111n12818?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 11 Jan 2022 02:34:27 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-11 11:12</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/11/14663210_747944_1059_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
