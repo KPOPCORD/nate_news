@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 12:07:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 13:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/10/14663111_747797_345_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["Kim Taehyung King is amazing♥" 방탄소년단 뷔, 스포티파이 팔로워 증가 세계 1위! '최강 K솔로' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220111n36581?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220111n36581?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 11 Jan 2022 13:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-11 21:05</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/11/14663415_748241_344_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단X콜드플레이 'My Universe' 빌보드 핫100 14주 차트인[종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220105n38122?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220105n38122?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Tue, 11 Jan 2022 05:09:15 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-11 13:05</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/11/14663235_748011_49_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 자작곡 'Sweet Night' 스포티파이 1억 9천만 스트리밍 돌파…최강 음원 파워 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220111n16791?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220111n16791?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 11 Jan 2022 05:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-11 13:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/11/14663231_747997_5923_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
