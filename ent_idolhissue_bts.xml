@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 14:05:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 15:05:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['옥탑방의 문제아들' BTS RM의 K-문화재 유행, '반가사유상' 국립중앙박물관 품절 대란!]]></title>
+            <link>https://news.nate.com/view/20220111n38540?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220111n38540?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 11 Jan 2022 15:05:14 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-11 23:39</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/11/14663436_748292_382_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 정국, 쉴새없는 복싱 펀치…"어렵다"[스타IN★]]]></title>
+            <link>https://news.nate.com/view/20220111n38216?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220111n38216?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 11 Jan 2022 15:05:14 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-11 22:54</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/11/2022011122461057184_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["Kim Taehyung King is amazing♥" 방탄소년단 뷔, 스포티파이 팔로워 증가 세계 1위! '최강 K솔로']]></title>
             <link>https://news.nate.com/view/20220111n36581?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 11 Jan 2022 05:09:15 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-11 13:49</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/11/14663242_748042_456_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['음악PM 성공' 방탄소년단 지민, 다 잘하는 '멀티 뮤지션'→팬들 2022 PJM1 솔로 활동 기대UP]]></title>
-            <link>https://news.nate.com/view/20220111n17258?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220111n17258?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 11 Jan 2022 05:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-11 13:16</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/11/14663236_748018_1431_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["독보적인 음원 파워♥" 방탄소년단 정국, '유포리아' 재팬 스포티파이 K팝 솔로곡 '최장 기간' 차트인 1위+'최다' 스트리밍 기록]]></title>
-            <link>https://news.nate.com/view/20220111n16867?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220111n16867?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 11 Jan 2022 05:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-11 13:05</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/11/14663235_748011_49_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
