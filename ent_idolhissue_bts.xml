@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 06:06:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 07:05:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단·트와이스·백현·태연·김호중, K팝 이끈 '음반킹' [ST이슈]]]></title>
+            <link>https://news.nate.com/view/20220112n35852?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220112n35852?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 12 Jan 2022 07:05:27 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠투데이							<em>01-12 15:19</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/01/12/12_770845_70604.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가온차트, 2011년 이후 데뷔한 여성 아티스트 중 최다 앨범 판매량 트와이스…방탄소년단 앨범 누적 3,000만장 돌파]]></title>
             <link>https://news.nate.com/view/20220112n34289?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 12 Jan 2022 03:10:36 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>01-12 11:51</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/12/1641952697981973.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 콜드플레이 협업곡 '마이 유니버스' 빌보드 역주행…핫100 58위]]></title>
-            <link>https://news.nate.com/view/20220112n25375?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220112n25375?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 12 Jan 2022 03:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[스포티비뉴스							<em>01-12 11:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2022/01/12/464235_590117_4717.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
