@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 20:05:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 21:05:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 RM, 눈을 배경 삼아 훈훈함 MAX…남친짤 완성!]]></title>
+            <link>https://news.nate.com/view/20220113n01764?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220113n01764?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 12 Jan 2022 21:05:11 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>01-13 05:19</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/01/13/202201130453775378_61df361f55554.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["전 세계를 감동 시키는 분"…장성규, 방탄소년단 제이홉과 메시지 공개]]></title>
             <link>https://news.nate.com/view/20220112n46938?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 12 Jan 2022 06:06:02 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-12 14:50</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/12/14663591_748578_4931_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 'My Universe' 美 빌보드 역주행…'핫 100' 58위]]></title>
-            <link>https://news.nate.com/view/20220112n33836?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220112n33836?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 12 Jan 2022 06:06:02 GMT</pubDate>
-            <content:encoded><![CDATA[SBS연예뉴스							<em>01-12 14:41</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/01/12/30000732120_700.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
