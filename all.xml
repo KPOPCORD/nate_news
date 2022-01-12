@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 02:32:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 03:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/10/14663111_747797_345_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['스걸파' PD "방탄소년단 관심 감사…'스우파2' 가능성 有" [엑's 인터뷰③] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220112n25452?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220112n25452?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 12 Jan 2022 03:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-12 11:51</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/12/1641952697981973.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 콜드플레이 협업곡 '마이 유니버스' 빌보드 역주행…핫100 58위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220112n25375?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220112n25375?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 12 Jan 2022 03:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[스포티비뉴스							<em>01-12 11:50</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2022/01/12/464235_590117_4717.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 지민 '필터' 스포티파이+유튜브 도합 스트리밍 '3억2200만' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220104n21608?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220104n21608?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Wed, 12 Jan 2022 01:59:17 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-12 10:01</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/12/14663497_748395_5714_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['D-3' BTS 엔하이픈 투바투 웹툰-웹소설 공개 임박 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220112n11001?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220112n11001?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 12 Jan 2022 01:59:17 GMT</pubDate>
-            <content:encoded><![CDATA[일간스포츠							<em>01-12 10:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/01/12/cf696bbd-b53d-4d5d-804a-eb358963cbd8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단-ENHYPEN-투모로우바이투게더, 하이브 '오리지널 스토리' 세 편 공개 임박 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220112n10735?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220112n10735?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 12 Jan 2022 01:59:17 GMT</pubDate>
-            <content:encoded><![CDATA[스타데일리뉴스							<em>01-12 09:59</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/01/12/314649_361241_5752.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
