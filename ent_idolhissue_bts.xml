@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 03:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 04:05:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["섹시한 정국이 피지컬♥" 방탄소년단 정국, 나노로 앓을 물오른 꽃미남 포스…팔색조 매력 만발X근육질 탄탄 피지컬]]></title>
+            <link>https://news.nate.com/view/20220113n17545?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220113n17545?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 13 Jan 2022 04:05:38 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-13 12:52</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/13/14663773_748846_5115_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT·방탄소년단이 단 날개, SM·하이브 음반 시장 장악 [이슈&톡]]]></title>
             <link>https://news.nate.com/view/20220113n15596?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 12 Jan 2022 23:05:08 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>01-13 07:26</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/13/2022011307213511149_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 슈가는 고양이?…이모지로 표현하는 팬들의 최애 사랑 눈길]]></title>
-            <link>https://news.nate.com/view/20220113n03481?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220113n03481?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 12 Jan 2022 23:05:08 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-13 07:17</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/13/1642025747275412.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
