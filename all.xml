@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 11:04:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 12:10:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/10/14663113_747799_440_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가온차트 2주차 디지털차트 1위는 아이유의 '겨울잠'…최다곡 차트진입은 아이유·임영웅·방탄소년단·비오·성시경 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220113n36147?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220113n36147?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 13 Jan 2022 12:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-13 20:44</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/13/14663916_749099_4236_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[펭수, BTS 진 '슈퍼참치' 챌린지 동참…"내가 좋아하는 참치" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220113n29333?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220113n29333?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Thu, 13 Jan 2022 05:11:18 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-13 13:29</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/13/14663778_748860_2456_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, 태어난 지 8900일 맞아 '최애돌' 기부요정 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220113n18083?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220113n18083?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 13 Jan 2022 05:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠투데이							<em>01-13 13:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/01/13/13_771081_91725.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
