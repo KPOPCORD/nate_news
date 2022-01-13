@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 02:38:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 03:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/10/14663113_747799_440_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT·방탄소년단이 단 날개, SM·하이브 음반 시장 장악 [이슈&톡] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220113n15596?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220113n15596?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 13 Jan 2022 03:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>01-13 11:52</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/01/13/1642034543_1621989.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[임시완 "최근 방탄소년단 뷔 팔로우, 잘나온 셀카 간절함 없다" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220113n12229?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220113n12229?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Wed, 12 Jan 2022 23:05:08 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>01-13 07:17</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/13/1642025747275412.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 슈가 어거스트디 'D-2' 믹스테이프 스포티파이 4억 6900만…韓솔로 유일·최다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220113n03450?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220113n03450?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 12 Jan 2022 23:05:08 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-13 07:15</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/13/2022011307125785071_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
