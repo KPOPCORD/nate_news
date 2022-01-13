@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 07:05:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 08:06:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 지수, '설강화' 추억 회상 "오픈 하우스 날 학교에서" (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
+            <link>https://news.nate.com/view/20220113n28747?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20220113n28747?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Thu, 13 Jan 2022 08:04:01 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-13 16:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/13/14663837_749008_2828_org.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[현장포토] "드레스코드, 블랙&핑크"…전소미, 인형 아이컨택 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
             <link>https://news.nate.com/view/20220113n26180?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 03 Jan 2022 05:07:57 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-03 13:12</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/03/14661185_744606_1017_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 제니, 등산 후 소주 병 들고 찰칵 "새해처럼" (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
-            <link>https://news.nate.com/view/20220103n18563?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20220103n18563?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Mon, 03 Jan 2022 05:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>01-03 13:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/03/202201031250042310_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Red Velvet 웬디, 레드벨벳 팬들 드루-와[포토엔HD] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
@@ -248,6 +248,38 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/10/14663113_747799_440_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[펭수, BTS 진 '슈퍼참치' 챌린지 동참…"내가 좋아하는 참치" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220113n29333?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220113n29333?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 13 Jan 2022 08:06:30 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-13 16:42</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/13/1642059488221030.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['올해도 세계 1위' 방탄소년단 지민, 자작곡 '약속' 사운드클라우드 유일 3억 500만 돌파…일상속에 스며든 인기 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220113n28167?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220113n28167?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 13 Jan 2022 08:06:30 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-13 16:21</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/13/14663832_748996_1851_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단(BTS) 정국, 태어난 지 8900일 맞아 기부요정 선정 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220113n28126?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220113n28126?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 13 Jan 2022 08:06:30 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-13 16:20</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/13/14663834_749005_1926_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[빅데이터가수브랜드종합순위] 임영웅 33회째 1위, 2위 영탁에 66,562점 앞서…3위 방탄소년단 지민·4위 이찬원·5위 장민호 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220113n27294?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220113n27294?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 13 Jan 2022 08:06:30 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-13 16:07</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/13/14663828_748980_346_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[트위터 리트윗종합순위] 방탄소년단 지민 61회째 1위, 2위 방탄소년단 뷔에 6,668회 앞서…3위 임영웅·4위 방탄소년단 정국·5위 뱀뱀 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220113n26475?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220113n26475?mid=e0608&amp;isq=9009</guid>
@@ -334,38 +366,6 @@
             <pubDate>Thu, 13 Jan 2022 05:11:18 GMT</pubDate>
             <content:encoded><![CDATA[스포츠투데이							<em>01-13 13:14</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/01/13/13_771081_91725.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 'Christmas Tree' 헝가리 '싱글 톱 40' 1위…K팝솔로 최초 2곡 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220113n17753?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220113n17753?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 13 Jan 2022 05:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-13 13:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/13/14663774_748850_584_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["섹시한 정국이 피지컬♥" 방탄소년단 정국, 나노로 앓을 물오른 꽃미남 포스…팔색조 매력 만발X근육질 탄탄 피지컬 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220113n17545?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220113n17545?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 13 Jan 2022 04:05:38 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-13 13:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/13/14663773_748846_5115_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT·방탄소년단이 단 날개, SM·하이브 음반 시장 장악 [이슈&톡] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220113n15596?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220113n15596?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 13 Jan 2022 03:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>01-13 11:52</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/01/13/1642034543_1621989.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임시완 "최근 방탄소년단 뷔 팔로우, 잘나온 셀카 간절함 없다" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220113n12229?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220113n12229?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 13 Jan 2022 02:38:43 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>01-13 11:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/13/202201131042478010_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
