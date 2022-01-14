@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 11:04:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 12:08:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,30 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/10/14663113_747799_440_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[임시완 "마지막 팔로잉은 BTS 뷔…셀카 간절함 無" [종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220114n31229?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220114n31229?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 14 Jan 2022 12:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-14 21:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/14/1642156447134941.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[빅데이터가수브랜드종합순위] 임영웅 34회째 1위, 2위 영탁에 74,538점 앞서…3위 방탄소년단 지민·4위 이찬원·5위 장민호 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220114n31141?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220114n31141?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 14 Jan 2022 12:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-14 20:55</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/14/14664096_749388_5218_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[트위터 리트윗종합순위] 방탄소년단 지민 62회째 1위, 2위 임영웅에 6,632회 앞서…3위 방탄소년단 뷔·4위 뱀뱀·5위 방탄소년단 정국 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220114n30989?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220114n30989?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 14 Jan 2022 12:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-14 20:44</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/14/14664093_749381_4250_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 진, 민낯도 잘생긴 딸기왕자→제이홉 "딸기? 날 안보고?" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220114n30148?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220114n30148?mid=e0608&amp;isq=9009</guid>
@@ -342,30 +366,6 @@
             <pubDate>Fri, 14 Jan 2022 06:05:20 GMT</pubDate>
             <content:encoded><![CDATA[마이데일리							<em>01-14 14:50</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/01/14/202201141445901788_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 지하철에서 포착? 소박한 일상도 특별해 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220114n19889?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220114n19889?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 14 Jan 2022 06:05:20 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>01-14 14:48</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/01/14/202201141410752331_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 RM이 어느 카페를 다녀간 후 생긴 일 "재난지원금보다 쏠쏠" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220114n19754?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220114n19754?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 14 Jan 2022 06:05:20 GMT</pubDate>
-            <content:encoded><![CDATA[스포티비뉴스							<em>01-14 14:44</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2022/01/14/464731_590848_1226.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 RM 다녀간 카페…사장 후기 "오래 남았으면" 눈길 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220114n14569?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220114n14569?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 14 Jan 2022 04:05:46 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-14 11:58</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/14/1642128785197372.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
