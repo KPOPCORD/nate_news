@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 02:01:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 02:36:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 RM 다녀간 카페…"재난지원금보다 더 굉장하네요"]]></title>
+            <link>https://news.nate.com/view/20220114n13409?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220114n13409?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 14 Jan 2022 02:36:36 GMT</pubDate>
+            <content:encoded><![CDATA[스타in							<em>01-14 11:30</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/01/14/PS22011400079.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 뷔, '크리스마스 트리' 日아이튠즈 비롯 각종 음원 사이트 정복…역시 태태랜드 넘사벽 인기]]></title>
             <link>https://news.nate.com/view/20220114n10517?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 13 Jan 2022 23:04:35 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>01-14 07:37</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/14/2022011407330569959_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['K팝 男솔로 최단' 방탄소년단 뷔 'Christmas Tree' 스포티파이 2000만 돌파]]></title>
-            <link>https://news.nate.com/view/20220114n03286?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220114n03286?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 13 Jan 2022 23:04:35 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-14 07:22</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/14/2022011407183395708_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
