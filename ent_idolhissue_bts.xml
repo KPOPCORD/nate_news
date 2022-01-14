@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 12:08:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 13:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 진, 상큼 발랄 딸기 왕자님 [리포트:컷]]]></title>
+            <link>https://news.nate.com/view/20220114n31429?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220114n31429?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 14 Jan 2022 13:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[TV리포트							<em>01-14 21:10</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/01/14/67aa1962-0711-4225-b629-98b5c034706a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임시완 "마지막 팔로잉은 BTS 뷔…셀카 간절함 無" [종합]]]></title>
             <link>https://news.nate.com/view/20220114n31229?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 14 Jan 2022 07:05:12 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>01-14 15:03</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/14/2022011414303411378_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 저녁 데이트 추억…앞에 누군가 봤더니]]></title>
-            <link>https://news.nate.com/view/20220114n19979?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220114n19979?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 14 Jan 2022 06:05:20 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>01-14 14:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/01/14/202201141445901788_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
