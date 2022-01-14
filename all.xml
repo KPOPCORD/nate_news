@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 10:05:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 11:04:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/10/14663113_747799_440_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 진, 민낯도 잘생긴 딸기왕자→제이홉 "딸기? 날 안보고?" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220114n30148?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220114n30148?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 14 Jan 2022 11:04:44 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>01-14 19:47</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/01/14/202201141922771931_61e1544e04ce0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 장기휴가 맞아 벌크업? 티셔츠 뚫고 나오는 탄탄 등근육[★SHOT!] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220114n29002?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220114n29002?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 14 Jan 2022 11:04:44 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>01-14 18:44</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/01/14/202201141831774509_61e1459091f7f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 뷔, 지하철 타는 월드스타?…장기휴가 중 추억 소환 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220114n28468?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220114n28468?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Fri, 14 Jan 2022 04:05:46 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>01-14 11:58</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/14/1642128785197372.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["당신 덕분에"…방탄소년단 RM이 다녀간 카페 사장이 전한 '영웅담' 눈길 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220114n14151?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220114n14151?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 14 Jan 2022 03:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-14 11:47</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/14/14664017_749272_451_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 RM 다녀간 카페…"재난지원금보다 더 굉장하네요" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220114n13409?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220114n13409?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 14 Jan 2022 02:36:36 GMT</pubDate>
-            <content:encoded><![CDATA[스타in							<em>01-14 11:30</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/01/14/PS22011400079.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
