@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 19:06:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 20:05:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["재난지원금보다 더 굉장한 당신의 커피 한잔"…방탄소년단 "영웅담" 뭐길래? [종합]]]></title>
+            <link>https://news.nate.com/view/20220115n00838?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220115n00838?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 14 Jan 2022 20:05:27 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>01-15 04:50</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/01/15/202201142152692728_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 진, 상큼 발랄 딸기 왕자님 [리포트:컷]]]></title>
             <link>https://news.nate.com/view/20220114n31429?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 14 Jan 2022 07:05:12 GMT</pubDate>
             <content:encoded><![CDATA[스타투데이							<em>01-14 15:11</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/01/14/20220114_5068588_1642135470.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뷔, 핫도그 먹으면서도 팀 사랑…케첩으로 쓴 BTS[스타IN★]]]></title>
-            <link>https://news.nate.com/view/20220114n20513?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220114n20513?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 14 Jan 2022 07:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-14 15:03</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/14/2022011414303411378_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
