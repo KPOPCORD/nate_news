@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 06:05:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 07:04:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 정국, '세븐 페이츠: 착호' 제하 소개 영상 속 빛나는 미모]]></title>
+            <link>https://news.nate.com/view/20220115n07673?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220115n07673?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 15 Jan 2022 07:04:46 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-15 15:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/15/1642223755798550.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ENHYPEN 'Blessed-Cursed' 외신 호평 "방탄소년단 초기 연상"]]></title>
             <link>https://news.nate.com/view/20220115n07424?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 15 Jan 2022 01:59:06 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-15 09:33</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/15/14664175_749528_3053_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[댓글종합순위] 영탁 147회째 1위, 2위 이찬원에 997개 앞서…3위 방탄소년단 지민·4위 김희재·5위 박서진]]></title>
-            <link>https://news.nate.com/view/20220115n03355?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220115n03355?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 15 Jan 2022 01:59:06 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-15 09:16</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/15/14664171_749519_1430_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
