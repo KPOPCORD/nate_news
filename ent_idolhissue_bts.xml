@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 05:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 06:05:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ENHYPEN 'Blessed-Cursed' 외신 호평 "방탄소년단 초기 연상"]]></title>
+            <link>https://news.nate.com/view/20220115n07424?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220115n07424?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 15 Jan 2022 06:05:27 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>01-15 14:43</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/01/15/9c83ee8a-1355-42c4-b477-08d575e80c81.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS·콜드플레이 '마이 유니버스' 英 오피셜 차트 31위]]></title>
             <link>https://news.nate.com/view/20220115n06303?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 15 Jan 2022 01:59:06 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-15 09:16</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/15/14664171_749519_1430_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국의 복싱 모습에 할리우드 무술 장인 배우도 'SOO GOOOD!!']]></title>
-            <link>https://news.nate.com/view/20220115n03052?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220115n03052?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 15 Jan 2022 00:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>01-15 08:53</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/01/15/2022011601000943000058011.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
