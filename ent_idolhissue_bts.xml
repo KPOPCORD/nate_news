@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 12:06:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 13:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바다 찾은 방탄소년단 진, 깨발랄 매력 "참치 바이브~"[스타IN★]]]></title>
+            <link>https://news.nate.com/view/20220115n11821?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220115n11821?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 15 Jan 2022 13:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-15 21:42</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/15/2022011521225771765_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['옷소매' 이준호, 방탄소년단 제쳤다…보이그룹 브랜드 평판 1위]]></title>
+            <link>https://news.nate.com/view/20220115n03703?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220115n03703?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 15 Jan 2022 13:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠한국							<em>01-15 21:28</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2022/01/15/eyoree20220115093507_O_01_C_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["Loving Jimin isn't a choice, it's a way of life" 방탄소년단 지민 팬덤 아미 뛰어넘는 글로벌 기업 매그넘의 '지민 세계관']]></title>
             <link>https://news.nate.com/view/20220115n10840?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 15 Jan 2022 04:05:25 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-15 12:30</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/15/14664197_749585_2857_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[빅데이터가수브랜드종합순위] 임영웅 34회째 1위, 2위 영탁에 104,735점 앞서…3위 이찬원·4위 방탄소년단 지민·5위 장민호]]></title>
-            <link>https://news.nate.com/view/20220115n04844?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220115n04844?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 15 Jan 2022 02:34:53 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-15 10:56</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/15/14664185_749563_5321_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 리트윗종합순위] 방탄소년단 지민 63회째 1위, 2위 임영웅에 6,139회 앞서…3위 방탄소년단 뷔·4위 뱀뱀·5위 방탄소년단 정국]]></title>
-            <link>https://news.nate.com/view/20220115n04622?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220115n04622?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 15 Jan 2022 01:59:06 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-15 10:39</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/15/14664184_749556_3657_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
