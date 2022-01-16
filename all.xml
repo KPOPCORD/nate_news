@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 10:05:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 11:05:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,30 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/10/14663113_747799_440_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[종합] '복면가왕' 겨울아이 3연승 성공, 다시 한 번 가왕 등극…'밤하늘의 별을….' 원곡자 히키 "BTS 진, 뷔 선생님" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220116n14918?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220116n14918?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 16 Jan 2022 11:05:08 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-16 19:48</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/16/14664425_749944_4515_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['복면가왕' 커튼콜=히키 "BTS 진·뷔 스승"…겨울아이 3연승 [TV캡처] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220116n14840?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220116n14840?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 16 Jan 2022 11:05:08 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠투데이							<em>01-16 19:40</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/01/16/16_771543_52969.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['복면가왕' 겨울아이 3연속 가왕…커튼콜=히키 "BTS 뷔·진 보컬 선생님" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220116n14830?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220116n14830?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 16 Jan 2022 11:05:08 GMT</pubDate>
+            <content:encoded><![CDATA[조이뉴스24							<em>01-16 19:39</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/01/16/13ec203e2d1901.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['딸기대장→슈퍼참치' 방탄소년단 진, 유쾌한 휴가 일상 [TD#] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220116n10975?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220116n10975?mid=e0608&amp;isq=9009</guid>
@@ -342,30 +366,6 @@
             <pubDate>Sun, 16 Jan 2022 02:40:48 GMT</pubDate>
             <content:encoded><![CDATA[스포츠경향							<em>01-16 11:10</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/01/16/l_2022011602000780300162531.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버웹툰, 방탄소년단 '7FATES: CHAKHO' 글로벌 론칭 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220116n04441?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220116n04441?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 16 Jan 2022 02:40:48 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>01-16 11:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/01/16/l_2022011602000780000162431.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버웹툰, 방탄소년단과 협업한 웹툰.웹소설 전세계 동시 공개 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220116n04553?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220116n04553?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 16 Jan 2022 02:40:48 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠서울							<em>01-16 10:56</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/01/16/2022011601000627400044601.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔 'Christmas Tree'로 보여준 존재감 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220116n04151?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220116n04151?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 16 Jan 2022 02:03:28 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>01-16 10:45</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/01/16/l_2022011602000779400162261.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
