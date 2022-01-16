@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 02:40:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 03:11:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/10/14663113_747799_440_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[마블 영화 '이터널스'에 방탄소년단 지민 출연?…프로듀싱곡 '친구' 한국어 최초 OST 이은 화제 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220116n05402?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220116n05402?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 16 Jan 2022 03:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-16 11:38</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/16/14664371_749863_376_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 최강 솔로파워 'Christmas Tree' 日 오리콘 차트 1위∙K팝 솔로 최고 다운로드 기록 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220116n05339?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220116n05339?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 16 Jan 2022 03:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-16 11:35</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/16/14664369_749856_3344_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["꾹요미 꾹랑스러워♥" 방탄소년단 정국 "탕탕탕탕!" 풍선 총 든 꽃미남 카우보이→큐티+러블리 장꾸 매력…'풍선 아트' 뚝딱 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220116n05169?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220116n05169?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Sun, 16 Jan 2022 00:21:48 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>01-16 08:12</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/16/1642288246370545.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호랑이도 도망갈 남신 아우라…방탄소년단 지민, 우아한 카리스마 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220116n01745?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220116n01745?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 16 Jan 2022 00:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-16 08:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/16/2022011608053135590_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마블 '이터널스'에 방탄소년단 지민이? '친구' OST 이어 화제 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220116n01589?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220116n01589?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 16 Jan 2022 00:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-16 07:53</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/16/2022011607240830130_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
