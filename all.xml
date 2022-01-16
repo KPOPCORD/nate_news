@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 05:09:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 06:04:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/10/14663113_747799_440_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["전정국 웹드라마 한 편 뚝딱" 방탄소년단 정국, 웹툰 찢은 비현실 존재감X서사 눈빛→'시공 초월' 극강 판타지 남신 자태 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220116n08201?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220116n08201?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 16 Jan 2022 06:04:56 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-16 14:27</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/16/14664381_749888_2519_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 지민, 신비롭고 우아한 '범'접 불가 神 방불한 '만찢남' 관심폭발…세계 트렌드 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220116n08101?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220116n08101?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 16 Jan 2022 06:04:56 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-16 14:22</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/16/14664380_749880_2043_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 정국, 풍선 총 쏘는 러블리 카우보이 "탕탕탕" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220116n06623?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220116n06623?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Sun, 16 Jan 2022 02:03:28 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-16 09:18</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/16/14664350_749821_1718_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 진, 스칼렛 요한슨과 '21세기 최고 미남·미녀' 로 선정돼 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220116n02175?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220116n02175?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 16 Jan 2022 00:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>01-16 08:58</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/01/16/2022011701000976700060941.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왕귀염둥이 바다갔습니다…방탄소년단 진, 러블리 햄풍당당♥ (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220116n01935?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220116n01935?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 16 Jan 2022 00:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-16 08:33</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/16/2022011608252651072_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
