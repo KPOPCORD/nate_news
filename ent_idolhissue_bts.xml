@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 12:05:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 13:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['방과후 설렘' 아이키VS전소연, 저학년-고학년 배틀…도자캣-방탄소년단 원곡으로 누가 이길까? (1)]]></title>
+            <link>https://news.nate.com/view/20220116n16110?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220116n16110?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 16 Jan 2022 13:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-16 21:38</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/16/14664435_749968_354_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[종합] '복면가왕' 겨울아이 3연승 성공, 다시 한 번 가왕 등극…'밤하늘의 별을….' 원곡자 히키 "BTS 진, 뷔 선생님"]]></title>
             <link>https://news.nate.com/view/20220116n14918?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 16 Jan 2022 02:40:48 GMT</pubDate>
             <content:encoded><![CDATA[스포츠월드							<em>01-16 11:24</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/01/16/20220116503433.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버웹툰, BTS 모티브 '세븐 페이츠: 착호' 정식 연재]]></title>
-            <link>https://news.nate.com/view/20220116n04822?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220116n04822?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 16 Jan 2022 02:40:48 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>01-16 11:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/01/16/l_2022011602000780300162531.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
