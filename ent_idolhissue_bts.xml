@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 21:04:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 22:04:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 정국, 올블랙 섹시 카리스마]]></title>
+            <link>https://news.nate.com/view/20220117n02867?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220117n02867?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 16 Jan 2022 22:04:53 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-17 06:43</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/17/2022011706370478668_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["진짜 내 스타일" 방탄소년단 정국 '시차'에 푹 빠진 美가수]]></title>
+            <link>https://news.nate.com/view/20220117n02815?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220117n02815?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 16 Jan 2022 22:04:53 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-17 06:36</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/17/2022011706313841300_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['복면가왕' 히키 "BTS 진·뷔 보컬 선생님, 미모+가능성 엄청나" [결정적장면]]]></title>
             <link>https://news.nate.com/view/20220116n17760?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sun, 16 Jan 2022 03:11:30 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-16 11:38</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/16/14664371_749863_376_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 최강 솔로파워 'Christmas Tree' 日 오리콘 차트 1위∙K팝 솔로 최고 다운로드 기록]]></title>
-            <link>https://news.nate.com/view/20220116n05339?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220116n05339?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 16 Jan 2022 03:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-16 11:35</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/16/14664369_749856_3344_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["꾹요미 꾹랑스러워♥" 방탄소년단 정국 "탕탕탕탕!" 풍선 총 든 꽃미남 카우보이→큐티+러블리 장꾸 매력…'풍선 아트' 뚝딱]]></title>
-            <link>https://news.nate.com/view/20220116n05169?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220116n05169?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 16 Jan 2022 02:40:48 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-16 11:27</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/16/14664368_749851_2552_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
