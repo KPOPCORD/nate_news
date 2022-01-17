@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 11:05:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 12:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["사랑한다 진이야"…이연복 셰프, 방탄소년단(BTS) 진 딸기 선물 인증]]></title>
+            <link>https://news.nate.com/view/20220117n35788?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220117n35788?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 17 Jan 2022 12:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-17 20:45</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/17/14664666_750384_4257_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이연복, BTS 진에 감동 "신선할 때 드시라고 딸기 가져와"]]></title>
+            <link>https://news.nate.com/view/20220117n35348?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220117n35348?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 17 Jan 2022 12:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[조이뉴스24							<em>01-17 20:17</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/01/17/8888bf39650c61.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 진, 붕어빵 "제이홉이 삭제하지 말라고"[스타IN★]]]></title>
             <link>https://news.nate.com/view/20220117n34122?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 17 Jan 2022 06:05:33 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-17 14:03</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/17/14664577_750254_217_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 'Christmas Tree' 샤잠재팬 22일 1위…제 2의 음악시장 日차트 석권]]></title>
-            <link>https://news.nate.com/view/20220117n18757?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220117n18757?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 17 Jan 2022 05:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-17 13:55</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/17/14664576_750249_538_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 '정국', '뷔'에 이어 두번째로 인스타 3000만 팔로워 달성]]></title>
-            <link>https://news.nate.com/view/20220117n18598?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220117n18598?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 17 Jan 2022 05:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠서울							<em>01-17 13:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/01/17/2022011701000671900047741.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
