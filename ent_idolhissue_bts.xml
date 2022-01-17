@@ -4,9 +4,33 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 10:05:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 11:05:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 진, 붕어빵 "제이홉이 삭제하지 말라고"[스타IN★]]]></title>
+            <link>https://news.nate.com/view/20220117n34122?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220117n34122?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 17 Jan 2022 11:05:08 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-17 19:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/17/2022011718383464112_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이연복, BTS 진과 친분 과시"한 밤에 딸기 주러"[스타IN★]]]></title>
+            <link>https://news.nate.com/view/20220117n34064?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220117n34064?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 17 Jan 2022 11:05:08 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-17 18:57</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/17/2022011718445083596_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 지민 '필터' 유튜브 스트리밍 8400만 돌파…롱런 ing]]></title>
+            <link>https://news.nate.com/view/20220117n33889?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220117n33889?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 17 Jan 2022 11:05:08 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-17 18:48</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/17/2022011718283348737_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 진, 이연복 위한 딸기 천사→"사랑한다" [TD#]]]></title>
             <link>https://news.nate.com/view/20220117n32252?mid=e0608&amp;isq=9009</link>
@@ -102,30 +126,6 @@
             <pubDate>Mon, 17 Jan 2022 05:11:01 GMT</pubDate>
             <content:encoded><![CDATA[스포츠서울							<em>01-17 13:50</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/01/17/2022011701000671900047741.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["전정국 갓벽한 전신샷 비교불가♥" 방탄소년단 정국, 넘사벽 비율X클라스 다른 기품·우아→비교불가 전신샷 '갓벽'…걸작 같은 비주얼]]></title>
-            <link>https://news.nate.com/view/20220117n18597?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220117n18597?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 17 Jan 2022 05:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-17 13:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/17/14664574_750244_472_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가온 3주차 리테일 앨범차트 1위는 엔하이픈…최다앨범 차트진입은 방탄소년단·NCT·블랙핑크·세븐틴·투모로우바이투게더]]></title>
-            <link>https://news.nate.com/view/20220117n17942?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220117n17942?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 17 Jan 2022 05:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-17 13:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/17/14664572_750233_3246_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[빅데이터가수브랜드종합순위] 임영웅 36회째 1위, 2위 영탁에 52,240점 앞서…3위 이찬원·4위 방탄소년단 지민·5위 장민호]]></title>
-            <link>https://news.nate.com/view/20220117n15889?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220117n15889?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 17 Jan 2022 04:06:46 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-17 12:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/17/14664560_750206_1047_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
