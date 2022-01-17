@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 09:05:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 10:05:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 진, 이연복 위한 딸기 천사→"사랑한다" [TD#]]]></title>
+            <link>https://news.nate.com/view/20220117n32252?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220117n32252?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 17 Jan 2022 10:05:21 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>01-17 18:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/01/17/171622522.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엔터 마켓] 하이브, 'BTS(방탄소년단) 공백 대비' 모의고사 준비 중]]></title>
+            <link>https://news.nate.com/view/20220117n32203?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220117n32203?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 17 Jan 2022 10:05:21 GMT</pubDate>
+            <content:encoded><![CDATA[비즈엔터							<em>01-17 18:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2022/01/17/20210521151641_1623054_1200_699.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이연복, 방탄소년단 진 딸기 선물에 감동 "이렇게까지 생각해주는 진이"]]></title>
             <link>https://news.nate.com/view/20220117n31924?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 17 Jan 2022 04:06:46 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-17 12:14</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/17/14664560_750206_1047_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 리트윗종합순위] 방탄소년단 지민 64회째 1위, 2위 임영웅에 4,203회 앞서…3위 방탄소년단 뷔·4위 방탄소년단 정국·5위 뱀뱀]]></title>
-            <link>https://news.nate.com/view/20220117n15160?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220117n15160?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 17 Jan 2022 04:06:46 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-17 11:58</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/17/14664556_750200_5552_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민과 팬덤, 지역경제 살렸다?]]></title>
-            <link>https://news.nate.com/view/20220117n05791?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220117n05791?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 17 Jan 2022 00:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>01-17 11:43</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/01/17/l_2022011702000840100174471.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
