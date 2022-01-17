@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 21:05:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 22:04:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,38 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/10/14663113_747799_440_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 진 'Yours' 한류톡어워즈 베스트 K드라마 OST상…'글로벌 인기' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220118n02609?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220118n02609?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 17 Jan 2022 22:04:50 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-18 06:49</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/18/tn_1642456144458_668797_0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잘생쁨을 멈추지마…방탄소년단 진, 석진하다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220118n02549?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220118n02549?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 17 Jan 2022 22:04:50 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-18 06:42</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/18/2022011806351137362_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['K팝 최고기록' 방탄소년단 뷔, 日아이튠즈 89시간 1위…'점령' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220118n02487?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220118n02487?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 17 Jan 2022 22:04:50 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-18 06:33</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/18/2022011806301530812_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['스걸파' 조나인, 방탄소년단 정국 DM 비하인드 "사실은…" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220118n02309?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220118n02309?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 17 Jan 2022 22:04:50 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>01-18 06:12</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/01/18/202201171025749285_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["손민수 꼭!" 방탄소년단 지민 'By Jimin' 맨후맨·귀걸이 오늘(18일) 첫선…'13대첩' 구매 전쟁 예고 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220118n01787?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220118n01787?mid=e0608&amp;isq=9009</guid>
@@ -334,38 +366,6 @@
             <pubDate>Mon, 17 Jan 2022 09:05:22 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>01-17 17:41</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/17/1642408801705016.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 정국, 뷔 이어 인스타그램 팔로워 수 3천만…韓 남자 연예인 2위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220117n20506?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220117n20506?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 17 Jan 2022 06:05:33 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-17 17:02</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/17/14664583_750263_2556_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS '정국', 인스타 팔로워 3000만 달성…국내 7위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220117n21954?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220117n21954?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 17 Jan 2022 07:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>01-17 14:55</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/01/17/l_2022011702000854400176461.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김민석의 '취중고백', 멜론 주간차트 1위…아이유 11곡·임영웅 9곡·방탄소년단 9곡·비오 6곡 차트 진입 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220117n21192?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220117n21192?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 17 Jan 2022 06:05:33 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-17 14:41</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/17/14664589_750283_3748_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['중동에서도 韓솔로 원톱' 방탄소년단 지민, 중동 최대 '앙가미' 400만 돌파…90만 이상 3곡 韓솔로 '최초+유일' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220117n20917?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220117n20917?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 17 Jan 2022 06:05:33 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-17 14:35</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/17/14664585_750271_3350_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
