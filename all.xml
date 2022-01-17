@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 20:04:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 21:05:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/10/14663113_747799_440_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["손민수 꼭!" 방탄소년단 지민 'By Jimin' 맨후맨·귀걸이 오늘(18일) 첫선…'13대첩' 구매 전쟁 예고 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220118n01787?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220118n01787?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 17 Jan 2022 21:05:13 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-18 05:32</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/18/2022011805082631483_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 진, 잘생김 가득 셀카…제이홉 "막 찍어도 잘생기신 분"[스타IN★] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220117n37659?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220117n37659?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Mon, 17 Jan 2022 06:05:33 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-17 14:35</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/17/14664585_750271_3350_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['인스타그램 제왕' 방탄소년단 뷔, 아시아인 최초 1700만 이상 '좋아요' 4개…전 세계 네 명 뿐인 기록 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220117n20555?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220117n20555?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 17 Jan 2022 06:05:33 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-17 14:28</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/17/14664581_750265_2616_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
