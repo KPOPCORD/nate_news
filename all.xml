@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 16:05:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 17:20:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/18/14665046_750933_4855_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김영철, 미국 진출 자랑 "BTS·'오징어 게임' 덕에 주목받아" (옥문아들)[종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220119n00504?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220119n00504?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 18 Jan 2022 17:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-19 01:10</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/19/1642518340749741.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김영철 "美 진출, 나는 중요한 사람"→"방탄소년단 덕에 한국 반응 좋아" ('옥문아들')[종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220119n00312?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220119n00312?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Tue, 18 Jan 2022 04:05:16 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-18 11:58</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/18/14664841_750669_5318_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민 "멤버들이 많이 놀렸다"는 손목 타투…이유는? (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220118n15298?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220118n15298?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 18 Jan 2022 03:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>01-18 11:52</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/01/18/202201181110508223_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
