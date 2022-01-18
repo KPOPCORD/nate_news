@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 08:06:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 09:05:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드벨벳 웬디(RedVelvet Wendy), '완소 완디' [뉴스엔TV]]]></title>
+            <link>https://news.nate.com/view/20220118n29155?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220118n29155?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Tue, 18 Jan 2022 09:03:55 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>01-18 17:02</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/18/202201181701011410_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['컴백' 뱀뱀 "레드벨벳 슬기와 눈맞춤에 낯가려, 춤·노래 완벽한 누나"]]></title>
             <link>https://news.nate.com/view/20220118n27128?mid=e0608&amp;isq=9012</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 10 Jan 2022 15:04:25 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-10 23:07</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/10/14663115_747801_555_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '섹시 걸그룹 갓더비트 멤버거든요' (웬디의 영스트리트 출근길)]]></title>
-            <link>https://news.nate.com/view/20220110n37395?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220110n37395?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Mon, 10 Jan 2022 15:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-10 23:06</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/10/14663114_747800_54_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
