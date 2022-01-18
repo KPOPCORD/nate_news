@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 14:04:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 15:05:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/18/14665046_750933_4855_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS 협업 웹툰 '세븐 페이츠:착호', 누적 조회수 신기록…전체 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220118n37652?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220118n37652?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 18 Jan 2022 15:05:38 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-18 23:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/18/14665067_750964_5945_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 진 "제이홉이 뭐라고 함"…셀카로 꾸지람 들은 맏형 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220118n33036?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220118n33036?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Tue, 18 Jan 2022 03:10:36 GMT</pubDate>
             <content:encoded><![CDATA[스타투데이							<em>01-18 11:36</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/01/18/20220118_5071095_1642471666.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이키, BTS '다이너마이트' 댄스 완벽커버 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220118n14407?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220118n14407?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 18 Jan 2022 03:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>01-18 11:35</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/01/18/l_2022011802000913000188381.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
