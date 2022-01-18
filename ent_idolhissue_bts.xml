@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 15:05:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 16:05:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김영철 "美 진출, 나는 중요한 사람"→"방탄소년단 덕에 한국 반응 좋아" ('옥문아들')[종합]]]></title>
+            <link>https://news.nate.com/view/20220119n00312?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220119n00312?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 18 Jan 2022 16:05:58 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>01-19 00:32</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/01/19/202201182237641711_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 협업 웹툰 '세븐 페이츠:착호', 누적 조회수 신기록…전체 1위]]></title>
             <link>https://news.nate.com/view/20220118n37652?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 18 Jan 2022 03:10:36 GMT</pubDate>
             <content:encoded><![CDATA[마이데일리							<em>01-18 11:52</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/01/18/202201181110508223_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 진, 미소년 비주얼…제이홉 "막 찍어도 잘 생기신 분"]]></title>
-            <link>https://news.nate.com/view/20220118n14466?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220118n14466?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 18 Jan 2022 03:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>01-18 11:36</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/01/18/20220118_5071095_1642471666.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
