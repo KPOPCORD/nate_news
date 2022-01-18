@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 09:05:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 10:04:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/10/14663115_747801_555_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 진 "제이홉이 뭐라고 함"…셀카로 꾸지람 들은 맏형 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220118n33036?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220118n33036?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 18 Jan 2022 10:04:49 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-18 18:39</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/18/1642498707300785.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 뷔, 홀로이룬 열도점령 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220118n29970?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220118n29970?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Tue, 18 Jan 2022 03:10:36 GMT</pubDate>
             <content:encoded><![CDATA[스포츠경향							<em>01-18 11:35</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/01/18/l_2022011802000913000188381.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이키, 방탄소년단 '다이너마이트' 댄스 커버 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220118n12512?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220118n12512?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 18 Jan 2022 02:36:17 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>01-18 11:06</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/01/18/1642471065_1622588.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
