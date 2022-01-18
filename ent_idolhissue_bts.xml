@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 07:05:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 08:06:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이키, 방탄소년단 '다이너마이트' 완벽 소화…글로벌 팬심 정조준]]></title>
+            <link>https://news.nate.com/view/20220118n27700?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220118n27700?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 18 Jan 2022 08:06:28 GMT</pubDate>
+            <content:encoded><![CDATA[비즈엔터							<em>01-18 16:32</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2022/01/18/20220118111541_1709473_1000_1828.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["죄홉이 사진을 빨리 찍냐고"…방탄소년단(BTS) 멤버 진, 근황 셀카 공개→제이홉 댓글 눈길]]></title>
             <link>https://news.nate.com/view/20220118n23982?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 18 Jan 2022 02:36:17 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-18 10:53</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/18/14664825_750632_5154_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이연복, BTS 진이 준 딸기 자랑 "허름한 차림으로 가 버렸다"]]></title>
-            <link>https://news.nate.com/view/20220118n09077?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220118n09077?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 18 Jan 2022 02:01:56 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>01-18 10:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/01/18/202201181004774461_61e61417c75a0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
