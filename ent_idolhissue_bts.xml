@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 03:05:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 04:05:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[빅데이터가수브랜드종합순위] 임영웅 38회째 1위, 2위 영탁에 65,695점 앞서…3위 이찬원·4위 방탄소년단 지민·5위 이승윤]]></title>
+            <link>https://news.nate.com/view/20220119n16565?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220119n16565?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 19 Jan 2022 04:05:42 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-19 12:08</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/19/14665167_751141_522_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['0.1초 품절' 방탄소년단 지민 디자인 맨후맨×귀걸이 韓美日서버다운→재판매 검토중]]></title>
             <link>https://news.nate.com/view/20220119n15808?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 19 Jan 2022 00:19:29 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>01-19 08:56</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/19/2022011908512522866_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['韓최초·유일 3천만 3곡' 방탄소년단 지민, 新역사…솔로곡들 유튜브 오디오 新기록 행진]]></title>
-            <link>https://news.nate.com/view/20220119n05433?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220119n05433?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 19 Jan 2022 00:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-19 08:51</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/19/tn_1642549864556_317567_0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
