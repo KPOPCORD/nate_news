@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 17:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 19:05:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스타서베이] GLOBAL IT GIRL은 누구? 블랙핑크 리사 463,490표로 현재 1위, 2위 에스파 카리나에 58,460표 앞서…블랙핑크 제니·케플러 최유진·레드벨벳 슬기 추격 중]]></title>
+            <link>https://news.nate.com/view/20211123n04964?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20211123n04964?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Wed, 19 Jan 2022 19:04:02 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-19 16:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/23/14651518_728120_4449_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레드벨벳 조이, '눈이 내려와' 더욱 빛나는 목동의 '요정' [포토엔HD 스토리]]]></title>
             <link>https://news.nate.com/view/20220119n27742?mid=e0608&amp;isq=9012</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 19 Jan 2022 08:04:11 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-19 15:35</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/19/14665266_751269_3425_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[UHD포토] 레드벨벳(Red Velvet) 조이, '사랑이었다' (SBS TV 동물농장 출근길)]]></title>
-            <link>https://news.nate.com/view/20220119n26124?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220119n26124?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 19 Jan 2022 08:04:11 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-19 15:35</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/19/14665265_751268_3353_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
