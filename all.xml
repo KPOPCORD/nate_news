@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 15:05:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 16:05:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,12 +248,20 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/19/14665267_751270_3515_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 뷔 'Christmas Tree' 빌보드 글로벌 차트 재진입 '기염' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220121n00248?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220121n00248?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 20 Jan 2022 16:05:56 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-21 00:21</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/21/2022012100095979977_2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 지민 '필터' 스포티파이 2억 4500만 최단기간 '돌파' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220121n00036?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220121n00036?mid=e0608&amp;isq=9009</guid>
             <pubDate>Thu, 20 Jan 2022 15:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-21 00:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/21/2022012023500515959_1.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[스타뉴스							<em>01-21 00:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/21/tn_1642690984413_494833_0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단(BTS), 세븐틴, 아이유, 임영웅, 뮤빗(Mubeat) 선정 '2021년 최고의 아티스트' 각 부문 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -358,14 +366,6 @@
             <pubDate>Thu, 20 Jan 2022 08:05:26 GMT</pubDate>
             <content:encoded><![CDATA[MK스포츠							<em>01-20 15:16</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/01/20/20220120_1642659251.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명, "병역 면제 논쟁 자체가 BTS 명예 손상" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220120n24187?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220120n24187?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 20 Jan 2022 08:05:26 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>01-20 14:58</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/01/20/l_2022012002001072300220001.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
