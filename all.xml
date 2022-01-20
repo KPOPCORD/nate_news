@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 09:05:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 10:05:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/19/14665267_751270_3515_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS, 뮤빗 선정 '2021 최고의 아티스트' 종합 1위 등극 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220120n35221?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220120n35221?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 20 Jan 2022 10:05:41 GMT</pubDate>
+            <content:encoded><![CDATA[TV리포트							<em>01-20 18:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/01/20/3f998bad-9e7f-4c12-8868-176a3278caaa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['주접이풍년' 박미선 "방탄소년단 NCT 고수 초대하고 싶어" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220119n23674?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220119n23674?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Thu, 20 Jan 2022 06:05:40 GMT</pubDate>
             <content:encoded><![CDATA[일간스포츠							<em>01-20 14:09</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/01/20/703dec66-cc41-4492-9364-1690951b0cc8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[빅데이터가수브랜드종합순위] 임영웅 39회째 1위, 2위 영탁에 54,413점 앞서…3위 이찬원·4위 방탄소년단 지민·5위 장민호 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220120n20797?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220120n20797?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 20 Jan 2022 06:05:40 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-20 13:56</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/20/14665509_751666_5150_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
