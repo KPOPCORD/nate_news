@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 05:04:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 06:05:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/19/14665267_751270_3515_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS·임영웅, 명동→뉴욕에 떴다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220121n19254?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220121n19254?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 21 Jan 2022 06:05:13 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>01-21 14:35</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/01/21/l_2022012102001127400232021.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[10CM-방탄소년단 뷔-이승윤-비비-김나영 등 '그 해 우리는' OST, 오늘 21일 음반 예약 판매 시작 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220121n15169?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220121n15169?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Fri, 21 Jan 2022 02:23:37 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-21 09:52</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/21/14665692_751961_5054_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 2번째 14억뷰 MV…'DNA', 20일 기록 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220121n07831?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220121n07831?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 21 Jan 2022 02:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[디스패치							<em>01-21 09:51</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/01/21/b17f3f15-c329-4fd4-a9f6-cddb38b09e00.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
