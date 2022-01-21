@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 08:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 09:04:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["언니는 역시 대단한 사람"…블랙핑크 지수, 故 김미수 향한 그리움]]></title>
+            <link>https://news.nate.com/view/20220121n23854?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20220121n23854?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Fri, 21 Jan 2022 09:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-21 16:22</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/21/14665771_752116_2038_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가온차트 3주차 앨범차트 1위는 엔하이픈…최다앨범 진입은 방탄소년단·스트레이 키즈·블랙핑크·NCT·투모로우바이투게더·세븐틴]]></title>
             <link>https://news.nate.com/view/20220120n39581?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 13 Jan 2022 07:03:07 GMT</pubDate>
             <content:encoded><![CDATA[디스패치							<em>01-13 15:48</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/01/13/04490d0e-6b00-4cc2-a02b-b8a5b378910c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["우리는 컴백을 원한다"…블랙핑크(BLACKPINK) 해외 팬덤, 트위터 실트 총공]]></title>
-            <link>https://news.nate.com/view/20220111n20652?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20220111n20652?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Tue, 11 Jan 2022 06:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-11 14:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/11/14663250_748063_3147_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
