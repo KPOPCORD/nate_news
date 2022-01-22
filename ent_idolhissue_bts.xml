@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 12:05:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 13:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['비주얼 남신' 방탄소년단 뷔, 인도네시아가 뽑은 '최고 미남 한국 연예인' 1위]]></title>
+            <link>https://news.nate.com/view/20220122n11993?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220122n11993?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 22 Jan 2022 13:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-22 20:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/22/14666078_752573_5150_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['인생에서 단한번' 방탄소년단 지민과 초근접 직업이 '꿈' 헤어•메이크업 스태프 원해…日매체 '꿈의 직업' 집중보도]]></title>
             <link>https://news.nate.com/view/20220122n10745?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 22 Jan 2022 03:05:06 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-22 11:36</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/22/14665988_752413_3426_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[독자추천종합순위] 영탁 108회째 1위, 2위 임영웅에 5,973표 앞서…3위 이찬원·4위 방탄소년단 지민·5위 이승윤]]></title>
-            <link>https://news.nate.com/view/20220122n05366?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220122n05366?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 22 Jan 2022 03:05:06 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-22 11:19</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/22/14665984_752395_1721_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
