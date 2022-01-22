@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 03:05:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 04:05:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/19/14665267_751270_3515_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['美실리콘밸리도 놀란' 방탄소년단 지민, 0.1초 품절효과→의류•액세서리 최다 언급 인물 세계1위 'IT BOY' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220122n05863?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220122n05863?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 22 Jan 2022 04:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-22 11:55</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/22/14665995_752429_5340_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 뷔, OST 'Christmas Tree'日샤잠 26일간 1위…K팝 최장기간17일 연속1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220122n05776?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220122n05776?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sat, 22 Jan 2022 00:20:49 GMT</pubDate>
             <content:encoded><![CDATA[스타투데이							<em>01-22 08:51</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/01/22/20220122_1534376.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, 굿즈 공개하자 42개국서 실시간 트렌드에 올라. 유니크 디자인에 '구매욕 활활' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220122n03183?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220122n03183?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 22 Jan 2022 00:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>01-22 08:47</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/01/22/2022012301001407500088101.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
