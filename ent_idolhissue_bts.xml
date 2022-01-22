@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 06:05:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 07:04:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["너무 귀여워~♥" 방탄소년단 정국, 녹음 중 뽐낸 세상 러블리한 귀요미 자태→입술 '츄~!' 깜찍 애교 탑재…950만 '좋아요']]></title>
+            <link>https://news.nate.com/view/20220122n08570?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220122n08570?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 22 Jan 2022 07:04:49 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-22 15:51</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/22/14666037_752512_5011_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[빅데이터가수브랜드종합순위] 영탁 16회째 1위, 2위 임영웅에 56,446점 앞서…3위 이찬원·4위 방탄소년단 지민·5위 이승윤]]></title>
+            <link>https://news.nate.com/view/20220122n07308?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220122n07308?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 22 Jan 2022 07:04:49 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-22 14:05</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/22/14666005_752460_257_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트위터 리트윗종합순위] 방탄소년단 지민 68회째 1위, 2위 임영웅에 2,106회 앞서…3위 방탄소년단 뷔·4위 방탄소년단 정국·5위 휘인]]></title>
             <link>https://news.nate.com/view/20220122n07037?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 22 Jan 2022 01:46:52 GMT</pubDate>
             <content:encoded><![CDATA[스포츠조선							<em>01-22 10:11</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/01/22/2022012301001410900088291.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 진 '슈퍼참치'부터 무야호·할담비까지…'개승자' 이승윤 팀, 더 강력해진다]]></title>
-            <link>https://news.nate.com/view/20220122n04212?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220122n04212?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 22 Jan 2022 01:46:52 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>01-22 10:05</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/01/22/202201221000770623_61eb57de93fe3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초근접 꿈의 직업♡ 방탄소년단 지민 헤어 메이크업 스태프가 꿈!…日매체 집중 보도]]></title>
-            <link>https://news.nate.com/view/20220122n03445?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220122n03445?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 22 Jan 2022 00:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-22 09:07</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/22/2022012209023057454_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
