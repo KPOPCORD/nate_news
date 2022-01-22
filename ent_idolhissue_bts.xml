@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 09:05:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 10:05:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['인생에서 단한번' 방탄소년단 지민과 초근접 직업이 '꿈' 헤어•메이크업 스태프 원해…日매체 '꿈의 직업' 집중보도]]></title>
+            <link>https://news.nate.com/view/20220122n10745?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220122n10745?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 22 Jan 2022 10:05:27 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-22 18:36</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/22/14666057_752533_3457_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 지민, 손목에 새긴 타투 '13'…"멤버들이 놀려"]]></title>
+            <link>https://news.nate.com/view/20220122n10461?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220122n10461?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 22 Jan 2022 10:05:27 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-22 18:11</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/22/2022012217435821986_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 진 '슈퍼참치' 열풍, 틱톡 2억7천만+유튜브 4700만…뽀로로→루피까지 챌린지 '신드롬']]></title>
             <link>https://news.nate.com/view/20220122n03130?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 22 Jan 2022 03:05:06 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-22 11:19</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/22/14665984_752395_1721_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임영웅, 가수 1월 브랜드평판 1위…블랙핑크 2위·방탄소년단 3위]]></title>
-            <link>https://news.nate.com/view/20220122n05139?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220122n05139?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 22 Jan 2022 02:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>01-22 11:02</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/01/22/202201221056473154_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임영웅, 1월 가수 브랜드평판 1위…2위 블랙핑크‧3위 BTS]]></title>
-            <link>https://news.nate.com/view/20220122n05071?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220122n05071?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 22 Jan 2022 02:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[MK스포츠							<em>01-22 10:58</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/01/22/20220122_1642816385.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
