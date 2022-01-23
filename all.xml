@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 01:49:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 02:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/19/14665268_751271_3558_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 정국, 'Still With You'-'Decalcomania' 지니어스 코리아 차트 1위 '동시 석권'…강력 음원 저력 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220123n04984?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220123n04984?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 23 Jan 2022 02:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-23 11:09</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/23/14666118_752646_833_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['싱어게인2' 64호, BTS 뷔에 "댓글 감사" 영상편지→이승기에 단체항의 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220123n04927?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220123n04927?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 23 Jan 2022 02:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠조선							<em>01-23 11:05</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/01/23/2022012301001437300090071.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["BTS도 먹는 '힙한' 음식"…한류 열풍에 고추장·된장 수출 ↑ (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220123n04253?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220123n04253?mid=e0608&amp;isq=9009</guid>
@@ -349,22 +365,6 @@
             <pubDate>Sun, 23 Jan 2022 00:20:11 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>01-23 07:34</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/23/tn_1642890845444_191978_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 슈가 어거스트 디 '대취타' MV 3억 3500만뷰…1293만 좋아요♥ (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220123n01787?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220123n01787?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 23 Jan 2022 00:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-23 07:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/23/2022012307312271643_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 슈가 어거스트디 'D-2' 믹스테이프 스포티파이 4억 7500만…韓솔로 유일·최다ing (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220123n01752?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220123n01752?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 23 Jan 2022 00:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-23 07:31</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/23/2022012307282811239_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
