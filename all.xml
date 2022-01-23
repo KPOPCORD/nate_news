@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 04:05:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 05:04:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/19/14665268_751271_3558_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[고추장은 BTS, 된장은 이태원클라쓰? (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220123n07312?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220123n07312?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 23 Jan 2022 05:04:58 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>01-23 13:25</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/01/23/l_2022012302001189100242781.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['13대첩 주인공' 방탄소년단 지민, 제작 굿즈 후기도 최고→디자이너 못지않은 디테일 by JIMIN (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220123n05167?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220123n05167?mid=e0608&amp;isq=9009</guid>
@@ -357,14 +365,6 @@
             <pubDate>Sun, 23 Jan 2022 00:20:11 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>01-23 08:32</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/23/2022012307353677627_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["팬들도 가장 아름다운 사람들" 미스 월드도 ♥ 방탄소년단 진 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220123n02131?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220123n02131?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 23 Jan 2022 00:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-23 08:25</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/23/2022012308180420019_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
