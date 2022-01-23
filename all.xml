@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 10:04:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 11:05:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/19/14665268_751271_3558_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['집사부일체' 김영철, BTS의 유엔 연설-'오징어게임' 정호연의 영어 토크…영어 울렁증 극복은 거짓말? (2) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220123n15123?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220123n15123?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 23 Jan 2022 11:05:23 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-23 19:10</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/23/14666164_752718_832_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['싱어게인2' 64호 "방탄소년단 뷔, 댓글 감사해" [TV스포] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220123n11138?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220123n11138?mid=e0608&amp;isq=9009</guid>
@@ -357,14 +365,6 @@
             <pubDate>Sun, 23 Jan 2022 00:20:11 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>01-23 09:06</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/23/1642896311750143.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['13대첩 주인공' 방탄소년단 지민 제작 굿즈 후기도 '최고'…세계 최다언급 by JIMIN (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220123n02565?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220123n02565?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 23 Jan 2022 00:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-23 09:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/23/tn_1642896243691_303035_0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
