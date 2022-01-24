@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 09:04:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 10:05:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/19/14665269_751272_3618_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 등 하이브 레이블즈, 연말 시상식 싹쓸이 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220124n32338?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220124n32338?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 24 Jan 2022 10:05:10 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>01-24 18:10</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/01/24/241623450.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[美 프랜차이즈 이름까지 바꾼 방탄소년단…메뉴 물었을 뿐인데 [엑's 이슈] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220124n31319?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220124n31319?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Mon, 24 Jan 2022 05:05:03 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-24 13:48</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/24/14666299_752974_4615_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스걸파' 우승팀 턴즈 "BTS 본방사수→강다니엘 칭찬=영광" [인터뷰 종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220124n18939?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220124n18939?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 24 Jan 2022 05:05:03 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>01-24 13:45</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/01/24/202201241031777181_61ee06fd587a4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
