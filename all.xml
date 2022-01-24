@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 05:05:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 06:05:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/13/14663922_749108_930_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뱀뱀 "레드벨벳 슬기 피처링? 보는 순간 아이디어 떠올라 DM으로 섭외"(정희) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20220124n19268?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220124n19268?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Mon, 24 Jan 2022 06:04:12 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>01-24 13:54</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/24/202201241305022310_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['크러쉬♥' 레드벨벳 조이, 화려한 웨딩드레스 자태 공개 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
             <link>https://news.nate.com/view/20220122n07208?mid=e0608&amp;isq=9012</link>
             <guid>https://news.nate.com/view/20220122n07208?mid=e0608&amp;isq=9012</guid>
@@ -240,12 +248,28 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/19/14665269_751272_3618_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '너무 좋아요' (SBS TV 동물농장 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20220119n26282?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220119n26282?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 19 Jan 2022 08:04:11 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-19 15:37</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/19/14665268_751271_3558_org.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[SC이슈]방탄소년단 정국 때문에 상호명까지 바꿨다고? 美 멕시칸 푸드 체인점 이름 바꿔 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220124n09003?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220124n09003?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 24 Jan 2022 01:55:41 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠조선							<em>01-24 14:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/01/24/2022012501001523100095371.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['힐링 아이콘, 방탄소년단 지민' 필리핀 태풍 생존자 뉴스 인터뷰 "지민 오빠보며 힘 얻어요"…폰 화면도 JIMIN (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220124n19643?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220124n19643?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 24 Jan 2022 06:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-24 14:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/24/14666303_752984_5737_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 2021 위키피디아 K-POP 솔로 아티스트 1위…'원앤 온리 K-POP 아이콘' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220124n19249?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220124n19249?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 24 Jan 2022 06:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-24 13:54</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/24/14666302_752982_5311_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['올해 신곡으로 더욱 기대' 방탄소년단 지민, 가온 소셜차트 연속차트 IN…뜨거운 소셜미디어 종합인기 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -342,30 +366,6 @@
             <pubDate>Mon, 24 Jan 2022 02:28:30 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>01-24 11:18</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/24/2022012411082116088_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['싱어게인2' 64호 서기, BTS 뷔에 감사 인사 "댓글 감사해" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220124n12498?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220124n12498?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 24 Jan 2022 02:28:30 GMT</pubDate>
-            <content:encoded><![CDATA[조이뉴스24							<em>01-24 11:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/01/24/06947c1e585d0f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김영철 "BTS·정호연 부러웠다…해외진출 기회 잡아" (집사부일체) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220124n11540?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220124n11540?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 24 Jan 2022 02:28:30 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠월드							<em>01-24 10:44</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/01/24/20220124505754.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SC이슈]방탄소년단 정국 때문에 상호명까지 바꿨다고? 美 멕시칸 푸드 체인점 이름 바꿔 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220124n09003?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220124n09003?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 24 Jan 2022 01:55:41 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>01-24 10:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/01/24/2022012501001505200094261.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
