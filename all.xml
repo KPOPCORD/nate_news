@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 10:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 11:04:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/19/14665269_751272_3618_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['싱어게인2' 64호, BTS 뷔에 영상편지 '왜?' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220124n34392?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220124n34392?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 24 Jan 2022 11:04:29 GMT</pubDate>
+            <content:encoded><![CDATA[MK스포츠							<em>01-24 19:40</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/01/24/20220124_1643020736.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 등 하이브 레이블즈, 연말 시상식 싹쓸이 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220124n32338?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220124n32338?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Mon, 24 Jan 2022 06:05:26 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-24 13:54</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/24/14666302_752982_5311_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['올해 신곡으로 더욱 기대' 방탄소년단 지민, 가온 소셜차트 연속차트 IN…뜨거운 소셜미디어 종합인기 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220124n19032?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220124n19032?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 24 Jan 2022 05:05:03 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-24 13:48</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/24/14666299_752974_4615_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
