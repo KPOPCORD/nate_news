@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 10:05:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 11:04:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["기분 좋은 젠득이" 블랙핑크(BLACKPINK) 제니, 새 브이로그 공개 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
+            <link>https://news.nate.com/view/20220125n35637?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20220125n35637?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Tue, 25 Jan 2022 11:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-25 19:32</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/25/14666621_753608_3030_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["러블리의 정석"…블랙핑크 제니, 인형같은 근황 공개 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
             <link>https://news.nate.com/view/20220125n26687?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 16 Jan 2022 02:01:30 GMT</pubDate>
             <content:encoded><![CDATA[스타데일리뉴스							<em>01-16 09:51</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/01/16/314811_361418_5012.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박명수 "블랙핑크, 명품 브랜드서 모델로 쓰는덴 이유 있어" 극찬(라디오쇼) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
-            <link>https://news.nate.com/view/20220114n15234?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20220114n15234?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Fri, 14 Jan 2022 04:03:41 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>01-14 12:26</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/14/202201141155316810_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뱀뱀 "레드벨벳 슬기 피처링? 보는 순간 아이디어 떠올라 DM으로 섭외"(정희) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/19/14665269_751272_3618_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[류진, BTS 뷔 닮은꼴 아들 찬호 근황…아이돌 해도 되겠어 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220125n35318?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220125n35318?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 25 Jan 2022 11:04:49 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>01-25 19:14</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/01/25/202201251902894157_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 뷔 'Christmas Tree' 샤잠 40만 돌파 '31일만 초고속' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220125n34408?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220125n34408?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Tue, 25 Jan 2022 06:05:50 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-25 13:03</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/25/14666519_753388_574_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 리트윗종합순위] 임영웅 12회째 1위, 2위 방탄소년단 지민에 290회 앞서…3위 방탄소년단 뷔·4위 방탄소년단 정국·5위 세븐틴 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220125n17628?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220125n17628?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 25 Jan 2022 04:05:57 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-25 12:27</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/25/14666515_753379_252_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

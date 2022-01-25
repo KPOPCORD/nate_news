@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 10:05:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 11:04:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[류진, BTS 뷔 닮은꼴 아들 찬호 근황…아이돌 해도 되겠어]]></title>
+            <link>https://news.nate.com/view/20220125n35318?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220125n35318?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 25 Jan 2022 11:04:49 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>01-25 19:14</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/01/25/202201251902894157_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 뷔 'Christmas Tree' 샤잠 40만 돌파 '31일만 초고속']]></title>
             <link>https://news.nate.com/view/20220125n34408?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 25 Jan 2022 06:05:50 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-25 13:03</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/25/14666519_753388_574_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 리트윗종합순위] 임영웅 12회째 1위, 2위 방탄소년단 지민에 290회 앞서…3위 방탄소년단 뷔·4위 방탄소년단 정국·5위 세븐틴]]></title>
-            <link>https://news.nate.com/view/20220125n17628?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220125n17628?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 25 Jan 2022 04:05:57 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-25 12:27</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/25/14666515_753379_252_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
