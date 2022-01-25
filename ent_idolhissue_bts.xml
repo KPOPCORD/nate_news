@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 14:05:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 15:04:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["너무 내 스타일"…'고소영 인증' 방탄소년단 뷔 가방 뭐길래?→'1초 품절']]></title>
+            <link>https://news.nate.com/view/20220126n00068?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220126n00068?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 25 Jan 2022 15:04:56 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-26 00:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/26/14666706_753732_1729_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['장동건♥' 고소영, 방탄소년단 V 제작 굿즈 인증…"너무 내 스타일"]]></title>
             <link>https://news.nate.com/view/20220125n38314?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 25 Jan 2022 09:05:09 GMT</pubDate>
             <content:encoded><![CDATA[스포티비뉴스							<em>01-25 15:16</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2022/01/25/501365_701734_3336.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 진, 설 연휴 귀성길에 동행하고 싶은 스타 1위 등극]]></title>
-            <link>https://news.nate.com/view/20220125n23378?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220125n23378?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 25 Jan 2022 09:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-25 14:54</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/25/1643090025605582.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
