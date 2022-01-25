@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 13:12:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 14:05:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['장동건♥' 고소영, 방탄소년단 V 제작 굿즈 인증…"너무 내 스타일"]]></title>
+            <link>https://news.nate.com/view/20220125n38314?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220125n38314?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 25 Jan 2022 14:05:21 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-25 22:47</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/25/1643118372640495.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[월드 프레임] 오징어게임·BTS, 美 미술감독조합상 후보 지명]]></title>
             <link>https://news.nate.com/view/20220125n35985?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 25 Jan 2022 09:05:09 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>01-25 14:54</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/25/1643090025605582.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 RM, 다시 찾은 '사유의 방' [TD#]]]></title>
-            <link>https://news.nate.com/view/20220125n22807?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220125n22807?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 25 Jan 2022 06:05:50 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>01-25 14:43</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/01/25/251623548.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
