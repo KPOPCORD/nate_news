@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 09:05:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 10:05:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 뷔 'Christmas Tree' 샤잠 40만 돌파 '31일만 초고속']]></title>
+            <link>https://news.nate.com/view/20220125n34408?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220125n34408?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 25 Jan 2022 10:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-25 18:28</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/25/2022012518191829127_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 지민, 포도뮤지엄 방문→팬들 '보랏빛 인증'으로 응답]]></title>
+            <link>https://news.nate.com/view/20220125n33832?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220125n33832?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 25 Jan 2022 10:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[더팩트							<em>01-25 18:13</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2022/01/25/20229341643099233.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['장동건♥' 고소영도 '아미' 였어? BTS 뷔 굿즈에 "너무 내스타일!" 화색]]></title>
             <link>https://news.nate.com/view/20220125n32592?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 25 Jan 2022 04:05:57 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-25 12:27</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/25/14666515_753379_252_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS·오징어게임, ADG 후보…"미국 미술감독조합상 노미"]]></title>
-            <link>https://news.nate.com/view/20220125n12243?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220125n12243?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 25 Jan 2022 01:57:37 GMT</pubDate>
-            <content:encoded><![CDATA[디스패치							<em>01-25 12:23</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/01/25/e5a10922-a284-4b29-a814-9b5030ba9f57.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민, 제주 첫 방문지는 포도뮤지엄…아미 보랏빛 행렬ing]]></title>
-            <link>https://news.nate.com/view/20220125n17265?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220125n17265?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 25 Jan 2022 04:05:57 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>01-25 12:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/25/202201251056440810_3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
