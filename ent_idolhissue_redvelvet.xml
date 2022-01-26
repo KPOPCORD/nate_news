@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 08:05:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 09:04:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[HD포토] 프로미스나인(fromis_9) 이나경, '레드벨벳 조이가 말했던 매력발산 포즈' (더쇼)]]></title>
+            <link>https://news.nate.com/view/20220126n33858?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220126n33858?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Wed, 26 Jan 2022 09:04:11 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-26 17:28</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/26/14666904_754100_2747_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '날고있는 와니' (웬디의 영스트리트 출근길)]]></title>
             <link>https://news.nate.com/view/20220125n37964?mid=e0608&amp;isq=9012</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 25 Jan 2022 13:12:02 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-25 21:58</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/25/14666692_753717_5653_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '화사한 비주얼' (웬디의 영스트리트 출근길)]]></title>
-            <link>https://news.nate.com/view/20220125n37786?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220125n37786?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Tue, 25 Jan 2022 13:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-25 21:57</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/25/14666691_753716_564_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

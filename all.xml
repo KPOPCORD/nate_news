@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 08:05:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 09:04:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/16/14664443_749985_5847_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[HD포토] 프로미스나인(fromis_9) 이나경, '레드벨벳 조이가 말했던 매력발산 포즈' (더쇼) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20220126n33858?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220126n33858?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Wed, 26 Jan 2022 09:04:11 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-26 17:28</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/26/14666904_754100_2747_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '날고있는 와니' (웬디의 영스트리트 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
             <link>https://news.nate.com/view/20220125n37964?mid=e0608&amp;isq=9012</link>
             <guid>https://news.nate.com/view/20220125n37964?mid=e0608&amp;isq=9012</guid>
@@ -240,12 +248,20 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/25/14666692_753717_5653_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '화사한 비주얼' (웬디의 영스트리트 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20220125n37786?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220125n37786?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Tue, 25 Jan 2022 13:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-25 21:57</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/25/14666691_753716_564_org.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[방탄소년단 뷔→10CM 참여 '그 해 우리는' OST 스페셜 앨범 발매 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220126n34160?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220126n34160?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 26 Jan 2022 09:04:56 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠동아							<em>01-26 17:35</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/01/26/111453295.1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단·콜드플레이 협업곡 'My Universe', 美 빌보드 역주행 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220126n33523?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220126n33523?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 26 Jan 2022 09:04:56 GMT</pubDate>
+            <content:encoded><![CDATA[비즈엔터							<em>01-26 17:21</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2022/01/26/20220126110123_1712588_1199_799.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엔하이픈 정원, 'CD를 삼킨 듯한 라이브 실력 소유자 1위'…방탄소년단(BTS) 정국-에스파 윈터와 경합 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -350,22 +366,6 @@
             <pubDate>Wed, 26 Jan 2022 02:29:32 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-26 11:06</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/26/14666791_753879_528_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지난해 K팝 관련 트윗 78억 건…1위는 방탄소년단 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220126n13738?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220126n13738?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 26 Jan 2022 02:29:32 GMT</pubDate>
-            <content:encoded><![CDATA[더팩트							<em>01-26 11:03</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2022/01/26/202299341643158786.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지난해 전 세계 K팝 관련 트윗 78억건…언급량 1위는 BTS (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220126n11549?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220126n11549?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 26 Jan 2022 01:58:31 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-26 10:54</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/26/tn_1643162046869_496802_0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
