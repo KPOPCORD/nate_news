@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 00:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 01:58:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크, 'Kill This Love' 뮤직비디오 15억뷰 돌파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
+            <link>https://news.nate.com/view/20220126n09867?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20220126n09867?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Wed, 26 Jan 2022 01:56:34 GMT</pubDate>
+            <content:encoded><![CDATA[스타데일리뉴스							<em>01-26 10:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/01/26/315209_361910_033.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 'Kill This Love' 뮤비 15억뷰 돌파…2년9개월만 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
             <link>https://news.nate.com/view/20220126n04518?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 16 Jan 2022 13:15:13 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-16 21:59</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/16/14664443_749985_5847_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 로제, 인형도 울고 갈 비주얼…몸집만한 꽃다발 들고 찰칵 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
-            <link>https://news.nate.com/view/20220116n06088?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20220116n06088?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Sun, 16 Jan 2022 04:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>01-16 12:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/16/202201161200152310_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '날고있는 와니' (웬디의 영스트리트 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
@@ -248,6 +248,38 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/25/14666691_753716_564_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지난해 전 세계 K팝 관련 트윗 78건…언급량 1위는 BTS (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220126n11549?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220126n11549?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 26 Jan 2022 01:58:31 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-26 10:29</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/26/tn_1643160544246_450679_0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 日인기랭킹 43주 연속 1위 大기록…'원톱 인기' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220126n09748?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220126n09748?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 26 Jan 2022 01:58:31 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-26 09:59</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/26/2022012609563145925_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최우식 "'기생충' 식구들→BTS 뷔, 응원 힘이 돼" [엑's 인터뷰③] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220126n09268?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220126n09268?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 26 Jan 2022 01:58:31 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-26 09:51</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/26/1643097875138164.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS·콜드플레이, 'My Universe'로 美 빌보드 역주행 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220126n08765?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220126n08765?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 26 Jan 2022 01:58:31 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>01-26 09:43</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/01/26/l_2022012602001384800281321.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[기사열독종합순위] 영탁 46회째 1위, 2위 임영웅에 113,773회 앞서…3위 이찬원·4위 장윤정·5위 방탄소년단 지민 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220126n06841?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220126n06841?mid=e0608&amp;isq=9009</guid>
@@ -334,38 +366,6 @@
             <pubDate>Wed, 26 Jan 2022 00:21:28 GMT</pubDate>
             <content:encoded><![CDATA[스포츠동아							<em>01-26 08:20</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/01/26/111438878.1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['IT BOY' 방탄소년단 지민 케이돌 81주 1위·490일째 1위…일간·주간·월간 싹쓸이 '종합 누적인기도 1위' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220126n04765?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220126n04765?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 26 Jan 2022 00:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-26 08:15</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/26/2022012608080690612_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제2의 13대첩 발 동동…방탄소년단 지민 굿즈 2차 판매도 韓·美 첫 품절 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220126n04586?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220126n04586?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 26 Jan 2022 00:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-26 08:07</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/26/2022012607183296121_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 콜드플레이 협업곡 'My Universe'로 美 빌보드 역주행 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220126n04555?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220126n04555?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 26 Jan 2022 00:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠서울							<em>01-26 08:06</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/01/26/2022012601001058200076111.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['그 해 우리는' 최우식 "BTS 뷔, 든든한 친구…OST는 서로 원했다" [MD인터뷰②] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220126n04475?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220126n04475?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 26 Jan 2022 00:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>01-26 08:02</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/01/26/202201251548329133_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
