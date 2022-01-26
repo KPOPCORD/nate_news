@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 05:05:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 06:04:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/25/14666691_753716_564_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['전세계 최다언급' 가수는 방탄소년단, 2위는? (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220126n23536?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220126n23536?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 26 Jan 2022 06:04:56 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>01-26 14:28</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/01/26/l_2022012602001402100285981.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[빅데이터가수브랜드종합순위] 영탁 19회째 1위, 2위 임영웅에 19,591점 앞서…3위 이찬원·4위 방탄소년단 지민·5위 장윤정 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220126n21108?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220126n21108?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Wed, 26 Jan 2022 01:58:31 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>01-26 09:59</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/26/2022012609563145925_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최우식 "'기생충' 식구들→BTS 뷔, 응원 힘이 돼" [엑's 인터뷰③] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220126n09268?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220126n09268?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 26 Jan 2022 01:58:31 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-26 09:51</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/26/1643097875138164.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
