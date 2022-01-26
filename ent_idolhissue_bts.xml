@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 07:05:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 08:05:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔하이픈 정원, 'CD를 삼킨 듯한 라이브 실력 소유자 1위'…방탄소년단(BTS) 정국-에스파 윈터와 경합]]></title>
+            <link>https://news.nate.com/view/20220126n31037?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220126n31037?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 26 Jan 2022 08:05:22 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>01-26 16:33</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/01/26/l_2022012602001421700289291.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["방탄소년단(BTS)-태연 사이에"…문세윤, 부끄뚱 음원 차트 순위 언급]]></title>
             <link>https://news.nate.com/view/20220126n25974?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 26 Jan 2022 01:58:31 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>01-26 10:54</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/26/tn_1643162046869_496802_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔 'Christmas Tree' 빌보드 글로벌 차트 97위 '3번째 톱100'[공식]]]></title>
-            <link>https://news.nate.com/view/20220126n12972?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220126n12972?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 26 Jan 2022 02:29:32 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-26 10:53</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/26/2022012610415076940_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
