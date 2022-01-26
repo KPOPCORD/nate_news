@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 06:04:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 07:05:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/25/14666691_753716_564_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["방탄소년단(BTS)-태연 사이에"…문세윤, 부끄뚱 음원 차트 순위 언급 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220126n25974?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220126n25974?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 26 Jan 2022 07:05:22 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-26 15:09</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/26/14666825_753987_738_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['전세계 최다언급' 가수는 방탄소년단, 2위는? (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220126n23536?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220126n23536?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Wed, 26 Jan 2022 02:29:32 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>01-26 10:53</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/26/2022012610415076940_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 日인기랭킹 43주 연속 1위 大기록…'원톱 인기' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220126n09748?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220126n09748?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 26 Jan 2022 01:58:31 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-26 09:59</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/26/2022012609563145925_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
