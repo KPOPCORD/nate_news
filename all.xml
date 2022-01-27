@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 16:06:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 17:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/01/17/314843_361472_1156.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[레드벨벳 아이린, 차도녀의 안무 [포토엔HD] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20220128n01068?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220128n01068?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Thu, 27 Jan 2022 17:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>01-28 00:54</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/28/202201280053105510_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[레드벨벳 조이, 우아한 자이언트 베이비 [포토엔HD] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
             <link>https://news.nate.com/view/20220128n01023?mid=e0608&amp;isq=9012</link>
             <guid>https://news.nate.com/view/20220128n01023?mid=e0608&amp;isq=9012</guid>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 27 Jan 2022 15:04:35 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>01-27 23:18</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/27/202201272316495510_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳 조이-예리, 손잡고 깜찍하게 입장 [포토엔HD] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20220127n44432?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220127n44432?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Thu, 27 Jan 2022 15:04:35 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>01-27 23:16</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/27/202201272315195510_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["트로피 모으는 재미"…방탄소년단 8관왕·아이유 5관왕 (종합)[가온차트 뮤직어워즈] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
