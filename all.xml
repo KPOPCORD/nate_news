@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 21:04:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 22:04:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/27/202201272316495510_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['OST 킹' 방탄소년단 뷔 'Sweet Night' 스포티파이 1억 9500만…韓OST '최고' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220128n04342?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220128n04342?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 27 Jan 2022 22:04:40 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-28 06:51</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/28/2022012806465395356_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS·아이유→코로나 확진 더보이즈 무더기 불참, 반쪽짜리 축제[2022 가온차트②] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220128n03156?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220128n03156?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Thu, 27 Jan 2022 11:04:53 GMT</pubDate>
             <content:encoded><![CDATA[스타투데이							<em>01-27 19:43</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/01/27/20220127_5079707_1643280136.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 올해의 리테일 앨범상 "덕분에 힘든 시간 이겨내" [가온차트 뮤직어워즈] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220127n40307?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220127n40307?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 27 Jan 2022 11:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-27 19:42</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/27/1643279946509080.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
