@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 07:05:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 08:05:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['아미 파워!' 방탄소년단 RM, 2022년을 이끌 아이돌 리더!]]></title>
+            <link>https://news.nate.com/view/20220127n32308?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220127n32308?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 27 Jan 2022 08:05:36 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>01-27 16:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/01/27/3055a7d1-4333-4a94-a105-6e1f90850eba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고소영, 구하기 힘들다는 신상백 자랑…BTS 뷔가 만들었다고?]]></title>
+            <link>https://news.nate.com/view/20220127n29723?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220127n29723?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 27 Jan 2022 08:05:36 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>01-27 15:52</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/01/27/202201271535232572_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 'Film out'·'Lights'로 일본 레코드협회 '플래티넘' 인증 획득]]></title>
             <link>https://news.nate.com/view/20220127n28065?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 27 Jan 2022 04:05:15 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-27 12:49</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/27/14667108_754415_4724_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 자작곡 공개 '서정적 가사+섬세한 감성보컬' 팬들 공개 기대]]></title>
-            <link>https://news.nate.com/view/20220127n19308?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220127n19308?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 27 Jan 2022 04:05:15 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-27 12:45</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/27/14667107_754408_4258_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, 날렵한 몸놀림X초스피드 강펀치→수준급 복싱 실력'…박력·치명·섹시 '팬심 강타']]></title>
-            <link>https://news.nate.com/view/20220127n19227?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220127n19227?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 27 Jan 2022 04:05:15 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-27 12:42</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/27/14667106_754404_3948_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
