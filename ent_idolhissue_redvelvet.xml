@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 12:06:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 13:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드벨벳 아이린, 심멎 미모 [포토엔HD]]]></title>
+            <link>https://news.nate.com/view/20220127n42074?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220127n42074?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Thu, 27 Jan 2022 13:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>01-27 21:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/27/202201272102365510_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레드벨벳, 잠실에 강림한 순백의 천사들 [포토엔HD]]]></title>
+            <link>https://news.nate.com/view/20220127n42057?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220127n42057?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Thu, 27 Jan 2022 13:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>01-27 21:02</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/27/202201272059325510_51.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레드벨벳 (Red Velvet), 순백의 여신(가온차트뮤직어워드 레드카펫)[뉴스엔TV]]]></title>
             <link>https://news.nate.com/view/20220127n41655?mid=e0608&amp;isq=9012</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 27 Jan 2022 10:03:50 GMT</pubDate>
             <content:encoded><![CDATA[디스패치							<em>01-27 17:55</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/01/27/75a17754-f1b6-457d-b636-a23839173122.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[S포토] 레드벨벳 아이린, '아련' (가온차트)]]></title>
-            <link>https://news.nate.com/view/20220127n33871?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220127n33871?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Thu, 27 Jan 2022 09:04:34 GMT</pubDate>
-            <content:encoded><![CDATA[스타데일리뉴스							<em>01-27 16:59</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/01/27/315327_362037_5213.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[S포토] 레드벨벳, '추운날 춥게 입고 오는 열정' (가온차트)]]></title>
-            <link>https://news.nate.com/view/20220127n33869?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220127n33869?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Thu, 27 Jan 2022 09:04:34 GMT</pubDate>
-            <content:encoded><![CDATA[스타데일리뉴스							<em>01-27 16:59</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/01/27/315328_362038_5313.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
