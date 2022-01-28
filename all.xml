@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 01:50:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 02:25:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,30 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/01/28/315358_362068_23.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이금희, BTS 때문에 배철수에 항의한 사연(다수의수다) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220128n14503?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220128n14503?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 28 Jan 2022 02:25:46 GMT</pubDate>
+            <content:encoded><![CDATA[스타투데이							<em>01-28 11:11</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/01/28/20220128_5080227_1643335806.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[트위터 리트윗종합순위] 임영웅 15회째 1위, 2위 방탄소년단 지민에 1,104회 앞서…3위 방탄소년단 뷔·4위 방탄소년단 정국·5위 아스트로 진진 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220128n13612?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220128n13612?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 28 Jan 2022 02:25:46 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-28 10:56</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/28/14667311_754805_5351_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG 루이즈 "BTS-오징어게임 안다, 정말 좋은 성적 내고파" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220128n13480?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220128n13480?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 28 Jan 2022 02:25:46 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>01-28 10:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/28/202201281003191031_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하이브 방탄소년단→저스틴 비버, '가온차트 뮤직어워즈' 12관왕 질주 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220128n11577?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220128n11577?mid=e0608&amp;isq=9009</guid>
@@ -342,30 +366,6 @@
             <pubDate>Fri, 28 Jan 2022 00:20:19 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>01-28 08:12</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/28/2022012808082852839_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔 심쿵 뷔주얼 벽화…전국 방방곡곡 눈부신 '뷔로드' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220128n05462?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220128n05462?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 28 Jan 2022 00:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-28 08:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/28/2022012807563348381_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿀피부 갓바디…방탄소년단 지민, 아름답게 우아한 남자  'IT BOY JIMIN' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220128n05273?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220128n05273?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 28 Jan 2022 00:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-28 07:52</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/28/tn_1643323923711_783674_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔 'Christmas Tree' 40만 샤잠 돌파…K팝 男솔로 '최단' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220128n05157?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220128n05157?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 28 Jan 2022 00:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-28 07:45</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/28/2022012807411580829_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
