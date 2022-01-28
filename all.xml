@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 17:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 18:05:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,30 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/17/14664692_750422_4516_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[레드벨벳 웬디, 천사 같은 매력 [포토엔HD] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20220128n30378?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220128n30378?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Fri, 28 Jan 2022 11:03:53 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>01-29 02:05</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/28/202201281852191310_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레드벨벳 웬디, 아이컨택하고 가실게요[포토엔HD] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20220128n30397?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220128n30397?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Fri, 28 Jan 2022 11:03:53 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>01-29 02:05</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/28/202201281852571310_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레드벨벳 웬디, 뛰어 오는 완람쥐[포토엔HD] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20220128n29969?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220128n29969?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Fri, 28 Jan 2022 10:04:14 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>01-29 02:04</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/28/202201281828141310_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[레드벨벳 웬디, 날개 숨긴 천사 (영스트리트 출근)[뉴스엔TV] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
             <link>https://news.nate.com/view/20220128n30643?mid=e0608&amp;isq=9012</link>
             <guid>https://news.nate.com/view/20220128n30643?mid=e0608&amp;isq=9012</guid>
@@ -152,22 +176,6 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/28/14667417_755014_5524_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레드벨벳 웬디, 아이컨택하고 가실게요[포토엔HD] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20220128n30397?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220128n30397?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Fri, 28 Jan 2022 11:03:53 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>01-28 18:54</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/28/202201281852571310_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳 웬디, 천사 같은 매력 [포토엔HD] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20220128n30378?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220128n30378?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Fri, 28 Jan 2022 11:03:53 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>01-28 18:53</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/28/202201281852191310_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[레드벨벳 웬디, 방긋 방긋 손인사[포토엔HD] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
             <link>https://news.nate.com/view/20220128n30039?mid=e0608&amp;isq=9012</link>
             <guid>https://news.nate.com/view/20220128n30039?mid=e0608&amp;isq=9012</guid>
@@ -182,14 +190,6 @@
             <pubDate>Fri, 28 Jan 2022 10:04:14 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>01-28 18:30</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/28/202201281829261310_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳 웬디, 뛰어 오는 사슴[포토엔HD] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20220128n29969?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220128n29969?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Fri, 28 Jan 2022 10:04:14 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>01-28 18:29</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/28/202201281828141310_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레드벨벳 웬디, 미련이 남아서 자꾸 돌아봐 [포토엔HD] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
