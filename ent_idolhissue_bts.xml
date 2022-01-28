@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 15:04:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 16:06:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["뷔르메스♥"…고소영, BTS 뷔 가방 인증샷 [스타IN★]]]></title>
+            <link>https://news.nate.com/view/20220128n30195?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220128n30195?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 28 Jan 2022 10:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-29 00:10</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/28/tn_1643382603773_364556_0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 지민 '세렌디피티' 스포티파이 3억 스트리밍 '육박']]></title>
             <link>https://news.nate.com/view/20220128n34065?mid=e0608&amp;isq=9009</link>
@@ -54,14 +62,6 @@
             <pubDate>Fri, 28 Jan 2022 10:05:26 GMT</pubDate>
             <content:encoded><![CDATA[일간스포츠							<em>01-28 18:48</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/01/28/dcd3da99-5fe1-47e3-ac72-09df6d928df6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["뷔르메스♥"…고소영, BTS 뷔 가방 인증샷 [스타IN★]]]></title>
-            <link>https://news.nate.com/view/20220128n30195?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220128n30195?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 28 Jan 2022 10:05:26 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-28 18:41</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/28/2022012817445535041_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['방탄소년단' 슈가 "약하다고 말해도 괜찮아요"]]></title>
