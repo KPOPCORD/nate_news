@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 05:04:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 06:05:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김나영, 블랙핑크 제니와 같은 옷 같은 느낌…♥마이큐도 '좋아요' (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
+            <link>https://news.nate.com/view/20220128n20398?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20220128n20398?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Fri, 28 Jan 2022 06:02:52 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>01-28 14:02</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/28/202201281340116110_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["압도적 포스" 블랙핑크 제니, '일론 머스크 전 여친' 그라임스 뮤비 '깜짝' 출연 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
             <link>https://news.nate.com/view/20220127n33303?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 17 Jan 2022 14:02:54 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-17 22:48</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/17/14664692_750422_4516_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 'Lovesick Girls' 스포티파이 3억 스트리밍 돌파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
-            <link>https://news.nate.com/view/20220117n27847?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20220117n27847?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Mon, 17 Jan 2022 09:03:10 GMT</pubDate>
-            <content:encoded><![CDATA[스타데일리뉴스							<em>01-17 16:36</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/01/17/314843_361472_1156.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레드벨벳 조이, 청순美 가득 [포토엔HD] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
@@ -248,6 +248,86 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/01/28/315358_362068_23.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단, 5년 연속 美 '아이하트라디오 어워드' 후보 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220128n22685?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220128n22685?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 28 Jan 2022 06:05:15 GMT</pubDate>
+            <content:encoded><![CDATA[더팩트							<em>01-28 14:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2022/01/28/202253561643348260.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 5년 연속 美 '아이하트라디오 뮤직 어워드' 후보 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220128n22058?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220128n22058?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 28 Jan 2022 06:05:15 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>01-28 14:39</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/01/28/4bfff5a9-fb13-47de-acab-eca7df53b7fb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 5년 연속 美 '아이하트라디오 뮤직 어워드' 수상 후보 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220128n21597?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220128n21597?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 28 Jan 2022 06:05:15 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-28 14:29</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/28/tn_1643347743835_829956_0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] 방탄소년단, 5년연속 美 '아이하트라디오 뮤직어워드' 3개부문 후보 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220128n21202?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220128n21202?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 28 Jan 2022 06:05:15 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠조선							<em>01-28 14:18</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/01/28/2022012801001792800110871.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 美 '아이하트라디오 뮤직 어워드' 3개 부문 노미네이트 [공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220128n21191?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220128n21191?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 28 Jan 2022 06:05:15 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>01-28 14:18</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/01/28/202201281414519611_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] 방탄소년단 美 '아이하트라디오 뮤직 어워드' 노미네이트 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220128n21160?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220128n21160?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 28 Jan 2022 06:05:15 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>01-28 14:17</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/01/28/l_2022012802001549100315241.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 5년 연속 美 '아이하트라디오 뮤직 어워드' 노미네이트 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220128n20960?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220128n20960?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 28 Jan 2022 06:05:15 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-28 14:13</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/28/1643346754911265.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이금희 "배철수, 방탄소년단 잘 몰라"…김이나와 뷔로 대동단결 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220128n20701?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220128n20701?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 28 Jan 2022 06:05:15 GMT</pubDate>
+            <content:encoded><![CDATA[조이뉴스24							<em>01-28 14:12</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/01/28/27bac5c30bb5fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS, 아이하트라디오 뮤직 어워드 3개 부문 노미네이트 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220128n20704?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220128n20704?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 28 Jan 2022 06:05:15 GMT</pubDate>
+            <content:encoded><![CDATA[스타in							<em>01-28 14:08</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/01/28/PS22012800077.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 5년 연속 美 '아이하트라디오 어워드' 후보…3개 부문 노미네이트 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220128n20613?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220128n20613?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 28 Jan 2022 06:05:15 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>01-28 14:07</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/28/202201281403040410_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["BTS 콜라보" 비브스튜디오스, 첨단기술X문화예술 환상적 만남 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220128n19280?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220128n19280?mid=e0608&amp;isq=9009</guid>
@@ -286,86 +366,6 @@
             <pubDate>Fri, 28 Jan 2022 05:04:50 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-28 12:34</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/28/14667330_754857_3221_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS와 환상 컬래버레이션! 비브스스튜디오스, 하이브 '오리지널 스토리' 영상 협업 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220128n17937?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220128n17937?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 28 Jan 2022 05:04:50 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>01-28 12:33</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/01/28/202201281230770906_61f3639929c3e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국 'Falling' 유튜브 韓 솔로 오디오 '최단' 4000만뷰 돌파…역대 최다 '좋아요'+'댓글' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220128n17781?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220128n17781?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 28 Jan 2022 05:04:50 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-28 12:25</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/28/14667328_754840_2240_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이금희, 방탄소년단 때문에 배철수에게 항의(?) (다수의 수다) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220128n16702?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220128n16702?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 28 Jan 2022 05:04:50 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-28 11:49</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/28/1643336495646620.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS와 환상 컬래버…비브스튜디오스의 비범한 행보 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220128n16332?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220128n16332?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 28 Jan 2022 05:04:50 GMT</pubDate>
-            <content:encoded><![CDATA[조이뉴스24							<em>01-28 11:41</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/01/28/2eaa685385c34b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["응원에 보답할 것" 방탄소년단, '가온차트 뮤직어워즈' 8관왕 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220128n16016?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220128n16016?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 28 Jan 2022 05:04:50 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>01-28 11:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/01/28/281623923.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[빅데이터가수브랜드종합순위] 임영웅 40회째 1위, 2위 영탁에 35,687점 앞서…3위 이찬원·4위 방탄소년단 지민·5위 장윤정 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220128n14665?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220128n14665?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 28 Jan 2022 05:04:50 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-28 11:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/28/14667314_754812_1149_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이금희, BTS 때문에 배철수에 항의한 사연(다수의수다) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220128n14503?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220128n14503?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 28 Jan 2022 02:25:46 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>01-28 11:11</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/01/28/20220128_5080227_1643335806.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 리트윗종합순위] 임영웅 15회째 1위, 2위 방탄소년단 지민에 1,104회 앞서…3위 방탄소년단 뷔·4위 방탄소년단 정국·5위 아스트로 진진 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220128n13612?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220128n13612?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 28 Jan 2022 02:25:46 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-28 10:56</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/28/14667311_754805_5351_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG 루이즈 "BTS-오징어게임 안다, 정말 좋은 성적 내고파" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220128n13480?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220128n13480?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 28 Jan 2022 02:25:46 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>01-28 10:53</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/28/202201281003191031_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브 방탄소년단→저스틴 비버, '가온차트 뮤직어워즈' 12관왕 질주 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220128n11577?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220128n11577?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 28 Jan 2022 01:50:56 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>01-28 10:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/01/28/202201281006402619_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
