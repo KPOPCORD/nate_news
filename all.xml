@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 11:05:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 12:06:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -132,7 +132,7 @@
             <link>https://news.nate.com/view/20220128n30643?mid=e0608&amp;isq=9012</link>
             <guid>https://news.nate.com/view/20220128n30643?mid=e0608&amp;isq=9012</guid>
             <pubDate>Fri, 28 Jan 2022 11:03:53 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>01-28 19:09</em>]]></content:encoded>
+            <content:encoded><![CDATA[뉴스엔							<em>01-28 20:50</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/28/202201281908011310_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
