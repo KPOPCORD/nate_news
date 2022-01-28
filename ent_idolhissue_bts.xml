@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 10:05:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 11:05:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 2900만원짜리 코트보다 빛나는 미모…이목구비 美쳤다!]]></title>
+            <link>https://news.nate.com/view/20220128n31158?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220128n31158?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 28 Jan 2022 11:05:06 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>01-28 19:48</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/01/28/202201281936779477_61f3c99a9d14e.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단을 잘 모르는 배철수를 향한 이금희의 항의]]></title>
             <link>https://news.nate.com/view/20220128n30320?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 28 Jan 2022 06:05:15 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>01-28 14:29</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/28/tn_1643347743835_829956_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식] 방탄소년단, 5년연속 美 '아이하트라디오 뮤직어워드' 3개부문 후보]]></title>
-            <link>https://news.nate.com/view/20220128n21202?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220128n21202?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 28 Jan 2022 06:05:15 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>01-28 14:18</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/01/28/2022012801001792800110871.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
