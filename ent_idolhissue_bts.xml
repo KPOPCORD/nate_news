@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 09:06:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 10:05:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단을 잘 모르는 배철수를 향한 이금희의 항의]]></title>
+            <link>https://news.nate.com/view/20220128n30320?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220128n30320?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 28 Jan 2022 10:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>01-28 18:48</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/01/28/dcd3da99-5fe1-47e3-ac72-09df6d928df6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["뷔르메스♥"…고소영, BTS 뷔 가방 인증샷 [스타IN★]]]></title>
+            <link>https://news.nate.com/view/20220128n30195?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220128n30195?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 28 Jan 2022 10:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-28 18:41</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/28/2022012817445535041_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['방탄소년단' 슈가 "약하다고 말해도 괜찮아요"]]></title>
             <link>https://news.nate.com/view/20220128n26729?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 28 Jan 2022 06:05:15 GMT</pubDate>
             <content:encoded><![CDATA[스포츠조선							<em>01-28 14:18</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/01/28/2022012801001792800110871.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 美 '아이하트라디오 뮤직 어워드' 3개 부문 노미네이트 [공식]]]></title>
-            <link>https://news.nate.com/view/20220128n21191?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220128n21191?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 28 Jan 2022 06:05:15 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>01-28 14:18</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/01/28/202201281414519611_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식] 방탄소년단 美 '아이하트라디오 뮤직 어워드' 노미네이트]]></title>
-            <link>https://news.nate.com/view/20220128n21160?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220128n21160?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 28 Jan 2022 06:05:15 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>01-28 14:17</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/01/28/l_2022012802001549100315241.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
