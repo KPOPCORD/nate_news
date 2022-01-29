@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 20:06:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 21:04:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1대 스타싱어=김연우 "BTS 슈가, 정국에 원포인트 보컬 레슨"(아트싱어)[어제TV]]]></title>
+            <link>https://news.nate.com/view/20220129n13925?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220129n13925?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 29 Jan 2022 21:04:40 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>01-30 05:45</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/29/202201292101520810_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 진 'Yours' 스포티파이 최다 스트리밍 OST 22위…누적 3700만]]></title>
             <link>https://news.nate.com/view/20220130n00240?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 29 Jan 2022 10:04:37 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>01-29 18:43</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/29/1643449348555309.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['새해도 인스타그램 인물 1위' 방탄소년단 지민, 'JIMIN' 해시태그 세계 1위 신기록 경신 6700만…명실상부 'IT BOY']]></title>
-            <link>https://news.nate.com/view/20220129n11602?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220129n11602?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 29 Jan 2022 10:04:37 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-29 18:26</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/29/14667598_755356_257_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
