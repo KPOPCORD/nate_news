@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 15:04:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 16:05:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,12 +248,28 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/28/202201280954315510_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['아트싱어' 김연우=스타싱어→BTS 슈가·정국 레슨 "언제 볼까 싶어서" [종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220130n00206?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220130n00206?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 29 Jan 2022 16:05:09 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-30 00:51</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/30/1643466514635851.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 슈가, 귀여운 멍한 눈빛 "퇴근하고 싶다는 표정" [스타IN★] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220130n00114?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220130n00114?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 29 Jan 2022 16:05:09 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-30 00:16</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/30/2022013000004447497_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 뷔 'Christmas Tree' 스포티파이 누적 3500만 '최초' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220130n00029?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220130n00029?mid=e0608&amp;isq=9009</guid>
             <pubDate>Sat, 29 Jan 2022 15:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>01-30 00:02</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/30/2022012923325875111_1.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[스타뉴스							<em>01-30 00:15</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/30/tn_1643469304019_462950_0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[GQ 에디터도 반한 방탄소년단 지민…역시 퍼펙트 비주얼 '감탄' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -350,22 +366,6 @@
             <pubDate>Sat, 29 Jan 2022 10:04:37 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-29 18:21</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/29/14667597_755350_1919_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알렉사, 방탄소년단부터 현아까지…커버 댄스 메들리 영상 공개 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220129n11235?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220129n11235?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 29 Jan 2022 10:04:37 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>01-29 17:54</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/01/29/202201291753948505_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS '마이 유니버스' 영국 싱글 차트 16주째 '파란불' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220129n10459?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220129n10459?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 29 Jan 2022 08:05:22 GMT</pubDate>
-            <content:encoded><![CDATA[일간스포츠							<em>01-29 16:49</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/01/29/cba700e2-be7f-4db1-bd3b-7e251e7b9c1b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
