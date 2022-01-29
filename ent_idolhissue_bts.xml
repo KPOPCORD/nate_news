@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 14:04:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 15:04:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 뷔 'Christmas Tree' 스포티파이 누적 3500만 '최초']]></title>
+            <link>https://news.nate.com/view/20220130n00029?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220130n00029?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 29 Jan 2022 15:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-30 00:02</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/30/2022012923325875111_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GQ 에디터도 반한 방탄소년단 지민…역시 퍼펙트 비주얼 '감탄']]></title>
+            <link>https://news.nate.com/view/20220130n00011?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220130n00011?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 29 Jan 2022 15:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-30 00:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/30/2022012923244188826_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 슈가, 너무 귀여워 "대충 퇴근하고 싶다는 표정"]]></title>
             <link>https://news.nate.com/view/20220129n12987?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 29 Jan 2022 08:05:22 GMT</pubDate>
             <content:encoded><![CDATA[일간스포츠							<em>01-29 16:49</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/01/29/cba700e2-be7f-4db1-bd3b-7e251e7b9c1b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비브스튜디오스, BTS·엔하이픈과 컬래버…하이브 오리지널 제작]]></title>
-            <link>https://news.nate.com/view/20220129n09669?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220129n09669?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 29 Jan 2022 07:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>01-29 15:33</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/01/29/2022012901001825600113321.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단(BTS), 설연휴→3월 콘서트까지 휴가…"변동 없이 준비"]]></title>
-            <link>https://news.nate.com/view/20220129n09588?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220129n09588?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 29 Jan 2022 07:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-29 15:26</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/29/14667581_755337_2519_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
