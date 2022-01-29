@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 07:05:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 08:05:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS '마이 유니버스' 영국 싱글 차트 16주째 '파란불']]></title>
+            <link>https://news.nate.com/view/20220129n10459?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220129n10459?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 29 Jan 2022 08:05:22 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>01-29 16:49</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/01/29/cba700e2-be7f-4db1-bd3b-7e251e7b9c1b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비브스튜디오스, BTS·엔하이픈과 컬래버…하이브 오리지널 제작]]></title>
             <link>https://news.nate.com/view/20220129n09669?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 29 Jan 2022 02:19:50 GMT</pubDate>
             <content:encoded><![CDATA[스포츠조선							<em>01-29 11:03</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/01/29/2022013001001819600112812.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔 'Christmas Tree' 수록된 '그 해 우리는' 특별 한정판 LP, 예약 판매와 동시에 '품절']]></title>
-            <link>https://news.nate.com/view/20220129n04678?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220129n04678?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 29 Jan 2022 01:45:06 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>01-29 10:59</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/01/29/2022013001001819400112801.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
