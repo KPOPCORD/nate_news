@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 09:05:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 10:04:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/17/14664692_750422_4516_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 아이린, '여왕의 귀환' (2022 제11회 가온차트 뮤직 어워즈) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20220130n10220?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220130n10220?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Sun, 30 Jan 2022 10:03:41 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-30 17:54</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/30/14667718_755564_5222_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[레드벨벳 웬디, 천사 같은 매력 [포토엔HD] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
             <link>https://news.nate.com/view/20220128n30378?mid=e0608&amp;isq=9012</link>
             <guid>https://news.nate.com/view/20220128n30378?mid=e0608&amp;isq=9012</guid>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 28 Jan 2022 01:50:11 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>01-28 10:00</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/28/202201280950495510_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳 슬기, 웬디 보고 깜짝 놀라 [포토엔HD] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20220128n10418?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220128n10418?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Fri, 28 Jan 2022 01:50:11 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>01-28 10:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/28/202201280954315510_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['아트싱어' 제 1대 스타싱어는 BTS도 인정한 명불허전 '보컬의 神' 김연우 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
