@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 21:04:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 22:04:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올블랑, 배불뚝이 직장인→총 조회수 2억 뷰 이상 '홈트계 BTS' (집사부일체)[전일야화]]]></title>
+            <link>https://news.nate.com/view/20220131n00993?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220131n00993?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 30 Jan 2022 22:04:43 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-31 06:40</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/31/1643538807893805.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올블랑 "유튜브 총 조회수 2억 뷰 이상"…홈트계 BTS (집사부일체)[종합]]]></title>
             <link>https://news.nate.com/view/20220130n11809?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 30 Jan 2022 06:05:20 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-30 13:54</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/30/14667701_755520_5253_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 2022년 1월 브랜드평판 1위…2위는 임영웅]]></title>
-            <link>https://news.nate.com/view/20220130n05316?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220130n05316?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 30 Jan 2022 04:05:47 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠투데이							<em>01-30 11:44</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/01/30/30_774476_25845.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
