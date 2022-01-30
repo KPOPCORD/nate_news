@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 07:05:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 08:05:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['아트싱어' 제 1대 스타싱어는 BTS도 인정한 명불허전 '보컬의 神' 김연우]]></title>
+            <link>https://news.nate.com/view/20220130n09250?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220130n09250?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 30 Jan 2022 08:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-30 16:35</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/30/14667713_755559_3440_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 임영웅 그리고 블랙핑크]]></title>
             <link>https://news.nate.com/view/20220130n08583?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 30 Jan 2022 01:50:07 GMT</pubDate>
             <content:encoded><![CDATA[OSEN							<em>01-30 10:16</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/01/30/202201300953774020_61f5e366de43a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 최우식 진짜 좋아하네…'그해우리는' 슬레이트까지 쳤다]]></title>
-            <link>https://news.nate.com/view/20220130n03378?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220130n03378?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 30 Jan 2022 01:50:07 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>01-30 09:55</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/01/30/202201300913779088_61f5d9dff0489.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
