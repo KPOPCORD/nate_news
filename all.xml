@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 01:48:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 02:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/23/14651518_728120_4449_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 슬기, '독보적인 모델몸매 뽐내며 등장' (2022 제11회 가온차트 뮤직 어워즈) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20220131n04711?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220131n04711?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Mon, 31 Jan 2022 02:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-31 11:09</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/31/14667811_755767_723_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 아이린, '여왕의 귀환' (2022 제11회 가온차트 뮤직 어워즈) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
             <link>https://news.nate.com/view/20220130n10220?mid=e0608&amp;isq=9012</link>
             <guid>https://news.nate.com/view/20220130n10220?mid=e0608&amp;isq=9012</guid>
@@ -240,12 +248,36 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/28/202201281016095510_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레드벨벳 웬디, 러블리하게 무대 위 미소 [포토엔HD] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20220128n10420?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220128n10420?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Fri, 28 Jan 2022 01:50:11 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>01-28 10:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/28/202201280950495510_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[방탄소년단 뷔, 박효신과의 만남 깜짝 공개…팬들 콜라보 기대 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220131n04574?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220131n04574?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 31 Jan 2022 02:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-31 11:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/31/14667808_755760_07_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 정국, 틱톡 #jungkook 990억뷰 돌파 '개인 조회수 1위'→1000억뷰 눈앞…범접불가 '틱톡 제왕' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220131n04535?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220131n04535?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 31 Jan 2022 02:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-31 10:59</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/31/14667807_755756_5728_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['최강 브랜드 파워' 방탄소년단 지민, 발자취 그대로…팬들 제주여행 인증 계속 이어져 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220131n04488?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220131n04488?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 31 Jan 2022 02:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-31 10:55</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/31/14667806_755754_5352_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[트위터 리트윗종합순위] 임영웅 17회째 1위, 2위 방탄소년단 지민에 2,664회 앞서…3위 방탄소년단 뷔·4위 방탄소년단 정국·5위 영탁 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220131n04323?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220131n04323?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 31 Jan 2022 02:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-31 10:43</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/31/14667803_755746_4135_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['갓파더 김갑수, "BTS도 개량 한복 입는다" 장민호 말에 '솔깃' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -334,38 +366,6 @@
             <pubDate>Sun, 30 Jan 2022 12:05:49 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>01-30 20:50</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/30/1643538488898038.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['광고효과도 최고' 방탄소년단 지민, 뒷모습도 '완벽'…37개월 브랜드평판 1위에 빛나는 '갤럭시 언팩 2022' 기대 급상승 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220130n11755?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220130n11755?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 30 Jan 2022 12:05:49 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-30 20:40</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/30/14667736_755600_3829_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔 'Christmas Tree' 바이닐 '그 해 우리는' LP 품절…재판매 문의 폭주 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220130n11738?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220130n11738?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 30 Jan 2022 12:05:49 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-30 20:37</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/30/14667735_755598_3550_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["밤이♥송이♥팽이♥국이" 방탄소년단 정국, 밤이·송이·팽이 '코띵똥' 초초근접 촬영→12시간 만에 900만 '좋아요'…"강아지야? 송아지야?" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220130n11543?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220130n11543?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 30 Jan 2022 12:05:49 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-30 20:15</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/30/14667731_755588_132_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['홈트계 BTS' 올블랑 "코로나19 이후 하루 구독자 5만 명씩 늘었다"(집사부일체)[종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220130n11324?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220130n11324?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 30 Jan 2022 11:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-30 19:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/30/1643537358597652.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
