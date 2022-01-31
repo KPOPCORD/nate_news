@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 02:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 03:04:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/23/14651518_728120_4449_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 슬기, '풍성한 머리카락 쓸어넘기며'…'샴푸의 여신' (2022 제11회 가온차트 뮤직 어워즈) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20220131n05158?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220131n05158?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Mon, 31 Jan 2022 03:04:03 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-31 11:42</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/31/14667812_755769_4036_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 슬기, '독보적인 모델몸매 뽐내며 등장' (2022 제11회 가온차트 뮤직 어워즈) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
             <link>https://news.nate.com/view/20220131n04711?mid=e0608&amp;isq=9012</link>
             <guid>https://news.nate.com/view/20220131n04711?mid=e0608&amp;isq=9012</guid>
@@ -240,12 +248,28 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/28/202201281823531310_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레드벨벳 조이, 청순美 가득 [포토엔HD] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20220128n12094?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220128n12094?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Fri, 28 Jan 2022 01:50:11 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>01-28 10:30</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/28/202201281016095510_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[방탄소년단 뷔 'Christmas Tree' 멜론 주간 인기상 1위…여전히 돌풍 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220131n05249?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220131n05249?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 31 Jan 2022 03:04:48 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>01-31 11:50</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/31/2022013111461871653_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[빅데이터가수브랜드종합순위] 임영웅 42회째 1위, 2위 영탁에 41,573점 앞서…3위 이찬원·4위 방탄소년단 지민·5위 장민호 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220131n05226?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220131n05226?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 31 Jan 2022 03:04:48 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>01-31 11:48</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/31/14667813_755770_4551_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['갓파더' 아미 김갑수 "BTS도 개량한복 입는다" 장민호 말에 솔깃 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220131n04907?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220131n04907?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 31 Jan 2022 03:04:48 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>01-31 11:24</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/31/202201311121340310_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단 뷔, 박효신과의 만남 깜짝 공개…팬들 콜라보 기대 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -342,30 +366,6 @@
             <pubDate>Mon, 31 Jan 2022 00:20:13 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>01-31 08:00</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/31/1643583555669297.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["천만뷰 가즈아" 홈트계 BTS 3인방이 사부로 뭉쳤다…작심3일 타파 프로젝트 [어저께TV] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220131n01161?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220131n01161?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 30 Jan 2022 23:04:32 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>01-31 06:59</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/01/31/202201301933774531_61f66b0fed515.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올블랑, 배불뚝이 직장인→총 조회수 2억 뷰 이상 '홈트계 BTS' (집사부일체)[전일야화] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220131n00993?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220131n00993?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 30 Jan 2022 22:04:43 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-31 06:40</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/31/1643538807893805.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올블랑 "유튜브 총 조회수 2억 뷰 이상"…홈트계 BTS (집사부일체)[종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220130n11809?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220130n11809?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 30 Jan 2022 12:05:49 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-30 20:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/30/1643538488898038.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
