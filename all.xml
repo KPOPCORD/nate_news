@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 18:05:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 19:04:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/31/14667977_755992_5953_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 뷔, 눈+코트 조합은 사랑이었다…화보가 필요없는 분위기 미남[★SHOT!] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220201n00606?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220201n00606?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 31 Jan 2022 19:04:55 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>02-01 03:51</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/02/01/202202010006774923_61f7fd5350ad7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 지민, 코로나19 확진→맹장염 수술까지…"회복 中, 입원 치료 예정"[종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220201n00072?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220201n00072?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Mon, 31 Jan 2022 10:04:47 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-31 18:49</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/31/14667923_755937_4728_org.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민, 코로나19 확진+맹장염 수술 "당분간 입원치료" [공식입장] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220131n09998?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220131n09998?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 31 Jan 2022 10:04:47 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>01-31 18:43</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/01/31/1643622165003877.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
