@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 13:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 14:05:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["OST KING♥" 방탄소년단 뷔, 'Christmas Tree' 솔로 男아이돌 최초 멜론 주간 인기상 2주 연속 1위 '최강 솔로 파워']]></title>
+            <link>https://news.nate.com/view/20220201n12332?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220201n12332?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 01 Feb 2022 14:05:01 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-01 22:12</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/01/14668120_756225_1026_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 자작곡 '풍경' 발표 3주년…팬들을 향한 세레나데]]></title>
+            <link>https://news.nate.com/view/20220201n12274?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220201n12274?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 01 Feb 2022 14:05:01 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-01 22:04</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/01/14668115_756212_242_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["상큼 달콤 피치피치해♥" 방탄소년단 정국, 싱그러운 미소년의 상큼·달달 복숭아 과즙미…순정 만화 남주 아우라]]></title>
             <link>https://news.nate.com/view/20220201n12257?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 01 Feb 2022 05:05:01 GMT</pubDate>
             <content:encoded><![CDATA[티브이데일리							<em>02-01 13:06</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/02/01/1643688121_1624231.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 박효신과 하모니…팬심 가득]]></title>
-            <link>https://news.nate.com/view/20220201n06202?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220201n06202?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 01 Feb 2022 04:05:18 GMT</pubDate>
-            <content:encoded><![CDATA[일간스포츠							<em>02-01 12:48</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/02/01/9c9aafc8-ebb3-4a3f-b699-ee12471c1944.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 진, 설 인사도 센스있게 "즐 설"[스타IN★]]]></title>
-            <link>https://news.nate.com/view/20220201n05937?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220201n05937?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 01 Feb 2022 04:05:18 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-01 12:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/01/2022020111543540320_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
