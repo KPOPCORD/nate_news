@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 15:05:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 16:05:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알고보니 혼수상태 "BTS와 협업해 트로트로 빌보드 진출하는 게 꿈" [엑's 인터뷰③]]]></title>
+            <link>https://news.nate.com/view/20220201n03596?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220201n03596?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 01 Feb 2022 16:05:23 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>02-02 00:13</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/01/1643601759108281.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["OST KING♥" 방탄소년단 뷔, 'Christmas Tree' 솔로 男아이돌 최초 멜론 주간 인기상 2주 연속 1위 '최강 솔로 파워']]></title>
             <link>https://news.nate.com/view/20220201n12332?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 01 Feb 2022 05:05:01 GMT</pubDate>
             <content:encoded><![CDATA[TV리포트							<em>02-01 13:27</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/02/01/75299f20-e6c4-4447-8bc6-ab89a4f32d3e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단(BTS), 새해 아이돌그룹 브랜드 1위]]></title>
-            <link>https://news.nate.com/view/20220201n06381?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220201n06381?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 01 Feb 2022 05:05:01 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>02-01 13:06</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/02/01/1643688121_1624231.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
