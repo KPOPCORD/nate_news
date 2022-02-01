@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 08:05:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 09:05:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[빅데이터가수브랜드종합순위] 임영웅 43회째 1위, 2위 영탁에 2,522점 앞서…3위 이찬원·4위 방탄소년단 지민·5위 장민호]]></title>
+            <link>https://news.nate.com/view/20220201n09272?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220201n09272?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 01 Feb 2022 09:05:06 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-01 16:54</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/01/14668055_756100_518_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS지민, 코로나19 확진에 충수염 진단까지…새벽 수술→입원치료 중[공식]]]></title>
             <link>https://news.nate.com/view/20220201n09050?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 01 Feb 2022 02:25:23 GMT</pubDate>
             <content:encoded><![CDATA[스타투데이							<em>02-01 11:07</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/02/01/20220125_5076842_1643098736.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 그냥 걸었을 뿐인데…'영화 한 편 뚝딱']]></title>
-            <link>https://news.nate.com/view/20220201n04458?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220201n04458?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 01 Feb 2022 01:55:17 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>02-01 10:38</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/02/01/202202011026397950_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
