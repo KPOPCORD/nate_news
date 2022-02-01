@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 07:05:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 08:05:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2021/11/23/14651518_728120_4449_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[트위터 리트윗종합순위] 방탄소년단 지민 71회째 1위, 2위 임영웅에 297회 앞서…3위 방탄소년단 뷔·4위 방탄소년단 정국·5위 레드벨벳 슬기 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20220201n09004?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220201n09004?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Tue, 01 Feb 2022 08:04:30 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-01 16:36</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/01/14668054_756095_343_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 아이린, '여신 각선미' (2022 제11회 가온차트 뮤직 어워즈) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
             <link>https://news.nate.com/view/20220131n11231?mid=e0608&amp;isq=9012</link>
             <guid>https://news.nate.com/view/20220131n11231?mid=e0608&amp;isq=9012</guid>
@@ -240,12 +248,28 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/31/14667979_755993_127_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 아이린, '여전히 아름다운지' (2022 제11회 가온차트 뮤직 어워즈) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20220131n11148?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220131n11148?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Mon, 31 Jan 2022 13:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-31 21:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/31/14667977_755992_5953_org.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[BTS지민, 코로나19 확진에 충수염 진단까지…새벽 수술→입원치료 중[공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220201n09050?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220201n09050?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 01 Feb 2022 08:05:48 GMT</pubDate>
+            <content:encoded><![CDATA[TV리포트							<em>02-01 16:40</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/02/01/9c3ca7a8-c051-489d-ace3-8d56f8519a56.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[트위터 리트윗종합순위] 방탄소년단 지민 71회째 1위, 2위 임영웅에 297회 앞서…3위 방탄소년단 뷔·4위 방탄소년단 정국·5위 레드벨벳 슬기 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220201n09004?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220201n09004?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 01 Feb 2022 08:05:48 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-01 16:36</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/01/14668054_756095_343_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기사열독종합순위] 영탁 49회째 1위, 2위 임영웅에 15,406회 앞서…3위 이찬원·4위 방탄소년단 지민·5위 세븐틴 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220201n08511?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220201n08511?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 01 Feb 2022 08:05:48 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-01 16:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/01/14668053_756090_5812_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[독자추천종합순위] 영탁 113회째 1위, 2위 이찬원에 5,135표 앞서…3위 방탄소년단 지민·4위 임영웅·5위 장민호 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -342,30 +366,6 @@
             <pubDate>Tue, 01 Feb 2022 01:55:17 GMT</pubDate>
             <content:encoded><![CDATA[마이데일리							<em>02-01 10:38</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/02/01/202202011026397950_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민, 코로나19+맹장염 진단→수술 후 회복 중 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220201n04362?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220201n04362?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 01 Feb 2022 01:55:17 GMT</pubDate>
-            <content:encoded><![CDATA[SBS연예뉴스							<em>02-01 10:31</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/02/01/30000689591_700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 박효신과 입맞췄다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220201n03928?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220201n03928?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 01 Feb 2022 01:55:17 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>02-01 10:06</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/02/01/l_2022020102000005600000281.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 2월 아이돌 브랜드평판 1위…블랙핑크 2위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220201n03734?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220201n03734?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 01 Feb 2022 01:55:17 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>02-01 09:59</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/02/01/20220201_5081714_1643677089.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
