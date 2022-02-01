@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 02:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 03:05:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,30 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/31/14667977_755992_5953_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['신사와 아가씨' 서우진 "BTS랑 춤추고 싶어요" [한복인터뷰] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220201n04866?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220201n04866?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 01 Feb 2022 02:25:23 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>02-01 11:58</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/02/01/011624181.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 아이돌그룹 브랜드 1위…블랙핑크 2위·트와이스 3위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220201n05455?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220201n05455?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 01 Feb 2022 03:05:31 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>02-01 11:37</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/01/1643682907565889.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 2월 아이돌 브랜드평판 1위…휴가 중에도 인기 굳건 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220201n05265?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220201n05265?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 01 Feb 2022 03:05:31 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-01 11:24</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/01/2022020111093043540_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 지민, 코로나19 확진→맹장염 수술까지…"수술 잘 마무리" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220201n04977?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220201n04977?mid=e0608&amp;isq=9009</guid>
@@ -262,14 +286,6 @@
             <pubDate>Tue, 01 Feb 2022 02:25:23 GMT</pubDate>
             <content:encoded><![CDATA[스타투데이							<em>02-01 11:07</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/02/01/20220125_5076842_1643098736.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['신사와 아가씨' 서우진 "BTS랑 춤추고 싶어요" [한복인터뷰] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220201n04866?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220201n04866?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 01 Feb 2022 02:25:23 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>02-01 11:02</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/02/01/011624181.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단 뷔, 그냥 걸었을 뿐인데…'영화 한 편 뚝딱' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -350,22 +366,6 @@
             <pubDate>Tue, 01 Feb 2022 00:19:55 GMT</pubDate>
             <content:encoded><![CDATA[스포츠조선							<em>02-01 09:02</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/02/01/2022020101000012300000441.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민, 코로나 확진에 맹장염 수술까지 "현재 회복 중"(전문) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220201n02396?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220201n02396?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 01 Feb 2022 00:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[MK스포츠							<em>02-01 08:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/02/01/20220201_1643671160.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["뷔의 목소리가 더 그리울거야" 방탄소년단 뷔 향한 넷플릭스 공식계정 애정 공세에 팬들 '설렘' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220201n02296?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220201n02296?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 01 Feb 2022 00:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-01 08:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/01/2022020108064150603_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
