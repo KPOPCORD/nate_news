@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 21:04:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 22:04:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,46 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/31/14667979_755993_127_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 뷔, 日인기랭킹 44주 연속 1위…'태태랜드' 핫 인기 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220202n01822?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220202n01822?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 01 Feb 2022 22:04:45 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-02 06:55</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/02/2022020206531230835_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔 'Christmas Tree' 샤잠재팬 36일 1위 'K팝 최장' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220202n01814?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220202n01814?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 01 Feb 2022 22:04:45 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-02 06:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/02/2022020206481040220_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 진 '슈퍼 참치' 유튜브 5000만뷰→틱톡 4.5억뷰…'슈퍼 신드롬' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220202n01800?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220202n01800?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 01 Feb 2022 22:04:45 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-02 06:47</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/02/2022020206371152402_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['방탄소년단' 제이홉, 남산타워에서 힙한 인증샷…슈스의 새해! (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220202n01644?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220202n01644?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 01 Feb 2022 22:04:45 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>02-02 06:23</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/02/02/202202020559771351_61f9a142ecb65.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 2900만원짜리 코트보다 빛나는 미모…이목구비 美쳤다! (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220202n01559?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220202n01559?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 01 Feb 2022 22:04:45 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>02-02 06:06</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/02/02/202201281936779477_61f3c99a9d14e.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[알고보니 혼수상태 "BTS와 협업해 트로트로 빌보드 진출하는 게 꿈" [엑's 인터뷰③] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220201n03596?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220201n03596?mid=e0608&amp;isq=9009</guid>
@@ -326,46 +366,6 @@
             <pubDate>Tue, 01 Feb 2022 08:05:48 GMT</pubDate>
             <content:encoded><![CDATA[TV리포트							<em>02-01 16:40</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/02/01/9c3ca7a8-c051-489d-ace3-8d56f8519a56.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 리트윗종합순위] 방탄소년단 지민 71회째 1위, 2위 임영웅에 297회 앞서…3위 방탄소년단 뷔·4위 방탄소년단 정국·5위 레드벨벳 슬기 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220201n09004?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220201n09004?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 01 Feb 2022 08:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-01 16:36</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/01/14668054_756095_343_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기사열독종합순위] 영탁 49회째 1위, 2위 임영웅에 15,406회 앞서…3위 이찬원·4위 방탄소년단 지민·5위 세븐틴 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220201n08511?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220201n08511?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 01 Feb 2022 08:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-01 16:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/01/14668053_756090_5812_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[독자추천종합순위] 영탁 113회째 1위, 2위 이찬원에 5,135표 앞서…3위 방탄소년단 지민·4위 임영웅·5위 장민호 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220201n08280?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220201n08280?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 01 Feb 2022 07:05:31 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-01 15:42</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/01/14668052_756085_4018_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[댓글종합순위] 영탁 155회째 1위, 2위 이찬원에 349개 앞서…3위 김희재·4위 박서진·5위 방탄소년단 지민 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220201n07996?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220201n07996?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 01 Feb 2022 07:05:31 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-01 15:21</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/01/14668049_756079_1919_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 일상도 한 편의 영화 같은[리포트:컷] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220201n06565?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220201n06565?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 01 Feb 2022 05:05:01 GMT</pubDate>
-            <content:encoded><![CDATA[TV리포트							<em>02-01 13:27</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/02/01/75299f20-e6c4-4447-8bc6-ab89a4f32d3e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
