@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 04:05:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 05:05:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["보고(report)싶어요" 방탄소년단(BTS) RM, MZ세대도 반할 '손편지' 눈길]]></title>
+            <link>https://news.nate.com/view/20220202n08833?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220202n08833?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 02 Feb 2022 05:05:01 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-02 13:24</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/02/14668186_756379_2324_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 美 빌보드 차트서 여전한 인기…장기 흥행 ing]]></title>
+            <link>https://news.nate.com/view/20220202n08301?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220202n08301?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 02 Feb 2022 05:05:01 GMT</pubDate>
+            <content:encoded><![CDATA[SBS연예뉴스							<em>02-02 13:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/02/02/30000728445_700.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 지민, 2월 아이돌 개인 브랜드평판 1위 차지]]></title>
             <link>https://news.nate.com/view/20220202n07452?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 02 Feb 2022 01:51:39 GMT</pubDate>
             <content:encoded><![CDATA[스포츠서울							<em>02-02 10:27</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/02/02/2022020201000028900001071.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 지민, 아이돌 개인 브랜드평판 2월 1위…2PM 준호는 2위]]></title>
-            <link>https://news.nate.com/view/20220202n04957?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220202n04957?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 02 Feb 2022 01:51:39 GMT</pubDate>
-            <content:encoded><![CDATA[MK스포츠							<em>02-02 10:25</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/02/02/20220202_1643765039.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민, 2월 아이돌 개인 브랜드평판 '부동의 1위']]></title>
-            <link>https://news.nate.com/view/20220202n04922?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220202n04922?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 02 Feb 2022 01:51:39 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-02 10:23</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/02/2022020210195681468_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
