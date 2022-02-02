@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 07:05:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 08:05:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['감동 손편지' 방탄소년단 지민, "보고싶고 보고싶고 보고싶은 아미 여러분"…순수한 마음 아미팬들 울려]]></title>
+            <link>https://news.nate.com/view/20220202n12832?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220202n12832?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 02 Feb 2022 08:05:40 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-02 16:08</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/02/14668260_756481_643_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 'Christmas Tree' 샤잠재팬 최고 기록 36일 동안 1위]]></title>
+            <link>https://news.nate.com/view/20220202n12661?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220202n12661?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 02 Feb 2022 08:05:40 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-02 16:02</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/02/14668255_756469_02_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["몸도 마음도 건강하길" 방탄소년단 지민, 긴급 수술→쾌유 기원 물결(종합)]]></title>
             <link>https://news.nate.com/view/20220202n11551?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 02 Feb 2022 02:22:55 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-02 10:54</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/02/14668159_756303_5241_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['코로나+맹장염' 방탄소년단 지민, 투병 중 팬들 울린 손편지(종합)[Oh!쎈 이슈]]]></title>
-            <link>https://news.nate.com/view/20220202n04958?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220202n04958?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 02 Feb 2022 01:51:39 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>02-02 10:51</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/02/02/202202020942773161_61f9d876acce0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 美 빌보드차트 4곡 차트인…"21세기 팝 아이콘"]]></title>
-            <link>https://news.nate.com/view/20220202n05315?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220202n05315?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 02 Feb 2022 01:51:39 GMT</pubDate>
-            <content:encoded><![CDATA[스타in							<em>02-02 10:40</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/02/02/PS22020200044.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
