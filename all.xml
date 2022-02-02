@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 10:05:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 11:04:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/02/14668272_756495_1025_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['방탄소년단' 제이홉, 남산타워에서 힙한 인증샷…슈스의 새해! (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220202n01644?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220202n01644?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 02 Feb 2022 11:04:46 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>02-02 19:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/02/02/202202020559771351_61f9a142ecb65.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 3년 연속 K팝 직캠 조회수 1위 독주! '직캠제왕' K팝 최고기록 싹쓸이 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220202n16848?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220202n16848?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 02 Feb 2022 11:04:46 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-02 19:32</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/02/14668304_756530_3042_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['감동 손편지' 방탄소년단 지민, "보고싶고 보고싶고 보고싶은 아미 여러분"…순수한 마음 아미팬들 울려 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220202n12832?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220202n12832?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Wed, 02 Feb 2022 03:04:43 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-02 11:28</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/02/14668164_756335_2753_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[빅데이터가수브랜드종합순위] 영탁 21회째 1위, 2위 임영웅에 5,952점 앞서…3위 이찬원·4위 방탄소년단 지민·5위 장민호 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220202n05895?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220202n05895?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 02 Feb 2022 02:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-02 11:03</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/02/14668161_756310_15_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 리트윗종합순위] 임영웅 18회째 1위, 2위 방탄소년단 지민에 859회 앞서…3위 방탄소년단 뷔·4위 방탄소년단 정국·5위 레드벨벳 슬기 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220202n05630?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220202n05630?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 02 Feb 2022 02:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-02 10:54</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/02/14668159_756303_5241_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
