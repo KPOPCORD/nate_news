@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 02:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 03:04:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["빛나는 김태형♥" 방탄소년단 뷔, 日 인기랭킹 44주 연속 최장기 1위]]></title>
+            <link>https://news.nate.com/view/20220202n06863?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220202n06863?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 02 Feb 2022 03:04:43 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-02 11:48</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/02/14668173_756348_4638_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 美 빌보드 '글로벌 200'·'글로벌' 차트에 4곡씩 차트인]]></title>
+            <link>https://news.nate.com/view/20220202n06437?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220202n06437?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 02 Feb 2022 03:04:43 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-02 11:28</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/02/14668164_756335_2753_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[빅데이터가수브랜드종합순위] 영탁 21회째 1위, 2위 임영웅에 5,952점 앞서…3위 이찬원·4위 방탄소년단 지민·5위 장민호]]></title>
             <link>https://news.nate.com/view/20220202n05895?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 02 Feb 2022 01:51:39 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-02 09:56</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/02/14668152_756281_5442_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 美빌보드 글로벌200·글로벌 차트인]]></title>
-            <link>https://news.nate.com/view/20220202n04134?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220202n04134?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 02 Feb 2022 01:51:39 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠동아							<em>02-02 09:54</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/02/02/111532061.1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 지민, 1월 아이돌 개인 브랜드평판 1위…이어 2PM 준호·워너원 강다니엘]]></title>
-            <link>https://news.nate.com/view/20220202n04104?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220202n04104?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 02 Feb 2022 01:51:39 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠투데이							<em>02-02 09:53</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/02/02/1643763049_20210521131537-414.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
