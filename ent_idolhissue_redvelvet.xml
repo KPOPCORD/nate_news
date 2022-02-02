@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 03:04:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 04:05:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드벨벳 웬디 (Red Velvet WENDY), '설 연휴에도 해피니스~' [뉴스엔TV]]]></title>
+            <link>https://news.nate.com/view/20220202n08111?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220202n08111?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Wed, 02 Feb 2022 04:03:59 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>02-02 12:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/02/02/202202021252111410_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트위터 리트윗종합순위] 임영웅 18회째 1위, 2위 방탄소년단 지민에 859회 앞서…3위 방탄소년단 뷔·4위 방탄소년단 정국·5위 레드벨벳 슬기]]></title>
             <link>https://news.nate.com/view/20220202n05630?mid=e0608&amp;isq=9012</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 31 Jan 2022 13:11:12 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>01-31 21:05</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/31/14667981_755995_412_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 아이린, '고혹적인 시선' (2022 제11회 가온차트 뮤직 어워즈)]]></title>
-            <link>https://news.nate.com/view/20220131n11161?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220131n11161?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Mon, 31 Jan 2022 13:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>01-31 21:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/31/14667980_755994_242_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
