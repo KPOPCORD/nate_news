@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 14:05:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 15:05:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 지민 '필터' 스포티파이 2억 5000만 스트리밍 찍었다]]></title>
+            <link>https://news.nate.com/view/20220203n00052?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220203n00052?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 02 Feb 2022 15:05:37 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-03 00:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/03/2022020220372625595_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 진, 빌보드 핫트렌딩 송즈 2곡 톱10 차트인 '유일'[공식]]]></title>
             <link>https://news.nate.com/view/20220202n18078?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 02 Feb 2022 05:05:01 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-02 13:24</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/02/14668186_756379_2324_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 美 빌보드 차트서 여전한 인기…장기 흥행 ing]]></title>
-            <link>https://news.nate.com/view/20220202n08301?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220202n08301?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 02 Feb 2022 05:05:01 GMT</pubDate>
-            <content:encoded><![CDATA[SBS연예뉴스							<em>02-02 13:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/02/02/30000728445_700.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
