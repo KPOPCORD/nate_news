@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 04:05:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 05:05:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하유비 "방탄소년단블랙핑크 무대, 12번 앉았다 일어나는 안무에 다리 절뚝"[일문일답]]]></title>
+            <link>https://news.nate.com/view/20220203n18636?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220203n18636?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 03 Feb 2022 05:05:25 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>02-03 13:44</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/02/03/202202031336772446_61fb5d51195c3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[빅데이터가수브랜드종합순위] 영탁 22회째 1위(4관왕), 2위 이찬원에 98,509점 앞서…3위 임영웅·4위 방탄소년단 지민·5위 송가인]]></title>
+            <link>https://news.nate.com/view/20220203n18082?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220203n18082?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 03 Feb 2022 05:05:25 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-03 13:27</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/03/14668462_756830_2418_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트위터 리트윗종합순위] 방탄소년단 지민 72회째 1위, 2위 임영웅에 581회 앞서…3위 방탄소년단 뷔·4위 방탄소년단 정국·5위 레드벨벳 슬기]]></title>
             <link>https://news.nate.com/view/20220203n16637?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 03 Feb 2022 01:47:44 GMT</pubDate>
             <content:encoded><![CDATA[스타투데이							<em>02-03 09:48</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/02/03/20220203_5082629_1643849237.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 웹툰 OST 'Stay Alive' 5일 발매…방탄소년단 슈가 프로듀싱정국 가창[공식]]]></title>
-            <link>https://news.nate.com/view/20220203n07823?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220203n07823?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 03 Feb 2022 01:47:44 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>02-03 09:45</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/02/03/202202030915775327_61fb1f3581a61.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['코로나 확진·충수염 수술' BTS 지민 "금방 퇴원할 수 있을 것"]]></title>
-            <link>https://news.nate.com/view/20220203n07664?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220203n07664?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 03 Feb 2022 01:47:44 GMT</pubDate>
-            <content:encoded><![CDATA[스포티비뉴스							<em>02-03 09:44</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2022/02/03/503030_704001_3918.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
