@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 10:05:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 11:04:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/02/14668275_756498_1318_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['트롯 비타민' 윤서령 "BTS 뷔가 이상형" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220203n32553?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220203n32553?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 03 Feb 2022 11:04:29 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>02-03 19:17</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/02/03/l_2022020302000128100021741.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS 뷔, '사랑하는 멤버들' 고백 [스타IN★] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220203n32087?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220203n32087?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Thu, 03 Feb 2022 05:05:25 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-03 13:27</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/03/14668462_756830_2418_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 리트윗종합순위] 방탄소년단 지민 72회째 1위, 2위 임영웅에 581회 앞서…3위 방탄소년단 뷔·4위 방탄소년단 정국·5위 레드벨벳 슬기 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220203n16637?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220203n16637?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 03 Feb 2022 04:05:38 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-03 12:35</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/03/14668438_756773_3224_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
