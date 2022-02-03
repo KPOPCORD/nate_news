@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 07:04:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 08:05:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS지민 롤모델 영국인 "한국인되려 성기축소 수술결심"]]></title>
+            <link>https://news.nate.com/view/20220203n27400?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220203n27400?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 03 Feb 2022 08:05:33 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>02-03 16:41</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/02/03/l_2022020302000113100018621.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 뷔, 지민·진 이어 스타랭킹 남자아이돌 3위 등극]]></title>
             <link>https://news.nate.com/view/20220203n23810?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 03 Feb 2022 04:05:38 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-03 12:28</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/03/14668435_756763_2724_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식]'Stay Alive' BTS 슈가X정국 OST 독점 공개]]></title>
-            <link>https://news.nate.com/view/20220203n07234?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220203n07234?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 03 Feb 2022 01:47:44 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>02-03 11:59</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/02/03/l_2022020302000090900015131.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
