@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 08:05:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 09:04:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['퇴근길 팬미팅' 윤서령 "이상형은 BTS 뷔!"]]></title>
+            <link>https://news.nate.com/view/20220203n29214?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220203n29214?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 03 Feb 2022 09:04:58 GMT</pubDate>
+            <content:encoded><![CDATA[스타in							<em>02-03 17:24</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/02/03/PS22020300075.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS지민 롤모델 영국인 "한국인되려 성기축소 수술결심"]]></title>
             <link>https://news.nate.com/view/20220203n27400?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 03 Feb 2022 04:05:38 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-03 12:33</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/03/14668436_756766_3130_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['명품 보컬' 방탄소년단 뷔, 'Christmas Tree' 한국 스포티파이 7일 연속 1위…'OST 킹']]></title>
-            <link>https://news.nate.com/view/20220203n16442?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220203n16442?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 03 Feb 2022 04:05:38 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-03 12:28</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/03/14668435_756763_2724_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
