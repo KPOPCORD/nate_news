@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 02:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 03:07:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공식]'Stay Alive' BTS 슈가X정국 OST 독점 공개]]></title>
+            <link>https://news.nate.com/view/20220203n07234?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220203n07234?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 03 Feb 2022 01:47:44 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>02-03 11:59</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/02/03/l_2022020302000090900015131.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 정국·슈가, '세븐 페이츠: 착호' OST 참여…11일 음원 발매]]></title>
+            <link>https://news.nate.com/view/20220203n14635?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220203n14635?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 03 Feb 2022 03:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[조이뉴스24							<em>02-03 11:40</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/02/03/0dab9aed383091.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 정국, 네이버웹툰-하이브 '세븐 페이츠:착호' OST 공개]]></title>
             <link>https://news.nate.com/view/20220203n11975?mid=e0608&amp;isq=9009</link>
@@ -96,14 +112,6 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/02/03/031624309.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[공식]'Stay Alive' BTS 슈가X정국 OST 공개 'D-2']]></title>
-            <link>https://news.nate.com/view/20220203n07234?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220203n07234?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 03 Feb 2022 01:47:44 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>02-03 09:38</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/02/03/l_2022020302000077300012561.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA["금방 퇴원할 것" BTS 지민,충수염 수술후 근황 전해]]></title>
             <link>https://news.nate.com/view/20220203n07148?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220203n07148?mid=e0608&amp;isq=9009</guid>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 03 Feb 2022 01:47:44 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>02-03 09:26</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/03/1643847933755618.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민 코로나 확진→급성 충수염 수술…병상서 근황 전해 [DA★]]]></title>
-            <link>https://news.nate.com/view/20220203n06470?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220203n06470?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 03 Feb 2022 01:47:44 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠동아							<em>02-03 09:22</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/02/03/111547107.1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
