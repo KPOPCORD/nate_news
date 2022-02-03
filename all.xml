@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 09:04:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 10:05:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/02/14668275_756498_1318_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS 뷔, '사랑하는 멤버들' 고백 [스타IN★] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220203n32087?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220203n32087?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 03 Feb 2022 10:05:33 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-03 18:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/03/2022020318455579099_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['퇴근길 팬미팅' 윤서령 "이상형은 BTS 뷔!" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220203n29214?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220203n29214?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Thu, 03 Feb 2022 04:05:38 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-03 12:35</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/03/14668438_756773_3224_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['걱정끼쳐 죄송해요' 방탄소년단 지민, 입원 근황글에 아미팬들 화답…실트점령 '우리 천사 우리 지민' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220203n16586?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220203n16586?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 03 Feb 2022 04:05:38 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-03 12:33</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/03/14668436_756766_3130_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
