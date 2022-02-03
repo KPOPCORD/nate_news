@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 01:47:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 02:20:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 정국, 네이버웹툰-하이브 '세븐 페이츠:착호' OST 공개]]></title>
+            <link>https://news.nate.com/view/20220203n11975?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220203n11975?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 03 Feb 2022 02:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠서울							<em>02-03 10:56</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/02/03/2022020301000079400004771.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['이변없는 원톱' 방탄소년단 지민, K팝 인기투표 1월 랭킹1위…18개월 1위→82주 新기록 경신]]></title>
             <link>https://news.nate.com/view/20220203n10872?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 03 Feb 2022 01:47:44 GMT</pubDate>
             <content:encoded><![CDATA[스포츠동아							<em>02-03 09:22</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/02/03/111547107.1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 슈가 프로듀싱-정국 가창, '세븐 페이츠: 착호' OST 'Stay Alive' 5일 공개]]></title>
-            <link>https://news.nate.com/view/20220203n05921?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220203n05921?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 03 Feb 2022 00:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-03 09:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/03/14668397_756698_835_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
