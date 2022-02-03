@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 23:04:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 00:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기사열독종합순위] 영탁 51회째 1위, 2위 임영웅에 10,806회 앞서…3위 이찬원·4위 방탄소년단 지민·5위 레드벨벳 웬디]]></title>
+            <link>https://news.nate.com/view/20220203n05055?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220203n05055?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Thu, 03 Feb 2022 00:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-03 08:47</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/03/14668392_756687_4456_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[독자추천종합순위] 영탁 115회째 1위, 2위 이찬원에 5,079표 앞서…3위 방탄소년단 지민·4위 정동원·5위 레드벨벳 웬디]]></title>
+            <link>https://news.nate.com/view/20220203n04463?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220203n04463?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Thu, 03 Feb 2022 00:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-03 08:26</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/03/14668391_756682_241_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레드벨벳 웬디,  2022년 새해 복 많이 받으세요  [포토엔HD]]]></title>
             <link>https://news.nate.com/view/20220202n08450?mid=e0608&amp;isq=9012</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 02 Feb 2022 08:04:25 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-02 16:13</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/02/14668274_756497_1249_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '동물농장에서 만나요' (SBS TV 동물농장 출근길)]]></title>
-            <link>https://news.nate.com/view/20220202n12930?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220202n12930?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 02 Feb 2022 08:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-02 16:13</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/02/14668273_756496_121_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '러블리 손인사' (SBS TV 동물농장 출근길)]]></title>
-            <link>https://news.nate.com/view/20220202n12910?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220202n12910?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 02 Feb 2022 08:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-02 16:12</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/02/14668272_756495_1025_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
