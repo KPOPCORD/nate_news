@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 00:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 01:44:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/01/21/14665771_752116_2038_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[트위터 리트윗종합순위] 임영웅 19회째 1위, 2위 방탄소년단 지민에 401회 앞서…3위 방탄소년단 뷔·4위 방탄소년단 정국·5위 레드벨벳 슬기 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20220204n09074?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220204n09074?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Fri, 04 Feb 2022 01:43:39 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-04 10:11</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/04/14668612_757103_90_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기사열독종합순위] 임영웅 10회째 1위, 2위 영탁에 4,176회 앞서…3위 이찬원·4위 레드벨벳 웬디·5위 방탄소년단 지민 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20220204n07864?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220204n07864?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Fri, 04 Feb 2022 01:43:39 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-04 09:45</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/04/14668607_757094_4310_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[트위터 리트윗종합순위] 방탄소년단 지민 72회째 1위, 2위 임영웅에 581회 앞서…3위 방탄소년단 뷔·4위 방탄소년단 정국·5위 레드벨벳 슬기 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
             <link>https://news.nate.com/view/20220203n16637?mid=e0608&amp;isq=9012</link>
             <guid>https://news.nate.com/view/20220203n16637?mid=e0608&amp;isq=9012</guid>
@@ -232,20 +248,92 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/02/14668277_756500_1413_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '러블리 해피 아이돌' (SBS TV 동물농장 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20220202n12963?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220202n12963?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 02 Feb 2022 08:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-02 16:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/02/14668276_756499_1345_org.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[방탄소년단, 日오리콘서 대기록…"최초 누적 200만 포인트 2곡" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220204n09818?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220204n09818?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 04 Feb 2022 01:44:25 GMT</pubDate>
+            <content:encoded><![CDATA[SBS연예뉴스							<em>02-04 10:26</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/02/04/30000741084_700.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '와니를 보면 난 행복해지고' (SBS TV 동물농장 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20220202n12962?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220202n12962?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 02 Feb 2022 08:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-02 16:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/02/14668275_756498_1318_org.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[트위터 리트윗종합순위] 임영웅 19회째 1위, 2위 방탄소년단 지민에 401회 앞서…3위 방탄소년단 뷔·4위 방탄소년단 정국·5위 레드벨벳 슬기 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220204n09074?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220204n09074?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 04 Feb 2022 01:44:25 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-04 10:11</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/04/14668612_757103_90_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 日 오리콘 신기록 추가…"200만 포인트 2곡, 사상 최초" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220204n08076?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220204n08076?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 04 Feb 2022 01:44:25 GMT</pubDate>
+            <content:encoded><![CDATA[디스패치							<em>02-04 09:50</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/02/04/827b748f-f82a-4611-a8ab-2fb18a01b598.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[기사열독종합순위] 임영웅 10회째 1위, 2위 영탁에 4,176회 앞서…3위 이찬원·4위 레드벨벳 웬디·5위 방탄소년단 지민 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220204n07864?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220204n07864?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 04 Feb 2022 01:44:25 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-04 09:45</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/04/14668607_757094_4310_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 日오리콘 사상 최초 누적 200만 포인트 2곡 보유[공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220204n07770?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220204n07770?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 04 Feb 2022 01:44:25 GMT</pubDate>
+            <content:encoded><![CDATA[스포티비뉴스							<em>02-04 09:43</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2022/02/04/503223_704273_4114.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['생활 한복 전파자' 방탄소년단 정국, 태국 팬들이 뽑은 한복이 가장 잘 어울리는 아이돌 1위 선정 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220204n07539?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220204n07539?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 04 Feb 2022 01:44:25 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-04 09:38</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/04/14668606_757087_3650_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 日 오리콘 신기록…'버터'로 '누적 200만 포인트' 돌파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220204n07396?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220204n07396?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 04 Feb 2022 01:44:25 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>02-04 09:35</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/02/04/20220204504250.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 'Butter'로 日 오리콘 '주간 합산 싱글 랭킹' 누적 200만 포인트 돌파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220204n07248?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220204n07248?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 04 Feb 2022 01:44:25 GMT</pubDate>
+            <content:encoded><![CDATA[스타데일리뉴스							<em>02-04 09:32</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/02/04/315534_362262_312.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['IT BOY' 방탄소년단 지민, "2022 가장 스타일리시한 K팝 아이돌 1위"….패션아이콘 위엄 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220204n06923?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220204n06923?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 04 Feb 2022 01:44:25 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-04 09:25</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/04/14668602_757073_242_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 학사모 쓴 모습을 보고 싶은 남돌 1위! 뷔+학사모=천국행♥ (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220204n06644?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220204n06644?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 04 Feb 2022 01:44:25 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-04 09:19</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/04/14668596_757064_1811_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["취향저격♥" 방탄소년단 정국, 'Hate everything' 생생 라이브 커버곡 선물 '팬들 고막 사르르'→멜론 인기 검색 1, 2, 3위 장악+트위터 57개국 실트 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220204n06567?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220204n06567?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 04 Feb 2022 01:44:25 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-04 09:17</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/04/14668595_757057_1527_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[공식] 방탄소년단, 오리콘 신기록 세웠다…'버터' 누적포인트 200만 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -278,94 +366,6 @@
             <pubDate>Fri, 04 Feb 2022 00:19:32 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-04 08:50</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/04/14668591_757050_4834_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, '버터' 日 오리콘 200만 포인트 "역대 5번째" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220204n05404?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220204n05404?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Feb 2022 00:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠한국							<em>02-04 08:48</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2022/02/04/dyhero21320220204084449_O_01_C_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 '버터',日 오리콘 누적 200만 포인트 달성 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220204n05361?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220204n05361?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Feb 2022 00:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠서울							<em>02-04 08:47</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/02/04/2022020401000124600008091.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 또 日 오리콘 신기록…'Butter'도 누적 포인트 200만 달성 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220204n04949?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220204n04949?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Feb 2022 00:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[MK스포츠							<em>02-04 08:33</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/02/04/20220204_1643931112.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[댓글종합순위] 영탁 158회째 1위, 2위 이찬원에 507개 앞서…3위 김희재·4위 박서진·5위 방탄소년단 지민 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220204n04659?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220204n04659?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Feb 2022 00:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-04 08:23</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/04/14668589_757044_2053_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 'Butter', 日오리콘 누적 200만 포인트 돌파 [공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220204n04633?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220204n04633?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Feb 2022 00:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠동아							<em>02-04 08:22</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/02/04/111567449.1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 뷔, 학사모 쓴 모습을 보고 싶은 남돌 1위 등극 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220204n04483?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220204n04483?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Feb 2022 00:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>02-04 08:15</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/04/1643930062857921.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["방탄소년단 지민에게 우리의 모든 사랑을 보냅니다♥" 英·美 53개 라디오 쾌유기원 동참 '감동' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220204n04379?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220204n04379?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Feb 2022 00:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-04 08:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/04/2022020407295160186_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단,日 오리콘 '주간 합산 싱글 랭킹'서 누적 200만 포인트 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220204n04324?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220204n04324?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Feb 2022 00:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[조이뉴스24							<em>02-04 08:08</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/02/04/8f3a40c8505bcf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 'Butter', 日 오리콘 '주간 합산 싱글 랭킹' 누적 200만 포인트 돌파. 또 오리콘 신기록 작성! (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220204n04153?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220204n04153?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Feb 2022 00:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>02-04 08:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/02/04/2022020501000197900012591.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, 깜짝 커버곡 'Hate everything' 공개. 멜론 인기 검색어·트위터 실트, 상위권 싹쓸이 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220204n04000?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220204n04000?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Feb 2022 00:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>02-04 07:54</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/02/04/2022020501000197400012561.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 '버터' 日 오리콘 누적 200만 포인트 달성 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220204n03901?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220204n03901?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 03 Feb 2022 23:05:10 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>02-04 07:48</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/02/04/20220204_5083438_1643928418.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
