@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 16:05:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 17:05:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 진 "여보세요" [스타IN★]]]></title>
+            <link>https://news.nate.com/view/20220205n00418?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220205n00418?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 04 Feb 2022 17:05:27 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-05 01:21</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/05/2022020501111914195_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['스케치북' 이찬원, BTS 정국X송가인 제치고 '기대주' 1위…"과찬이다"[별별TV]]]></title>
+            <link>https://news.nate.com/view/20220205n00232?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220205n00232?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 04 Feb 2022 16:05:09 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-05 01:09</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/05/tn_1643990943693_544336_0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["BTS도 좋은 일 하는데"…이영자, 돈쭐 협상 (편스토랑)[종합]]]></title>
             <link>https://news.nate.com/view/20220205n00309?mid=e0608&amp;isq=9009</link>
@@ -14,14 +30,6 @@
             <pubDate>Fri, 04 Feb 2022 16:05:09 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>02-05 00:51</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/05/1643978523514369.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스케치북' 이찬원, BTS 정국X송가인 제치고 '기대주' 1위…"과찬이다"[별별TV]]]></title>
-            <link>https://news.nate.com/view/20220205n00232?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220205n00232?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Feb 2022 16:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-05 00:27</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/05/2022020419004022471_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['마이웨이' 허참 "BTS 빌보드 차트 1위, 꿈도 못 꿨던 일" [별별TV]]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 04 Feb 2022 01:44:25 GMT</pubDate>
             <content:encoded><![CDATA[SBS연예뉴스							<em>02-04 10:26</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/02/04/30000741084_700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 리트윗종합순위] 임영웅 19회째 1위, 2위 방탄소년단 지민에 401회 앞서…3위 방탄소년단 뷔·4위 방탄소년단 정국·5위 레드벨벳 슬기]]></title>
-            <link>https://news.nate.com/view/20220204n09074?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220204n09074?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Feb 2022 01:44:25 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-04 10:11</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/04/14668612_757103_90_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
