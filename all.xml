@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 21:04:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 22:04:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/02/04/202202041651353510_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 진, 머리가 작은 거야? 새우가 큰 거야? (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220205n01773?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220205n01773?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 04 Feb 2022 22:04:46 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠조선							<em>02-05 06:51</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/02/05/2022020601000243800016391.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 진, 킹사이즈 새우 들고 "여보세요"…장꾸 매력 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220205n01269?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220205n01269?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 04 Feb 2022 22:04:46 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>02-05 06:02</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/02/05/202202042226698118_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 지민 '필터' 유튜브 누적 8600만뷰 달성 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220205n00754?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220205n00754?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Fri, 04 Feb 2022 02:11:40 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>02-04 10:51</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/02/04/202202041002160410_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['웃찾사' 정용국 "운영 중인 곱창집, 김희철→BTS 단골" (근황올림픽)[종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220204n11050?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220204n11050?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Feb 2022 02:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>02-04 10:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/04/1643936642536166.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[빅데이터가수브랜드종합순위] 영탁 23회째 1위(3관왕), 2위 이찬원에 74,945점 앞서…3위 임영웅·4위 방탄소년단 지민·5위 송가인 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220204n10211?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220204n10211?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Feb 2022 02:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-04 10:35</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/04/14668618_757114_3224_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
