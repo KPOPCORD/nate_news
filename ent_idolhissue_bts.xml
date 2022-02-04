@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 12:05:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 13:05:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 진, 新따귀머리+꾸깃 흰티…일상 속 장꾸美 [리포트:컷]]]></title>
+            <link>https://news.nate.com/view/20220204n30909?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220204n30909?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 04 Feb 2022 13:05:20 GMT</pubDate>
+            <content:encoded><![CDATA[TV리포트							<em>02-04 21:42</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/02/04/d4b23e08-8265-4c9f-b539-e85e5697e9aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["내일이구만" 방탄소년단 슈가, 정국XSUGA 노래 발매 예고 [★SHOT!]]]></title>
             <link>https://news.nate.com/view/20220204n28955?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 04 Feb 2022 01:44:25 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-04 09:38</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/04/14668606_757087_3650_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 'Butter'로 日 오리콘 '주간 합산 싱글 랭킹' 누적 200만 포인트 돌파]]></title>
-            <link>https://news.nate.com/view/20220204n07248?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220204n07248?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Feb 2022 01:44:25 GMT</pubDate>
-            <content:encoded><![CDATA[스타데일리뉴스							<em>02-04 09:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/02/04/315534_362262_312.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
