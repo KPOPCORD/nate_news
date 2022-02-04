@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 15:04:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 16:05:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["BTS도 좋은 일 하는데"…이영자, 돈쭐 협상 (편스토랑)[종합]]]></title>
+            <link>https://news.nate.com/view/20220205n00309?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220205n00309?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 04 Feb 2022 16:05:09 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>02-05 00:51</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/05/1643978523514369.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['스케치북' 이찬원, BTS 정국X송가인 제치고 '기대주' 1위…"과찬이다"[별별TV]]]></title>
+            <link>https://news.nate.com/view/20220205n00232?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220205n00232?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 04 Feb 2022 16:05:09 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-05 00:27</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/05/2022020419004022471_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['마이웨이' 허참 "BTS 빌보드 차트 1위, 꿈도 못 꿨던 일" [별별TV]]]></title>
             <link>https://news.nate.com/view/20220204n32798?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 04 Feb 2022 01:44:25 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-04 10:11</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/04/14668612_757103_90_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 日 오리콘 신기록 추가…"200만 포인트 2곡, 사상 최초"]]></title>
-            <link>https://news.nate.com/view/20220204n08076?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220204n08076?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Feb 2022 01:44:25 GMT</pubDate>
-            <content:encoded><![CDATA[디스패치							<em>02-04 09:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/02/04/827b748f-f82a-4611-a8ab-2fb18a01b598.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[기사열독종합순위] 임영웅 10회째 1위, 2위 영탁에 4,176회 앞서…3위 이찬원·4위 레드벨벳 웬디·5위 방탄소년단 지민]]></title>
-            <link>https://news.nate.com/view/20220204n07864?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220204n07864?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Feb 2022 01:44:25 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-04 09:45</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/04/14668607_757094_4310_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
