@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 07:04:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 08:04:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 지민, 코로나19+충수염 완치→오늘(5일) 퇴원(전문)]]></title>
+            <link>https://news.nate.com/view/20220205n08729?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220205n08729?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 05 Feb 2022 08:04:57 GMT</pubDate>
+            <content:encoded><![CDATA[조이뉴스24							<em>02-05 16:36</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/02/05/e685a176ad4537.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 지민, 코로나19 완치 후 퇴원 "빠르게 회복"]]></title>
+            <link>https://news.nate.com/view/20220205n08326?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220205n08326?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 05 Feb 2022 08:04:57 GMT</pubDate>
+            <content:encoded><![CDATA[K STAR							<em>02-05 15:56</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kb/2022/02/05/new_news__20220205155521_.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 지민, 충수염 회복 및 코로나 19 완치]]></title>
             <link>https://news.nate.com/view/20220205n06599?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 05 Feb 2022 02:08:58 GMT</pubDate>
             <content:encoded><![CDATA[스타in							<em>02-05 10:49</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/02/05/PS22020500021.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민, 코로나19 격리 해제 "충수염 수술 퇴원"]]></title>
-            <link>https://news.nate.com/view/20220205n04531?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220205n04531?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 05 Feb 2022 02:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠한국							<em>02-05 10:48</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2022/02/05/dyhero21320220205104712_O_00_C_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['레전드' 방탄소년단 지민 '필터' 韓남자솔로 '최단' 스포티파이 2억 5000만→韓솔로 '최다'유튜브 8천 600만]]></title>
-            <link>https://news.nate.com/view/20220205n04261?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220205n04261?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 05 Feb 2022 02:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-05 10:27</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/05/14668860_757517_2627_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
