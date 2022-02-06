@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 15:05:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 16:05:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 지민 '세렌디피티 풀렝스' 스포티파이 1억 8000만 '돌파']]></title>
+            <link>https://news.nate.com/view/20220207n00139?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220207n00139?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 06 Feb 2022 16:05:07 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-07 00:06</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/07/2022020622535915251_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔 'Christmas Tree' 아이튠즈 월드와이드 차트인 '33일째']]></title>
+            <link>https://news.nate.com/view/20220207n00120?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220207n00120?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 06 Feb 2022 16:05:07 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-07 00:05</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/07/2022020622431747923_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 지민, 코로나 음성·충수염 거의 완치 "퇴원 후 휴식 중" [공식]]]></title>
             <link>https://news.nate.com/view/20220205n05393?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sun, 06 Feb 2022 02:08:11 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-06 11:01</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/06/14668983_757702_5930_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 지민, 직접 알린 코로나19 완치+퇴원 "이제 아플 일 없어요"]]></title>
-            <link>https://news.nate.com/view/20220206n05025?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220206n05025?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 06 Feb 2022 02:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[스포티비뉴스							<em>02-06 10:51</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2022/02/06/503559_704737_4859.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민, 직접 전한 밝은 근황 "완치 후 퇴원, 아플 일 없어요"]]></title>
-            <link>https://news.nate.com/view/20220206n04536?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220206n04536?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 06 Feb 2022 02:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠한국							<em>02-06 10:28</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2022/02/06/eun20220206102113_O_01_C_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
