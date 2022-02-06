@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 18:05:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 19:04:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -264,6 +264,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/07/2022020622431747923_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 지민 '친구' 유튜브 3500만-'Lie' 2000만 돌파 '롱런ing' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220117n05991?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220117n05991?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 06 Feb 2022 19:04:42 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-06 23:04</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/01/17/tn_1644156244305_93863_0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS 지민, 코로나 음성·충수염 거의 완치 "퇴원 후 휴식 중" [공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220205n05393?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220205n05393?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sun, 06 Feb 2022 03:05:09 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-06 11:19</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/06/14668988_757707_1818_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민, "이목을 주목시키는 만찢 비주얼 스타는?" 익디 투표 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220206n05283?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220206n05283?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 06 Feb 2022 02:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-06 11:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/06/14668983_757702_5930_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
