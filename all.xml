@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 10:05:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 11:04:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/02/04/202202041710483510_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['휴가 中' 방탄소년단(BTS) 제이홉, 휴게소 포착 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220207n35139?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220207n35139?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 07 Feb 2022 11:04:36 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>02-07 19:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/02/07/1644229662_1624705.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김민석의 '취중고백', 멜론 주간차트 1위…아이유 11곡·임영웅 10곡·방탄소년단 7곡·비오 6곡 차트 진입 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220207n25825?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220207n25825?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Mon, 07 Feb 2022 02:22:51 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-07 10:22</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/07/14669133_757974_2039_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 제이홉, 마스크를 써도 빛나는 비주얼 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220207n04863?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220207n04863?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 07 Feb 2022 00:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>02-07 09:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/07/1644190003545501.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
