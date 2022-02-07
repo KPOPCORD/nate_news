@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 13:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 14:04:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 제이홉, 고속도로 휴게소 출몰…힙한 패션이 다했네]]></title>
+            <link>https://news.nate.com/view/20220207n38939?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220207n38939?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 07 Feb 2022 14:04:58 GMT</pubDate>
+            <content:encoded><![CDATA[조이뉴스24							<em>02-07 22:27</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/02/07/365d4cfb9c4554.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 뷔, 여기가 천국인가요? 할 말 잃게 만드는 천사 비주얼[★SHOT!]]]></title>
             <link>https://news.nate.com/view/20220207n36592?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 07 Feb 2022 02:22:51 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-07 10:46</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/07/14669139_757985_4339_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["Autumn Leaves♥V" 방탄소년단 뷔, 트럼펫 연주자 쳇뷔커로 변신…관객은 아미+인형]]></title>
-            <link>https://news.nate.com/view/20220207n09679?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220207n09679?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 07 Feb 2022 02:22:51 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-07 10:30</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/07/14669135_757981_2647_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
