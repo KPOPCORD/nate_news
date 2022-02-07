@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 16:05:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 17:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 RM, 中올림픽 편파판정 피해자 황대헌 공개 응원…멋들어진 소신 행보]]></title>
+            <link>https://news.nate.com/view/20220208n00640?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220208n00640?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 07 Feb 2022 17:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>02-08 01:04</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/02/08/202202080103080410_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 RM, 중국 선수들 추월하는 황대헌에 '엄지 척']]></title>
             <link>https://news.nate.com/view/20220208n00378?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 07 Feb 2022 04:06:01 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-07 11:49</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/07/14669151_758018_4738_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["우리 곁에 있어줘서 감사해요" 방탄소년단 뷔, AMA 비하인드 영상서 수상 소감 감동]]></title>
-            <link>https://news.nate.com/view/20220207n14380?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220207n14380?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 07 Feb 2022 04:06:01 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-07 11:46</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/07/14669150_758016_453_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
