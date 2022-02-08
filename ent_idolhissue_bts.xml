@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 11:04:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 12:06:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["SNS 악플"…방탄소년단(BTS)‧김이나, 올림픽 ★ 곤욕 [종합]]]></title>
+            <link>https://news.nate.com/view/20220208n38017?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220208n38017?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 08 Feb 2022 12:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>02-08 20:34</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/02/08/1644319814_1624818.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단→장성규 SNS, 때아닌 전쟁터…'악플' 몸살 [종합]]]></title>
             <link>https://news.nate.com/view/20220208n35862?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 08 Feb 2022 02:24:02 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-08 11:13</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/08/14669408_758415_1212_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[황대헌에 엄지 척…방탄소년단 RM에 쏟아진 '구토' 테러]]></title>
-            <link>https://news.nate.com/view/20220208n13075?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220208n13075?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 08 Feb 2022 02:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[스타in							<em>02-08 11:08</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/02/08/PS22020800104.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
