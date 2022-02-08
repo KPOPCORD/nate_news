@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 09:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 10:04:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드벨벳 웬디, 미용실 다녀왔어요 (영스트리트 출근)[뉴스엔TV]]]></title>
+            <link>https://news.nate.com/view/20220208n34900?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220208n34900?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Tue, 08 Feb 2022 10:03:34 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>02-08 18:13</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/02/08/202202081812011310_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[생일 서포트] 3월생 스타생일 축하투표 - 선한 영향력 '기부' 서포트 투표 홍지윤 현재 1위…레드벨벳 아이린·황윤성·남승민·박군 추격 중]]></title>
             <link>https://news.nate.com/view/20220208n13607?mid=e0608&amp;isq=9012</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 04 Feb 2022 09:03:39 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>02-04 17:22</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/02/04/202202041720481310_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳 웬디 '올해만 벌써 세번째 세배'[포토엔HD]]]></title>
-            <link>https://news.nate.com/view/20220204n25755?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220204n25755?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Fri, 04 Feb 2022 09:03:39 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>02-04 17:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/02/04/202202041719433510_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

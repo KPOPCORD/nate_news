@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 09:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 10:04:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단→장성규 SNS, 때아닌 전쟁터…'악플' 몸살 [종합]]]></title>
+            <link>https://news.nate.com/view/20220208n35862?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220208n35862?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 08 Feb 2022 10:04:47 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>02-08 18:50</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/08/1644308730346751.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["완치!" BTS 지민→비비지, 코로나 이겨내고 일상 복귀 [이슈&톡]]]></title>
+            <link>https://news.nate.com/view/20220208n35150?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220208n35150?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 08 Feb 2022 10:04:47 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>02-08 18:22</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/02/08/081624797.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS→장성규까지,'쇼트트랙' 언급 스타들 中 네티즌 악플 테러 몸살 [종합]]]></title>
             <link>https://news.nate.com/view/20220208n31050?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 08 Feb 2022 02:24:02 GMT</pubDate>
             <content:encoded><![CDATA[스타in							<em>02-08 11:08</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/02/08/PS22020800104.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 리트윗종합순위] 임영웅 20회째 1위, 2위 방탄소년단 지민에 1,167회 앞서…3위 방탄소년단 뷔·4위 방탄소년단 정국·5위 영탁]]></title>
-            <link>https://news.nate.com/view/20220208n12942?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220208n12942?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 08 Feb 2022 02:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-08 11:06</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/08/14669409_758407_43_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Christmas Tree' 방탄소년단 뷔, 멜론 '주간 인기상' 3주 연속 1위…최강 솔로파워]]></title>
-            <link>https://news.nate.com/view/20220208n12586?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220208n12586?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 08 Feb 2022 02:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-08 11:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/08/14669407_758403_5949_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
