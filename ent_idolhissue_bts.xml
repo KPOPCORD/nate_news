@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 14:05:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 15:05:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['BTS' 슈가, 곤룡포 자태…"中 한복 논란 겨냥?"]]></title>
+            <link>https://news.nate.com/view/20220208n42509?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220208n42509?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 08 Feb 2022 15:05:05 GMT</pubDate>
+            <content:encoded><![CDATA[디스패치							<em>02-08 23:58</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/02/08/f5ec072c-c955-40eb-a162-61d2b5629576.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 슈가, 중국 겨냥? SNS에 한복 입은 사진 공개]]></title>
             <link>https://news.nate.com/view/20220208n40837?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 08 Feb 2022 06:05:23 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>02-08 13:58</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/08/2022020813543212962_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['AMA 끌려남' 방탄소년단 정국, 'focus on…' 외치며 끌려나간 뒤 "아미들이 많이 놀리겠다 어떡하냐" 귀여움 폭발]]></title>
-            <link>https://news.nate.com/view/20220208n17822?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220208n17822?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 08 Feb 2022 04:04:42 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-08 12:48</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/08/14669434_758506_4637_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
