@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 15:05:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 16:04:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 지민 'Lie' 부르키나파소 아이튠즈 1위 '통산 52번째']]></title>
+            <link>https://news.nate.com/view/20220209n00047?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220209n00047?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 08 Feb 2022 16:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-09 00:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/09/2022020822424294472_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['BTS' 슈가, 곤룡포 자태…"中 한복 논란 겨냥?"]]></title>
             <link>https://news.nate.com/view/20220208n42509?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 08 Feb 2022 04:04:42 GMT</pubDate>
             <content:encoded><![CDATA[스포츠월드							<em>02-08 15:37</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/02/08/20220208507548.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 MAP OF THE SOUL:7 빌보드 200 184위 95주 차트인[공식]]]></title>
-            <link>https://news.nate.com/view/20220208n20962?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220208n20962?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 08 Feb 2022 06:05:23 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-08 13:58</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/08/2022020813543212962_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
