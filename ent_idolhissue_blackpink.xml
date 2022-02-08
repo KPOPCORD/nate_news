@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 00:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 01:53:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["이거 어떻게 하는 거야"…임수향, 블랙핑크 제니가 보낸 초대형 선물에 진땀]]></title>
+            <link>https://news.nate.com/view/20220208n11357?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20220208n11357?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Tue, 08 Feb 2022 01:51:11 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>02-08 10:40</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/02/08/202202080947292310_51.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빌보드 칼럼니스트 "블랙핑크 지수 솔로앨범 기대, 설강화 OST를 불렀어야 했다"]]></title>
             <link>https://news.nate.com/view/20220205n03800?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 23 Jan 2022 06:04:45 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>01-23 14:32</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/23/202201231431221810_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임영웅, 2022년 1월 가수 브랜드평판 1위…블랙핑크 2위]]></title>
-            <link>https://news.nate.com/view/20220122n03042?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20220122n03042?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Sat, 22 Jan 2022 00:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>01-22 08:31</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/22/202201220828268010_51.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
