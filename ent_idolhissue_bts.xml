@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 03:04:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 04:05:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트위터 리트윗종합순위] 임영웅 21회째 1위, 2위 방탄소년단 지민에 315회 앞서…3위 방탄소년단 뷔·4위 방탄소년단 정국·5위 영탁]]></title>
+            <link>https://news.nate.com/view/20220209n18184?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220209n18184?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 09 Feb 2022 04:05:30 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-09 12:25</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/09/14669703_758860_2245_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['TMI SHOW' 붐x미주 "방탄소년단·유재석 출연 원해"[일문일답]]]></title>
+            <link>https://news.nate.com/view/20220209n17236?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220209n17236?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 09 Feb 2022 04:05:30 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-09 12:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/09/2022020911475157784_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS RM이 지나간 자리…카페 사장님 글 화제 "재난지원금보다 방탄지원금" [MD동영상]]]></title>
             <link>https://news.nate.com/view/20220209n14512?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 09 Feb 2022 01:58:36 GMT</pubDate>
             <content:encoded><![CDATA[OSEN							<em>02-09 10:07</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/02/09/202202090947775175_6203138f60cc7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 슈가, 2년 전 '곤룡포 한복' 소환 의미는?]]></title>
-            <link>https://news.nate.com/view/20220209n09580?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220209n09580?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 09 Feb 2022 01:58:36 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>02-09 10:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/02/09/l_2022020902000420000077881.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 英 '브릿 어워즈' 수상 불발]]></title>
-            <link>https://news.nate.com/view/20220209n09578?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220209n09578?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 09 Feb 2022 01:58:36 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>02-09 10:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/02/09/091624851.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
