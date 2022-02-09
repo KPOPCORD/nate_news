@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 09:04:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 10:04:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 진, 동계 스포츠에 딱…아이돌 대표 '얼음왕자' 선정]]></title>
+            <link>https://news.nate.com/view/20220209n37328?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220209n37328?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 09 Feb 2022 10:04:42 GMT</pubDate>
+            <content:encoded><![CDATA[TV리포트							<em>02-09 18:17</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/02/09/ee3d6af5-91f1-48b2-9a32-13de33a28539.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 슈가, "건반을 칠 때는 먼 곳을 봐야"…'아티스트 기품' 폭발[스타IN★]]]></title>
+            <link>https://news.nate.com/view/20220209n36674?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220209n36674?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 09 Feb 2022 10:04:42 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-09 18:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/09/2022020917254879081_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홍콩SCMP "BTS가 베이징 올림픽 SNS 폭풍에 휘말렸다"]]></title>
             <link>https://news.nate.com/view/20220209n35306?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 09 Feb 2022 06:05:09 GMT</pubDate>
             <content:encoded><![CDATA[MK스포츠							<em>02-09 13:57</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/02/09/20220209_1644382575.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[황대헌-BTS에 도 넘은 SNS 테러…중국 국기-구토 올리며 맹비난]]></title>
-            <link>https://news.nate.com/view/20220209n19785?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220209n19785?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 09 Feb 2022 05:05:06 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>02-09 13:40</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/02/09/202202091314770784_62034140c8bce.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 진, 동계올림픽 맞이 아이돌 대표 '얼음왕자' 1위 등극]]></title>
-            <link>https://news.nate.com/view/20220209n19469?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220209n19469?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 09 Feb 2022 05:05:06 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>02-09 13:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/02/09/202202091306779706_62033f6265b4a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
