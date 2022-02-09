@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 12:07:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 13:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드벨벳 웬디, 상큼한 완디꽃이 피었습니다 (영스트리트 출근)[뉴스엔TV]]]></title>
+            <link>https://news.nate.com/view/20220209n34317?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220209n34317?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Wed, 09 Feb 2022 09:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>02-09 21:07</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/02/09/202202091716311310_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레드벨벳 웬디 '상큼한 모델 포즈'[포토엔HD]]]></title>
             <link>https://news.nate.com/view/20220209n37047?mid=e0608&amp;isq=9012</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Feb 2022 10:03:34 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>02-09 17:57</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/02/09/202202091756273510_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳 웬디, 상큼한 완디꽃이 피었습니다 (영스트리트 출근)[뉴스엔TV]]]></title>
-            <link>https://news.nate.com/view/20220209n34317?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220209n34317?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 09 Feb 2022 09:03:58 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>02-09 17:17</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/02/09/202202091716311310_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레드벨벳 웬디 '완디가 달려갑니다~'[포토엔HD]]]></title>
