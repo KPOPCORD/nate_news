@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 13:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 14:04:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/08/14669620_758721_3217_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["콘서트 하고 싶다" 방탄소년단 슈가, '코로나19' 완치 후 무대 향한 간절함ing (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220209n42659?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220209n42659?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 09 Feb 2022 14:04:55 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>02-09 22:14</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/02/09/202202091955773748_6203bdba54db2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS 슈가, 인스타 팔로우 2,800만 달성 '국내 13위' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220209n12227?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220209n12227?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Wed, 09 Feb 2022 07:05:01 GMT</pubDate>
             <content:encoded><![CDATA[스포츠경향							<em>02-09 15:45</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/02/08/l_2022020802000453700084102.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민, "인생영화 노트북 7번째에요…감정선이 예뻐…아미들과 예쁜사랑하고싶어" 새벽 지민을 울린 로맨틱 감성 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220209n28251?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220209n28251?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 09 Feb 2022 07:05:01 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-09 15:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/09/14669725_758925_3041_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
