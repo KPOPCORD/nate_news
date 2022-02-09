@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 07:05:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 08:04:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 뷔 솔로곡 '싱귤래리티' 스포티파이 1억 9500만 돌파…최강 음원 파워]]></title>
+            <link>https://news.nate.com/view/20220209n29838?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220209n29838?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 09 Feb 2022 08:04:45 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-09 15:57</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/09/14669738_758971_559_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 RM 소신 발언에 '보라빛 하트' 출동]]></title>
             <link>https://news.nate.com/view/20220208n16031?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 09 Feb 2022 05:05:06 GMT</pubDate>
             <content:encoded><![CDATA[비즈엔터							<em>02-09 13:01</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2022/02/09/20220209090108_1716316_1200_817.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 리트윗종합순위] 임영웅 21회째 1위, 2위 방탄소년단 지민에 315회 앞서…3위 방탄소년단 뷔·4위 방탄소년단 정국·5위 영탁]]></title>
-            <link>https://news.nate.com/view/20220209n18184?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220209n18184?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 09 Feb 2022 04:05:30 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-09 12:25</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/09/14669703_758860_2245_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
