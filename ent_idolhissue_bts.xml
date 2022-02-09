@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 10:04:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 11:04:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["中 한복 공정 겨냥?" 방탄소년단‧소녀시대, 개념 행보]]></title>
+            <link>https://news.nate.com/view/20220209n38587?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220209n38587?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 09 Feb 2022 11:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>02-09 19:07</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/02/09/1644401084_1624964.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 진, 동계 스포츠에 딱…아이돌 대표 '얼음왕자' 선정]]></title>
             <link>https://news.nate.com/view/20220209n37328?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 09 Feb 2022 06:05:09 GMT</pubDate>
             <content:encoded><![CDATA[마이데일리							<em>02-09 14:12</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/02/09/202202091404544785_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 진, 동계올림픽 맞이 아이돌 대표 '얼음왕자' 1위]]></title>
-            <link>https://news.nate.com/view/20220209n21488?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220209n21488?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 09 Feb 2022 06:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[MK스포츠							<em>02-09 13:57</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/02/09/20220209_1644382575.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
