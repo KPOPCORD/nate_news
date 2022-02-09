@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 16:04:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 17:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/09/14669856_759117_4243_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[황소윤 "BTS, 아이유가 내 팬이라니"…송소희 "한복 200벌 부자" [Oh!쎈 리뷰] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220210n00845?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220210n00845?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 09 Feb 2022 17:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>02-10 01:35</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/02/10/202202100129773118_6203ed1679b43.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[황소윤 "BTS RM·아이유가 새소년 음악 추천…류이치 사카모토도 새소년 팬"('라디오스타') (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220210n00449?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220210n00449?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Wed, 09 Feb 2022 10:04:42 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>02-09 18:01</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/09/2022020917254879081_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍콩SCMP "BTS가 베이징 올림픽 SNS 폭풍에 휘말렸다" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220209n35306?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220209n35306?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 09 Feb 2022 09:04:44 GMT</pubDate>
-            <content:encoded><![CDATA[일간스포츠							<em>02-09 17:46</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/02/09/e4c66a6f-5553-4938-b28d-5c57ccebc458.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
