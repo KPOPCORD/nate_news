@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 11:04:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 12:07:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 슈가, 눈이 마주친 것 같아…'심쿵' 근접 셀카 [리포트:컷]]]></title>
+            <link>https://news.nate.com/view/20220210n40456?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220210n40456?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 10 Feb 2022 12:07:05 GMT</pubDate>
+            <content:encoded><![CDATA[TV리포트							<em>02-10 19:54</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/02/10/ff40830e-4f76-40fb-b144-aa95980cd5dc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 슈가, 얼굴 한가득 셀카 공개 "얼빡"[스타IN★]]]></title>
             <link>https://news.nate.com/view/20220210n39124?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 10 Feb 2022 07:05:09 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-10 15:33</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/10/14669991_759375_2918_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뷔, 스타랭킹 남자아이돌 3위…상위권 싹쓸이한 BTS]]></title>
-            <link>https://news.nate.com/view/20220210n28206?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220210n28206?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 10 Feb 2022 07:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-10 15:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/10/2022021015250229511_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
