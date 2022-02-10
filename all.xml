@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 07:05:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 08:04:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/26/202201260802592410_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[레드벨벳 슬기, 태연 첫 인상에 "천사인가요?" (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20220210n32806?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220210n32806?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Thu, 10 Feb 2022 08:03:59 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-10 16:40</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/10/14670001_759389_3857_org.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[스타서베이] 한국에서 가장 많이 사랑받는 K-POP 스타는? 이승윤 1위, 이솔로몬·방탄소년단 지민 추격 중…에스파 카리나 1위, 트와이스 쯔위·레드벨벳 웬디 추격 중 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
             <link>https://news.nate.com/view/20220210n28280?mid=e0608&amp;isq=9012</link>
             <guid>https://news.nate.com/view/20220210n28280?mid=e0608&amp;isq=9012</guid>
@@ -240,12 +248,28 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/09/14669861_759127_4611_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[UHD포토] 레드벨벳(Red Velvet) 웬디, '팬들과 함께하는 출근길' (웬디의 영스트리트 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20220209n44793?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220209n44793?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 09 Feb 2022 15:04:56 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-09 23:46</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/09/14669859_759125_4513_org.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이랑, '한국대중음악상' 6개부문 후보…아이유·에스파·BTS도 노미네이트 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220210n33043?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220210n33043?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 10 Feb 2022 08:04:53 GMT</pubDate>
+            <content:encoded><![CDATA[스타투데이							<em>02-10 16:43</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/02/10/20220210_5088565_1644478883.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['2022년 19회 한국대중음악상' 아이유 4개·방탄소년단 3개 부문 후보…공로상 '데블스' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220210n30643?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220210n30643?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 10 Feb 2022 08:04:53 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>02-10 16:22</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/02/10/l_2022021002000544200101282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태연, 마이클 조던 섭외 부탁에 "뭔 X소리야, BTS한테 물어봐" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220210n30944?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220210n30944?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 10 Feb 2022 08:04:53 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>02-10 16:11</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/02/10/20220210515615.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[태연 "뭔 X소리야, BTS에 물어봐"…한해 전화에 보인 '현실 반응' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -342,30 +366,6 @@
             <pubDate>Thu, 10 Feb 2022 05:05:43 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-10 13:23</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/10/14669945_759257_203_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 정국, 박효신 '1991年, 찬바람이 불던 밤' 커버 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220210n19349?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220210n19349?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 10 Feb 2022 05:05:43 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>02-10 13:07</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/02/10/1625044.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 리트윗종합순위] 임영웅 22회째 1위, 2위 방탄소년단 지민에 3,679회 앞서…3위 방탄소년단 뷔·4위 방탄소년단 정국·5위 영탁 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220210n19257?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220210n19257?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 10 Feb 2022 05:05:43 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-10 13:03</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/10/14669943_759251_025_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 '한국대중음악상' 5년 연속 노미네이트…투모로우바이투게더·다운 등 후보 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220210n19215?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220210n19215?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 10 Feb 2022 05:05:43 GMT</pubDate>
-            <content:encoded><![CDATA[비즈엔터							<em>02-10 13:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2022/02/10/20220210111654_1716878_1199_799.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
