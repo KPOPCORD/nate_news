@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 10:05:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 11:04:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/09/14669861_759127_4611_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS 슈가, 얼굴 한가득 셀카 공개 "얼빡"[스타IN★] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220210n39124?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220210n39124?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 10 Feb 2022 11:04:50 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-10 18:52</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/10/2022021018464152982_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS 슈가, 텅빈 공연장 "콘서트 하고 싶다"[스타IN★] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220210n38844?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220210n38844?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Thu, 10 Feb 2022 07:05:09 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>02-10 15:32</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/10/2022021015250229511_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 진, 스타랭킹 남자 아이돌 2위…월드 와이드 인기 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220210n27686?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220210n27686?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 10 Feb 2022 07:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-10 15:28</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/10/tn_1644474484083_285054_0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
