@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 21:05:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 22:04:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 RM 'mono.' 스포티파이 3억 7600만 달성]]></title>
+            <link>https://news.nate.com/view/20220211n03406?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220211n03406?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 10 Feb 2022 22:04:47 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-11 06:52</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/11/2022021106460010627_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 지민의 진심 "아미가 힘내줘서 감사하고 미안하고 고마워요"]]></title>
             <link>https://news.nate.com/view/20220211n00475?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 10 Feb 2022 08:04:53 GMT</pubDate>
             <content:encoded><![CDATA[스타투데이							<em>02-10 16:43</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/02/10/20220210_5088565_1644478883.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['2022년 19회 한국대중음악상' 아이유 4개·방탄소년단 3개 부문 후보…공로상 '데블스']]></title>
-            <link>https://news.nate.com/view/20220210n30643?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220210n30643?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 10 Feb 2022 08:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>02-10 16:22</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/02/10/l_2022021002000544200101282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
