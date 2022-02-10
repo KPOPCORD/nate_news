@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 14:05:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 15:04:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 제이홉, 워너비 패셔니스타…빛나는 존재감 [리포트:컷]]]></title>
+            <link>https://news.nate.com/view/20220210n44949?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220210n44949?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 10 Feb 2022 15:04:43 GMT</pubDate>
+            <content:encoded><![CDATA[TV리포트							<em>02-10 23:24</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/02/10/9cf01a3b-5e26-464a-9a9f-a037a42daa83.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 슈가, 눈이 마주친 것 같아…'심쿵' 근접 셀카 [리포트:컷]]]></title>
             <link>https://news.nate.com/view/20220210n40456?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 10 Feb 2022 07:05:09 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>02-10 15:34</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/10/1644474364300290.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스타서베이] 한국에서 가장 많이 사랑받는 K-POP 스타는? 이승윤 1위, 이솔로몬·방탄소년단 지민 추격 중…에스파 카리나 1위, 트와이스 쯔위·레드벨벳 웬디 추격 중]]></title>
-            <link>https://news.nate.com/view/20220210n28280?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220210n28280?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 10 Feb 2022 07:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-10 15:33</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/10/14669991_759375_2918_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
