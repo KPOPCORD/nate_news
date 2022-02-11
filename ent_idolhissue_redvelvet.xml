@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 04:06:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 05:05:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스타서베이] 한국에서 가장 많이 사랑받는 K-POP 스타는? 이승윤 1위, 이솔로몬·방탄소년단 지민 추격 중…에스파 카리나 1위, 트와이스 쯔위·레드벨벳 웬디 추격 중]]></title>
+            <link>https://news.nate.com/view/20220211n17366?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220211n17366?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Fri, 11 Feb 2022 05:04:15 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-11 13:13</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/11/14670168_759651_1126_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["덕분에 행복한 생일 보내"…레드벨벳 슬기, 생일 맞은 근황 공개]]></title>
             <link>https://news.nate.com/view/20220211n09746?mid=e0608&amp;isq=9012</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 09 Feb 2022 15:04:56 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-09 23:52</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/09/14669868_759134_5059_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '초속 5미터 완' (웬디의 영스트리트 출근길)]]></title>
-            <link>https://news.nate.com/view/20220209n44848?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220209n44848?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 09 Feb 2022 15:04:56 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-09 23:51</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/09/14669867_759132_4945_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
