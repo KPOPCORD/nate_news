@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 11:04:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 12:07:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/09/14669868_759134_5059_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS 제이홉, 어디서 찍어도 화보…한강 나들이[스타IN★] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220211n31729?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220211n31729?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 11 Feb 2022 12:07:09 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-11 20:34</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/11/2022021119570083789_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['결미야' 최양락, BTS 메이크업 결과는?…스튜디오 초토화 [TV스포] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220211n30729?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220211n30729?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 11 Feb 2022 12:07:09 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠투데이							<em>02-11 19:56</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/02/11/11_776585_73672.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['글로벌 뮤즈' 방탄소년단 뷔, 예술 작품으로 재탄생…아티스트 영감의 원천 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220211n29516?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220211n29516?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Fri, 11 Feb 2022 07:05:43 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-11 14:00</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/11/14670178_759687_5856_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['수석입학→명예졸업' 방탄소년단 지민, 부산예술고 최고 빛낸 스타…외신도 축하물결 'King of Kpop' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220211n18831?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220211n18831?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 11 Feb 2022 07:05:43 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-11 13:58</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/11/14670177_759678_577_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['노추요정♥' 방탄소년단 정국, 'It Takes Two' 추천곡 공유→원곡자 "우리 노래 공유 믿기지 않아…쏟아지는 사랑에 감사" 화답 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220211n18771?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220211n18771?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 11 Feb 2022 07:05:43 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-11 13:56</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/11/14670176_759672_5458_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
