@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 09:05:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 10:05:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['글로벌 뮤즈' 방탄소년단 뷔, 예술 작품으로 재탄생…아티스트 영감의 원천]]></title>
+            <link>https://news.nate.com/view/20220211n29516?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220211n29516?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 11 Feb 2022 10:05:08 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-11 18:39</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/11/14670236_759765_3743_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 정국X슈가 'Stay Alive' 벅스 톱100 1위…차트 공습 시작]]></title>
+            <link>https://news.nate.com/view/20220211n28859?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220211n28859?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 11 Feb 2022 10:05:08 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-11 18:09</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/11/2022021117554935983_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 지민, 부산예고 명예졸업장 수여 "학교발전 기여"[종합]]]></title>
             <link>https://news.nate.com/view/20220211n27588?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 11 Feb 2022 07:05:43 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-11 13:56</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/11/14670176_759672_5458_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['부동의 소셜킹' 방탄소년단 뷔, 위키피디아 1월 공식랭킹 '韓 솔로 1위']]></title>
-            <link>https://news.nate.com/view/20220211n18691?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220211n18691?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 11 Feb 2022 07:05:43 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-11 13:54</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/11/14670175_759670_5326_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스마트 미남' 방탄소년단 지민, 삼성갤럭시 S22 소장욕구 부르는 잘생김♡]]></title>
-            <link>https://news.nate.com/view/20220211n18643?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220211n18643?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 11 Feb 2022 05:05:28 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-11 13:53</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/11/14670173_759664_520_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
