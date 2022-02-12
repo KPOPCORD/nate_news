@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 15:04:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 16:05:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/10/14669900_759183_2110_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 지민, K팝 솔로 최초 스포티파이 누적 7억 스트리밍 '쾌거' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220213n00018?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220213n00018?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 12 Feb 2022 16:05:07 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-13 00:02</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/13/2022021221182674432_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 정국X슈가 'Stay Alive' 빌보드 핫트렌딩 차트 실시간 '4위' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220212n14700?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220212n14700?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sat, 12 Feb 2022 04:07:41 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-12 12:06</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/12/14670352_759916_413_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기사열독종합순위] 영탁 58회째 1위, 2위 이찬원에 45,098회 앞서…3위 레드벨벳 웬디·4위 방탄소년단 지민·5위 임영웅 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220212n05705?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220212n05705?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 12 Feb 2022 03:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-12 11:38</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/12/14670340_759899_3641_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
