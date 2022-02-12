@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 12:06:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 13:09:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/10/14669900_759183_2110_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 정국X슈가 'Stay Alive' 빌보드 핫트렌딩 차트 실시간 '4위' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220212n14700?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220212n14700?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 12 Feb 2022 13:09:12 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-12 21:42</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/12/2022021221304315713_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단, 2월 보이그룹 브랜드평판 '1위' 기록…2위는 NCT (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220212n12037?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220212n12037?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sat, 12 Feb 2022 03:05:12 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-12 11:38</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/12/14670340_759899_3641_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 2월 보이그룹 브랜드평판 1위 차지 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220212n05445?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220212n05445?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 12 Feb 2022 02:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[스타데일리뉴스							<em>02-12 11:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/02/12/315941_362731_1814.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
