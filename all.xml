@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 02:32:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 03:05:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/01/28/202201281340116110_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[기사열독종합순위] 영탁 58회째 1위, 2위 이찬원에 45,098회 앞서…3위 레드벨벳 웬디·4위 방탄소년단 지민·5위 임영웅 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20220212n05705?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220212n05705?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Sat, 12 Feb 2022 03:04:06 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-12 11:38</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/12/14670340_759899_3641_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[독자추천종합순위] 영탁 123회째 1위, 2위 이찬원에 6,450표 앞서…3위 방탄소년단 지민·4위 레드벨벳 웬디·5위 송가인 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
             <link>https://news.nate.com/view/20220212n04663?mid=e0608&amp;isq=9012</link>
             <guid>https://news.nate.com/view/20220212n04663?mid=e0608&amp;isq=9012</guid>
@@ -240,12 +248,12 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/09/14669870_759136_5252_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '레드벨벳의 에너지' (웬디의 영스트리트 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20220209n44879?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220209n44879?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 09 Feb 2022 15:04:56 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-09 23:53</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/09/14669869_759135_526_org.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[기사열독종합순위] 영탁 58회째 1위, 2위 이찬원에 45,098회 앞서…3위 레드벨벳 웬디·4위 방탄소년단 지민·5위 임영웅 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220212n05705?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220212n05705?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 12 Feb 2022 03:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-12 11:38</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/12/14670340_759899_3641_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단, 2월 보이그룹 브랜드평판 1위 차지 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -358,14 +366,6 @@
             <pubDate>Sat, 12 Feb 2022 00:21:42 GMT</pubDate>
             <content:encoded><![CDATA[티브이데일리							<em>02-12 09:07</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/02/12/1644624213_1625314.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['100점 만점' 방탄소년단 지민 실물, 톱모델 청혼에 스태프도 홀딱♥…'미소천사 솜뭉치' 영접 후기 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220212n03273?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220212n03273?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 12 Feb 2022 00:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-12 08:49</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/12/tn_1644623343685_834745_0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
