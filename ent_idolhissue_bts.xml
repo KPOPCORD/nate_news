@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 05:05:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 06:05:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스타서베이] 한국에서 가장 많이 사랑받는 K-POP 스타는? 이승윤 현재 1위, 이솔로몬·방탄소년단 지민·양준일·박장현 추격 중…에스파 카리나 현재 1위, 트와이스 쯔위·레드벨벳 웬디·하이키 시탈라·시크릿넘버 디타 추격 중]]></title>
+            <link>https://news.nate.com/view/20220212n08298?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220212n08298?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 12 Feb 2022 06:05:02 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-12 14:18</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/12/14670365_759957_1611_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[빅데이터가수브랜드종합순위] 영탁 30회째 1위(4관왕), 2위 이찬원에 120,313점 앞서…3위 방탄소년단 지민·4위 송가인·5위 레드벨벳 웬디]]></title>
             <link>https://news.nate.com/view/20220212n06580?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 12 Feb 2022 01:56:50 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>02-12 09:31</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/02/12/202202120928116310_51.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 2월 보이그룹 브랜드평판 1위. 키워드는 '유튜브·인스타·아미']]></title>
-            <link>https://news.nate.com/view/20220212n03545?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220212n03545?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 12 Feb 2022 00:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>02-12 09:11</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/02/12/2022021301000776300051901.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

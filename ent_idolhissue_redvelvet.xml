@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 05:05:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 06:05:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스타서베이] 한국에서 가장 많이 사랑받는 K-POP 스타는? 이승윤 현재 1위, 이솔로몬·방탄소년단 지민·양준일·박장현 추격 중…에스파 카리나 현재 1위, 트와이스 쯔위·레드벨벳 웬디·하이키 시탈라·시크릿넘버 디타 추격 중]]></title>
+            <link>https://news.nate.com/view/20220212n08298?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220212n08298?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Sat, 12 Feb 2022 06:04:12 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-12 14:18</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/12/14670365_759957_1611_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[생일 서포트] 3월생 스타생일 축하투표 - 선한 영향력 '기부' 서포트 투표 홍지윤 현재 1위…레드벨벳 아이린·박군·황윤성·남승민 추격 중]]></title>
+            <link>https://news.nate.com/view/20220212n07880?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220212n07880?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Sat, 12 Feb 2022 06:04:12 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-12 13:57</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/12/14670363_759952_5557_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[빅데이터가수브랜드종합순위] 영탁 30회째 1위(4관왕), 2위 이찬원에 120,313점 앞서…3위 방탄소년단 지민·4위 송가인·5위 레드벨벳 웬디]]></title>
             <link>https://news.nate.com/view/20220212n06580?mid=e0608&amp;isq=9012</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 10 Feb 2022 01:51:31 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-10 09:23</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/10/14669900_759183_2110_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[UHD포토] 레드벨벳(Red Velvet) 웬디, '오직 러비만을 위한 무대' (웬디의 영스트리트 출근길)]]></title>
-            <link>https://news.nate.com/view/20220209n44796?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220209n44796?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 09 Feb 2022 15:04:56 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-09 23:55</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/09/14669860_759126_4540_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '러비가 웬디를 사랑하는 이유' (웬디의 영스트리트 출근길)]]></title>
-            <link>https://news.nate.com/view/20220209n44914?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220209n44914?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 09 Feb 2022 15:04:56 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-09 23:54</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/09/14669871_759137_5321_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
