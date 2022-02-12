@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 01:56:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 02:32:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/09/14669869_759135_526_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단, 2월 보이그룹 브랜드평판 1위 차지 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220212n05445?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220212n05445?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 12 Feb 2022 02:32:20 GMT</pubDate>
+            <content:encoded><![CDATA[스타데일리뉴스							<em>02-12 11:20</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/02/12/315941_362731_1814.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[독자추천종합순위] 영탁 123회째 1위, 2위 이찬원에 6,450표 앞서…3위 방탄소년단 지민·4위 레드벨벳 웬디·5위 송가인 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220212n04663?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220212n04663?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sat, 12 Feb 2022 00:21:42 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>02-12 08:49</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/12/tn_1644623343685_834745_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 정국, '1991년 찬바람이 불던 날' 커버…박효신 좋아요 눌러 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220212n03180?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220212n03180?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 12 Feb 2022 00:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>02-12 08:41</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/12/1644622786070059.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
