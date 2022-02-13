@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 00:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 01:56:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드벨벳 웬디 "美 대통령 표창장 받아"…'동물농장' 일일 MC 출격]]></title>
+            <link>https://news.nate.com/view/20220213n02880?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220213n02880?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Sun, 13 Feb 2022 01:55:14 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>02-13 09:19</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/02/13/202202130851430810_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스타서베이] 한국에서 가장 많이 사랑받는 K-POP 스타는? 이승윤 현재 1위, 이솔로몬·방탄소년단 지민·양준일·박장현 추격 중…에스파 카리나 현재 1위, 트와이스 쯔위·레드벨벳 웬디·하이키 시탈라·시크릿넘버 디타 추격 중]]></title>
             <link>https://news.nate.com/view/20220212n08298?mid=e0608&amp;isq=9012</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 10 Feb 2022 04:04:12 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-10 12:25</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/10/14669936_759241_2242_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[독자추천종합순위] 영탁 121회째 1위, 2위 이찬원에 1,907표 앞서…3위 방탄소년단 지민·4위 장민호·5위 레드벨벳 웬디]]></title>
-            <link>https://news.nate.com/view/20220210n07276?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220210n07276?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Thu, 10 Feb 2022 01:51:31 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-10 09:23</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/10/14669900_759183_2110_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
