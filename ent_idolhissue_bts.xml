@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 08:04:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 09:05:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 지민 '셀카 킹' 투표 현재 1위…팬심 흔드는 비주얼]]></title>
+            <link>https://news.nate.com/view/20220213n14121?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220213n14121?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 13 Feb 2022 09:05:37 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-13 17:08</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/13/tn_1644739683624_978088_0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 정국·슈가 OST, 글로벌 음원 파워→93개국 아이튠즈 1위]]></title>
             <link>https://news.nate.com/view/20220213n10998?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 13 Feb 2022 00:23:19 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>02-13 08:33</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/13/tn_1644708783900_516992_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 뷔, 시선을 사로잡는 다채로운 매력]]></title>
-            <link>https://news.nate.com/view/20220213n02216?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220213n02216?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 13 Feb 2022 00:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>02-13 08:33</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/13/1644708742088372.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
