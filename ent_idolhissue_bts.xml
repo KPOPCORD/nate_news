@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 14:05:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 15:04:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 RM, 쇼트트랙 女 계주 은메달 축하 "멋"]]></title>
+            <link>https://news.nate.com/view/20220213n22276?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220213n22276?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 13 Feb 2022 15:04:43 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠투데이							<em>02-13 23:38</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/02/13/13_776806_75588.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["멋" 방탄소년단 RM, 쇼트트랙 여자 계주 銀 축하]]></title>
             <link>https://news.nate.com/view/20220213n21184?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 13 Feb 2022 00:23:19 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>02-13 09:00</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/13/1644708098352982.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국 'Stay Alive', 24시간 이내 '아이튠즈' 98개국 1위…역대 솔로곡 '최단'·'최다' 신기록]]></title>
-            <link>https://news.nate.com/view/20220213n02466?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220213n02466?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 13 Feb 2022 00:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>02-13 08:56</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/02/13/2022021401000816600054851.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
