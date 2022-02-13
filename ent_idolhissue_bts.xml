@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 06:05:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 07:04:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 정국·슈가 OST, 글로벌 음원 파워→93개국 아이튠즈 1위]]></title>
+            <link>https://news.nate.com/view/20220213n10998?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220213n10998?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 13 Feb 2022 07:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>02-13 15:04</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/02/13/131625351.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스타서베이] 가장 사랑받는 K-POP 스타는? 이승윤 현재 1위, 이솔로몬·방탄소년단 지민·양준일·박장현 추격 중…에스파 카리나 현재 1위, 트와이스 쯔위·블랙핑크 지수·레드벨벳 웬디·김세정 추격 중]]></title>
             <link>https://news.nate.com/view/20220213n08209?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 13 Feb 2022 00:23:19 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>02-13 08:33</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/13/1644708742088372.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["너무 잘생겨서 비현실" 방탄소년단 진 실제 미모에 놀란 美스태프 후기]]></title>
-            <link>https://news.nate.com/view/20220213n02058?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220213n02058?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 13 Feb 2022 00:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-13 08:15</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/13/2022021308034153513_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
