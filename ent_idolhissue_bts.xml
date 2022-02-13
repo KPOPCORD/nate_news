@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 13:09:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 14:05:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["멋" 방탄소년단 RM, 쇼트트랙 여자 계주 銀 축하]]></title>
+            <link>https://news.nate.com/view/20220213n21184?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220213n21184?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 13 Feb 2022 14:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>02-13 22:16</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/02/13/131625371.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 지민 '셀카 킹' 투표 현재 1위…팬심 흔드는 비주얼]]></title>
             <link>https://news.nate.com/view/20220213n14121?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 13 Feb 2022 00:23:19 GMT</pubDate>
             <content:encoded><![CDATA[스포츠조선							<em>02-13 08:56</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/02/13/2022021401000816600054851.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가시는 걸음마다 설렘 한가득♡…방탄소년단 지민, 美징글볼 무한홀릭 꽃미모]]></title>
-            <link>https://news.nate.com/view/20220213n02194?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220213n02194?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 13 Feb 2022 00:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-13 08:33</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/13/tn_1644708783900_516992_0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
