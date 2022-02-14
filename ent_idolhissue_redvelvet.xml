@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 23:04:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 00:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기사열독종합순위] 영탁 59회째 1위, 2위 이찬원에 41,883회 앞서…3위 레드벨벳 웬디·4위 방탄소년단 지민·5위 임영웅]]></title>
+            <link>https://news.nate.com/view/20220214n05817?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220214n05817?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Mon, 14 Feb 2022 00:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-14 09:05</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/14/14670665_760508_33_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[독자추천종합순위] 영탁 124회째 1위, 2위 이찬원에 9,318표 앞서…3위 방탄소년단 지민·4위 레드벨벳 웬디·5위 송가인]]></title>
+            <link>https://news.nate.com/view/20220214n04115?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220214n04115?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Mon, 14 Feb 2022 00:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-14 08:05</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/14/14670661_760500_33_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[생일 서포트] 3월생 스타생일 축하투표 홍지윤 현재 1위(39.6%)…레드벨벳 아이린·박군·황윤성·남승민 추격 중]]></title>
             <link>https://news.nate.com/view/20220213n08324?mid=e0608&amp;isq=9012</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 11 Feb 2022 01:54:40 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-11 08:34</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/11/14670110_759526_3213_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[독자추천종합순위] 영탁 122회째 1위, 2위 이찬원에 4,282표 앞서…3위 방탄소년단 지민·4위 레드벨벳 웬디·5위 송가인]]></title>
-            <link>https://news.nate.com/view/20220211n04731?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220211n04731?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Fri, 11 Feb 2022 01:54:40 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-11 08:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/11/14670106_759518_1127_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳 슬기, 태연 첫 인상에 "천사인가요?"]]></title>
-            <link>https://news.nate.com/view/20220210n32806?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220210n32806?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Thu, 10 Feb 2022 08:03:59 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-10 16:40</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/10/14670001_759389_3857_org.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
