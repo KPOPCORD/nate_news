@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 18:04:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 19:04:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["매우 건강함" 방탄소년단 지민, '맹장 수술+코로나19' 완치 (ft.제이홉)]]></title>
+            <link>https://news.nate.com/view/20220216n02100?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220216n02100?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 15 Feb 2022 19:04:50 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>02-16 03:34</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/02/16/202202160024776057_620bc7162d552.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[전문] 방탄소년단(BTS) 뷔, 코로나19 확진 판정]]></title>
             <link>https://news.nate.com/view/20220216n00053?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 15 Feb 2022 14:05:10 GMT</pubDate>
             <content:encoded><![CDATA[스포티비뉴스							<em>02-15 22:51</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2022/02/15/505636_707656_487.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 코로나19 확진 "2차 백신 접종…경미한 증상"[공식][전문]]]></title>
-            <link>https://news.nate.com/view/20220215n44159?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220215n44159?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 15 Feb 2022 14:05:10 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-15 22:48</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/15/2022021522422940757_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
