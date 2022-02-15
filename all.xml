@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 21:04:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 22:05:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 로제, Y사 명품 스타킹으로 뽐낸 각선미…김고은도 감탄 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
+            <link>https://news.nate.com/view/20220216n03326?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20220216n03326?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Tue, 15 Feb 2022 22:03:06 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>02-16 05:58</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/02/16/202202160549040810_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스타서베이] 가장 사랑받는 K-POP 스타는? 이승윤 현재 1위, 이솔로몬·방탄소년단 지민·양준일·박장현 추격 중…블랙핑크 지수 현재 1위, 에스파 카리나·트와이스 쯔위·레드벨벳 웬디·김세정 추격 중 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
             <link>https://news.nate.com/view/20220214n21747?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 09 Feb 2022 15:03:44 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-09 23:27</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/09/14669798_759088_2026_org.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["똑똑 배달 왔어요"…블랙핑크 제니, 임수향 도움 요청→언박싱 영상 공개 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
-            <link>https://news.nate.com/view/20220209n42057?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20220209n42057?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Wed, 09 Feb 2022 13:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-09 21:46</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/09/14669790_759041_4434_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '하루의 끝은 언제나 와니' (웬디의 영스트리트 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
@@ -248,6 +248,38 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/16/14671181_761283_1849_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 뷔, 멜론 주간 인기상 4주 연속 1위…男아이돌 솔로 최장 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220216n04321?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220216n04321?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 15 Feb 2022 22:05:24 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-16 06:52</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/16/2022021606492991537_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 세계 1등 미남 선정…'Most Handsome man in the world 2022' 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220216n04283?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220216n04283?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 15 Feb 2022 22:05:24 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-16 06:48</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/16/2022021606424168441_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔·이승기, 코로나19 확진…연예계 돌파감염 이어져 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220216n04186?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220216n04186?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 15 Feb 2022 22:05:24 GMT</pubDate>
+            <content:encoded><![CDATA[스타in							<em>02-16 06:38</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/02/16/PS22021600018.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 제이홉, 힐링 중에도 빛나는 비주얼…남친짤 장인 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220216n04072?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220216n04072?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 15 Feb 2022 22:05:24 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>02-16 06:30</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/16/1644930773996874.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["매우 건강함" 방탄소년단 지민, '맹장 수술+코로나19' 완치 (ft.제이홉) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220216n02100?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220216n02100?mid=e0608&amp;isq=9009</guid>
@@ -334,38 +366,6 @@
             <pubDate>Tue, 15 Feb 2022 15:04:37 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-15 23:30</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/15/14671133_761221_1113_org.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 코로나 확진 "미열·경미한 인후통 증상"(전문)[공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220215n44797?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220215n44797?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 15 Feb 2022 15:04:37 GMT</pubDate>
-            <content:encoded><![CDATA[MK스포츠							<em>02-15 23:24</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/02/15/20220215_1644934995.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 뷔도 코로나19 확진…멤버 중 5번째, "미열·경미한 인후통" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220215n44696?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220215n44696?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 15 Feb 2022 15:04:37 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠서울							<em>02-15 23:19</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/02/15/2022021501000673600048741.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 코로나 확진 "접촉한 멤버들은 음성" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220215n44292?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220215n44292?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 15 Feb 2022 15:04:37 GMT</pubDate>
-            <content:encoded><![CDATA[스타in							<em>02-15 22:59</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/02/15/PS22021500107.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 코로나19 확진…"멤버들 접촉했으나 음성"[전문] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220215n44200?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220215n44200?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 15 Feb 2022 14:05:10 GMT</pubDate>
-            <content:encoded><![CDATA[스포티비뉴스							<em>02-15 22:51</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2022/02/15/505636_707656_487.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
