@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 10:05:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 11:04:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["그들이 왔다" 에픽하이, 방탄소년단 RM 응원에 열기 '후끈']]></title>
+            <link>https://news.nate.com/view/20220215n40085?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220215n40085?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 15 Feb 2022 11:04:50 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>02-15 19:50</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/02/15/202202151944866764_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에픽하이 신보 웰메이드 호평…방탄소년단 RM 응원 '반응 UP']]></title>
+            <link>https://news.nate.com/view/20220215n38867?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220215n38867?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 15 Feb 2022 11:04:50 GMT</pubDate>
+            <content:encoded><![CDATA[MK스포츠							<em>02-15 18:59</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/02/15/20220215_1644918961.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["방탄소년단 RM도 반했다"…에픽하이, 정규10집도 호평 세례]]></title>
             <link>https://news.nate.com/view/20220215n38041?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 15 Feb 2022 06:07:29 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-15 13:01</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/15/14670929_760963_571_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 리트윗종합순위] 임영웅 25회째 1위, 2위 방탄소년단 지민에 2,036점 앞서…3위 NCT 텐·4위 방탄소년단 뷔·5위 영탁]]></title>
-            <link>https://news.nate.com/view/20220215n18440?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220215n18440?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 15 Feb 2022 04:05:43 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-15 12:33</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/15/14670926_760955_3011_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음콘협, BTS 軍 문제 제기 "국위선양 불구 홀대"]]></title>
-            <link>https://news.nate.com/view/20220215n16091?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220215n16091?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 15 Feb 2022 03:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>02-15 12:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/02/15/1625546.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
