@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 07:04:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 08:05:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,38 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/11/14670123_759577_1024_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["20대 소년입니다"…방탄소년단 뷔, 라디오에 직접 신청곡 보낸 '스윗남' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220215n32448?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220215n32448?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 15 Feb 2022 08:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[SBS연예뉴스							<em>02-15 16:51</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/02/15/30000732478_700.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, '다이너마이트' 여전한 인기…케이팝 레이더 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220215n32260?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220215n32260?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 15 Feb 2022 08:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>02-15 16:37</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/02/15/20220215516397.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['예술하는 아이돌' 방탄소년단 지민, 매력적 춤 연구해…日피겨 하뉴 올림픽 출전 외신 조명 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220215n29658?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220215n29658?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 15 Feb 2022 08:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-15 15:59</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/15/14671028_761088_5742_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["직캠제왕" 방탄소년단 뷔, 페이스북도 직캠 신기록 수립…직캠 최강자 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220215n29510?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220215n29510?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 15 Feb 2022 08:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-15 15:57</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/15/14671023_761084_5540_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[멜론 주간차트 TOP5는 김민석·임영웅·탑현·소코도모·아이브…최다곡 진입은 임영웅·방탄소년단·아이유·비오 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220215n27445?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220215n27445?mid=e0608&amp;isq=9009</guid>
@@ -334,38 +366,6 @@
             <pubDate>Tue, 15 Feb 2022 02:02:56 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-15 10:39</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/15/14670904_760925_384_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 'Dynamite' 뮤비 또다시 1위…"역시 방탄" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220215n11290?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220215n11290?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 15 Feb 2022 02:02:56 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠서울							<em>02-15 10:37</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/02/15/2022021501000622300044901.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['글로벌 인기' 방탄소년단, '팬앤스타' 가수 랭킹 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220215n10975?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220215n10975?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 15 Feb 2022 02:02:56 GMT</pubDate>
-            <content:encoded><![CDATA[더팩트							<em>02-15 10:33</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2022/02/15/202244621644888612.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스윗한 우리지민' 방탄소년단 지민, 향한 발렌타인데이 달콤 애정고백 물결 '♥JiminOurValentine' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220215n10582?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220215n10582?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 15 Feb 2022 02:02:56 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-15 10:28</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/15/14670897_760904_2526_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, 'Stay Alive' 3일 만에 아이튠즈 103개국 1위 '역대 솔로곡 최단'→韓남자 솔로 '최초' 애플 뮤직 1위…'신기록 행진' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220215n10225?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220215n10225?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 15 Feb 2022 02:02:56 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-15 10:22</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/15/14670896_760898_2051_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
