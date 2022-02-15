@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 00:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 02:02:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기사열독종합순위] 영탁 60회째 1위, 2위 이찬원에 45,820회 앞서…3위 레드벨벳 웬디·4위 방탄소년단 지민·5위 임영웅]]></title>
+            <link>https://news.nate.com/view/20220215n06447?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220215n06447?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Tue, 15 Feb 2022 02:01:47 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-15 09:16</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/15/14670879_760873_1411_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[독자추천종합순위] 영탁 125회째 1위, 2위 이찬원에 13,309표 앞서…3위 방탄소년단 지민·4위 레드벨벳 웬디·5위 장민호]]></title>
             <link>https://news.nate.com/view/20220215n05559?mid=e0608&amp;isq=9012</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 11 Feb 2022 01:54:40 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-11 10:12</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/11/14670123_759577_1024_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[생일 서포트] 3월생 스타생일 축하투표 - 선한 영향력 '기부' 서포트 투표 홍지윤 현재 1위…레드벨벳 아이린·박군·황윤성·남승민 추격 중]]></title>
-            <link>https://news.nate.com/view/20220211n08528?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220211n08528?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Fri, 11 Feb 2022 01:54:40 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-11 09:49</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/11/14670126_759554_4746_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
