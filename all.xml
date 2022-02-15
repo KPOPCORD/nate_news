@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 23:05:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 00:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/09/14669790_759041_4434_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[독자추천종합순위] 영탁 125회째 1위, 2위 이찬원에 13,309표 앞서…3위 방탄소년단 지민·4위 레드벨벳 웬디·5위 장민호 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20220215n05559?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220215n05559?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Tue, 15 Feb 2022 00:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-15 08:55</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/15/14670877_760867_5234_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[스타서베이] 가장 사랑받는 K-POP 스타는? 이승윤 현재 1위, 이솔로몬·방탄소년단 지민·양준일·박장현 추격 중…블랙핑크 지수 현재 1위, 에스파 카리나·트와이스 쯔위·레드벨벳 웬디·김세정 추격 중 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
             <link>https://news.nate.com/view/20220214n21747?mid=e0608&amp;isq=9012</link>
             <guid>https://news.nate.com/view/20220214n21747?mid=e0608&amp;isq=9012</guid>
@@ -240,12 +248,60 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/11/14670126_759554_4746_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레드벨벳 웬디, 조이 대신 '동물농장' 일일 MC…반려동물 소개도 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20220211n08057?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220211n08057?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Fri, 11 Feb 2022 01:54:40 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>02-11 09:39</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/02/11/202202110932306710_2.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[BTS 뷔, 톰브라운 수트가 잘 어울리는 스타 투표 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220215n05730?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220215n05730?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 15 Feb 2022 00:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>02-15 09:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/15/1644879782122061.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[독자추천종합순위] 영탁 125회째 1위, 2위 이찬원에 13,309표 앞서…3위 방탄소년단 지민·4위 레드벨벳 웬디·5위 장민호 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220215n05559?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220215n05559?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 15 Feb 2022 00:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-15 08:55</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/15/14670877_760867_5234_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["방탄소년단 지민 춤 보며 연구" 日피겨 스타 하뉴 팬심 재조명…'장르파괴 영향력' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220215n05320?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220215n05320?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 15 Feb 2022 00:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-15 08:48</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/15/tn_1644882484236_758788_0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 'Dynamite'로 케이팝 레이더 차트 1위 탈환…'전무후무 기록' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220215n05274?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220215n05274?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 15 Feb 2022 00:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-15 08:45</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/15/2022021508380852137_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 지민 향한 달달한 밸런타인데이 사랑 고백 물결…JiminOurValentine♥ (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220215n04726?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220215n04726?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 15 Feb 2022 00:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-15 08:26</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/15/tn_1644881163769_262915_0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[댓글종합순위] 영탁 162회째 1위, 2위 이찬원에 97개 앞서…3위 방탄소년단 지민·4위 박서진·5위 김희재 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220215n04498?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220215n04498?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 15 Feb 2022 00:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-15 08:16</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/15/14670872_760858_1452_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 정국, 천상계 비주얼로 팬심 저격 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220215n04169?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220215n04169?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 15 Feb 2022 00:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>02-15 08:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/15/1644879611385841.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단 뷔, 페이스북 직캠 新기록…'원톱 직캠제왕' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -310,62 +366,6 @@
             <pubDate>Mon, 14 Feb 2022 23:05:44 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>02-15 07:10</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/15/2022021507052235358_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국 'Stay Alive' 3일만 아이튠즈 103개국 1위 '역대 솔로곡 최단'→韓남자솔로 최초 애플 뮤직 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220215n03079?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220215n03079?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 14 Feb 2022 23:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-15 07:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/15/tn_1644876064510_353612_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 제이홉, 훈훈한 남친짤로 팬심 저격 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220215n03141?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220215n03141?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 14 Feb 2022 23:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>02-15 07:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/15/1644831135609812.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국 'Stay Alive' 3일만 스포티파이 1360만…韓솔로곡+OST 최단→3일 연속 韓차트 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220215n03028?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220215n03028?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 14 Feb 2022 22:04:54 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-15 06:51</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/15/2022021506473140710_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 스포티파이 월간청취자 韓남자솔로 1위…600만 눈앞 '최강 솔로 파워' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220215n02959?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220215n02959?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 14 Feb 2022 22:04:54 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-15 06:44</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/15/2022021506404450621_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 진, 왕자님 비주얼로 팬심 저격 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220215n02448?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220215n02448?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 14 Feb 2022 22:04:54 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>02-15 06:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/15/1644830814508124.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빌보드 핫100 정조준! 방탄소년단 정국X슈가 'Stay Alive' 최단 1000만 스트리밍 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220215n00196?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220215n00196?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 14 Feb 2022 16:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-15 00:07</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/15/2022021420455082861_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 진 'Yours' 4200만-'슈퍼참치' 5300만 '쌍끌이 흥행ing' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220215n00117?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220215n00117?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 14 Feb 2022 16:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-15 00:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/15/2022021420453985706_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
