@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 06:07:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 07:04:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멜론 주간차트 TOP5는 김민석·임영웅·탑현·소코도모·아이브…최다곡 진입은 임영웅·방탄소년단·아이유·비오]]></title>
+            <link>https://news.nate.com/view/20220215n27445?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220215n27445?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 15 Feb 2022 07:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-15 15:25</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/15/14670986_761043_2348_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 군면제되나…음콘협, 대선후보 측에 K팝 정책 제언]]></title>
             <link>https://news.nate.com/view/20220215n20296?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 15 Feb 2022 02:02:56 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-15 10:22</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/15/14670896_760898_2051_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 'Christmas Tree' 韓스포티파이 주간차트 2주 연속 1위]]></title>
-            <link>https://news.nate.com/view/20220215n10102?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220215n10102?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 15 Feb 2022 02:02:56 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-15 10:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/15/14670895_760896_1912_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
