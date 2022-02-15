@@ -4,16 +4,32 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 03:05:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 04:05:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[음콘협, 방탄소년단 軍 문제 제기 "국위선양 불구 홀대"]]></title>
+            <title><![CDATA[[트위터 리트윗종합순위] 임영웅 25회째 1위, 2위 방탄소년단 지민에 2,036점 앞서…3위 NCT 텐·4위 방탄소년단 뷔·5위 영탁]]></title>
+            <link>https://news.nate.com/view/20220215n18440?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220215n18440?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 15 Feb 2022 04:05:43 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-15 12:33</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/15/14670926_760955_3011_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[음콘협, BTS 軍 문제 제기 "국위선양 불구 홀대"]]></title>
             <link>https://news.nate.com/view/20220215n16091?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220215n16091?mid=e0608&amp;isq=9009</guid>
             <pubDate>Tue, 15 Feb 2022 03:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>02-15 11:40</em>]]></content:encoded>
+            <content:encoded><![CDATA[티브이데일리							<em>02-15 12:00</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/02/15/1625546.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[음콘협 "방탄소년단 국위선양 불구…비교적 지나치게 홀대"]]></title>
+            <link>https://news.nate.com/view/20220215n16933?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220215n16933?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 15 Feb 2022 04:05:43 GMT</pubDate>
+            <content:encoded><![CDATA[MK스포츠							<em>02-15 11:56</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/02/15/20220215_1644893698.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단, 케이팝 레이더 뮤비→팬덤 차트 1위 싹쓸이]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 15 Feb 2022 02:02:56 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-15 09:16</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/15/14670879_760873_1411_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 뷔, 톰브라운 수트가 잘 어울리는 스타 투표 1위]]></title>
-            <link>https://news.nate.com/view/20220215n05730?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220215n05730?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 15 Feb 2022 00:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>02-15 09:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/15/1644879782122061.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[독자추천종합순위] 영탁 125회째 1위, 2위 이찬원에 13,309표 앞서…3위 방탄소년단 지민·4위 레드벨벳 웬디·5위 장민호]]></title>
-            <link>https://news.nate.com/view/20220215n05559?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220215n05559?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 15 Feb 2022 00:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-15 08:55</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/15/14670877_760867_5234_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
