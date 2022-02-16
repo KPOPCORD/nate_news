@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 16:05:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 17:08:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 곽윤기, RM에 보답하는 BTS춤 세리머니]]></title>
+            <link>https://news.nate.com/view/20220217n01237?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220217n01237?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 16 Feb 2022 17:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠조선							<em>02-17 01:26</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/02/17/2022021701001154300075871.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[포토] 곽윤기, RM에 보답하는 BTS춤 세리머니]]></title>
+            <link>https://news.nate.com/view/20220217n01230?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220217n01230?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 16 Feb 2022 17:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠조선							<em>02-17 01:25</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/02/17/2022021701001154100075851.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시상대 BTS 춤 춘 곽윤기, BTS RM도 인정 "윤기님 잘 봤습니다"]]></title>
             <link>https://news.nate.com/view/20220217n00935?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 16 Feb 2022 12:11:11 GMT</pubDate>
             <content:encoded><![CDATA[디스패치							<em>02-16 20:34</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/02/16/5a5d17d1-d9e8-4c0c-928c-a7b654881057.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 지민xRM '60억' 고급주택 현찰로…에이핑크 숙소생활 비화는? ('TMI쇼') [Oh!쎈 리뷰]]]></title>
-            <link>https://news.nate.com/view/20220216n38582?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220216n38582?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 16 Feb 2022 12:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>02-16 20:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/02/16/202202162020779111_620ce0e86b74f.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[Hⓓ포토] "여심을 녹인다"ㅣ'방탄소년단' 제이홉]]></title>
-            <link>https://news.nate.com/view/20220216n38580?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220216n38580?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 16 Feb 2022 12:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[디스패치							<em>02-16 20:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/02/16/5dafd9c3-cf32-4196-993d-f73b8e7032a0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
