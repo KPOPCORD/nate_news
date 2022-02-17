@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 15:05:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 16:05:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 제이홉, 생일 맞아 '글로벌 아미'의 선물]]></title>
+            <link>https://news.nate.com/view/20220218n00089?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220218n00089?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 17 Feb 2022 16:05:04 GMT</pubDate>
+            <content:encoded><![CDATA[더팩트							<em>02-18 00:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2022/02/18/202286581645059572.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 제이홉 오늘(18일) 생일…아이돌픽 이벤트 주인공 [DA:차트]]]></title>
+            <link>https://news.nate.com/view/20220218n00052?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220218n00052?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 17 Feb 2022 16:05:04 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠동아							<em>02-18 00:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/02/18/107047465.4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[빅데이터가수브랜드 TOP100] 영탁 33회째 1위(4관왕), 이찬원·방탄소년단 지민·장민호·송가인 TOP5]]></title>
             <link>https://news.nate.com/view/20220217n23306?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 17 Feb 2022 06:06:04 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>02-17 14:50</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/17/1645076257671533.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 리트윗 TOP100] NCT 텐 1회째 1위, 방탄소년단 지민·임영웅·방탄소년단 뷔·영탁 TOP5]]></title>
-            <link>https://news.nate.com/view/20220217n21734?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220217n21734?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 17 Feb 2022 06:06:04 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-17 14:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/17/14671528_761810_141_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 슈가, 금메달 최민정에 "수고하셨습니다" 축하]]></title>
-            <link>https://news.nate.com/view/20220217n20318?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220217n20318?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 17 Feb 2022 05:04:35 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>02-17 13:40</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/02/17/20220217_5093738_1645070713.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
