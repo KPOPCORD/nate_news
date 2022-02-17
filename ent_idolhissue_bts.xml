@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 16:05:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 17:10:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["알러뷰" '오늘 생일' 방탄소년단(BTS) 제이홉, 멤버들 축하 이어져]]></title>
+            <link>https://news.nate.com/view/20220218n00981?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220218n00981?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 17 Feb 2022 17:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-18 01:16</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/18/14671649_762022_1416_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 제이홉, 생일 맞아 '글로벌 아미'의 선물]]></title>
             <link>https://news.nate.com/view/20220218n00089?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 17 Feb 2022 07:05:31 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>02-17 15:20</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/17/tn_1645078804466_356337_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 응원·골드버튼…금메달 없이 화려한 곽윤기의 피날레 [포디움 스토리]]]></title>
-            <link>https://news.nate.com/view/20220217n24506?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220217n24506?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 17 Feb 2022 06:06:04 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>02-17 14:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/17/1645076257671533.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
