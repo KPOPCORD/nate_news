@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 09:07:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 10:04:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[저스트비, 방탄소년단→엑소 커버 댄스 메들리…섹시·파워·청량 다 된다]]></title>
+            <link>https://news.nate.com/view/20220217n36522?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220217n36522?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 17 Feb 2022 10:04:58 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>02-17 18:23</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/02/17/202202171820778677_620e13ca1c78b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[저스트비, BTS·엑소 등 히트곡 커버 댄스 메들리 공개 '만능 콘셉트 소화력']]></title>
+            <link>https://news.nate.com/view/20220217n35817?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220217n35817?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 17 Feb 2022 10:04:58 GMT</pubDate>
+            <content:encoded><![CDATA[비즈엔터							<em>02-17 18:07</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2022/02/17/20220217180432_1719625_1147_2570.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가온차트 7주차 디지털차트 1위는 김민석의 '취중고백'…최다곡 차트진입은 아이유·임영웅·방탄소년단·비오]]></title>
             <link>https://news.nate.com/view/20220217n34990?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 17 Feb 2022 05:04:35 GMT</pubDate>
             <content:encoded><![CDATA[스타투데이							<em>02-17 13:40</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/02/17/20220217_5093738_1645070713.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[줌인 베이징] BTS세리머니 대박난 곽윤기, 12년 전 시건방춤은 어땠나?]]></title>
-            <link>https://news.nate.com/view/20220217n18790?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220217n18790?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 17 Feb 2022 05:04:35 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>02-17 13:02</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/02/17/2022021701001188500078291.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기사열독데일리TOP100] 영탁 62회째 1위, 이찬원·태연·방탄소년단 지민·NCT 텐 TOP5]]></title>
-            <link>https://news.nate.com/view/20220217n18029?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220217n18029?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 17 Feb 2022 04:05:25 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-17 12:33</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/17/14671521_761790_3050_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
