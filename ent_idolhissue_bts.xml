@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 08:04:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 09:07:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가온차트 7주차 디지털차트 1위는 김민석의 '취중고백'…최다곡 차트진입은 아이유·임영웅·방탄소년단·비오]]></title>
+            <link>https://news.nate.com/view/20220217n34990?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220217n34990?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 17 Feb 2022 09:07:14 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-17 17:50</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/17/14671579_761905_497_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[빅데이터가수브랜드 TOP100] 영탁 33회째 1위(4관왕), 이찬원·방탄소년단 지민·장민호·송가인 TOP5]]></title>
+            <link>https://news.nate.com/view/20220217n23306?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220217n23306?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 17 Feb 2022 06:06:04 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-17 17:41</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/17/14671534_761819_2535_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["BTS 고생 많더라"…백종원, 정국 때문에 웃었던 이유 ('요리비책') [종합]]]></title>
             <link>https://news.nate.com/view/20220217n31123?mid=e0608&amp;isq=9009</link>
@@ -80,14 +96,6 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/17/1645076257671533.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[빅데이터가수브랜드 TOP100] 영탁 33회째 1위(4관왕), 이찬원·방탄소년단 지민·장민호·송가인 TOP5]]></title>
-            <link>https://news.nate.com/view/20220217n23306?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220217n23306?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 17 Feb 2022 06:06:04 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-17 14:30</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/17/14671534_761819_2535_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[트위터 리트윗 TOP100] NCT 텐 1회째 1위, 방탄소년단 지민·임영웅·방탄소년단 뷔·영탁 TOP5]]></title>
             <link>https://news.nate.com/view/20220217n21734?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220217n21734?mid=e0608&amp;isq=9009</guid>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 17 Feb 2022 04:05:25 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-17 12:33</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/17/14671521_761790_3050_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['올림픽에 지민이?' 방탄소년단 지민, 스포츠 스타들의 원픽으로 등장 '코리아 프론트맨 명성']]></title>
-            <link>https://news.nate.com/view/20220217n18000?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220217n18000?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 17 Feb 2022 04:05:25 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-17 12:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/17/14671522_761792_3110_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
