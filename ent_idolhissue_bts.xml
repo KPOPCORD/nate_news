@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 20:05:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 21:04:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김우빈→이광수 "누구세요?" 인지도 굴욕 "BTS 대신 나온 BBS"(어쩌다 사장2)]]></title>
+            <link>https://news.nate.com/view/20220217n44622?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220217n44622?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 17 Feb 2022 21:04:48 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>02-18 05:47</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/02/17/202202172040512510_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 지민, 파워풀 보컬 소유자 1위 유지…넘치는 에너지]]></title>
             <link>https://news.nate.com/view/20220218n02265?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 17 Feb 2022 07:05:31 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>02-17 15:50</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/17/2022021715184765663_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 제이홉, 진이 선물한 황금 변기솔에 "형 얼굴처럼 빛나"]]></title>
-            <link>https://news.nate.com/view/20220217n28153?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220217n28153?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 17 Feb 2022 07:05:31 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>02-17 15:45</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/17/1645079015032251.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
