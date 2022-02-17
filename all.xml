@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 13:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 14:05:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/16/14671351_761532_4828_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[빅데이터가수브랜드 TOP100] 영탁 33회째 1위(4관왕), 이찬원·방탄소년단 지민·장민호·송가인 TOP5 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220217n23306?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220217n23306?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 17 Feb 2022 06:06:04 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-17 22:27</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/17/14671534_761819_2535_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 지민, 16주 연속 스타랭킹 男아이돌 1위 '독보적'[공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220217n25494?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220217n25494?mid=e0608&amp;isq=9009</guid>
@@ -278,14 +286,6 @@
             <pubDate>Thu, 17 Feb 2022 09:07:14 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-17 17:50</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/17/14671579_761905_497_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[빅데이터가수브랜드 TOP100] 영탁 33회째 1위(4관왕), 이찬원·방탄소년단 지민·장민호·송가인 TOP5 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220217n23306?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220217n23306?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 17 Feb 2022 06:06:04 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-17 17:41</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/17/14671534_761819_2535_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["BTS 고생 많더라"…백종원, 정국 때문에 웃었던 이유 ('요리비책') [종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
