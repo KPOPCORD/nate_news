@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 04:07:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 05:04:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/02/11/47c088fc-2290-4d59-8459-442d5ce29d90.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA["봄의 요정들이 온다!"…레드벨벳, 3월 컴백 확정 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20220218n17428?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220218n17428?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Fri, 18 Feb 2022 05:03:41 GMT</pubDate>
+            <content:encoded><![CDATA[디스패치							<em>02-18 13:30</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/02/18/17ea411e-923a-46aa-a594-0b500b960a44.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SM 측 "레드벨벳 3월 발매 목표로 새 앨범 준비 중"(공식) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
             <link>https://news.nate.com/view/20220218n13821?mid=e0608&amp;isq=9012</link>
             <guid>https://news.nate.com/view/20220218n13821?mid=e0608&amp;isq=9012</guid>
@@ -240,12 +248,20 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/16/14671354_761536_5011_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '예쁜 다리 강조한 모델 포즈' (SBS TV 동물농장 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20220216n25374?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220216n25374?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 16 Feb 2022 06:04:14 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-16 14:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/16/14671353_761535_4926_org.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[방탄소년단(BTS) 제이홉, 생일맞이 코로나19 '부스터샷' 접종 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220218n18180?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220218n18180?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 18 Feb 2022 05:04:55 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-18 13:55</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/18/14671749_762204_5341_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 제이홉, 부스터샷 접종 마쳤다…"생일 백신" 인증 [스타★샷] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220218n17914?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220218n17914?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 18 Feb 2022 05:04:55 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>02-18 13:46</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/02/18/20220218508648.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["아미 못본 恨 풀 것" 제이홉 밝힌 #韓콘서트 #BTS앨범 #믹테[V라이브 종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -350,22 +366,6 @@
             <pubDate>Fri, 18 Feb 2022 01:59:15 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-18 10:20</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/18/14671701_762095_1628_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 아닌 BBS 된 김우빈-이광수-임주환…'어쩌다 사장2'도 성공적 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220218n09844?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220218n09844?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 18 Feb 2022 01:59:15 GMT</pubDate>
-            <content:encoded><![CDATA[스포티비뉴스							<em>02-18 10:11</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2022/02/18/506135_708416_726.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 지민, 팔색조 매력으로 팬심 저격 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220218n06455?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220218n06455?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 18 Feb 2022 00:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>02-18 09:55</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/18/1645141735393039.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
