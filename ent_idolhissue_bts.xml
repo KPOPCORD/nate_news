@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 09:04:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 10:05:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[광주시, BTS 제이홉 인증샷 K-POP 스타거리 관광명소 추진]]></title>
+            <link>https://news.nate.com/view/20220218n29377?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220218n29377?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 18 Feb 2022 10:05:16 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-18 18:12</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/18/2022021818004351120_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 제이홉, 화려한 파티 대신 '생일 백신']]></title>
+            <link>https://news.nate.com/view/20220218n27666?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220218n27666?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 18 Feb 2022 10:05:16 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>02-18 17:25</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/18/1645172622347983.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 제이홉, 생일인데 백신 '아야'…진이 준 럭셔리 선물]]></title>
             <link>https://news.nate.com/view/20220218n25082?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 18 Feb 2022 03:05:28 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-18 11:30</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/18/14671722_762145_2754_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['출구 없는 매력남' 방탄소년단 정국에 美할리우드 배우 "야 전정구기 나 꼬시지마"…돌직구 애정 공세]]></title>
-            <link>https://news.nate.com/view/20220218n13604?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220218n13604?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 18 Feb 2022 03:05:28 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-18 11:26</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/18/14671719_762129_2325_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 코로나19 확진 근황 "저 말짱해요"]]></title>
-            <link>https://news.nate.com/view/20220218n12849?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220218n12849?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 18 Feb 2022 02:27:25 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>02-18 11:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/02/18/181625999.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
