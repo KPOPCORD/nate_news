@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 11:04:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 12:08:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['놀토' 신동엽, BTS 진 '슈퍼참치' 받쓰 탈출 1등→넉살 꼴찌]]></title>
+            <link>https://news.nate.com/view/20220219n14258?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220219n14258?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 19 Feb 2022 12:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[TV리포트							<em>02-19 20:35</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/02/19/3d4835f5-d548-45ab-8b0d-2ccba5445b5c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['놀토' 신동엽, 방탄소년단 진 '슈퍼참치' 정답에 환호 [TV캡처]]]></title>
+            <link>https://news.nate.com/view/20220219n13960?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220219n13960?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 19 Feb 2022 12:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠투데이							<em>02-19 20:09</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/02/19/19777915.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['놀토' 방탄소년단 진 '슈퍼참치', 신동엽 1등 탈출 '정답은?']]></title>
             <link>https://news.nate.com/view/20220219n13792?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 19 Feb 2022 03:05:12 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-19 11:47</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/19/14671933_762476_4610_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 리트윗 TOP100] NCT 텐 2회째 1위, 방탄소년단 지민·임영웅·방탄소년단 뷔·영탁 TOP5]]></title>
-            <link>https://news.nate.com/view/20220219n06005?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220219n06005?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 19 Feb 2022 03:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-19 11:31</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/19/14671930_762468_2919_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기사열독데일리TOP100] 영탁 64회째 1위, 이찬원·태연·방탄소년단 지민·NCT 텐 TOP5]]></title>
-            <link>https://news.nate.com/view/20220219n05591?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220219n05591?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 19 Feb 2022 02:26:05 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-19 11:09</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/19/14671928_762462_713_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
