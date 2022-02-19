@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 07:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 08:05:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비욘세 생일 축전에 BTS 제이홉도 '깜짝'…"생일 축하해 제이홉"]]></title>
+            <link>https://news.nate.com/view/20220219n10329?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220219n10329?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 19 Feb 2022 08:05:38 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>02-19 16:38</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/02/19/20220219503180.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 제이홉 어린시절, 비욘세 SNS에 올라온 이유 "생일 축하해"]]></title>
+            <link>https://news.nate.com/view/20220219n09894?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220219n09894?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 19 Feb 2022 08:05:38 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>02-19 16:17</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/19/1645254996677243.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비욘세가 방탄소년단 제이홉 아기 사진을? 슈스가 슈스에게 생일 축하]]></title>
             <link>https://news.nate.com/view/20220219n09428?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 19 Feb 2022 01:54:27 GMT</pubDate>
             <content:encoded><![CDATA[스포츠조선							<em>02-19 10:18</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/02/19/2022022001001298400085641.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단·콜드플레이 '마이 유니버스', 英 싱글차트 19주째 진입]]></title>
-            <link>https://news.nate.com/view/20220219n04790?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220219n04790?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 19 Feb 2022 01:54:27 GMT</pubDate>
-            <content:encoded><![CDATA[스타in							<em>02-19 10:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/02/19/PS22021900024.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민, 보이그룹 개인 브랜드평판 1위…강다니엘·준호 순]]></title>
-            <link>https://news.nate.com/view/20220219n04614?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220219n04614?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 19 Feb 2022 01:54:27 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠한국							<em>02-19 10:03</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2022/02/19/dyhero21320220219100031_O_01_C_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
