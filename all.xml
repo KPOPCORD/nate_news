@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 15:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 16:05:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/16/14671356_761538_5218_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["회복 끝"…방탄소년단 지민, 맹장염 수술-코로나 완치 후 근황 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220221n00036?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220221n00036?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 20 Feb 2022 16:05:39 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-21 00:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/21/14672120_762858_4144_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['신과 한판' 최지만 "미국에서의 인기, 방탄소년단 급" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220220n17962?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220220n17962?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sun, 20 Feb 2022 07:04:58 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>02-20 15:11</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/20/tn_1645337464017_982313_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 샤잠 재팬 1위 53일째 대기록…독보적인 음원 파워 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220220n06655?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220220n06655?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 20 Feb 2022 04:04:39 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-20 12:37</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/20/14672059_762736_3621_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
