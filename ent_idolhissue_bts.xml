@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 11:05:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 12:07:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 RM·슈가·지민, 코로나 19 완치 근황]]></title>
+            <link>https://news.nate.com/view/20220220n15762?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220220n15762?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 20 Feb 2022 12:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>02-20 20:33</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/02/20/e4c66a6f-5553-4938-b28d-5c57ccebc458.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 지민, 충수염 이후 근황 "이제 회복 다 했습니다…운동 시작"]]></title>
+            <link>https://news.nate.com/view/20220220n15439?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220220n15439?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 20 Feb 2022 12:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-20 20:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/20/tn_1645354984225_227160_0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['코로나 액땜' 방탄소년단 RM·슈가·지민 "2년만 韓콘서트 설레"[V라이브 종합]]]></title>
             <link>https://news.nate.com/view/20220220n13671?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sun, 20 Feb 2022 01:59:19 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-20 10:28</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/20/14672030_762679_265_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["입장권만 2만원…" 일본서 운영되는 방탄소년단(BTS) 실제 신사]]></title>
-            <link>https://news.nate.com/view/20220220n04028?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220220n04028?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 20 Feb 2022 01:59:19 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-20 10:27</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/20/14672031_762681_2617_org.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 지민, 음악 에너지가 넘치는 파워풀 보컬 소유자]]></title>
-            <link>https://news.nate.com/view/20220220n02413?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220220n02413?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 20 Feb 2022 00:27:51 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>02-20 09:02</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/20/1645315261739985.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
