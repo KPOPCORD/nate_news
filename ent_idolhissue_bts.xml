@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 14:05:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 15:05:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['신과 한판' 최지만 "미국에서의 인기, 방탄소년단 급"]]></title>
+            <link>https://news.nate.com/view/20220220n17962?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220220n17962?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 20 Feb 2022 15:05:11 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>02-20 23:10</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/02/20/20220220512085.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['신과 한판' 최지만 "美 인지도는 방탄소년단 급, 실력은 그 정도 아냐"]]></title>
             <link>https://news.nate.com/view/20220220n17436?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 20 Feb 2022 04:04:39 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-20 12:37</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/20/14672059_762736_3621_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, 'Stay Alive' 한국 OST '최초'이자 '유일' 英오피셜 싱글 차트 데뷔 '신기록'…초강력 음원킹 파워]]></title>
-            <link>https://news.nate.com/view/20220220n06645?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220220n06645?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 20 Feb 2022 04:04:39 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-20 12:36</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/20/14672058_762734_3455_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
