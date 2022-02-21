@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 05:05:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 06:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/16/14671356_761538_5218_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS 3월 콘서트, 회당 1만5천명 승인…팬데믹 후 최다인원 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220221n19724?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220221n19724?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 21 Feb 2022 06:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>02-21 14:59</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/02/21/l_2022022102001181700219831.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 서울 콘서트 회당 1만5천명 규모 승인…코로나 이후 최다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220221n17619?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220221n17619?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Mon, 21 Feb 2022 03:05:12 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>02-21 11:35</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/02/21/202202211133436710_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['뜨거운피' 김갑수, BTS 찐팬 인증 "아미 중에서도 유료 아미" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220221n14055?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220221n14055?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 21 Feb 2022 03:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[조이뉴스24							<em>02-21 11:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/02/21/faaaa25499fc11.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
