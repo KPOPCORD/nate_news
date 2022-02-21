@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 10:05:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 11:05:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS·빅뱅 컴백→4세대 성장까지…엔터주 반등 시작되나 [엔터-Biz]]]></title>
+            <link>https://news.nate.com/view/20220221n31660?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220221n31660?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 21 Feb 2022 10:05:57 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>02-21 19:22</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/02/21/1626288.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 RM, 오늘도 미술로 힐링[스타IN★]]]></title>
+            <link>https://news.nate.com/view/20220221n32276?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220221n32276?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 21 Feb 2022 11:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-21 19:21</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/21/2022022118584694951_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[日 유료 'BTS 신사' 논란…아미들 "소름 끼쳐" 격분 [엑's 이슈]]]></title>
             <link>https://news.nate.com/view/20220221n31729?mid=e0608&amp;isq=9009</link>
@@ -14,14 +30,6 @@
             <pubDate>Mon, 21 Feb 2022 10:05:57 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>02-21 18:51</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/21/1645436667964568.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS·빅뱅 컴백→4세대 성장까지…엔터주 반등 시작되나 [엔터-Biz]]]></title>
-            <link>https://news.nate.com/view/20220221n31660?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220221n31660?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 21 Feb 2022 10:05:57 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>02-21 18:48</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/02/21/1626288.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["회당 1만 5000석 허용한다"…문체부, 방탄소년단 공연 가이드]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 21 Feb 2022 07:04:43 GMT</pubDate>
             <content:encoded><![CDATA[스타in							<em>02-21 15:15</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/02/21/PS22022100156.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['BTS 프로듀서 출신' 아도라, 4개월 만에 컴백 확정]]></title>
-            <link>https://news.nate.com/view/20220221n22007?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220221n22007?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 21 Feb 2022 07:04:43 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-21 15:02</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/21/2022022114514929710_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
