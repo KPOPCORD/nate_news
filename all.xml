@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 07:04:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 08:06:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,54 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/16/14671360_761541_545_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['BTS 프로듀서 출신' 아도라, 4개월 만에 컴백 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220221n27613?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220221n27613?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 21 Feb 2022 08:05:59 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>02-21 16:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/21/1645429976707964.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 서울 콘서트 회당 1만5천명 규모 승인…코로나 이후 최다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220221n17619?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220221n17619?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 21 Feb 2022 05:05:11 GMT</pubDate>
+            <content:encoded><![CDATA[스타투데이							<em>02-21 16:37</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/02/21/20220221_1734678.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 RM, 남의 편이면 힘들어도 내 편이면 든든할 것 같은 스타 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220221n26488?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220221n26488?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 21 Feb 2022 08:05:59 GMT</pubDate>
+            <content:encoded><![CDATA[스타투데이							<em>02-21 16:29</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/02/21/20220221_5096466_1645427572.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['BTS 프로듀서 출신' 아도라, 3월 컴백…입지 굳힌다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220221n26036?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220221n26036?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 21 Feb 2022 08:05:59 GMT</pubDate>
+            <content:encoded><![CDATA[조이뉴스24							<em>02-21 16:19</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/02/21/3ad98b1e865b7f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 캐릭터 타이니탄김 신구성 홈플러스서 단독 판매 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220221n25427?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220221n25427?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 21 Feb 2022 08:05:59 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>02-21 16:05</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/02/21/202202211551127910_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["22.9%, 회당 1만5,000명 허용"…방탄소년단, 서울 콘서트 규모 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220221n25266?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220221n25266?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 21 Feb 2022 08:05:59 GMT</pubDate>
+            <content:encoded><![CDATA[디스패치							<em>02-21 16:04</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/02/21/13f2126e-9c2c-4353-8761-bba9fa2da812.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[김갑수, 명불허전 BTS 찐팬…"나는 유료 아미" (뜨거운피)[종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220221n24668?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220221n24668?mid=e0608&amp;isq=9009</guid>
@@ -304,14 +352,6 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2022/02/21/sjmao20220221145723_O_00_C_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 서울 콘서트 회당 1만5천명 규모 승인…코로나 이후 최다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220221n17619?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220221n17619?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 21 Feb 2022 05:05:11 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>02-21 13:47</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/02/21/20220221_1734678.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA["BTS 진, 이연복 요리 연구소 자주 방문→와인 선물" (갓파더) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220221n17273?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220221n17273?mid=e0608&amp;isq=9009</guid>
@@ -326,46 +366,6 @@
             <pubDate>Mon, 21 Feb 2022 05:05:11 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-21 13:14</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/21/14672211_763038_1315_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, 라우브 '26' 추천에"Omg hi!!!" 우정의 화답+멜론 검색 1위…두번째 컬래버 기대UP! (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220221n16933?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220221n16933?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 21 Feb 2022 05:05:11 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-21 13:12</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/21/14672209_763034_1136_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['뜨거운 피' 김갑수, 방탄소년단 찐팬 인증 "나는 유료 아미" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220221n16919?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220221n16919?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 21 Feb 2022 05:05:11 GMT</pubDate>
-            <content:encoded><![CDATA[SBS연예뉴스							<em>02-21 13:11</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/02/21/30000744928_700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 잠실주경기장 콘서트 회당 1만5천 관객 승인, 코로나 시국 최대규모(종합) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220221n16569?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220221n16569?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 21 Feb 2022 05:05:11 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>02-21 12:56</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/02/21/202202211230210410_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 리트윗 TOP100] NCT 텐 3회째 1위, 방탄소년단 지민·방탄소년단 뷔·임영웅·영탁 TOP5 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220221n15094?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220221n15094?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 21 Feb 2022 04:06:14 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-21 11:57</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/21/14672196_762996_5518_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단(BTS) 지민, 노래할 때 카리스마가 더 빛나는 스타 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220221n15009?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220221n15009?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 21 Feb 2022 03:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>02-21 11:54</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/02/21/20220221_5096138_1645411004.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
