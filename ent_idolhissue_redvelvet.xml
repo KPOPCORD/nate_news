@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 09:04:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 10:05:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["2년 3개월 만에, 단콘"…레드벨벳, 3월 대면 공연 확정]]></title>
+            <link>https://news.nate.com/view/20220221n22433?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220221n22433?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Mon, 21 Feb 2022 07:03:48 GMT</pubDate>
+            <content:encoded><![CDATA[디스패치							<em>02-21 18:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/02/21/abb9dd70-4637-41e8-a195-f92f868a44b6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['국민가수' 톱10 서울 콘서트 4월 연기→레드벨벳은 3월 개최]]></title>
             <link>https://news.nate.com/view/20220221n30225?mid=e0608&amp;isq=9012</link>
@@ -22,14 +30,6 @@
             <pubDate>Mon, 21 Feb 2022 07:03:48 GMT</pubDate>
             <content:encoded><![CDATA[스타데일리뉴스							<em>02-21 15:12</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/02/21/316344_363232_1130.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["2년 3개월 만에, 단독 공연"…레드벨벳, 3월 대면 콘서트]]></title>
-            <link>https://news.nate.com/view/20220221n22433?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220221n22433?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Mon, 21 Feb 2022 07:03:48 GMT</pubDate>
-            <content:encoded><![CDATA[디스패치							<em>02-21 15:09</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/02/21/abb9dd70-4637-41e8-a195-f92f868a44b6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레드벨벳, 3월 콘서트 온&오프라인 동시 진행…2년3개월만(공식)]]></title>
