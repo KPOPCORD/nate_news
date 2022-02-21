@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 03:05:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 04:06:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트위터 리트윗 TOP100] NCT 텐 3회째 1위, 방탄소년단 지민·방탄소년단 뷔·임영웅·영탁 TOP5]]></title>
+            <link>https://news.nate.com/view/20220221n15094?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220221n15094?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 21 Feb 2022 04:06:14 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-21 11:57</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/21/14672196_762996_5518_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단(BTS) 지민, 노래할 때 카리스마가 더 빛나는 스타 1위]]></title>
             <link>https://news.nate.com/view/20220221n15009?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 21 Feb 2022 01:53:23 GMT</pubDate>
             <content:encoded><![CDATA[스포티비뉴스							<em>02-21 10:35</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2022/02/21/506553_709006_3044.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['복슬복슬 강양이' 방탄소년단 지민, 부럼깨기 라이브 등장에 전세계•美 트렌드 1~2위 휩쓴 화제]]></title>
-            <link>https://news.nate.com/view/20220221n09822?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220221n09822?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 21 Feb 2022 01:53:23 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-21 10:27</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/21/14672173_762946_2549_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
