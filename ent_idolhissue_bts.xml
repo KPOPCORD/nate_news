@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 08:05:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 09:04:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 '타이니탄 김' 오리지널 맛 3종 홈플러스 단독 선판매]]></title>
+            <link>https://news.nate.com/view/20220221n29791?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220221n29791?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 21 Feb 2022 09:04:57 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-21 17:44</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/21/2022022117381963148_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['BTS 프로듀서 출신' 아도라, 4개월 만에 컴백]]></title>
             <link>https://news.nate.com/view/20220221n27613?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 21 Feb 2022 05:05:11 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>02-21 13:24</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/21/1645412192831519.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔 'Christmas Tree', '롤링스톤' 선정 '로맨틱 K-OST 1위'…'OST 킹!']]></title>
-            <link>https://news.nate.com/view/20220221n16983?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220221n16983?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 21 Feb 2022 05:05:11 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-21 13:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/21/14672211_763038_1315_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
