@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 13:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 14:05:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["역사에 기록될 성과"…'BTS 선봉' 하이브 아티스트 1년 성적표]]></title>
+            <link>https://news.nate.com/view/20220222n40433?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220222n40433?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 22 Feb 2022 14:05:04 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>02-22 22:44</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/02/22/e4c66a6f-5553-4938-b28d-5c57ccebc458.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 RM, 벌크업 비법은 이것?…감탄 나오는 운동루틴]]></title>
             <link>https://news.nate.com/view/20220222n38357?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 22 Feb 2022 09:05:22 GMT</pubDate>
             <content:encoded><![CDATA[스타투데이							<em>02-22 17:15</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/02/22/20220222_5097621_1645517564.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["방탄소년단 대규모 콘서트, 방역 수칙 문제 없다"]]></title>
-            <link>https://news.nate.com/view/20220222n31378?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220222n31378?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 22 Feb 2022 09:05:22 GMT</pubDate>
-            <content:encoded><![CDATA[조이뉴스24							<em>02-22 17:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/02/22/e26235c21100af.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
