@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 02:24:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 03:05:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 코로나19 완치→오늘(22일) 격리 해제 [공식]]]></title>
+            <link>https://news.nate.com/view/20220222n13818?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220222n13818?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 22 Feb 2022 03:05:13 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>02-22 11:28</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/02/22/221626438.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["비욘세도 축하" 방탄소년단 제이홉, 생일 맞이 '최애돌' 기부요정]]></title>
+            <link>https://news.nate.com/view/20220222n13556?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220222n13556?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 22 Feb 2022 03:05:13 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠투데이							<em>02-22 11:25</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/02/22/1645496391_20210521131914-329.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 정국 '쨔쟌~' 춤 배우는 깜짝 근황→"정말 빠른 흡수력, 매우 열정적" 후문…댄스 영상 '기대UP']]></title>
             <link>https://news.nate.com/view/20220222n11778?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 22 Feb 2022 01:53:55 GMT</pubDate>
             <content:encoded><![CDATA[스포츠경향							<em>02-22 10:02</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/02/22/l_2022022202001225600229151.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 뷔, 'Christmas Tree' 스포티파이 글로벌차트 30일간 차트인…K팝 男 솔로 최장]]></title>
-            <link>https://news.nate.com/view/20220222n07972?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220222n07972?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 22 Feb 2022 01:53:55 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>02-22 09:47</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/02/22/l_2022022202001229500229783.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, '팬앤스타' 가수 랭킹 2주 연속 1위]]></title>
-            <link>https://news.nate.com/view/20220222n07169?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220222n07169?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 22 Feb 2022 01:53:55 GMT</pubDate>
-            <content:encoded><![CDATA[더팩트							<em>02-22 09:33</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2022/02/22/202263171645489795.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
