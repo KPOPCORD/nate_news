@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 21:04:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 22:04:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/22/14672691_763781_4936_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 뷔, 솔로곡 2곡 세계 8대 음악시장 아이튠즈 1위…亞솔로 최초 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220223n03376?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220223n03376?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 22 Feb 2022 22:04:56 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-23 06:52</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/23/2022022306473178931_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[은빛 보이스 눈부신 성과…방탄소년단 진 'Yours' MV 600만뷰 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220223n03319?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220223n03319?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 22 Feb 2022 22:04:56 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-23 06:45</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/23/2022022306371484161_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS 진, 코로나19 완치…여전히 잘 생긴 근황[스타IN★] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220222n35454?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220222n35454?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Tue, 22 Feb 2022 09:05:22 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>02-22 17:54</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/22/2022022216540444858_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 진, 태평양 어깨+조각 얼굴…박물관에서 탈출했나? (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220222n33371?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220222n33371?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 22 Feb 2022 09:05:22 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>02-22 17:44</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/02/22/202202221729749814_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS·세븐틴·투바투·엔하이픈…하이브, 빌보드·오리콘 휩쓸었다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220222n32075?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220222n32075?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 22 Feb 2022 09:05:22 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>02-22 17:15</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/02/22/20220222_5097621_1645517564.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
