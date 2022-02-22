@@ -4,9 +4,33 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 07:05:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 08:05:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황희 장관, BTS 대규모 콘서트에 "방역 수칙 맞는 인원"]]></title>
+            <link>https://news.nate.com/view/20220222n30489?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220222n30489?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 22 Feb 2022 08:05:47 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-22 16:42</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/22/14672571_763617_4050_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 진, 국내 콘서트 앞두고 'V 포즈']]></title>
+            <link>https://news.nate.com/view/20220222n30077?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220222n30077?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 22 Feb 2022 08:05:47 GMT</pubDate>
+            <content:encoded><![CDATA[스타투데이							<em>02-22 16:34</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/02/22/20220222_5097548_1645514247.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 정국, 이래서 코로나도 피했구나…월드클라쓰 황금막내]]></title>
+            <link>https://news.nate.com/view/20220222n29798?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220222n29798?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 22 Feb 2022 08:05:47 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>02-22 16:29</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/02/22/202202221616779469_62149099ba01a.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[황희 장관 "방탄소년단 1만5천명 공연, 방역 수칙에 맞는 인원"]]></title>
             <link>https://news.nate.com/view/20220222n25765?mid=e0608&amp;isq=9009</link>
@@ -102,30 +126,6 @@
             <pubDate>Tue, 22 Feb 2022 03:05:13 GMT</pubDate>
             <content:encoded><![CDATA[티브이데일리							<em>02-22 11:28</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/02/22/221626438.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["비욘세도 축하" 방탄소년단 제이홉, 생일 맞이 '최애돌' 기부요정]]></title>
-            <link>https://news.nate.com/view/20220222n13556?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220222n13556?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 22 Feb 2022 03:05:13 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠투데이							<em>02-22 11:25</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/02/22/1645496391_20210521131914-329.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국 '쨔쟌~' 춤 배우는 깜짝 근황→"정말 빠른 흡수력, 매우 열정적" 후문…댄스 영상 '기대UP']]></title>
-            <link>https://news.nate.com/view/20220222n11778?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220222n11778?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 22 Feb 2022 02:24:05 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-22 10:58</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/22/14672416_763365_5651_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 코로나19 완치…"오늘(22일) 격리 해제"[공식]]]></title>
-            <link>https://news.nate.com/view/20220222n11696?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220222n11696?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 22 Feb 2022 02:24:05 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>02-22 10:56</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/02/22/20220222_5097093_1645494900.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
