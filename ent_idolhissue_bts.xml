@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 09:04:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 10:05:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기지개 켜는 방탄소년단, 韓 콘서트→美 그래미 [가요공감]]]></title>
+            <link>https://news.nate.com/view/20220223n36041?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220223n36041?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 23 Feb 2022 10:05:39 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>02-23 18:32</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/02/23/231626784.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["다음 생엔 연탄으로"…방탄소년단 뷔, 반려견과 귀여움 대결[★SHOT!]]]></title>
             <link>https://news.nate.com/view/20220223n34753?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 23 Feb 2022 07:05:48 GMT</pubDate>
             <content:encoded><![CDATA[스포티비뉴스							<em>02-23 15:16</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2022/02/23/507005_709616_1238.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['빌보드뮤직어워드' 5월 개최 확정, 방탄소년단 또 신곡 최초 공개할까]]></title>
-            <link>https://news.nate.com/view/20220223n24859?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220223n24859?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 23 Feb 2022 07:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>02-23 15:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/02/23/202202230842070410_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
