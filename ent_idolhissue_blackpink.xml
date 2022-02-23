@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 10:05:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 11:04:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["제일 많이 한 게 산책"…블랙핑크(BLACKPINK) 제니, LA 브이로그 공개]]></title>
+            <link>https://news.nate.com/view/20220223n37049?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20220223n37049?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Wed, 23 Feb 2022 11:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-23 19:08</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/23/14672923_764135_629_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[빅데이터배우브랜드 TOP100] 이세영 6회째 1위, 김선호·박은빈·블랙핑크 지수·서예지 TOP5]]></title>
             <link>https://news.nate.com/view/20220223n21248?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 13 Feb 2022 03:02:46 GMT</pubDate>
             <content:encoded><![CDATA[스타데일리뉴스							<em>02-13 11:26</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/02/13/315960_362753_2533.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 'Ice Cream' 뮤직비디오 7억뷰 돌파]]></title>
-            <link>https://news.nate.com/view/20220213n05356?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20220213n05356?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Sun, 13 Feb 2022 02:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[스타데일리뉴스							<em>02-13 11:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/02/13/315953_362745_311.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
