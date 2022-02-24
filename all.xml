@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 00:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 02:03:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방송작가 구자형, BTS 이어 블랙핑크 평전 출간 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
+            <link>https://news.nate.com/view/20220224n12448?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20220224n12448?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Thu, 24 Feb 2022 02:00:38 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>02-24 10:33</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/02/24/202202241028432410_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 제니 친구 그라임스와 별거중 일론 머스크, 23살 연하 여배우와 열애설 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
             <link>https://news.nate.com/view/20220223n35743?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 14 Feb 2022 06:03:45 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-14 14:14</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/14/14670729_760669_1342_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스타서베이] 가장 사랑받는 K-POP 스타는? 이승윤 현재 1위, 이솔로몬·방탄소년단 지민·양준일·박장현 추격 중…에스파 카리나 현재 1위, 트와이스 쯔위·블랙핑크 지수·레드벨벳 웬디·김세정 추격 중 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
-            <link>https://news.nate.com/view/20220213n08209?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20220213n08209?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Sun, 13 Feb 2022 05:02:54 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-13 13:12</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/13/14670500_760292_1028_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '선물을 지켜야해~!' (웬디의 영스트리트 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
@@ -248,6 +248,70 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/22/14672691_763781_4936_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방송작가 구자형, BTS 이어 블랙핑크 평전 출간 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220224n12448?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220224n12448?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 24 Feb 2022 02:03:06 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>02-24 10:33</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/02/24/202202241028432410_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 지민 '유자차' 난리 났다…정국 콤부차 이어 글로벌 관심 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220224n11576?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220224n11576?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 24 Feb 2022 02:03:06 GMT</pubDate>
+            <content:encoded><![CDATA[스타투데이							<em>02-24 10:18</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/02/24/20220224_1190751.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 '스테이 얼라이브' 빌보드 싱글 차트 95위 진입 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220224n08869?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220224n08869?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 24 Feb 2022 02:03:06 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>02-24 09:36</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/02/24/d133b240-441d-40e8-8766-faabb29ce2a0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 정국X슈가 'Stay Alive', 美 빌보드 '핫 100' 진입 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220224n08773?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220224n08773?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 24 Feb 2022 02:03:06 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>02-24 09:34</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/02/24/1645662643_1626822.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 슈가 프로듀싱·정국 가창 'Stay Alive' 빌보드 '핫 100' 95위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220224n08601?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220224n08601?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 24 Feb 2022 02:03:06 GMT</pubDate>
+            <content:encoded><![CDATA[SBS연예뉴스							<em>02-24 09:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/02/24/30000745679_700.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['갓파더' 이연복, BTS 진과의 친분 과시…김갑수 "유료 아미다" 고백 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220224n07829?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220224n07829?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 24 Feb 2022 02:03:06 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>02-24 09:15</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/02/24/20220224504239.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 정국 'Stay Alive', 美 빌보드 '핫100' 진입 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220224n07383?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220224n07383?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 24 Feb 2022 02:03:06 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>02-24 09:10</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/02/24/20220224503621.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[독자추천 TOP100] 영탁 133회째 1위, 이찬원·아이유·방탄소년단 지민·태연 TOP5 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220224n07477?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220224n07477?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 24 Feb 2022 02:03:06 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-24 09:07</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/24/14672997_764245_536_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 슈가X정국 'Stay Alive', 빌보드 '핫 100' 뚫었다[공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220224n07304?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220224n07304?mid=e0608&amp;isq=9009</guid>
@@ -302,70 +366,6 @@
             <pubDate>Thu, 24 Feb 2022 00:24:34 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>02-24 08:30</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/24/2022022407571435453_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5억 향한 인기 질주…방탄소년단 슈가 어거스트디 'D-2' 스포티파이 4억 9400만 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220224n05938?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220224n05938?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 24 Feb 2022 00:24:34 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-24 08:25</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/24/2022022408224540550_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 슈가 어거스트 디 '대취타' 스포티파이 1억 7100만…新역사ing (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220224n05850?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220224n05850?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 24 Feb 2022 00:24:34 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-24 08:22</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/24/2022022408172710021_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청순계 탑티어♡ 방탄소년단 진, 봄 향기 머금은 햇살 비주얼 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220224n05320?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220224n05320?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 24 Feb 2022 00:24:34 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-24 08:03</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/24/2022022407512498038_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 슈가 프로듀싱·정국 가창 'Stay Alive' 빌보드 '핫 100' 95위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220224n05160?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220224n05160?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 24 Feb 2022 00:24:34 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠동아							<em>02-24 07:58</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/02/24/112013434.1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['방탄소년단 지민 마셨다' 유자차 구글 검색 껑충…韓전통차·한글 위상 드높인 'K컬처 프론트맨' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220224n05124?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220224n05124?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 24 Feb 2022 00:24:34 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-24 07:56</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/24/2022022406440015710_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식]BTS 슈가X정국 'Stay Alive' 핫100 95위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220224n05043?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220224n05043?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 23 Feb 2022 23:05:10 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>02-24 07:52</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/02/24/l_2022022402001381300260571.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 슈가·정국 'Stay Alive', 빌보드 핫100 95위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220224n05016?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220224n05016?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 23 Feb 2022 23:05:10 GMT</pubDate>
-            <content:encoded><![CDATA[조이뉴스24							<em>02-24 07:51</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/02/24/42fcb9dcada4f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감동과 위로…방탄소년단 진 'Abyss' 사운드클라우드 2600만 돌파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220224n04893?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220224n04893?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 23 Feb 2022 23:05:10 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-24 07:44</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/24/2022022407341917190_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
