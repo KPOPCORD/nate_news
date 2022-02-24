@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 05:05:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 06:06:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 멜론 2000만 스트리밍 돌파…2022년 K-POP 男 아이돌 중 유일]]></title>
+            <link>https://news.nate.com/view/20220224n22376?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220224n22376?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 24 Feb 2022 06:06:05 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-24 13:56</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/24/14673041_764354_5456_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['축하도 기부로' 방탄소년단 지민 솔로곡 '필터'+프로듀싱곡 '친구' 2주년…내 가수에게 받은 선한 영향력 발산]]></title>
             <link>https://news.nate.com/view/20220224n22274?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 24 Feb 2022 02:03:06 GMT</pubDate>
             <content:encoded><![CDATA[일간스포츠							<em>02-24 09:36</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/02/24/d133b240-441d-40e8-8766-faabb29ce2a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국X슈가 'Stay Alive', 美 빌보드 '핫 100' 진입]]></title>
-            <link>https://news.nate.com/view/20220224n08773?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220224n08773?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 24 Feb 2022 02:03:06 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>02-24 09:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/02/24/1645662643_1626822.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
