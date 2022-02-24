@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 12:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 13:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 슈가, 블랙 카리스마…독보적 존재감 [리포트:컷]]]></title>
+            <link>https://news.nate.com/view/20220224n42026?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220224n42026?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 24 Feb 2022 13:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[TV리포트							<em>02-24 21:21</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/02/24/02a7be62-23ed-4699-8da9-60aa51b8d99a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단(BTS) 공연, 극장 생중계 티켓도 15분만에 완판]]></title>
             <link>https://news.nate.com/view/20220224n38371?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 24 Feb 2022 05:05:47 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-24 13:50</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/24/14673039_764341_4938_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 리트윗 TOP100] 엔믹스 2회째 1위, 에이티즈·방탄소년단 지민·임영웅·방탄소년단 뷔 TOP5]]></title>
-            <link>https://news.nate.com/view/20220224n21106?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220224n21106?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 24 Feb 2022 05:05:47 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-24 13:33</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/24/14673037_764330_3019_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
