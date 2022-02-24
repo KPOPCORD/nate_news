@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 02:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 02:36:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/22/14672691_763781_4936_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[MK뮤직]휴가·격리 마친 BTS, 봄날과 함께 2022년 활동 포문 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220224n14789?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220224n14789?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 24 Feb 2022 02:36:29 GMT</pubDate>
+            <content:encoded><![CDATA[스타투데이							<em>02-24 11:13</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/02/24/20220224_5099164_1645666938.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 소속 하이브, 연매출 1조 이상…영국 BBC도 주목 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220224n13885?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220224n13885?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 24 Feb 2022 02:36:29 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>02-24 10:59</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/02/24/l_2022022402001398600263191.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방송작가 구자형, BTS 이어 블랙핑크 평전 출간 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220224n12448?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220224n12448?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Thu, 24 Feb 2022 00:24:34 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-24 08:44</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/24/14672995_764239_4212_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 슈가 피처링 맥스 'Blueberry Eyes' 스포티파이 1억 6800만 달성 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220224n06289?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220224n06289?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 24 Feb 2022 00:24:34 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-24 08:36</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/24/2022022408320093965_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뜨거운 축하, 선한 기부♥…방탄소년단 지민 '필터'·'친구' 2주년 뜻깊은 팬기부 '나눔 본보기' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220224n06097?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220224n06097?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 24 Feb 2022 00:24:34 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-24 08:30</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/24/2022022407571435453_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
