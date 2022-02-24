@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 02:36:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 03:05:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 제니, 레드벨벳 '빨간맛' 예고→아이린과 친분 재조명 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
+            <link>https://news.nate.com/view/20220224n15786?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20220224n15786?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Thu, 24 Feb 2022 03:02:46 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-24 11:29</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/24/14673015_764281_2655_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방송작가 구자형, BTS 이어 블랙핑크 평전 출간 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
             <link>https://news.nate.com/view/20220224n12448?mid=e0608&amp;isq=9895</link>
@@ -120,12 +128,12 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/14/14670732_760675_266_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["happy valentine's day♥" 블랙핑크 지수, 청순함 돋보이는 사랑스러운 매력 '눈길' (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
-            <link>https://news.nate.com/view/20220214n20972?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20220214n20972?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Mon, 14 Feb 2022 06:03:45 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-14 14:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/14/14670729_760669_1342_org.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[블랙핑크 제니, 레드벨벳 '빨간맛' 예고→아이린과 친분 재조명 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20220224n15786?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220224n15786?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Thu, 24 Feb 2022 03:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-24 11:29</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/24/14673015_764281_2655_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '선물을 지켜야해~!' (웬디의 영스트리트 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 22 Feb 2022 14:04:02 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-22 22:52</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/22/14672693_763783_5050_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[UHD포토] 레드벨벳(Red Velvet) 웬디, '러비 만나러 달려가는 와니' (웬디의 영스트리트 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20220222n40501?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220222n40501?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Tue, 22 Feb 2022 14:04:02 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-22 22:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/22/14672691_763781_4936_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[MK뮤직]휴가·격리 마친 BTS, 봄날과 함께 2022년 활동 포문 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
