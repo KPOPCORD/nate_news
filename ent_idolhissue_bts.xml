@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 07:05:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 08:06:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단(BTS) 'Dynamite' 뮤직비디오 14억뷰 돌파…통산 3번째 14억뷰 MV]]></title>
+            <link>https://news.nate.com/view/20220225n25726?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220225n25726?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 25 Feb 2022 08:06:59 GMT</pubDate>
+            <content:encoded><![CDATA[비즈엔터							<em>02-25 16:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2022/02/25/20220225124106_1722381_1080_1620.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1년 반 만에…BTS, '다이너마이트' 뮤직비디오 14억 뷰]]></title>
             <link>https://news.nate.com/view/20220225n13102?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 25 Feb 2022 02:00:31 GMT</pubDate>
             <content:encoded><![CDATA[K STAR							<em>02-25 10:48</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kb/2022/02/25/new_news__20220225093343_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[독자추천 TOP100] 영탁 134회째 1위, 이찬원·방탄소년단 지민·태연·아이유 TOP5]]></title>
-            <link>https://news.nate.com/view/20220225n11321?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220225n11321?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 25 Feb 2022 02:00:31 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-25 10:43</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/25/14673235_764665_3920_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
