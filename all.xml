@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 02:32:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 03:05:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/22/14672693_763783_5050_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS, 2년 연속 '전 세계 최고 베스트셀링 가수' 공인 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220225n14127?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220225n14127?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 25 Feb 2022 03:05:02 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠동아							<em>02-25 11:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/02/25/112039320.2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1년 반 만에…BTS, '다이너마이트' 뮤직비디오 14억 뷰 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220225n13102?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220225n13102?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 25 Feb 2022 03:05:02 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>02-25 11:29</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/02/25/20220225507817.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[기사열독 TOP100] 영탁 69회째 1위, 이찬원·장윤정·엔믹스·방탄소년단 지민 TOP5 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220225n12173?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220225n12173?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Fri, 25 Feb 2022 02:00:31 GMT</pubDate>
             <content:encoded><![CDATA[스포티비뉴스							<em>02-25 09:42</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2022/02/25/507289_709974_3325.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, '다이너마이트' 발매 1년 반 만 뮤직비디오 14억뷰 돌파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220225n08161?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220225n08161?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 25 Feb 2022 02:00:31 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠투데이							<em>02-25 09:36</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/02/25/25778998.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS '다이너마이트' 뮤비 14억뷰 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220225n07578?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220225n07578?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 25 Feb 2022 02:00:31 GMT</pubDate>
-            <content:encoded><![CDATA[스타in							<em>02-25 09:24</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/02/25/PS22022500024.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
