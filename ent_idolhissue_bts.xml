@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 06:05:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 07:05:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1년 반 만에…BTS, '다이너마이트' 뮤직비디오 14억 뷰]]></title>
+            <link>https://news.nate.com/view/20220225n13102?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220225n13102?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 25 Feb 2022 03:05:02 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>02-25 15:39</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/02/25/20220225507817.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["방탄소년단이 2021년 전세계 지배" IFPI '글로벌 아티스트 2021' 1위…최초 2년 연속 1위]]></title>
             <link>https://news.nate.com/view/20220225n20479?mid=e0608&amp;isq=9009</link>
@@ -38,14 +46,6 @@
             <pubDate>Fri, 25 Feb 2022 06:05:47 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-25 14:39</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/25/14673345_764857_3724_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1년 반 만에…BTS, '다이너마이트' 뮤직비디오 14억 뷰]]></title>
-            <link>https://news.nate.com/view/20220225n13102?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220225n13102?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 25 Feb 2022 03:05:02 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠월드							<em>02-25 12:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/02/25/20220225507817.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['힐링 아이콘' 방탄소년단 지민, 위안과 희망의 배려있는 화법 화제…팬데믹 뚫는 'Beautiful Soul]]></title>
