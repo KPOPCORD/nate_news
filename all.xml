@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 12:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 13:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/22/14672696_763791_535_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 RM, 뷔와 연습실 셀카…훈훈한 투샷 [리포트:컷] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220225n33475?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220225n33475?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 25 Feb 2022 13:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[TV리포트							<em>02-25 21:42</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/02/25/6ce8bc5c-c17a-42fb-8344-c2b67f93e054.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 RM, 뷔와 연습실서 거울 셀카…오늘자 캐주얼룩[스타IN★] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220225n31935?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220225n31935?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Fri, 25 Feb 2022 04:05:23 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-25 12:25</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/25/14673289_764756_2358_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 리트윗 TOP100] 엔믹스 3회째 1위, 에이티즈·방탄소년단 지민·임영웅·방탄소년단 뷔 TOP5 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220225n15408?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220225n15408?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 25 Feb 2022 04:05:23 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-25 12:06</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/25/14673262_764710_438_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
