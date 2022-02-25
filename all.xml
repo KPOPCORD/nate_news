@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 08:06:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 09:05:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,30 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/22/14672693_763783_5050_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[K이슈진단]'4만 5천명'아미 만나는 BTS, 공연계 부활 신호탄 될까? (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220225n28609?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220225n28609?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 25 Feb 2022 09:05:18 GMT</pubDate>
+            <content:encoded><![CDATA[K STAR							<em>02-25 17:51</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kb/2022/02/25/new_news__20220225171542_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 '다이너마이트' 레고로 나온다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220225n28352?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220225n28352?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 25 Feb 2022 09:05:18 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>02-25 17:44</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/02/25/l_2022022502001494100285341.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, '다이너마이트' 뮤직비디오 14억뷰 돌파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220225n27863?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220225n27863?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 25 Feb 2022 09:05:18 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>02-25 17:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/02/25/f0cae568-a61b-4d55-99d4-1fa85b716beb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단(BTS) 'Dynamite' 뮤직비디오 14억뷰 돌파…통산 3번째 14억뷰 MV (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220225n25726?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220225n25726?mid=e0608&amp;isq=9009</guid>
@@ -342,30 +366,6 @@
             <pubDate>Fri, 25 Feb 2022 04:05:23 GMT</pubDate>
             <content:encoded><![CDATA[OBS TV							<em>02-25 12:00</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ob/2022/02/25/1344957_543139_5848.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS, 2년 연속 '전 세계 최고 베스트셀링 가수' 공인 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220225n14127?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220225n14127?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 25 Feb 2022 03:05:02 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠동아							<em>02-25 11:53</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/02/25/112039320.2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기사열독 TOP100] 영탁 69회째 1위, 이찬원·장윤정·엔믹스·방탄소년단 지민 TOP5 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220225n12173?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220225n12173?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 25 Feb 2022 02:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-25 11:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/25/14673236_764670_5821_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 RM도 시청한 미드 '프렌즈', 25일 왓챠 공개 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220225n11632?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220225n11632?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 25 Feb 2022 02:00:31 GMT</pubDate>
-            <content:encoded><![CDATA[K STAR							<em>02-25 10:48</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kb/2022/02/25/new_news__20220225093343_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
