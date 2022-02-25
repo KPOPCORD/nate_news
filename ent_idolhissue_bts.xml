@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 11:04:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 12:11:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 RM, 뷔와 연습실서 거울 셀카…오늘자 캐주얼룩[스타IN★]]]></title>
+            <link>https://news.nate.com/view/20220225n31935?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220225n31935?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 25 Feb 2022 12:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-25 20:26</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/25/2022022519591572960_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["콘서트 연습 중?" 방탄소년단 RM, V와 연습실에서 찰칵! [★SHOT!]]]></title>
+            <link>https://news.nate.com/view/20220225n31356?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220225n31356?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 25 Feb 2022 12:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>02-25 19:56</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/02/25/202202251935776182_6218b582940f5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[K이슈진단]'4만 5천명'아미 만나는 BTS, 공연계 부활 신호탄 될까?]]></title>
             <link>https://news.nate.com/view/20220225n28609?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 25 Feb 2022 04:05:23 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-25 12:06</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/25/14673262_764710_438_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단(BTS), 국제음반산업협회 2년 연속 '글로벌 아티스트' 1위]]></title>
-            <link>https://news.nate.com/view/20220225n15138?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220225n15138?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 25 Feb 2022 04:05:23 GMT</pubDate>
-            <content:encoded><![CDATA[비즈엔터							<em>02-25 12:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2022/02/25/20220225114230_1722369_1200_800.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS·뽀로로 미끼…1,300억대 코인 다단계 조직 검거]]></title>
-            <link>https://news.nate.com/view/20220225n14907?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220225n14907?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 25 Feb 2022 04:05:23 GMT</pubDate>
-            <content:encoded><![CDATA[OBS TV							<em>02-25 12:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ob/2022/02/25/1344957_543139_5848.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
