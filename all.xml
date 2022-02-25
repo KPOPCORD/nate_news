@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 04:05:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 05:05:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[빅데이터배우브랜드 TOP100] 이세영 8회째 1위, 블랙핑크 지수·김선호·김우석·김희재 TOP5 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
+            <link>https://news.nate.com/view/20220225n16660?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20220225n16660?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Fri, 25 Feb 2022 05:02:53 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-25 12:59</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/25/14673311_764790_569_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 로제, 흑백 사진 속 고품격 분위기…너무 말라 가녀린 어깨 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
             <link>https://news.nate.com/view/20220225n15751?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 18 Feb 2022 11:02:29 GMT</pubDate>
             <content:encoded><![CDATA[더팩트							<em>02-18 18:58</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2022/02/18/202296781645178015.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[빅데이터배우브랜드 TOP100] 이세영 2회째 1위, 김선호·박은빈·서예지·블랙핑크 지수 TOP5 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
-            <link>https://news.nate.com/view/20220218n13615?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20220218n13615?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Fri, 18 Feb 2022 03:03:03 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-18 11:26</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/18/14671720_762130_2356_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블랙핑크 제니, 레드벨벳 '빨간맛' 예고→아이린과 친분 재조명 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
