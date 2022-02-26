@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 10:05:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 11:04:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 뷔, 미소년 같은 외모에 그렇지 못한 팔뚝…다 가졌네]]></title>
+            <link>https://news.nate.com/view/20220226n12431?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220226n12431?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 26 Feb 2022 11:04:50 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>02-26 18:55</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/26/1645868785495648.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 뷔, 팔뚝 무슨 일? 터질 듯한 팔 근육…한층 더 섹시해진 남성美[★SHOT!]]]></title>
             <link>https://news.nate.com/view/20220226n11256?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 26 Feb 2022 01:52:10 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>02-26 09:17</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/26/2022022609060991129_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[독자추천 TOP100] 영탁 135회째 1위, 이찬원·방탄소년단 지민·레드벨벳 웬디·태연 TOP5]]></title>
-            <link>https://news.nate.com/view/20220226n04217?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220226n04217?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 26 Feb 2022 00:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-26 09:09</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/26/14673531_765116_718_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
