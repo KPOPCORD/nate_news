@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 01:52:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 02:26:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트위터 리트윗 TOP100] 엔믹스 4회째 1위, 에이티즈·방탄소년단 지민·임영웅·방탄소년단 뷔 TOP5]]></title>
+            <link>https://news.nate.com/view/20220226n05998?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220226n05998?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 26 Feb 2022 02:26:44 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-26 11:02</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/26/14673539_765133_028_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 정국, 심쿵 미소X스윗 눈맞춤 "황홀한 꽃남신 비주얼"]]></title>
+            <link>https://news.nate.com/view/20220226n05997?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220226n05997?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 26 Feb 2022 02:26:44 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>02-26 11:02</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/02/26/202202261101405862_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[일문일답] 컴백 킹덤 아서 "롤모델 BTS 지민·아스트로 라키"]]></title>
             <link>https://news.nate.com/view/20220226n05315?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 26 Feb 2022 00:23:59 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>02-26 08:19</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/26/2022022607484163493_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 슈가 피처링 맥스 'Blueberry Eyes' MV 4300만뷰 돌파]]></title>
-            <link>https://news.nate.com/view/20220226n03534?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220226n03534?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 26 Feb 2022 00:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-26 08:09</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/26/2022022608061139120_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 슈가 '오버 더 호라이즌' 사운드클라우드 200만 돌파]]></title>
-            <link>https://news.nate.com/view/20220226n03477?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220226n03477?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 26 Feb 2022 00:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-26 08:05</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/26/2022022608021477196_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
