@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 02:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 03:05:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['3월 17일 컴백' 킹덤 아서 "롤모델=BTS 지민·아스트로 라키"(일문일답)]]></title>
+            <link>https://news.nate.com/view/20220226n06427?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220226n06427?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 26 Feb 2022 03:05:32 GMT</pubDate>
+            <content:encoded><![CDATA[MK스포츠							<em>02-26 11:39</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/02/26/20220226_1645843076.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태연, 가수 브랜드평판 1위…2위 임영웅·3위 방탄소년단]]></title>
+            <link>https://news.nate.com/view/20220226n06187?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220226n06187?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 26 Feb 2022 03:05:32 GMT</pubDate>
+            <content:encoded><![CDATA[스타투데이							<em>02-26 11:15</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/02/26/20220226_5100992_1645841656.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[트위터 리트윗 TOP100] 엔믹스 4회째 1위, 에이티즈·방탄소년단 지민·임영웅·방탄소년단 뷔 TOP5]]></title>
             <link>https://news.nate.com/view/20220226n05998?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 26 Feb 2022 00:23:59 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-26 08:28</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/26/14673523_765104_2613_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 뷔, '그 해 우리는' OST 'Christmas Tree' 6000만 스트리밍 돌파]]></title>
-            <link>https://news.nate.com/view/20220226n03635?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220226n03635?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 26 Feb 2022 00:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>02-26 08:24</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/26/1645831395794854.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[널 데려갈게~♡ 방탄소년단 지민 '필터' 틱톡 솔로 BGM 1위…스포티파이+유튜브 3억 5천 '인기 절정']]></title>
-            <link>https://news.nate.com/view/20220226n03600?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220226n03600?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 26 Feb 2022 00:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-26 08:19</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/26/2022022607484163493_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
