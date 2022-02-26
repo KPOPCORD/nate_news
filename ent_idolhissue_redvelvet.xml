@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 23:04:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 00:24:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[독자추천 TOP100] 영탁 135회째 1위, 이찬원·방탄소년단 지민·레드벨벳 웬디·태연 TOP5]]></title>
+            <link>https://news.nate.com/view/20220226n04217?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220226n04217?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Sat, 26 Feb 2022 00:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-26 09:09</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/26/14673531_765116_718_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '위험하니까 앞을 보고 달려줬으면 싶은 와니' (웬디의 영스트리트 출근길)]]></title>
             <link>https://news.nate.com/view/20220225n34575?mid=e0608&amp;isq=9012</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 25 Feb 2022 14:03:46 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-25 22:35</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/25/14673484_765061_3338_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '러비 만나러 갑니다~' (웬디의 영스트리트 출근길)]]></title>
-            <link>https://news.nate.com/view/20220225n34388?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220225n34388?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Fri, 25 Feb 2022 14:03:46 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-25 22:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/25/14673483_765053_331_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
