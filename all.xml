@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 21:05:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 22:04:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/25/14673485_765062_3426_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['Record Setter V' 방탄소년단 뷔, 스포티파이 8억 스트리밍 大기록 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220227n02041?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220227n02041?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 26 Feb 2022 22:04:32 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-27 06:44</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/27/2022022706325139561_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다비치, 'BTS와 같은 광고 출연자' 음치 지목 후 "이런 분을…" 당황(너목보9)[결정적장면] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220226n15506?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220226n15506?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 26 Feb 2022 22:04:32 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>02-27 06:12</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/02/26/202202262247372510_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 진 'Yours' 스포티파이 4600만-빌보드 핫트렌딩 '3위' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220227n00708?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220227n00708?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Sat, 26 Feb 2022 01:52:10 GMT</pubDate>
             <content:encoded><![CDATA[일간스포츠							<em>02-26 09:31</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/02/26/b0f86553-2971-4305-a7cd-9c4bbed9c6b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[킹덤 아서 "롤모델=BTS 지민·아스트로 라키, 한 무대 희망" [일문일답] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220226n04538?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220226n04538?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 26 Feb 2022 01:52:10 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠동아							<em>02-26 09:31</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/02/26/112051010.1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔 'Christmas Tree'. 스포티파이 스트리밍 6천만 돌파…K팝 男솔로 최단기록 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220226n04380?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220226n04380?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 26 Feb 2022 01:52:10 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>02-26 09:19</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/02/26/2022022701001760800115631.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
