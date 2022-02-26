@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 12:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 13:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["오랜만에 예능 나들이"…블랙핑크(BLACKPINK) 제니, '출장 십오야' 출연 인증]]></title>
+            <link>https://news.nate.com/view/20220226n13983?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20220226n13983?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Sat, 26 Feb 2022 13:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-26 21:20</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/26/14673609_765302_198_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 제니, YG 내 위상 이정도? 전원 기립+은지원 "실제로 처음 봐"(출장 십오야2)]]></title>
             <link>https://news.nate.com/view/20220226n07479?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 23 Feb 2022 06:04:31 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-23 14:06</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/23/14672786_763948_45_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["패션의 여왕♥" 블랙핑크 지수, 소녀같은 새침한 표정 '눈길']]></title>
-            <link>https://news.nate.com/view/20220222n40528?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20220222n40528?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Tue, 22 Feb 2022 14:03:08 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-22 22:52</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/22/14672689_763785_519_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
