@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 02:29:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 03:04:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[킹덤 치우 "롤모델 방탄소년단…올해 목표는 음방 1위"[일문일답]]]></title>
+            <link>https://news.nate.com/view/20220227n08174?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220227n08174?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 27 Feb 2022 03:04:53 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>02-27 11:47</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/02/27/a5a08b95-cb30-4d89-9885-b4a31c7eaa06.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[킹덤 치우 "롤모델=방탄소년단…올해 목표는 음방 1위" [일문일답]]]></title>
             <link>https://news.nate.com/view/20220227n07489?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 26 Feb 2022 23:05:32 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>02-27 07:22</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/27/2022022707184832279_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꽃처럼 찾아온 '봄의 남신'…방탄소년단 진에 설레는 女心]]></title>
-            <link>https://news.nate.com/view/20220227n02404?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220227n02404?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 26 Feb 2022 23:05:32 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-27 07:21</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/27/2022022707123496291_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
