@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 02:00:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 02:29:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[킹덤 치우 "롤모델=방탄소년단…올해 목표는 음방 1위" [일문일답]]]></title>
+            <link>https://news.nate.com/view/20220227n07489?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220227n07489?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 27 Feb 2022 02:29:48 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>02-27 11:18</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/02/27/202202271115772767_621adf29b587f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유튜브 인기 아티스트 1위 아이유…2위 태연·3위 방탄소년단·4위 스테이씨·5위 임영웅]]></title>
+            <link>https://news.nate.com/view/20220227n06955?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220227n06955?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 27 Feb 2022 02:29:48 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-27 11:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/27/14673703_765397_5852_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["롤모델 BTS" 킹덤 치우, 시선 강탈 한복 자태 [일문일답]]]></title>
             <link>https://news.nate.com/view/20220227n06223?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 26 Feb 2022 23:05:32 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>02-27 07:21</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/27/2022022707123496291_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국 'Stay Alive', 라스트 FM·샤잠·앙가미 2주 연속 1위+필리핀→싱가포르 아이튠즈 1위 '싹쓸이']]></title>
-            <link>https://news.nate.com/view/20220227n02332?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220227n02332?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 26 Feb 2022 23:05:32 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-27 07:12</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/27/2022022707072059633_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전다정씨 피어싱 뺐습니다…방탄소년단 정국, 러블리~♡ 인증]]></title>
-            <link>https://news.nate.com/view/20220227n02285?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220227n02285?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 26 Feb 2022 23:05:32 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-27 07:07</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/27/2022022706594695616_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
