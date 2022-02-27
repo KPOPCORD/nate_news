@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 15:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 16:05:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['신과 한판' 심형래 "전성기 당시 광고 100편 이상, 80년대 BTS"]]></title>
+            <link>https://news.nate.com/view/20220228n00368?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220228n00368?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 27 Feb 2022 16:05:30 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-28 00:41</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/28/2022022800380080726_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[심형래 "전성기 인기? 방탄소년단보다 높아…광고 100편 넘게 찍었다" ('신과 한판')]]></title>
             <link>https://news.nate.com/view/20220227n21807?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 27 Feb 2022 00:26:05 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>02-27 09:00</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/27/1645919364537949.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 진, 화사한 비주얼로 여심 강탈…핑크빛 설레임 가득]]></title>
-            <link>https://news.nate.com/view/20220227n03556?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220227n03556?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 27 Feb 2022 00:26:05 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>02-27 08:43</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/27/1645918921582782.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
