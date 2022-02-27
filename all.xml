@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 21:05:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 22:05:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,30 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/25/14673485_765062_3426_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 정국 'Stay Alive' 스포티파이 베트남 2주 연속 1위→日·말레이시아·싱가포트 차트 1위…'亞재패' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220228n03233?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220228n03233?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 27 Feb 2022 22:05:40 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-28 06:49</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/28/2022022806445384626_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, '교복 모델로 가장 잘 어울리는 남자아이돌' 1위…Z세대 '워너비' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220228n03187?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220228n03187?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 27 Feb 2022 22:05:40 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-28 06:44</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/28/2022022806413199234_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['IT BOY' 방탄소년단 지민, '2021 가장 사랑받은 K팝 아이돌' 선정…대체불가 '아이돌계 대통령' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220228n03047?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220228n03047?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 27 Feb 2022 22:05:40 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-28 06:30</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/28/2022022805260259568_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['신과 한판' 심형래 "전성기 당시 광고 100편 이상, 80년대 BTS" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220228n00368?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220228n00368?mid=e0608&amp;isq=9009</guid>
@@ -342,30 +366,6 @@
             <pubDate>Sun, 27 Feb 2022 02:29:48 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-27 11:03</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/27/14673703_765397_5852_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["롤모델 BTS" 킹덤 치우, 시선 강탈 한복 자태 [일문일답] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220227n06223?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220227n06223?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 27 Feb 2022 02:00:32 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>02-27 10:36</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/02/27/l_2022022702001538300293751.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['코로나 완치' 방탄소년단 뷔, 빛나는 '뷔주얼' [TD#] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220227n04906?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220227n04906?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 27 Feb 2022 02:00:32 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>02-27 09:43</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/02/27/271627152.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 뷔, 설렘을 유발하는 남친짤 장인 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220227n03829?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220227n03829?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 27 Feb 2022 00:26:05 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>02-27 09:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/27/1645919364537949.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
