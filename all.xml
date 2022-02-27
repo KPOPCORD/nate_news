@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 10:05:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 11:05:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/25/14673485_765062_3426_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[킹덤 치우 "롤모델=BTS…춤·보컬·음악성 완벽한 팀 될 것" [일문일답] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220227n19181?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220227n19181?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 27 Feb 2022 11:05:08 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>02-27 19:37</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/27/2022022719293523576_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 뷔 'Christmas Tree' 글로벌 샤잠 60일 연속 차트인, 국내외 장기흥행 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220227n14013?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220227n14013?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sun, 27 Feb 2022 00:26:05 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>02-27 08:33</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/27/2022022708292064856_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 정국, 황홀한 만찢남 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220227n02976?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220227n02976?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 27 Feb 2022 00:26:05 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>02-27 08:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/27/1645883834102340.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
