@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 00:26:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 02:00:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/25/14673485_765062_3426_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["롤모델 BTS" 킹덤 치우, 시선 강탈 한복 자태 [일문일답] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220227n06223?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220227n06223?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 27 Feb 2022 02:00:32 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>02-27 10:36</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/02/27/l_2022022702001538300293751.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['코로나 완치' 방탄소년단 뷔, 빛나는 '뷔주얼' [TD#] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220227n04906?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220227n04906?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 27 Feb 2022 02:00:32 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>02-27 09:43</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/02/27/271627152.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS 뷔, 설렘을 유발하는 남친짤 장인 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220227n03829?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220227n03829?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Sat, 26 Feb 2022 23:05:32 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>02-27 07:07</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/27/2022022706594695616_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 제이홉, 분위기 있는 도시 남자 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220227n02205?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220227n02205?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 26 Feb 2022 23:05:32 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>02-27 07:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/02/27/1645877862688218.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 진 'Yours', 스포티파이 코리아 TOP 200 16주 연속-110일 차트인 대기록 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220227n02156?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220227n02156?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 26 Feb 2022 23:05:32 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>02-27 07:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/27/2022022706544742574_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
