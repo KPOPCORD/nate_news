@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 17:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 18:05:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/25/14673490_765067_3723_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[임영웅, 2월 스타 브랜드 평판 곽윤기·방탄소년단 이어 3위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220301n01025?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220301n01025?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 28 Feb 2022 18:05:25 GMT</pubDate>
+            <content:encoded><![CDATA[비즈엔터							<em>03-01 02:15</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2022/03/01/20220131000304_1713960_1200_1508.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 뷔, 전신 거울 셀카 대방출…어떤 스타일도 '찰떡' 우월 비주얼 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220301n00383?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220301n00383?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Mon, 28 Feb 2022 02:00:31 GMT</pubDate>
             <content:encoded><![CDATA[스타데일리뉴스							<em>02-28 10:41</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/02/28/316817_363798_3756.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 日 레코드협회 역대 최단기간 다이아몬드 인증 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220228n10908?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220228n10908?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 28 Feb 2022 02:00:31 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>02-28 10:30</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/02/28/20220228_5101908_1646011756.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
