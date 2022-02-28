@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 15:07:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 16:06:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 전신 거울 셀카 대방출…어떤 스타일도 '찰떡' 우월 비주얼]]></title>
+            <link>https://news.nate.com/view/20220301n00383?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220301n00383?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 28 Feb 2022 16:06:24 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠한국							<em>03-01 00:28</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2022/03/01/kda20220301002449_O_01_C_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['BTS 프로듀서 출신' 아도라, 신곡 '어린이름' 메이킹 티저]]></title>
             <link>https://news.nate.com/view/20220228n31637?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 28 Feb 2022 02:00:31 GMT</pubDate>
             <content:encoded><![CDATA[스타투데이							<em>02-28 10:30</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/02/28/20220228_5101908_1646011756.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[곽윤기 인기 무섭네, BTS-임영웅 제치고 스타 브랜드 평판 1위]]></title>
-            <link>https://news.nate.com/view/20220228n10645?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220228n10645?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 28 Feb 2022 02:00:31 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>02-28 10:25</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/02/28/202202281000240310_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
