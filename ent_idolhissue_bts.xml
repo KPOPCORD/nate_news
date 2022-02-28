@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 21:04:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 22:05:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 지민, 아이돌 인기 차트 KDOL 86번째 주간 랭킹 1위 등극]]></title>
+            <link>https://news.nate.com/view/20220301n02550?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220301n02550?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 28 Feb 2022 22:05:06 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>03-01 06:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/01/1646042777772106.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임영웅, 2월 스타 브랜드 평판 곽윤기·방탄소년단 이어 3위]]></title>
             <link>https://news.nate.com/view/20220301n01025?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 28 Feb 2022 02:00:31 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>02-28 10:43</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/02/28/2022022810331958024_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 'Dynamite', 日 레코드협회 '다이아몬드' 인증]]></title>
-            <link>https://news.nate.com/view/20220228n11538?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220228n11538?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 28 Feb 2022 02:00:31 GMT</pubDate>
-            <content:encoded><![CDATA[스타데일리뉴스							<em>02-28 10:41</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/02/28/316817_363798_3756.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
