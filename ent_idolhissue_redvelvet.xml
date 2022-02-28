@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 09:05:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 10:05:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드벨벳 예리, 러시아-우크라 침공에 규탄…'韓아이돌 최초']]></title>
+            <link>https://news.nate.com/view/20220228n33949?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220228n33949?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Mon, 28 Feb 2022 10:04:36 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>02-28 18:21</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/28/14674024_765860_1948_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레드벨벳 웬디, 영스트리트 패션 퀸~(라디오 출근)[뉴스엔TV]]]></title>
             <link>https://news.nate.com/view/20220228n31522?mid=e0608&amp;isq=9012</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 25 Feb 2022 14:03:46 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>02-25 22:38</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/25/14673490_765067_3723_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[UHD포토] 레드벨벳(Red Velvet) 웬디, '당혹스러운 표정의 웬디' (웬디의 영스트리트 출근길)]]></title>
-            <link>https://news.nate.com/view/20220225n34447?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220225n34447?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Fri, 25 Feb 2022 14:03:46 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>02-25 22:37</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/25/14673489_765066_3653_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
