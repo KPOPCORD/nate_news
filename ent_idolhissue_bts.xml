@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 07:05:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 08:05:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 'Dynamite', 日 레코드협회 '다이아몬드' 인증…누적 재생수 5억회]]></title>
+            <link>https://news.nate.com/view/20220228n28447?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220228n28447?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 28 Feb 2022 08:05:33 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠한국							<em>02-28 16:23</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2022/02/28/sjmao20220228162201_O_01_C_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 '美 라스베이거스 콘서트' 맞춰 한진관광서 에어텔 상품 출시. 내달 3일 예약 시작]]></title>
+            <link>https://news.nate.com/view/20220228n28030?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220228n28030?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 28 Feb 2022 08:05:33 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠조선							<em>02-28 16:18</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/02/28/2022030101000017300123711.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 진 '유어스' 글로벌기록 이어간다]]></title>
             <link>https://news.nate.com/view/20220228n24155?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 28 Feb 2022 02:00:31 GMT</pubDate>
             <content:encoded><![CDATA[마이데일리							<em>02-28 10:24</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/02/28/202202281017469466_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 '다이너마이트', 日 레코드협회 다이아 인증 최단기간 획득]]></title>
-            <link>https://news.nate.com/view/20220228n10426?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220228n10426?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 28 Feb 2022 02:00:31 GMT</pubDate>
-            <content:encoded><![CDATA[조이뉴스24							<em>02-28 10:22</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/02/28/dfb925d04a4a74.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS '다이너마이트', 日레코드협회 '다이아몬드' 인증 획득]]></title>
-            <link>https://news.nate.com/view/20220228n10236?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220228n10236?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 28 Feb 2022 02:00:31 GMT</pubDate>
-            <content:encoded><![CDATA[스타in							<em>02-28 10:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/02/28/PS22022800049.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
