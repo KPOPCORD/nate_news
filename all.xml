@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 12:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 13:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/25/14673493_765071_395_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['대중음악상' 방탄소년단=올해의 음악인 에스파=3관왕(종합) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220301n23005?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220301n23005?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 01 Mar 2022 13:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>03-01 21:39</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/03/01/286cb207-cec2-412c-923d-059c667af613.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['공효진 아들' 김강훈, 14살인데 벌써?…BTS 정국 닮은꼴→제2의 박서준 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220301n16873?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220301n16873?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Tue, 01 Mar 2022 02:11:10 GMT</pubDate>
             <content:encoded><![CDATA[티브이데일리							<em>03-01 09:55</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/03/01/011627355.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 'Butter', IFPI 선정 '글로벌 디지털 싱글 차트' 4위…2년 연속 '톱 10' 진입[공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220301n05377?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220301n05377?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 01 Mar 2022 02:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>03-01 09:30</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/03/01/202203010902773974_621d637f52a12.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
