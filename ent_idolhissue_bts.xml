@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 05:04:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 06:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, '버터' IFPI 글로벌 디지털 싱글 차트 4위]]></title>
+            <link>https://news.nate.com/view/20220301n13080?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220301n13080?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 01 Mar 2022 06:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>03-01 14:29</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/03/01/0a00550b-c402-44c9-80c6-a58eff5ad014.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 'Butter', IFPI 선정 '글로벌 디지털 싱글 차트'서 4위 기록…작년에 이어 톱10 안착]]></title>
+            <link>https://news.nate.com/view/20220301n12157?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220301n12157?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 01 Mar 2022 06:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[스타데일리뉴스							<em>03-01 13:58</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/03/01/316888_363874_5658.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트위터 리트윗 TOP100] 엔믹스 6회째 1위, 에이티즈·임영웅·방탄소년단 지민·갓세븐 JB TOP5]]></title>
             <link>https://news.nate.com/view/20220301n08858?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 01 Mar 2022 02:11:10 GMT</pubDate>
             <content:encoded><![CDATA[스포츠경향							<em>03-01 09:24</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/03/01/l_2022030102000010900000901.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 'Butter'로 IFPI 선정 '글로벌 디지털 싱글 차트' 4위…2년 연속 '톱10']]></title>
-            <link>https://news.nate.com/view/20220301n05147?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220301n05147?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 01 Mar 2022 02:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>03-01 09:18</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/01/1646093712930892.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식]방탄소년단, '버터'로 국제음반산업협회 선정 '글로벌 디지털 싱글' 4위…또 '톱10' 진입]]></title>
-            <link>https://news.nate.com/view/20220301n05034?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220301n05034?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 01 Mar 2022 00:26:39 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>03-01 09:12</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/03/01/2022030101000031800000591.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
