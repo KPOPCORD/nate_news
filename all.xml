@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 13:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 14:04:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/02/25/14673493_765071_395_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단, 국제음반산업협회 선정 '글로벌 아티스트' 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220301n23724?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220301n23724?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 01 Mar 2022 14:04:57 GMT</pubDate>
+            <content:encoded><![CDATA[K STAR							<em>03-01 22:38</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kb/2022/03/01/new_news__20220301223703_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['떡볶이집 그 오빠' BTS·오겜 영향 "한국어과 자리 없다"→션 "기부 계기? 정혜영과 결혼" [종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220301n23526?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220301n23526?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 01 Mar 2022 14:04:57 GMT</pubDate>
+            <content:encoded><![CDATA[TV리포트							<em>03-01 22:19</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/03/01/684d69b0-8866-4109-9131-bd8e9bc35246.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['대중음악상' 방탄소년단=올해의 음악인 에스파=3관왕(종합) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220301n23005?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220301n23005?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Tue, 01 Mar 2022 02:11:10 GMT</pubDate>
             <content:encoded><![CDATA[일간스포츠							<em>03-01 10:22</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/03/01/8de251f7-c6e2-4d3e-ae38-65f492d35a30.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, IFPI 선정 '글로벌 아티스트' 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220301n06242?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220301n06242?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 01 Mar 2022 02:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠월드							<em>03-01 10:03</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/03/01/20220301504507.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, IFPI 선정 '글로벌 디지털 싱글 차트' 4위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220301n05955?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220301n05955?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 01 Mar 2022 02:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>03-01 09:55</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/03/01/011627355.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
