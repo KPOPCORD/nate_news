@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 11:04:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 12:11:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS, 지난해 광고수익 650억원 이상↑…전지현도 150억원 이상 추정 ('TM쇼')]]></title>
+            <link>https://news.nate.com/view/20220302n40401?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220302n40401?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 02 Mar 2022 12:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>03-02 20:52</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/03/02/202203022037774569_621f59d03303d.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['살아있는 예술품' 방탄소년단 지민 美매체 극찬…숨막히게 잘생긴 실물 증명 10가지 사진]]></title>
             <link>https://news.nate.com/view/20220302n35770?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 02 Mar 2022 02:07:14 GMT</pubDate>
             <content:encoded><![CDATA[스포츠월드							<em>03-02 11:18</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/03/02/20220302506897.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[곽윤기 "올림픽 '다이나마이트' 세리머니…BTS RM에 보은"('라디오스타')]]></title>
-            <link>https://news.nate.com/view/20220302n14547?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220302n14547?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 02 Mar 2022 03:06:56 GMT</pubDate>
-            <content:encoded><![CDATA[스포티비뉴스							<em>03-02 11:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2022/03/02/508036_710970_616.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
