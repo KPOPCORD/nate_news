@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 15:05:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 16:05:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/02/14674691_766822_1439_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[롯데시네마, 방탄소년단 콘서트 극장 생중계 티켓 5천석 추가 오픈 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220303n00432?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220303n00432?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 02 Mar 2022 16:05:14 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠한국							<em>03-03 00:48</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2022/03/03/sjmao20220303004353_O_01_C_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[황대헌 "BTS RM에 감사…중국인 악플에 전세계 아미가 교대로 대응" (라스) [종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220303n00194?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220303n00194?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 02 Mar 2022 16:05:14 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>03-03 00:35</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/03/1646233355858125.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[황대헌 "아미, SNS 中 악플 정화해 줘…BTS RM에 감사" (라스) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220302n43841?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220302n43841?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Wed, 02 Mar 2022 04:06:38 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-02 12:38</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/02/14674383_766408_3717_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 리트윗 TOP100] 임영웅 27회째 1위, 방탄소년단 지민·방탄소년단 뷔·블랙핑크 지수·방탄소년단 정국 TOP5 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220302n18432?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220302n18432?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 02 Mar 2022 04:06:38 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-02 12:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/02/14674378_766389_72_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["놀라운 성공" 방탄소년단, 2021 글로벌 차트 휩쓸었다 (종합)[Oh!쎈 레터] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220302n16340?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220302n16340?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 02 Mar 2022 03:06:56 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>03-02 11:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/03/02/202203021042775045_621ece4809529.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
