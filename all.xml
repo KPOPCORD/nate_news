@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 12:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 13:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/02/14674516_766584_452_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[곽윤기 "방탄소년단 RM, 편파판정 때 힘 돼줬다" (유퀴즈) [종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220302n41456?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220302n41456?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 02 Mar 2022 13:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>03-02 21:30</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/02/1646223213329497.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS, 지난해 광고수익 650억원 이상↑…전지현도 150억원 이상 추정 ('TM쇼') (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220302n40401?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220302n40401?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Wed, 02 Mar 2022 03:06:56 GMT</pubDate>
             <content:encoded><![CDATA[일간스포츠							<em>03-02 11:32</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/03/02/e87166c9-f156-4233-b89b-b67443587111.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 국제음반산업협회 선정 '글로벌 앨범 세일즈 차트' 4위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220302n12291?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220302n12291?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 02 Mar 2022 02:07:14 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠월드							<em>03-02 11:18</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/03/02/20220302506897.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
