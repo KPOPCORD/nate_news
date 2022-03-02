@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 17:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 18:05:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 슈가, 3월 콘서트 앞두고 힐링 중? [★SHOT!]]]></title>
+            <link>https://news.nate.com/view/20220303n01072?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220303n01072?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 02 Mar 2022 18:05:25 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>03-03 02:41</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/03/03/202203020147779265_621e51fdefa4e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["보랏빛 하트" 황대헌, 中누리꾼 악플서 구해준 BTS RM에 고마움 전해]]></title>
+            <link>https://news.nate.com/view/20220303n01032?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220303n01032?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 02 Mar 2022 18:05:25 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-03 02:30</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/03/14674720_766858_525_org.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[롯데시네마, 방탄소년단(BTS) 콘서트 극장 생중계 티켓 추가 판매…오전 10시 예매 오픈]]></title>
             <link>https://news.nate.com/view/20220303n00896?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 02 Mar 2022 09:05:17 GMT</pubDate>
             <content:encoded><![CDATA[일간스포츠							<em>03-02 17:16</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/03/02/b0ab9dc5-f171-4bd4-ac78-fb47590ddfac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 슈가 "정국 너무 잘해…재능 많은 친구"]]></title>
-            <link>https://news.nate.com/view/20220302n26591?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220302n26591?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 02 Mar 2022 07:05:08 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>03-02 15:06</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/03/02/l_2022030202000091800018191.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파, '한국대중음악상' 3관왕…방탄소년단 올해의 음악인]]></title>
-            <link>https://news.nate.com/view/20220302n24864?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220302n24864?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 02 Mar 2022 06:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>03-02 14:37</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/03/02/20220302_5103637_1646199346.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
