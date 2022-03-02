@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 05:05:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 06:11:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에스파, '한국대중음악상' 3관왕…방탄소년단 올해의 음악인]]></title>
+            <link>https://news.nate.com/view/20220302n24864?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220302n24864?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 02 Mar 2022 06:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[스타투데이							<em>03-02 14:37</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/03/02/20220302_5103637_1646199346.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['싱어게인2' 서기 "방탄소년단 지민과 닮았단 반응 기뻐"[인터뷰]②]]></title>
+            <link>https://news.nate.com/view/20220302n23968?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220302n23968?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 02 Mar 2022 06:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[스타in							<em>03-02 14:20</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/03/02/PS22030200060.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 뷔, 'Christmas Tree' 글로벌음원 플랫폼 샤잠 '85만샤잠'돌파…K팝 男솔로 최단]]></title>
             <link>https://news.nate.com/view/20220302n20277?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 02 Mar 2022 02:07:14 GMT</pubDate>
             <content:encoded><![CDATA[디스패치							<em>03-02 10:22</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/03/02/7e4d4a86-0e17-4718-ab16-fec797d16410.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 국제음반산업협회 글로벌 차트 점령]]></title>
-            <link>https://news.nate.com/view/20220302n10237?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220302n10237?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 02 Mar 2022 02:07:14 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>03-02 10:08</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/03/02/l_2022030202000068600013492.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, IFPI 최초 2년 연속 '글로벌 아티스트' 1위]]></title>
-            <link>https://news.nate.com/view/20220302n09852?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220302n09852?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 02 Mar 2022 02:07:14 GMT</pubDate>
-            <content:encoded><![CDATA[더팩트							<em>03-02 10:03</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2022/03/02/202270191646182438.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
