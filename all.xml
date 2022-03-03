@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 14:04:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 15:05:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/02/14674694_766825_1636_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이연복,방탄소년단 진 훈훈 미담 공개 '찐 우정 과시'(신과 함께2) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220303n43765?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220303n43765?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 03 Mar 2022 15:05:25 GMT</pubDate>
+            <content:encoded><![CDATA[MK스포츠							<em>03-03 23:47</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/03/03/20220303_1646318774.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[BTS 정국, 韓아이돌 '최초' 월드차트 정상 '우뚝' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220303n36943?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220303n36943?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Thu, 03 Mar 2022 07:05:22 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>03-03 15:28</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/03/2022030315083950674_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 진, 스타랭킹 男아이돌 2위 수성[공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220303n28182?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220303n28182?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 03 Mar 2022 07:05:22 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-03 15:11</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/03/2022030315032857173_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
