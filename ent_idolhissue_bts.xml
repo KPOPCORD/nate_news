@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 12:09:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 13:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이정도면 인디계 BTS…이랑, 단독 공연 티켓 완판]]></title>
+            <link>https://news.nate.com/view/20220304n37931?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220304n37931?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 04 Mar 2022 13:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠서울							<em>03-04 21:54</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/03/04/2022030501000220800014961.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 진, 눈부신 후광 "성공한 사람처럼 찍어봄"]]></title>
+            <link>https://news.nate.com/view/20220304n37586?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220304n37586?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 04 Mar 2022 13:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[TV리포트							<em>03-04 21:23</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/03/04/15ac9f4c-1974-4a3e-bc33-0b4b56152da1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["성공한 사람처럼" 방탄소년단 진, 이미 성공했지만 더 격렬한 성공샷]]></title>
             <link>https://news.nate.com/view/20220304n35058?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 04 Mar 2022 06:09:00 GMT</pubDate>
             <content:encoded><![CDATA[스타in							<em>03-04 14:28</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/03/04/PS22030400089.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[종합] 방탄소년단, 무적 티켓파워…코로나19에도 서울→美 공연 전석매진]]></title>
-            <link>https://news.nate.com/view/20220304n23190?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220304n23190?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Mar 2022 06:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>03-04 14:23</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/03/04/2022030401000283800016061.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 콘서트 전석 매진…"서울까지 오픈 첫날 솔드아웃"]]></title>
-            <link>https://news.nate.com/view/20220304n22775?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220304n22775?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Mar 2022 06:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[디스패치							<em>03-04 14:16</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/03/04/0e4feaec-c898-4c50-acea-095a554cba4f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
