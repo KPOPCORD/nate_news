@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 20:04:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 21:02:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 진, 밤 10시에 딸기 들고 이연복 셰프 찾은 사연은? ('신과 함께2')]]></title>
+            <link>https://news.nate.com/view/20220305n01328?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220305n01328?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 04 Mar 2022 21:02:37 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>03-05 05:06</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/03/05/202203042239959665_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이정도면 인디계 BTS…이랑, 단독 공연 티켓 완판]]></title>
             <link>https://news.nate.com/view/20220305n00361?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 04 Mar 2022 08:03:03 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-04 16:05</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/04/14675143_767547_420_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스테이시 '스케치북' 출격! RUN2U→BTS곡 재해석 보여준다]]></title>
-            <link>https://news.nate.com/view/20220304n27022?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220304n27022?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Mar 2022 07:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠서울							<em>03-04 15:39</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/03/04/2022030401000211300014181.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
