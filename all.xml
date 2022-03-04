@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 08:03:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 09:04:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/02/14674696_766827_182_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS 진 "성공한 사람처럼…" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220304n31703?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220304n31703?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 04 Mar 2022 09:04:57 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>03-04 17:30</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/03/04/l_2022030402000258800051982.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스테이씨, '유스케' 출격…'RUN2U'→BTS '소우주' 무대 예고 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220304n30656?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220304n30656?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 04 Mar 2022 09:04:57 GMT</pubDate>
+            <content:encoded><![CDATA[MK스포츠							<em>03-04 17:02</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/03/04/20220304_1646374985.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS, 콘서트 라이브뷰잉 추가 티켓 오픈 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220304n29315?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220304n29315?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Fri, 04 Mar 2022 03:12:28 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>03-04 11:51</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/04/2022030411374730801_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스포티파이 제패' 방탄소년단 지민 韓솔로 최초 3곡 신기록…라이'1억 6500만 'Record Maker' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220304n17106?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220304n17106?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Mar 2022 03:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-04 11:47</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/04/14675097_767485_4624_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 서울콘서트 4만5천장 예매 첫날 매진 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220304n17096?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220304n17096?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Mar 2022 03:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>03-04 11:47</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/03/04/20220304_1096669.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
