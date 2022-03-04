@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 03:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 04:04:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/02/14674696_766827_182_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS, 서울 콘서트도 예매 첫날 매진 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220304n18127?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220304n18127?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 04 Mar 2022 04:04:52 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>03-04 12:11</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/03/04/l_2022030402000239500047491.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["BTS 진 닮았어" 정주리, 잘생겨진 '8세 첫째 子' 근황[스타IN★] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220304n17294?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220304n17294?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Fri, 04 Mar 2022 02:17:13 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>03-04 09:50</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/04/1646354569915634.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['신과함께2' 이연복 "쿠킹 스튜디오에 BTS 진 제일 많이 와" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220304n09128?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220304n09128?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Mar 2022 02:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[TV리포트							<em>03-04 09:40</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/03/04/0449cecf-b28d-40b6-8984-68d33120fef1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
