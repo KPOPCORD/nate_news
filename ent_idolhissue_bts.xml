@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 09:04:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 10:05:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 진, 어떻게 찍었길래? 한강뷰 고층 빌딩서 "성공한 사람처럼 찍어봄"]]></title>
+            <link>https://news.nate.com/view/20220304n33964?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220304n33964?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 04 Mar 2022 10:05:08 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>03-04 18:41</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/03/04/202203041829772775_6221de83a937a.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 진, 성공한 사람처럼 찍어본 사진]]></title>
+            <link>https://news.nate.com/view/20220304n32992?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220304n32992?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 04 Mar 2022 10:05:08 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>03-04 18:02</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/03/04/202203041756903285_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 진 "성공한 사람처럼…"]]></title>
             <link>https://news.nate.com/view/20220304n31703?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 04 Mar 2022 05:05:11 GMT</pubDate>
             <content:encoded><![CDATA[스타투데이							<em>03-04 13:11</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/03/04/20220304_5105716_1646363140.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS, 서울 콘서트도 예매 첫날 매진]]></title>
-            <link>https://news.nate.com/view/20220304n18127?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220304n18127?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Mar 2022 04:04:52 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>03-04 12:11</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/03/04/l_2022030402000239500047491.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["BTS 진 닮았어" 정주리, 잘생겨진 '8세 첫째 子' 근황[스타IN★]]]></title>
-            <link>https://news.nate.com/view/20220304n17294?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220304n17294?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Mar 2022 03:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-04 11:51</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/04/2022030411374730801_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
