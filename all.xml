@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 04:04:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 05:05:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/02/14674696_766827_182_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['신과함께2' 이연복 "BTS 진 공연 후 사과머리한 채 달려와" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220304n19828?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220304n19828?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 04 Mar 2022 05:05:11 GMT</pubDate>
+            <content:encoded><![CDATA[스타투데이							<em>03-04 13:11</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/03/04/20220304_5105716_1646363140.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS, 서울 콘서트도 예매 첫날 매진 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220304n18127?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220304n18127?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Fri, 04 Mar 2022 02:17:13 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-04 09:51</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/04/14675056_767394_4943_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, 대학 졸업하며 '총장상' 수상…"괜히 뭉클하고 설레" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220304n09787?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220304n09787?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Mar 2022 02:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>03-04 09:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/04/1646354569915634.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
