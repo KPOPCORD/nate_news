@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 23:05:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 00:28:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[독자추천 TOP100] 영탁 140회째 1위, 이찬원·레드벨벳 웬디·블랙핑크 지수·방탄소년단 지민 TOP5]]></title>
+            <link>https://news.nate.com/view/20220304n06778?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220304n06778?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Fri, 04 Mar 2022 00:28:11 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-04 08:57</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/04/14675036_767362_5459_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레드벨벳 조이, ♥크러쉬와 달달 와인 데이트? 점점 더 예뻐지네]]></title>
             <link>https://news.nate.com/view/20220303n14304?mid=e0608&amp;isq=9012</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 02 Mar 2022 15:04:34 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-02 23:18</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/02/14674695_766826_1733_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[UHD포토] 레드벨벳(Red Velvet) 웬디, '러비 만나러 갑니다' (웬디의 영스트리트 출근길)]]></title>
-            <link>https://news.nate.com/view/20220302n43468?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220302n43468?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 02 Mar 2022 15:04:34 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-02 23:17</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/02/14674694_766825_1636_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
