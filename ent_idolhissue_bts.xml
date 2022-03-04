@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 14:05:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 15:02:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['신과함께2' 이연복, BTS 진 미담 공개 "문자 한 통에 달려와"]]></title>
+            <link>https://news.nate.com/view/20220304n39390?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220304n39390?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 04 Mar 2022 15:02:28 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>03-04 23:28</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/03/04/1646403942_1627893.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 RM, 美 여행 화제…미술 애호가는 휴가도 남달라(연중 라이브)]]></title>
+            <link>https://news.nate.com/view/20220304n39333?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220304n39333?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 04 Mar 2022 15:02:28 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>03-04 23:24</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/04/202203041654280310_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이연복 "BTS 진, 공연 끝나고 사과머리 한 채 달려와" 무슨 일? ('신과 함께2')]]></title>
             <link>https://news.nate.com/view/20220304n38776?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 04 Mar 2022 07:05:09 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>03-04 15:17</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/04/1646374335761194.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단(BTS), 서울 콘서트 예매 첫날 매진…30만명 대기 '역대급' 피켓팅]]></title>
-            <link>https://news.nate.com/view/20220304n24911?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220304n24911?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Mar 2022 07:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-04 15:03</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/04/14675129_767525_552_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["10분 컷"…방탄소년단, 라스베이거스→서울 콘서트 티켓 전석매진]]></title>
-            <link>https://news.nate.com/view/20220304n23997?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220304n23997?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Mar 2022 06:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[조이뉴스24							<em>03-04 14:37</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/03/04/e26235c21100af.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
