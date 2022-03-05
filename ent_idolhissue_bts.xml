@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 21:02:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 22:02:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단도 소중한 한 표…RM·제이홉, 사전투표 완료]]></title>
+            <link>https://news.nate.com/view/20220306n01956?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220306n01956?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 05 Mar 2022 22:02:11 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>03-06 06:52</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/03/06/202203060645674140_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['BTS 제이홉과 같은 댄스팀' 남편+JYP 공채 아내, 음치로 등장(너목보9)]]></title>
             <link>https://news.nate.com/view/20220305n19481?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 05 Mar 2022 04:03:03 GMT</pubDate>
             <content:encoded><![CDATA[티브이데일리							<em>03-05 12:38</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/02/21/1626288.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔 'Christmas Tree' 뮤직비디오 1800만 조회수 돌파, "뜨거운 인기"]]></title>
-            <link>https://news.nate.com/view/20220305n07606?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220305n07606?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 05 Mar 2022 04:03:03 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>03-05 12:12</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/03/05/202203051210583656_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
