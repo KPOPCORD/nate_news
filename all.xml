@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 03:05:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 04:03:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/02/14674698_766829_1859_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS·빅뱅 컴백→4세대 성장까지…엔터주 반등 시작되나 [엔터-Biz] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220221n31660?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220221n31660?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 05 Mar 2022 04:03:03 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>03-05 12:38</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/02/21/1626288.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔 'Christmas Tree' 뮤직비디오 1800만 조회수 돌파, "뜨거운 인기" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220305n07606?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220305n07606?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 05 Mar 2022 04:03:03 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>03-05 12:12</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/03/05/202203051210583656_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['D-5' 방탄소년단, 디데이와 함께 팬들과 소통…콘서트 기대 UP [★SNS] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220305n06576?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220305n06576?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Fri, 04 Mar 2022 23:05:16 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>03-05 07:49</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/05/2022030507371992984_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['도입부 장인' 방탄소년단 지민, 신조어 탄생시킨 마성의 '킬링파트 제조기'…어나더레벨 아티스트 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220305n02971?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220305n02971?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Mar 2022 23:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-05 07:24</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/05/2022030506362318497_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔 '그 해 우리는' 메인 OST 'Christmas Tree' MV 1850만뷰 돌파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220305n02913?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220305n02913?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Mar 2022 23:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-05 07:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/05/2022030507104589795_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
