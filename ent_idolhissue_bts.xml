@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 06:03:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 07:04:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 제이홉, 기표 도장으로 사전 투표 인증…소중한 한 표 행사 완료[★SHOT!]]]></title>
+            <link>https://news.nate.com/view/20220305n11445?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220305n11445?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 05 Mar 2022 07:04:58 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>03-05 15:39</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/03/05/202203051530772723_6223053f152b7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS·빅뱅 컴백→4세대 성장까지…엔터주 반등 시작되나 [엔터-Biz]]]></title>
             <link>https://news.nate.com/view/20220221n31660?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 04 Mar 2022 23:05:16 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>03-05 07:51</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/05/1646434205879295.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["맙소사, 울뻔했어요" 방탄소년단 진 'Yours', 美저널리스트 니콜라스 리들 '극찬']]></title>
-            <link>https://news.nate.com/view/20220305n03196?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220305n03196?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Mar 2022 23:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-05 07:49</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/05/2022030507371992984_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
