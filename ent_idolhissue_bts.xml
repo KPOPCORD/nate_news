@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 02:02:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 02:36:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['D-5' 방탄소년단, 디데이와 함께 팬들과 소통…콘서트 기대 UP [★SNS]]]></title>
+            <link>https://news.nate.com/view/20220305n06576?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220305n06576?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 05 Mar 2022 02:36:35 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠서울							<em>03-05 11:04</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/03/05/2022030501000225200015243.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 뷔 'Christmas Tree', 뮤직비디오 조회수 1850만 돌파. K드라마 힐링 영상]]></title>
             <link>https://news.nate.com/view/20220305n05955?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 04 Mar 2022 23:05:16 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>03-05 07:14</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/05/2022030507104589795_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["보라 머리 정국은 소장각♥" 방탄소년단 정국, 女心 녹이는 청량 '만찢남']]></title>
-            <link>https://news.nate.com/view/20220305n02889?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220305n02889?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Mar 2022 23:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-05 07:07</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/05/2022030507032954382_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

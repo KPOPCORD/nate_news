@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 02:02:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 02:36:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[빅데이터배우브랜드 TOP100] 김희재 3회째 1위, 이세영·김선호·블랙핑크 지수·김소현 TOP5 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
+            <link>https://news.nate.com/view/20220305n06847?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20220305n06847?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Sat, 05 Mar 2022 02:34:36 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-05 11:21</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/05/14675291_767749_1837_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 'Ice Cream' 스포티파이 4억 스트리밍 돌파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
             <link>https://news.nate.com/view/20220305n05518?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 03 Mar 2022 06:05:20 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-03 14:54</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/03/14674850_767101_5223_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스타서베이] 배우 '브랜드 파워' 랭킹 김희재 현재 1위(51.1%), 김선호·정해인·박해진·준호 추격 중…이세영 현재 1위(57.4%), 김소현·블랙핑크 지수·박은빈·이지아 추격 중 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
-            <link>https://news.nate.com/view/20220303n24885?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20220303n24885?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Thu, 03 Mar 2022 06:05:20 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-03 14:12</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/03/14674844_767091_1042_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[독자추천 TOP100] 영탁 141회째 1위, 이찬원·블랙핑크 지수·레드벨벳 웬디·나태주 TOP5 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/02/14674698_766829_1859_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['D-5' 방탄소년단, 디데이와 함께 팬들과 소통…콘서트 기대 UP [★SNS] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220305n06576?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220305n06576?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 05 Mar 2022 02:36:35 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠서울							<em>03-05 11:04</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/03/05/2022030501000225200015243.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 뷔 'Christmas Tree', 뮤직비디오 조회수 1850만 돌파. K드라마 힐링 영상 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220305n05955?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220305n05955?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Fri, 04 Mar 2022 23:05:16 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>03-05 07:14</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/05/2022030507104589795_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["보라 머리 정국은 소장각♥" 방탄소년단 정국, 女心 녹이는 청량 '만찢남' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220305n02889?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220305n02889?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 04 Mar 2022 23:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-05 07:07</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/05/2022030507032954382_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
