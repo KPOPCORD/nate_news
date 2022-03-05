@@ -4,7 +4,7 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 00:25:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 02:02:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,8 +12,16 @@
             <link>https://news.nate.com/view/20220305n03965?mid=e0608&amp;isq=9012</link>
             <guid>https://news.nate.com/view/20220305n03965?mid=e0608&amp;isq=9012</guid>
             <pubDate>Sat, 05 Mar 2022 00:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-05 08:55</em>]]></content:encoded>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-05 09:20</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/05/14675269_767702_538_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기사열독 TOP100] 영탁 73회째 1위, 레드벨벳 조이·이찬원·레드벨벳 웬디·블랙핑크 지수 TOP5]]></title>
+            <link>https://news.nate.com/view/20220305n04452?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220305n04452?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Sat, 05 Mar 2022 02:01:23 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-05 09:19</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/05/14675271_767708_1721_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[기사열독 TOP100] 이찬원 41회째 1위, 레드벨벳 웬디·영탁·레드벨벳 조이·블랙핑크 지수 TOP5]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 02 Mar 2022 15:04:34 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-02 23:20</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/02/14674698_766829_1859_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[UHD포토] 레드벨벳(Red Velvet) 웬디, '오늘도 달리는 와니' (웬디의 영스트리트 출근길)]]></title>
-            <link>https://news.nate.com/view/20220302n43479?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220302n43479?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 02 Mar 2022 15:04:34 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-02 23:19</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/02/14674697_766828_1826_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
