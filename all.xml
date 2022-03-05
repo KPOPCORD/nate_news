@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 20:02:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 21:02:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/02/14674698_766829_1859_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['BTS 제이홉과 같은 댄스팀' 남편+JYP 공채 아내, 음치로 등장(너목보9) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220305n19481?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220305n19481?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 05 Mar 2022 21:02:14 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>03-06 05:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/05/202203052121592510_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS도 소중한 한표…RM·제이홉 사전투표 완료[스타IN★] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220306n00475?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220306n00475?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sat, 05 Mar 2022 04:03:03 GMT</pubDate>
             <content:encoded><![CDATA[마이데일리							<em>03-05 12:12</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/03/05/202203051210583656_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['D-5' 방탄소년단, 디데이와 함께 팬들과 소통…콘서트 기대 UP [★SNS] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220305n06576?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220305n06576?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 05 Mar 2022 02:36:35 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠서울							<em>03-05 11:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/03/05/2022030501000225200015243.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
