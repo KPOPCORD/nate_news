@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 02:31:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 03:05:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["BTS도 투표 완료" 방탄소년단 RM·제이홉, 대선 사전투표 인증샷]]></title>
+            <link>https://news.nate.com/view/20220306n07133?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220306n07133?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 06 Mar 2022 03:05:39 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>03-06 11:29</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/06/202203061120290410_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유튜브 인기 아티스트 1위 아이유…2위 태연·3위 방탄소년단·4위 스테이씨·5위 임영웅]]></title>
             <link>https://news.nate.com/view/20220306n05046?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 05 Mar 2022 21:02:14 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>03-06 05:03</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/05/202203052121592510_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS도 소중한 한표…RM·제이홉 사전투표 완료[스타IN★]]]></title>
-            <link>https://news.nate.com/view/20220306n00475?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220306n00475?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 05 Mar 2022 18:05:24 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-06 01:03</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/06/2022030523410832241_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
