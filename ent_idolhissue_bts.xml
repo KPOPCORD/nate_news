@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 23:04:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 00:25:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['비하인드컷도 퍼펙트' 방탄소년단 지민, 반짝반짝 '공죽공살' 콘서트 화보…'PTD' 서울콘서트 기대UP]]></title>
+            <link>https://news.nate.com/view/20220306n02624?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220306n02624?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 06 Mar 2022 00:25:12 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>03-06 08:05</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/06/2022030607452955825_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 정국에 인도 인기 가수 러브콜 "정말 대단한 사람"]]></title>
             <link>https://news.nate.com/view/20220306n02433?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 05 Mar 2022 13:13:01 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-05 21:34</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/05/14675385_767941_3229_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Record Setter V' 방탄소년단 뷔 'Christmas Tree', 샤잠 재팬 65일 1위 대기록]]></title>
-            <link>https://news.nate.com/view/20220305n15245?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220305n15245?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 05 Mar 2022 11:01:59 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-05 19:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/05/14675367_767910_252_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
