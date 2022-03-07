@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 09:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 10:02:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 진 "오랜만의 서울 콘서트, 모든 준비 기쁘다"]]></title>
+            <link>https://news.nate.com/view/20220307n30932?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220307n30932?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 07 Mar 2022 09:05:10 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>03-07 18:35</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/03/07/l_2022030702000420900081651.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS가 주제가…日리메이크 '극장판 시그널', 3월31일 CGV단독개봉]]></title>
+            <link>https://news.nate.com/view/20220307n33665?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220307n33665?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 07 Mar 2022 10:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[스포티비뉴스							<em>03-07 18:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2022/03/07/509028_712233_5916.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 서울 콘서트 불법 굿즈 단속…구매 자제 요청[공식]]]></title>
             <link>https://news.nate.com/view/20220307n33413?mid=e0608&amp;isq=9009</link>
@@ -46,14 +62,6 @@
             <pubDate>Mon, 07 Mar 2022 09:05:10 GMT</pubDate>
             <content:encoded><![CDATA[티브이데일리							<em>03-07 17:14</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/03/07/1646640699_1628145.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 진 "콘서트 적자지만 준비 기쁘다"]]></title>
-            <link>https://news.nate.com/view/20220307n30932?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220307n30932?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 07 Mar 2022 09:05:10 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>03-07 17:09</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/03/07/l_2022030702000412200080311.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS 제이홉, '최애돌' 2월생 아이돌 투표수 1위]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 07 Mar 2022 07:03:47 GMT</pubDate>
             <content:encoded><![CDATA[일간스포츠							<em>03-07 14:51</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/03/07/51afefa6-71c5-4121-ab5c-2a04a2a8da2d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 2년만 서울 공연 기대감 "공연 티켓팅 대기 30만"[종합]]]></title>
-            <link>https://news.nate.com/view/20220307n20144?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220307n20144?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 07 Mar 2022 07:03:47 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-07 14:08</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/07/2022030713580415531_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
