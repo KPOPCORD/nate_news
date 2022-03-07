@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 23:02:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 00:26:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[독자추천 TOP100] 영탁 142회째 1위, 이찬원·블랙핑크 지수·레드벨벳 웬디·나태주 TOP5]]></title>
+            <link>https://news.nate.com/view/20220307n05480?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20220307n05480?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Mon, 07 Mar 2022 00:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-07 09:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/07/14675671_768343_5948_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 제니, 앙증맞은 젠득이 (공항패션)[뉴스엔TV]]]></title>
             <link>https://news.nate.com/view/20220305n08848?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 05 Mar 2022 03:03:06 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-05 11:35</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/05/14675295_767766_3356_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[빅데이터배우브랜드 TOP100] 김희재 3회째 1위, 이세영·김선호·블랙핑크 지수·김소현 TOP5]]></title>
-            <link>https://news.nate.com/view/20220305n06847?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20220305n06847?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Sat, 05 Mar 2022 02:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-05 11:21</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/05/14675291_767749_1837_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
