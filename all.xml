@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 05:04:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 06:11:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전소미, 생방송 중 블랙핑크 신곡 유출?→YG 저작권 차단 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
+            <link>https://news.nate.com/view/20220307n22517?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20220307n22517?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Mon, 07 Mar 2022 06:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>03-07 14:46</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/07/202203071437220410_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙핑크 제니, 속옷+단추 풀린 청바지로 완성한 파격 노출 패션 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
+            <link>https://news.nate.com/view/20220307n17243?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20220307n17243?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Mon, 07 Mar 2022 06:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>03-07 12:59</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/07/202203071236585410_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트위터 리트윗 TOP100] 방탄소년단 뷔 25회째 1위, 방탄소년단 지민·블랙핑크 지수·임영웅·방탄소년단 정국 TOP5 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
             <link>https://news.nate.com/view/20220307n17008?mid=e0608&amp;isq=9895</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 05 Mar 2022 05:02:05 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>03-05 13:15</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/05/202203051313403510_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 제니 '비현실적인 인간 마네킹'[포토엔HD] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
-            <link>https://news.nate.com/view/20220305n08426?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20220305n08426?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Sat, 05 Mar 2022 05:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>03-05 13:09</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/05/202203051307573510_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 제니 '인형과의 눈맞춤'[포토엔HD] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
-            <link>https://news.nate.com/view/20220305n08395?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20220305n08395?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Sat, 05 Mar 2022 05:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>03-05 13:07</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/05/202203051306253510_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[기사열독 TOP100] 영탁 74회째 1위, 레드벨벳 조이·이찬원·레드벨벳 웬디·박군 TOP5 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
