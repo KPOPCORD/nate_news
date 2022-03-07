@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 11:02:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 12:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["3년만에 한국 아미 만난다" 방탄소년단, 콘서트 D-3 '단체 사진' 공개!]]></title>
+            <link>https://news.nate.com/view/20220307n37028?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220307n37028?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 07 Mar 2022 12:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>03-07 20:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/03/07/202203071951775181_6225e532746b7.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 진 "오랜만의 서울 콘서트, 모든 준비 기쁘다"]]></title>
             <link>https://news.nate.com/view/20220307n30932?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 07 Mar 2022 07:03:47 GMT</pubDate>
             <content:encoded><![CDATA[스포츠경향							<em>03-07 15:09</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/03/07/l_2022030702000394600077091.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 투바투 등 앨범 참여한 프로듀서, 싱어송라이터로 컴백]]></title>
-            <link>https://news.nate.com/view/20220307n22854?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220307n22854?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 07 Mar 2022 07:03:47 GMT</pubDate>
-            <content:encoded><![CDATA[일간스포츠							<em>03-07 14:51</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/03/07/51afefa6-71c5-4121-ab5c-2a04a2a8da2d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
