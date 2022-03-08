@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 21:05:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 22:02:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지민아 사랑해♥ 방탄소년단 지민 팬덤, 'PTD 서울' 특급 서포트…지민으로 뒤덮인 잠실벌 '후끈']]></title>
+            <link>https://news.nate.com/view/20220309n03948?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220309n03948?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 08 Mar 2022 22:02:24 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>03-09 06:46</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/09/2022030906202627026_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10일 개막 방탄소년단 서울 콘서트, 무엇이 달라지나]]></title>
+            <link>https://news.nate.com/view/20220309n02777?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220309n02777?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 08 Mar 2022 22:02:24 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>03-09 06:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/09/2022030900363183984_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[韓·日 빛냈다…방탄소년단 슈가 생일 전광판 등장]]></title>
             <link>https://news.nate.com/view/20220309n00066?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 08 Mar 2022 05:04:52 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-08 12:58</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/08/14676145_769000_572_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['입덕 유발자' 방탄소년단 '지민은 덕후 몰이상' 매력 소유자…코스모폴리탄 주목]]></title>
-            <link>https://news.nate.com/view/20220308n18298?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220308n18298?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 08 Mar 2022 04:04:46 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-08 12:38</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/08/14676137_768980_3719_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, '같은 반 짝꿍이 되었으면 하는 남자아이돌'1위]]></title>
-            <link>https://news.nate.com/view/20220308n18253?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220308n18253?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 08 Mar 2022 04:04:46 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-08 12:36</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/08/14676136_768977_3526_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
