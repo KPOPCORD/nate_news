@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 05:04:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 06:09:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['소셜킹' 방탄소년단 뷔, 위키피디아 2월 韓 솔로 1위, 12개월 연속 독보적 소셜임팩트]]></title>
+            <link>https://news.nate.com/view/20220308n23498?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220308n23498?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 08 Mar 2022 06:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-08 14:41</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/08/14676185_769090_4027_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 서울 콘서트, 무엇이 달라지나]]></title>
+            <link>https://news.nate.com/view/20220308n23125?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220308n23125?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 08 Mar 2022 06:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠동아							<em>03-08 14:34</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/03/08/112227145.1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['BTS PERMISSION TO DANCE ON STAGE - SEOUL' 10일 개막 방탄소년단 '서울 콘서트' 무엇이 달라지나]]></title>
             <link>https://news.nate.com/view/20220308n18909?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 08 Mar 2022 02:01:39 GMT</pubDate>
             <content:encoded><![CDATA[스타투데이							<em>03-08 10:24</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/03/08/20220308_5108298_1646702443.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['D-2' 방탄소년단 서울 콘서트, 무엇이 달라지나]]></title>
-            <link>https://news.nate.com/view/20220308n10996?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220308n10996?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 08 Mar 2022 02:01:39 GMT</pubDate>
-            <content:encoded><![CDATA[조이뉴스24							<em>03-08 10:18</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/03/08/e26235c21100af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['2년 만의 대면 콘서트' 방탄소년단, 이렇게 완벽 준비할 수 있나? 만남의 순간 최대한 집중]]></title>
-            <link>https://news.nate.com/view/20220308n10634?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220308n10634?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 08 Mar 2022 02:01:39 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>03-08 10:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/03/08/2022030901000475700027901.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
