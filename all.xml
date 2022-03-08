@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 06:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 07:02:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/08/14676020_768798_632_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["콘서트 가려고 모금까지"…'메이의 새빨간 비밀' 로잘리 치앙, BTS→세븐틴 섭렵한 K-팝 '찐팬' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220308n27006?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220308n27006?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 08 Mar 2022 07:02:28 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>03-08 15:38</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/03/08/202203081531977860_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['소셜킹' 방탄소년단 뷔, 위키피디아 2월 韓 솔로 1위, 12개월 연속 독보적 소셜임팩트 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220308n23498?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220308n23498?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Tue, 08 Mar 2022 02:01:39 GMT</pubDate>
             <content:encoded><![CDATA[OSEN							<em>03-08 10:36</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/03/08/202203081002771452_6226ac4435ce6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 서울 콘서트, '이것'이 달라졌다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220308n11349?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220308n11349?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 08 Mar 2022 02:01:39 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>03-08 10:24</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/03/08/20220308_5108298_1646702443.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
