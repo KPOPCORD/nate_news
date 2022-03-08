@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 02:36:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 03:05:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,20 +248,44 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/08/14676020_768798_632_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 서울 콘서트, 더 풍성해진다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220308n12116?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220308n12116?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 08 Mar 2022 02:01:39 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠월드							<em>03-08 10:44</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/03/08/20220308505936.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[방탄소년단 서울 콘서트 10일 개막…가변형 대형 화면·회차별 세트리스트 '싹 바뀐다' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220308n15355?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220308n15355?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 08 Mar 2022 03:05:05 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠한국							<em>03-08 11:28</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2022/03/08/sjmao20220308112309_O_00_C_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["해피 슈가데이" BTS 슈가 9일 생일맞아 '초록초록' 축하광고 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220308n14743?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220308n14743?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 08 Mar 2022 03:05:05 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>03-08 11:19</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/03/08/22b58851-9347-401e-8679-c32226c6900a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 서울콘서트, 더 풍성해진다 "특별한 세트리스트+사상 최대 규모" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220308n14323?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220308n14323?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 08 Mar 2022 03:05:05 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>03-08 11:18</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/08/tn_1646705884231_576614_0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2년 반만에 한국팬 만나는 방탄소년단…서울 콘서트, 무엇이 달라지나 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220308n12052?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220308n12052?mid=e0608&amp;isq=9009</guid>
             <pubDate>Tue, 08 Mar 2022 02:01:39 GMT</pubDate>
-            <content:encoded><![CDATA[SBS연예뉴스							<em>03-08 10:36</em>]]></content:encoded>
+            <content:encoded><![CDATA[SBS연예뉴스							<em>03-08 11:06</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/03/08/30000747787_700.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 서울 콘서트, 더 풍성해진다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220308n12116?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220308n12116?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 08 Mar 2022 02:01:39 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>03-08 10:44</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/03/08/20220308505936.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단 서울 콘서트 D-2…회차별 세트리스트 변화→사상 최대 규모 LED 효과 예고[공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -342,30 +366,6 @@
             <pubDate>Tue, 08 Mar 2022 00:24:32 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>03-08 08:43</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/08/1646696502688858.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['셀럽의 슈퍼셀럽' 방탄소년단 지민, 라이언 레이놀즈도 '♥'…할리우드 배우들도 푹~♡ (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220308n05355?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220308n05355?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 08 Mar 2022 00:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-08 08:18</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/08/tn_1646695084435_49542_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 진, 마스크로도 가릴 수 없는 훈훈함 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220308n04915?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220308n04915?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 08 Mar 2022 00:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>03-08 07:59</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/08/1646693907771901.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 덕후몰이할 상인가♡ 방탄소년단 지민, 러블리 입덕 유발자…코스모폴리탄 집중 조명 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220308n04671?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220308n04671?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 07 Mar 2022 23:05:55 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-08 07:42</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/08/2022030806571247701_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
