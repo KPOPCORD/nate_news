@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 11:03:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 12:09:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 슈가, 산불 피해 이웃돕기 1억 기부 [공식]]]></title>
+            <link>https://news.nate.com/view/20220309n24162?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220309n24162?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 09 Mar 2022 12:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠동아							<em>03-09 20:23</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/03/09/107047485.4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이금희 "BTS 뷔, 정우성이 이상형" 이유는? (공부왕찐천재)[종합]]]></title>
+            <link>https://news.nate.com/view/20220309n23632?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220309n23632?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 09 Mar 2022 12:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>03-09 20:10</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/09/1646823610928242.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단x콜드플레이 'My Universe' 빌보드 '글로벌' 차트 23주 상위권]]></title>
             <link>https://news.nate.com/view/20220309n21460?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 09 Mar 2022 08:03:42 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-09 16:43</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/09/14676412_769449_4230_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국 "너무 보고싶고 어서 보고싶다" 서울 대면 콘서트 설렘·기쁨 드러내→퇴근 안하고 곡 작업 몰두 근황]]></title>
-            <link>https://news.nate.com/view/20220309n18621?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220309n18621?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 09 Mar 2022 08:03:42 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-09 16:42</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/09/14676411_769446_418_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['4년 연속 1위' 방탄소년단 지민 '올해의 K팝 아이돌'…사전 등재된 반박불가 'KING OF KPOP']]></title>
-            <link>https://news.nate.com/view/20220309n18599?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220309n18599?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 09 Mar 2022 08:03:42 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-09 16:41</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/09/14676410_769437_3956_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
