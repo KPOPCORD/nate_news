@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 13:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 14:05:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,46 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/08/14676020_768798_632_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이금희 "이상형? 정우성·BTS 뷔…남자 외모만 본다" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220309n27956?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220309n27956?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 09 Mar 2022 14:05:14 GMT</pubDate>
+            <content:encoded><![CDATA[조이뉴스24							<em>03-09 22:49</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/03/09/a511e872304bd3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 슈가, 산불 피해 복구 성금 1억원 기부…생일 맞이 선행 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220309n27550?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220309n27550?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 09 Mar 2022 14:05:14 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>03-09 22:21</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/03/09/202203092159773034_6228a98c55871.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 슈가, 생일 맞아 산불 피해 성금 1억원 기부 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220309n27305?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220309n27305?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 09 Mar 2022 14:05:14 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>03-09 22:06</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/03/09/57a8e885-dc4e-4bcd-a5b0-530782eec292.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 슈가, 생일 맞아 산불 피해 1억 기부 [공식입장] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220309n26924?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220309n26924?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 09 Mar 2022 14:05:14 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>03-09 21:50</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/09/1646828767891743.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 슈가, 생일에도 선행…산불 피해에 1억 기부 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220309n26014?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220309n26014?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 09 Mar 2022 14:05:14 GMT</pubDate>
+            <content:encoded><![CDATA[스포티비뉴스							<em>03-09 21:22</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2022/03/09/509424_712734_858.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 슈가, 산불 피해 이웃돕기 1억 기부 [공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220309n24162?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220309n24162?mid=e0608&amp;isq=9009</guid>
@@ -326,46 +366,6 @@
             <pubDate>Wed, 09 Mar 2022 09:02:34 GMT</pubDate>
             <content:encoded><![CDATA[티브이데일리							<em>03-09 17:31</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/03/09/1646814563_1628320.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 슈가, 산불 피해복구 성금 1억원 기부…역시 월드스타! (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220309n19597?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220309n19597?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 09 Mar 2022 09:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[TV리포트							<em>03-09 17:30</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/03/09/f6401d25-d315-45a5-a6b8-b0a4641c3004.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 정국, 흔들려도 변함없는 잘생김…눈부신 미소 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220309n19562?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220309n19562?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 09 Mar 2022 09:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>03-09 17:28</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/03/09/202203091715770221_622864f567a8c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팬데믹도 막지 못한 방탄소년단 공연의 진화…전 세계 아미 '하나로' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220309n19486?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220309n19486?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 09 Mar 2022 09:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>03-09 17:24</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/03/09/202203091715182958_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 슈가, 생일 맞아 따뜻한 기부…산불 피해 성금 1억 쾌척 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220309n18858?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220309n18858?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 09 Mar 2022 09:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠월드							<em>03-09 17:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/03/09/20220309510849.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아미바라기' 방탄소년단 뷔, "우리가 함께라면 허락은 필요없어. 아미들 따뜻하게 입고 오세요" 다정한 사랑둥이 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220309n18649?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220309n18649?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 09 Mar 2022 08:03:42 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-09 16:43</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/09/14676412_769449_4230_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
