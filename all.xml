@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 10:02:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 11:03:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/08/14676020_768798_632_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단x콜드플레이 'My Universe' 빌보드 '글로벌' 차트 23주 상위권 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220309n21460?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220309n21460?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 09 Mar 2022 11:03:21 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>03-09 18:58</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/03/09/1646819706_1628324.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS 슈가, 팬 선물 'HAPPY SUGA DAY' 자랑[스타IN★] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220309n21211?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220309n21211?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Wed, 09 Mar 2022 08:03:42 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-09 16:41</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/09/14676410_769437_3956_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 슈가, 생일 맞아 산불피해 이웃에 1억 기부…좋은 날에 선한 영향력 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220309n18476?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220309n18476?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 09 Mar 2022 08:03:42 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠서울							<em>03-09 16:35</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/03/09/2022031001000413700028581.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
