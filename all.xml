@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 20:02:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 21:02:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,30 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/08/14676025_768803_1042_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 정국, 콘서트 직후에도 아미 생각뿐 "행복하셨나요?" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220311n02380?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220311n02380?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 10 Mar 2022 21:02:53 GMT</pubDate>
+            <content:encoded><![CDATA[TV리포트							<em>03-11 05:46</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/03/11/a0a3c245-7014-49a5-bda7-4335ab08c59d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 RM "어떤 위기가 찾아와도 방법 찾았다" [MD현장] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220311n01975?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220311n01975?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 10 Mar 2022 21:02:53 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>03-11 05:08</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/03/11/202203110032634458_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 "단체곡으로만 채운 이유? ♥아미 더 보고파" [MD현장] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220311n01644?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220311n01644?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 10 Mar 2022 21:02:53 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>03-11 04:56</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/03/11/202203110033879174_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이연복 셰프, BTS 콘서트 직관 인증샷…"화려하고 힘 넘치고 감동의 시간" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220311n01232?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220311n01232?mid=e0608&amp;isq=9009</guid>
@@ -342,30 +366,6 @@
             <pubDate>Thu, 10 Mar 2022 16:03:23 GMT</pubDate>
             <content:encoded><![CDATA[MK스포츠							<em>03-11 00:30</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/03/11/20220311_1646925509.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["집에 돌아왔다" 방탄소년단, 아미들과 감격의 재회…박수로 꽉 채웠다 (종합)[Oh!쎈 현장] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220310n40672?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220310n40672?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 10 Mar 2022 15:04:50 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>03-10 23:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/03/10/202203101938777728_6229e8ce0d6f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 진 "신나는 콘서트…너무 즐거웠어요" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220310n42079?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220310n42079?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 10 Mar 2022 15:04:50 GMT</pubDate>
-            <content:encoded><![CDATA[TV리포트							<em>03-10 23:49</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/03/10/228670d8-6d09-439a-aa5f-bf9bdab11db4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["♥아미가 있는 곳이 진짜 우리집"…방탄소년단, 2년 반 만에 물든 보랏빛 잠실 [MD현장](종합) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220310n40851?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220310n40851?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 10 Mar 2022 15:04:50 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>03-10 23:48</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/03/10/202203101741714764_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
