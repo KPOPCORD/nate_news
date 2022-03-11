@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 20:02:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 21:02:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/11/14677074_770383_5812_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['보고싶어서 어쩔뻔' 방탄소년단(BTS), 아미들과 함께한 월클 콘서트 [MD동영상] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220312n03525?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220312n03525?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 11 Mar 2022 21:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>03-12 05:12</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/03/12/202203111138154416_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이상엽, BTS 콘서트 다녀왔네! "석진아 만나면 큰절 받아" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220312n03207?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220312n03207?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Fri, 11 Mar 2022 07:04:27 GMT</pubDate>
             <content:encoded><![CDATA[스포츠동아							<em>03-11 15:13</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/03/11/112288877.1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뮤직Y] 방탄소년단, 함성 없이도 뜨거웠던 서울콘서트 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220311n16829?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220311n16829?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 11 Mar 2022 06:07:06 GMT</pubDate>
-            <content:encoded><![CDATA[SBS연예뉴스							<em>03-11 15:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/03/11/30000748442_700.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
