@@ -4,7 +4,7 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 13:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 14:02:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,8 +12,16 @@
             <link>https://news.nate.com/view/20220311n13246?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220311n13246?mid=e0608&amp;isq=9009</guid>
             <pubDate>Fri, 11 Mar 2022 04:03:58 GMT</pubDate>
-            <content:encoded><![CDATA[디스패치							<em>03-11 19:37</em>]]></content:encoded>
+            <content:encoded><![CDATA[디스패치							<em>03-11 22:51</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/03/11/509c709b-089a-40c5-b702-dc4ce6699b0c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 3600만 팔로워 韓남자 신기록+'Instagram' 관련 검색어 1위]]></title>
+            <link>https://news.nate.com/view/20220311n31292?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220311n31292?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 11 Mar 2022 14:02:49 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-11 22:39</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/11/14677101_770410_3753_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단 정국, 그림마저 잘생겼네…훈훈 막내의 정석]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 11 Mar 2022 06:07:06 GMT</pubDate>
             <content:encoded><![CDATA[스포츠조선							<em>03-11 14:38</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/03/11/2022031101000669100040111.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[864일의 기다림…방탄소년단, 잠실벌 1만5000 아미 달궜다[종합]]]></title>
-            <link>https://news.nate.com/view/20220310n40771?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220310n40771?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 11 Mar 2022 06:07:06 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-11 14:12</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/10/tn_1646975524217_223433_0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
