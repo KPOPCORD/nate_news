@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 06:07:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 07:04:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리틀 한가인→6세 BTS, 이무진 울게 한 감동 무대는? ('아기싱어')]]></title>
+            <link>https://news.nate.com/view/20220311n20848?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220311n20848?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 11 Mar 2022 07:04:27 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠동아							<em>03-11 15:13</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/03/11/112288877.1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뮤직Y] 방탄소년단, 함성 없이도 뜨거웠던 서울콘서트]]></title>
+            <link>https://news.nate.com/view/20220311n16829?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220311n16829?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 11 Mar 2022 06:07:06 GMT</pubDate>
+            <content:encoded><![CDATA[SBS연예뉴스							<em>03-11 15:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/03/11/30000748442_700.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 뷔 자작곡 'Snow Flower', 유튜브 4900만 스트리밍 돌파…'김태형표 힐링 캐롤']]></title>
             <link>https://news.nate.com/view/20220311n03622?mid=e0608&amp;isq=9009</link>
@@ -64,14 +80,6 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/11/14676938_770213_4759_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[뮤직Y] 방탄소년단, 함성 없이도 뜨거웠던 서울콘서트]]></title>
-            <link>https://news.nate.com/view/20220311n16829?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220311n16829?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 11 Mar 2022 06:07:06 GMT</pubDate>
-            <content:encoded><![CDATA[SBS연예뉴스							<em>03-11 13:31</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/03/11/30000748442_700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[TD영상] 방탄소년단, 2년 반 만에 국내 아미와의 만남 '보고싶었어!']]></title>
             <link>https://news.nate.com/view/20220311n16801?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220311n16801?mid=e0608&amp;isq=9009</guid>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 11 Mar 2022 04:03:58 GMT</pubDate>
             <content:encoded><![CDATA[스포츠동아							<em>03-11 12:11</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/03/11/112285888.1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나 뚫고 잠실에 뜬 방탄소년단 'BTS 아미들의 물결' [포토엔HD 화보]]]></title>
-            <link>https://news.nate.com/view/20220311n14648?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220311n14648?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 11 Mar 2022 04:03:58 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>03-11 12:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/11/202203111153525510_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
