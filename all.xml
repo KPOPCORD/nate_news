@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 09:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 10:03:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/08/14676025_768803_1042_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 정국, 그림마저 잘생겼네…훈훈 막내의 정석 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220311n26080?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220311n26080?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 11 Mar 2022 10:03:03 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>03-11 17:28</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/03/11/202203111709844173_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 '상남자' 뮤직비디오, 유튜브 조회수 4억뷰 돌파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220311n25502?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220311n25502?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 11 Mar 2022 10:03:03 GMT</pubDate>
+            <content:encoded><![CDATA[스포티비뉴스							<em>03-11 17:09</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2022/03/11/509743_713129_70.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS:방탄소년단, 가수와 관객이 한자리에~ 마음을 정화 시켜준 보라빛 박수…[뉴스엔TV] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220311n24478?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220311n24478?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Fri, 11 Mar 2022 06:07:06 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>03-11 14:12</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/10/tn_1646975524217_223433_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔 자작곡 'Snow Flower', 유튜브 스트리밍 4100만 돌파…'아름다운 힐링' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220311n17392?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220311n17392?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 11 Mar 2022 06:07:06 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-11 13:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/11/14676942_770218_4926_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국 '서울 콘서트'서 무대 씹어 먹는 라이브 퍼포먼스 제왕 귀환+역대급 천상계 비주얼→'전세계 실트 1위' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220311n17353?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220311n17353?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 11 Mar 2022 06:07:06 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-11 13:49</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/11/14676938_770213_4759_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
