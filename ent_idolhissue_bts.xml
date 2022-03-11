@@ -4,7 +4,7 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 15:04:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 16:04:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,8 +12,16 @@
             <link>https://news.nate.com/view/20220311n13246?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220311n13246?mid=e0608&amp;isq=9009</guid>
             <pubDate>Fri, 11 Mar 2022 04:03:58 GMT</pubDate>
-            <content:encoded><![CDATA[디스패치							<em>03-11 22:51</em>]]></content:encoded>
+            <content:encoded><![CDATA[디스패치							<em>03-11 23:54</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/03/11/509c709b-089a-40c5-b702-dc4ce6699b0c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방시혁·피독, 연예계 저작권 부자 1위…역시 방탄소년단 효과(연중 라이브)]]></title>
+            <link>https://news.nate.com/view/20220311n31653?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220311n31653?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 11 Mar 2022 16:04:22 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>03-11 23:20</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/11/202203112315526710_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단 뷔, 3600만 팔로워 韓남자 신기록+'Instagram' 관련 검색어 1위]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 11 Mar 2022 06:07:06 GMT</pubDate>
             <content:encoded><![CDATA[티브이데일리							<em>03-11 14:42</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/03/11/1628515.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 초콜릿, 7일부터 화이트데이 이벤트 진행]]></title>
-            <link>https://news.nate.com/view/20220311n19399?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220311n19399?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 11 Mar 2022 06:07:06 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>03-11 14:38</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/03/11/2022031101000669100040111.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
