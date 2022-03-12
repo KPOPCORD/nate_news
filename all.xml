@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 11:02:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 12:08:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/11/14677074_770383_5812_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 진도 빠진 포켓몬빵…"첫 스티커" 인증 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220312n13438?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220312n13438?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 12 Mar 2022 12:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>03-12 19:44</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/12/2022031218384610685_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단, 3월 보이그룹 브랜드평판 1위 차지 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220312n11839?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220312n11839?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sat, 12 Mar 2022 01:54:16 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-12 09:50</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/12/14677137_770462_4841_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 3월 보이그룹 브랜드평판서 1위. '2위 비투비' 상승세 뚜렷 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220312n06122?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220312n06122?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 12 Mar 2022 01:54:16 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>03-12 09:21</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/03/12/2022031301000691900041671.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
