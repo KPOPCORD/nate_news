@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 02:28:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 03:04:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/11/14677074_770383_5812_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['함성 없이도 쩔어'…방탄소년단X아미, 불타오르네 [TD현장] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220311n18822?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220311n18822?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 12 Mar 2022 03:04:04 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>03-12 11:40</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/03/11/1628515.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS, 3월 보이그룹 브랜드평판 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220312n07969?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220312n07969?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 12 Mar 2022 03:04:04 GMT</pubDate>
+            <content:encoded><![CDATA[스타in							<em>03-12 11:32</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/03/12/PS22031200019.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단, 3월 보이그룹 브랜드평판 1위…2위 비투비 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220312n07277?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220312n07277?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Sat, 12 Mar 2022 00:21:46 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>03-12 08:00</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/12/1646959979457538.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['본업 천재' 방탄소년단 지민, 숨만 쉬어도 미친듯 섹시…'PTD' 1일차 아이코닉 10가지 순간 외신들 조명 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220312n05163?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220312n05163?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 12 Mar 2022 00:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-12 07:59</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/12/2022031207555457580_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["JIN이 좋아요" 방탄소년단 진, 스포츠 스타들의 뜨거운 '최애' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220312n04965?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220312n04965?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 11 Mar 2022 23:02:31 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-12 07:33</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/12/2022031207181059733_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
