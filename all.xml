@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 08:04:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 09:03:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/11/14677074_770383_5812_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단, 3월 보이그룹 브랜드평판 1위 차지 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220312n11839?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220312n11839?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 12 Mar 2022 09:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[스타데일리뉴스							<em>03-12 16:37</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/03/12/317485_364594_3613.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["I PURPLE YOU" 방탄소년단 지민, 아미 향한 각별한 ♥ [스타IN★] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220312n10644?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220312n10644?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sat, 12 Mar 2022 01:54:16 GMT</pubDate>
             <content:encoded><![CDATA[스포츠조선							<em>03-12 09:21</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/03/12/2022031301000691900041671.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 오늘(12일) 2회차 공연…'라이브 뷰잉' 전 세계 생중계[MK이슈] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220312n06069?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220312n06069?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 12 Mar 2022 01:54:16 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>03-12 09:16</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/03/12/20220312_5111772_1647043958.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
