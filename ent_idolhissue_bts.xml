@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 03:04:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 04:05:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 정국=반박불가 황금막내…코로나도 도망갈 완벽 미모]]></title>
+            <link>https://news.nate.com/view/20220312n08701?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220312n08701?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 12 Mar 2022 04:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>03-12 12:46</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/03/12/202203121235776482_622c174add966.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['함성 없이도 쩔어'…방탄소년단X아미, 불타오르네 [TD현장]]]></title>
             <link>https://news.nate.com/view/20220311n18822?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 12 Mar 2022 00:21:46 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>03-12 08:30</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/12/2022031113521722734_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[댄서 류재준 밝힌 #방탄소년단 #NCT #엑소 #펜타곤 안무 비화 [엑's 인터뷰③]]]></title>
-            <link>https://news.nate.com/view/20220312n05189?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220312n05189?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 12 Mar 2022 00:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>03-12 08:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/12/1646959979457538.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
