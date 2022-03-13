@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 06:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 07:02:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,30 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/11/14677074_770383_5812_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 'N.O' 뮤직비디오 1억뷰, 통산 36번째 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220313n11675?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220313n11675?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 13 Mar 2022 07:02:28 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>03-13 15:46</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/03/13/131628665.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 'N.O' 뮤비, 1억뷰 돌파 '통산 36번째' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220313n11158?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220313n11158?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 13 Mar 2022 07:02:28 GMT</pubDate>
+            <content:encoded><![CDATA[스타in							<em>03-13 15:24</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/03/13/PS22031300038.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 'N.O' 뮤비도 1억뷰 돌파! '통산 36번째' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220313n10803?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220313n10803?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 13 Mar 2022 07:02:28 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠서울							<em>03-13 15:10</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/03/13/2022031301000545100038561.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[벌써 36번째…방탄소년단, 'N.O' 뮤직비디오 1억 뷰 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220313n10410?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220313n10410?mid=e0608&amp;isq=9009</guid>
@@ -342,30 +366,6 @@
             <pubDate>Sun, 13 Mar 2022 05:08:33 GMT</pubDate>
             <content:encoded><![CDATA[마이데일리							<em>03-13 14:00</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/03/13/202203131317776077_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 서울 콘서트 생중계…세계 3,711개 영화관 동시 상영 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220313n08860?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220313n08860?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 13 Mar 2022 05:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[디스패치							<em>03-13 14:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/03/13/680fa7f8-6485-4d20-ba3f-0d3c4a95639b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 서울 콘서트, 전 세계 3711개 극장서도 중계 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220313n08633?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220313n08633?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 13 Mar 2022 05:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[스타in							<em>03-13 13:47</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/03/13/PS22031300032.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 콘서트 2일차, 전 세계 75개국 보랏빛으로 물들어 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220313n08582?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220313n08582?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 13 Mar 2022 05:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[일간스포츠							<em>03-13 13:45</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/03/13/0d9d554c-9454-4711-9b2c-7680a8b2c291.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
