@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 21:02:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 22:02:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["난 아미의 팬" 방탄소년단 진, '아미하트♥' 러블리 팬사랑꾼]]></title>
+            <link>https://news.nate.com/view/20220314n03431?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220314n03431?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 13 Mar 2022 22:02:46 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>03-14 06:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/14/2022031406483564156_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 서울공연,전 세계 극장 생중계 티켓 수입 400억원 돌파]]></title>
+            <link>https://news.nate.com/view/20220314n03307?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220314n03307?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 13 Mar 2022 22:02:46 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠서울							<em>03-14 06:39</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/03/14/2022031401000570300040441.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS도 "'포켓몬빵' 더 팔아주세요", SPC삼립 "생산라인 24시간 가동 중"]]></title>
             <link>https://news.nate.com/view/20220314n02521?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sun, 13 Mar 2022 08:03:52 GMT</pubDate>
             <content:encoded><![CDATA[스포츠조선							<em>03-13 16:28</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/03/13/2022031301000767500046611.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 2일차 공연, 75개 국가·3711개 영화관 동시 상영]]></title>
-            <link>https://news.nate.com/view/20220313n12542?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220313n12542?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 13 Mar 2022 08:03:52 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>03-13 16:27</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/03/13/20220313_5112254_1647156307.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 'N.O' 뮤직비디오 1억 뷰 돌파…통산 36번째 억대 뷰 [공식]]]></title>
-            <link>https://news.nate.com/view/20220313n12308?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220313n12308?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 13 Mar 2022 08:03:52 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>03-13 16:16</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/03/13/202203131611231117_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
