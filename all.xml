@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 15:02:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 16:04:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/11/14677074_770383_5812_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단, 29개월 만의 국내 콘서트 마무리 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220313n18368?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220313n18368?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 13 Mar 2022 16:04:34 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>03-14 00:16</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/03/13/131628676.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 'N.O' MV 1억뷰 돌파…통산 '36번째' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220313n16976?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220313n16976?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sun, 13 Mar 2022 08:03:52 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>03-13 16:10</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/13/1647154142777721.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 'N.O' 뮤직비디오 1억뷰, 통산 36번째 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220313n11675?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220313n11675?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 13 Mar 2022 07:02:28 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>03-13 15:46</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/03/13/131628665.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
