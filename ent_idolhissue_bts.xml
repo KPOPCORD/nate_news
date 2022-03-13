@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 12:08:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 13:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 'N.O' MV 1억뷰 돌파…통산 '36번째']]></title>
+            <link>https://news.nate.com/view/20220313n16976?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220313n16976?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 13 Mar 2022 13:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[K STAR							<em>03-13 21:40</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kb/2022/03/13/new_news__20220313213818_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[150분 무함성·무기립에도 뜨거웠다…BTS "다음엔 탈진할 때까지"]]></title>
+            <link>https://news.nate.com/view/20220313n16357?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220313n16357?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 13 Mar 2022 13:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[스타투데이							<em>03-13 20:55</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/03/13/20220313_5112463_1647172095.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['황제' 방탄소년단, 통산 36번째 1억 뷰 MV 탄생]]></title>
             <link>https://news.nate.com/view/20220313n15521?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sun, 13 Mar 2022 07:02:28 GMT</pubDate>
             <content:encoded><![CDATA[티브이데일리							<em>03-13 15:46</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/03/13/131628665.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 'N.O' 뮤비, 1억뷰 돌파 '통산 36번째']]></title>
-            <link>https://news.nate.com/view/20220313n11158?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220313n11158?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 13 Mar 2022 07:02:28 GMT</pubDate>
-            <content:encoded><![CDATA[스타in							<em>03-13 15:24</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/03/13/PS22031300038.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 'N.O' 뮤비도 1억뷰 돌파! '통산 36번째']]></title>
-            <link>https://news.nate.com/view/20220313n10803?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220313n10803?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 13 Mar 2022 07:02:28 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠서울							<em>03-13 15:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/03/13/2022031301000545100038561.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
