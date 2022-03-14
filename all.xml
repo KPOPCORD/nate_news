@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 10:03:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 11:02:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/11/14677081_770390_30_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["인도에서 BTS 만큼 인기 있어요?" 카바디 국대 이장군의 센스 답변('피는 못속여') (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220314n34848?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220314n34848?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 14 Mar 2022 11:02:10 GMT</pubDate>
+            <content:encoded><![CDATA[스포티비뉴스							<em>03-14 18:28</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2022/03/14/510310_713855_2550.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[롯데시네마, 스크린에서 만나는 방탄소년단…'아미밤 상영회' 성료 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220314n34704?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220314n34704?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 14 Mar 2022 11:02:10 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>03-14 18:21</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/14/1647249506482949.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단, 수어 통역 콘서트…김이나 "유난히 감동적이었다" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220314n24731?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220314n24731?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Mon, 14 Mar 2022 05:30:29 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-14 14:01</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/14/14677481_771059_597_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["두려웠다" 방탄소년단, 10년째 무뎌지지 않은 마음[뮤직와치] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220314n21376?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220314n21376?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 14 Mar 2022 05:30:29 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>03-14 13:54</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/14/202203141124370410_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS, 청각장애 팬들 위한 '수어 통역 콘서트'…김이나 "감동" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220314n20841?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220314n20841?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 14 Mar 2022 05:30:29 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>03-14 13:44</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/14/1647232923636997.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
