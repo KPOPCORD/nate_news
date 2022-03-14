@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 15:03:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 16:06:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 지민, 홀릴 듯한 매혹적 눈빛 '독보적 분위기']]></title>
+            <link>https://news.nate.com/view/20220315n00505?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220315n00505?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 14 Mar 2022 16:06:08 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠한국							<em>03-15 01:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2022/03/15/kda20220315005631_O_01_C_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['Stage Genious' 방탄소년단 뷔, 구글 검색 1위∙콘서트 사진 1000만 '좋아요' 서울콘 최고 화제]]></title>
             <link>https://news.nate.com/view/20220314n38596?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 14 Mar 2022 05:30:29 GMT</pubDate>
             <content:encoded><![CDATA[스포츠월드							<em>03-14 14:38</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/03/14/20220314510321.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 일본 골드디스크 10관왕…역대 해외 가수 '최다']]></title>
-            <link>https://news.nate.com/view/20220314n23720?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220314n23720?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 14 Mar 2022 08:06:51 GMT</pubDate>
-            <content:encoded><![CDATA[TV리포트							<em>03-14 14:31</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/03/14/6a2ed2a5-f261-413b-b24a-76a339e0ad0f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
