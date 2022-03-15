@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 15:02:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 16:03:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["김태리 성덕 됐다" 방탄소년단 정국, '스물다섯 스물하나' 시청 인증]]></title>
+            <link>https://news.nate.com/view/20220316n00395?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220316n00395?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 15 Mar 2022 16:03:10 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-16 00:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/16/14677945_771738_2835_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 4월 '그래미 어워드' 라이브 무대 확정…첫 수상 도전[공식]]]></title>
             <link>https://news.nate.com/view/20220315n38588?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 15 Mar 2022 08:08:14 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>03-15 14:29</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/15/1647317653198905.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['음주운전' 박시연, 방탄소년단 콘서트 관람 "많이 좋아해요" [스타엿보기]]]></title>
-            <link>https://news.nate.com/view/20220315n21925?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220315n21925?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 15 Mar 2022 08:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠투데이							<em>03-15 14:22</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/03/15/15_782292_95907.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
