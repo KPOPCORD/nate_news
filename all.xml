@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 09:02:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 10:05:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/11/14677086_770395_530_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS '봄날'도 봄철 스테디셀러 '벚꽃엔딩' 이어 대한민국 대표 봄노래 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220315n33435?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220315n33435?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 15 Mar 2022 10:05:52 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>03-15 18:29</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/03/15/d6aaca7f-fe9c-4f03-985b-2e9d597387f5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["제발 더 팔아줘요"…BTS→브브걸, 스타들도 '포켓몬빵' 홀릭 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220315n30875?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220315n30875?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Tue, 15 Mar 2022 04:08:46 GMT</pubDate>
             <content:encoded><![CDATA[스포츠경향							<em>03-15 13:27</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/03/15/l_2022031502000857100166612.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['국민 성우' 안지환, BTS 수업 일화 대방출…성우 유망 멤버 누구? ('라스') (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220315n18260?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220315n18260?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 15 Mar 2022 08:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>03-15 13:16</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/03/15/202203151308267773_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
