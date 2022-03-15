@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 19:02:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 21:02:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/11/14677086_770395_530_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 지민 '세렌디피티' 스포티파이 2억 9000만 달성 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220316n01412?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220316n01412?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 15 Mar 2022 21:02:06 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>03-16 04:18</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/16/2022031602204135713_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 정국, 김태리 보면서 피식~ 김태리씨, '성덕' 부럽소! (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220316n01411?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220316n01411?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 15 Mar 2022 21:02:06 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>03-16 04:18</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/03/16/202203160044771892_6230b727c99bb.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA["김태리 성덕 됐다" 방탄소년단 정국, '스물다섯 스물하나' 시청 인증 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220316n00395?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220316n00395?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Tue, 15 Mar 2022 08:08:14 GMT</pubDate>
             <content:encoded><![CDATA[스포티비뉴스							<em>03-15 14:48</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2022/03/15/510395_713961_110.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['음주운전' 박시연, BTS 콘서트 관람 인증…"많이 좋아해요" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220315n23476?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220315n23476?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 15 Mar 2022 08:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>03-15 14:46</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/03/15/20220315_5114208_1647322778.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안지환 "BTS에 더빙 교육, 뿌듯"…멤버들 중 성우 유망주는? (라스) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220315n22448?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220315n22448?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 15 Mar 2022 08:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>03-15 14:29</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/15/1647317653198905.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
