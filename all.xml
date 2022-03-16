@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 09:02:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 10:02:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/03/16/4f36bcc5-ef6f-4c8a-81e8-11c21d0adda1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단, 빌보드 핫트렌딩 송즈 톱10 6곡 '차트 점령'[종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220316n34781?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220316n34781?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 16 Mar 2022 10:02:56 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>03-16 18:30</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/16/2022031618213671392_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단, 비빔밥 플렉스…스포티파이 10억 스트리밍 인증 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220316n32468?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220316n32468?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Wed, 16 Mar 2022 03:11:56 GMT</pubDate>
             <content:encoded><![CDATA[SBS연예뉴스							<em>03-16 11:51</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/03/16/30000749337_700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, '2022 그래미 어워드' 퍼포머 합류…3년 연속 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220316n16056?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220316n16056?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 16 Mar 2022 03:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[더팩트							<em>03-16 11:23</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2022/03/16/20222011647396214.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
