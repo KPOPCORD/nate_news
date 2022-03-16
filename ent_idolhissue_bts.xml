@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 06:05:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 07:03:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 정국 '스물다섯 스물하나' 9화 한 장면에 웃음 '빵' 애청자 인증→'성덕' 된 김태리]]></title>
+            <link>https://news.nate.com/view/20220316n27267?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220316n27267?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 16 Mar 2022 07:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-16 15:35</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/16/14678110_771990_346_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['21세기 팝 아이콘' 방탄소년단, 美 빌보드 '글로벌 200'·'글로벌' 차트에 4곡씩 꾸준히 차트인]]></title>
+            <link>https://news.nate.com/view/20220316n25213?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220316n25213?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 16 Mar 2022 07:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-16 14:57</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/16/14678087_771947_5512_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장민호, 트로트계 BTS의 엄지척 [포토엔HD]]]></title>
             <link>https://news.nate.com/view/20220316n25082?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 16 Mar 2022 02:14:00 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-16 10:32</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/16/14678008_771820_317_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 영앤리치 CEO '김회장'변신…감출 수 없는 장난기]]></title>
-            <link>https://news.nate.com/view/20220316n12403?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220316n12403?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 16 Mar 2022 02:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-16 10:30</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/16/14678004_771815_2920_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국 초절정 '들튀각' 귀여움→민소매 '숨멎' 팔근육 '치명적 반전미'…'명품 조각 비주얼']]></title>
-            <link>https://news.nate.com/view/20220316n12303?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220316n12303?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 16 Mar 2022 02:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-16 10:28</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/16/14678002_771807_2730_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
