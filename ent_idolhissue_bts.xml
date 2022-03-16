@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 08:04:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 09:02:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, 비빔밥 플렉스…스포티파이 10억 스트리밍 인증]]></title>
+            <link>https://news.nate.com/view/20220316n32468?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220316n32468?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 16 Mar 2022 09:02:51 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>03-16 17:23</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/03/16/l_2022031602000968500185943.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 캐릭터 '타이니탄', 집중 타이머에서 유저의 꿈을 응원한다]]></title>
             <link>https://news.nate.com/view/20220316n31250?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 16 Mar 2022 03:11:56 GMT</pubDate>
             <content:encoded><![CDATA[더팩트							<em>03-16 11:23</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2022/03/16/20222011647396214.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["맥도날드도 탐냈는데"…방탄소년단 정국, '알파벳+언더바' 인스타 아이디 바꿨다]]></title>
-            <link>https://news.nate.com/view/20220316n13490?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220316n13490?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 16 Mar 2022 02:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-16 10:47</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/16/14678014_771837_4611_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
