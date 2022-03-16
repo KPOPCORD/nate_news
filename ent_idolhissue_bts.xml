@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 04:03:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 05:02:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, 3년 연속 '그래미 어워드' 퍼포머]]></title>
+            <link>https://news.nate.com/view/20220316n09901?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220316n09901?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 16 Mar 2022 05:02:50 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>03-16 13:06</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/03/16/20220316504243.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 정국, '스물다섯 스물하나'보고 폭소…김태리 '성덕']]></title>
             <link>https://news.nate.com/view/20220316n17644?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 16 Mar 2022 02:14:00 GMT</pubDate>
             <content:encoded><![CDATA[TV리포트							<em>03-16 10:22</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/03/16/e02bba7e-6f19-4556-81cd-06348f5291cd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 진 'Yours' 스포티파이 누적 스트리밍 5000만 '돌파']]></title>
-            <link>https://news.nate.com/view/20220316n11692?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220316n11692?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 16 Mar 2022 02:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-16 10:17</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/16/2022031610095250051_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
