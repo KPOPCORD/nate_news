@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 09:05:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 10:02:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/12/202203121836343510_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[레드벨벳, '필 마이 리듬' 티저…"싱그러운 스프링 퀸" (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20220317n33050?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220317n33050?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Thu, 17 Mar 2022 10:02:27 GMT</pubDate>
+            <content:encoded><![CDATA[디스패치							<em>03-17 17:20</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/03/17/c8251d19-25d1-4d0b-98d7-3e10471d81e2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['컴백' 레드벨벳 티저, 우아한 봄의 여신 자태 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
             <link>https://news.nate.com/view/20220317n10705?mid=e0608&amp;isq=9012</link>
             <guid>https://news.nate.com/view/20220317n10705?mid=e0608&amp;isq=9012</guid>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Mar 2022 08:04:23 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>03-16 16:29</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/16/202203161627511510_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳(Red Velvet)  웬디, 출근길 힙한 패션 [포토엔HD] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20220316n29892?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220316n29892?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 16 Mar 2022 08:04:23 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>03-16 16:27</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/16/202203161626451510_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS는 '디즈니' 저작권 프리패스…안지환, 더빙 교육 에피소드 공개 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
