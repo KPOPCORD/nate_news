@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 06:04:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 07:03:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 리사, 술광고는 위법?…태국 당국 조사 나섰다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
+            <link>https://news.nate.com/view/20220318n22803?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20220318n22803?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Fri, 18 Mar 2022 07:02:31 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-18 15:22</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/18/14678630_772859_1942_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 제니, 꽃보다 아름다운 근황…군살 없는 한줌 개미허리 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
             <link>https://news.nate.com/view/20220317n31825?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 12 Mar 2022 10:02:22 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>03-12 18:39</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/12/202203121838303510_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 제니 '헤드폰 손에 들고 힙하게'[포토엔HD] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
-            <link>https://news.nate.com/view/20220312n12886?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20220312n12886?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Sat, 12 Mar 2022 10:02:22 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>03-12 18:37</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/12/202203121836343510_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레드벨벳, 21일 유튜브 생방송 '팬들과 컴백 카운트다운' (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
