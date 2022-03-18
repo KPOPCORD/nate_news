@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 05:02:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 06:04:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['1억 눈앞' 방탄소년단 지민 '필터' 유튜브 9000만 넘었다]]></title>
+            <link>https://news.nate.com/view/20220318n19402?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220318n19402?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 18 Mar 2022 06:04:10 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>03-18 14:07</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/18/tn_1647580024338_960625_0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 정국 자작곡 '스틸 위드 유' 소속사 후배 TXT 연준도 꽂혀→프리 댄스 선보여…"노래 진짜 좋아"]]></title>
             <link>https://news.nate.com/view/20220318n15937?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 17 Mar 2022 23:02:43 GMT</pubDate>
             <content:encoded><![CDATA[티브이데일리							<em>03-18 07:40</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/03/18/181629354.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 日인기랭킹 50주 연속 1위 '大기록'…태태랜드 원톱 인기]]></title>
-            <link>https://news.nate.com/view/20220318n04035?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220318n04035?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 17 Mar 2022 23:02:43 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-18 07:39</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/18/2022031807364034820_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
