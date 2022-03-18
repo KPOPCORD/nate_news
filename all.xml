@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 00:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 02:12:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/12/202203121836343510_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[레드벨벳, 21일 유튜브 생방송 '팬들과 컴백 카운트다운' (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20220318n09910?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220318n09910?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Fri, 18 Mar 2022 02:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>03-18 10:14</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/18/202203181011490410_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[레드벨벳, '필 마이 리듬' 티저…"싱그러운 스프링 퀸" (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
             <link>https://news.nate.com/view/20220317n33050?mid=e0608&amp;isq=9012</link>
             <guid>https://news.nate.com/view/20220317n33050?mid=e0608&amp;isq=9012</guid>
@@ -240,12 +248,28 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/16/202203161628501510_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레드벨벳(Red Velvet)  웬디, 봄 패션이 잘 어울리는 가수 [포토엔HD] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20220316n29985?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220316n29985?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 16 Mar 2022 08:04:23 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>03-16 16:29</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/16/202203161627511510_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[방탄소년단 뷔, 美빌보드 "BTS V 믹스테이프 발매 예정"…'KTH1 IS COMING'월와트렌드 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220318n08837?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220318n08837?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 18 Mar 2022 02:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-18 09:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/18/14678562_772730_5223_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['4色 연기 천재' 방탄소년단 지민, 입덕 부르는 만년돌 '네컷'…핑크 선글라스로 시선 올킬❤ (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220318n08805?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220318n08805?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 18 Mar 2022 02:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-18 09:52</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/18/14678561_772727_5111_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 정국 'Stay Alive' 스포티파이 '글로벌 차트' 韓남자 솔로곡 '최장' 차트인 1위…'롱런' 음원 강자의 위력 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220318n08751?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220318n08751?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 18 Mar 2022 02:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-18 09:51</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/18/14678560_772718_4916_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안지환 성우, "BTS 진, 성우 연기 진짜 잘해" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -342,30 +366,6 @@
             <pubDate>Thu, 17 Mar 2022 23:02:43 GMT</pubDate>
             <content:encoded><![CDATA[스포츠조선							<em>03-18 07:24</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/03/17/2022031901001113500067851.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KTH1이 온다…방탄소년단 뷔 "올해 안에는 낼 거예요!" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220318n03640?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220318n03640?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 17 Mar 2022 23:02:43 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-18 07:19</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/18/2022031807142583337_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['포즈장인 만년돌♥' 방탄소년단 지민, 큐티·섹시·러블리 '무한매력' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220318n03422?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220318n03422?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 17 Mar 2022 23:02:43 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-18 07:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/18/2022031806561344840_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, 韓남자 아이돌 최초·유일 솔로 2곡 70만 샤잠 '신기록'…비교불가 음원 파워 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220318n03277?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220318n03277?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 17 Mar 2022 23:02:43 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-18 07:03</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/18/2022031806572773018_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
