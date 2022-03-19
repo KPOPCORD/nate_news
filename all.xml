@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 13:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 14:02:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/16/202203161628501510_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["Record Setter V" 방탄소년단 뷔 'Christmas Tree' 스포티파이 7500만 스트리밍 돌파…최단 기록 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220319n12041?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220319n12041?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 19 Mar 2022 14:02:32 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-19 22:23</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/19/14678808_773161_2237_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 정국 인스타 '무물' 소통, 글로벌 팬들 아우르는 '주접·드립' 대잔치 "향 뭐 살까요?…6시내고향"→전세계 실트 1위+80개국 실트 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220319n12028?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220319n12028?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 19 Mar 2022 14:02:32 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-19 22:22</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/19/14678807_773159_2115_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 측 "진, 손가락 봉합 수술 진행…회복에 전념할 예정"(전문)[공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220319n10831?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220319n10831?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Sat, 19 Mar 2022 06:03:37 GMT</pubDate>
             <content:encoded><![CDATA[스타in							<em>03-19 14:16</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/03/19/PS22031900035.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 진, 손가락 봉합 수술 "퇴원 후 휴식 중" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220319n06932?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220319n06932?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 19 Mar 2022 06:03:37 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠한국							<em>03-19 14:08</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2022/03/19/eun20220319133151_O_01_C_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 진, 왼손 검지 봉합 수술…"당분간 보호대 착용" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220319n07079?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220319n07079?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 19 Mar 2022 06:03:37 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠월드							<em>03-19 13:55</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/03/19/20220319504969.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
