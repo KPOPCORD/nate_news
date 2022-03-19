@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 11:02:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 12:09:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 측 "진, 손가락 봉합 수술 진행…회복에 전념할 예정"(전문)[공식]]]></title>
+            <link>https://news.nate.com/view/20220319n10831?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220319n10831?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 19 Mar 2022 12:09:24 GMT</pubDate>
+            <content:encoded><![CDATA[MK스포츠							<em>03-19 19:56</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/03/19/20220319_1647687004.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 진, 손가락 부상→봉합 수술 "당분간 회복 전념"[공식]]]></title>
             <link>https://news.nate.com/view/20220319n07981?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 19 Mar 2022 06:03:37 GMT</pubDate>
             <content:encoded><![CDATA[스포츠월드							<em>03-19 13:55</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/03/19/20220319504969.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 진, 왼손 검지 부상 "당분간 보호대 착용, 회복 전념" [공식]]]></title>
-            <link>https://news.nate.com/view/20220319n07069?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220319n07069?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 19 Mar 2022 06:03:37 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠서울							<em>03-19 13:54</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/03/19/2022031901000864400062881.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
