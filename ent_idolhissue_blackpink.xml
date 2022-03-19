@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 00:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 02:02:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자레드 레토, "한국에 관심 많아…블랙핑크 제니 좋아한다"]]></title>
+            <link>https://news.nate.com/view/20220319n04982?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20220319n04982?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Sat, 19 Mar 2022 02:02:11 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-19 10:30</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/19/14678752_773049_251_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['연중' 자레드 레토 "팬이었던 블랙핑크 제니 만나, 귀엽고 다정했다"]]></title>
             <link>https://news.nate.com/view/20220318n32639?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 12 Mar 2022 11:01:33 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>03-12 18:57</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/12/202203121856073510_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 제니 '스텝도 없이 나홀로 입국'[포토엔HD]]]></title>
-            <link>https://news.nate.com/view/20220312n13074?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20220312n13074?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Sat, 12 Mar 2022 11:01:33 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>03-12 18:54</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/12/202203121853343510_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
