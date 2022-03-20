@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 07:02:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 08:02:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/16/202203161628501510_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오징어게임+ BTS 쾌거→ '김혜수 동생' 김동현 폭행까지[스타#업앤다운] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220320n12819?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220320n12819?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 20 Mar 2022 08:02:50 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠서울							<em>03-20 16:47</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/03/20/20220320010009117000661611.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["♥아미가 있는 곳이 진짜 우리집"…방탄소년단, 2년 반 만에 물든 보랏빛 잠실 [MD현장](종합) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220320n12146?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220320n12146?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 20 Mar 2022 08:02:50 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>03-20 16:16</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/03/20/202203101741714764_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS는 무대 서는데…카녜이, SNS 때문에 '그래미'서 잘렸다 [Oh!llywood] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220320n08612?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220320n08612?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Sun, 20 Mar 2022 00:24:19 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>03-20 08:06</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/20/1647731087655371.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 'Most Handsome Faces Of K-POP' 1위…'미남 타이틀 수집가' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220320n02066?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220320n02066?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 20 Mar 2022 00:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-20 08:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/20/2022032007592269989_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민, 흰 티만 입어도 화보급 비주얼…예쁜 눈웃음 [리포트:컷] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220320n02059?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220320n02059?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 20 Mar 2022 00:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[TV리포트							<em>03-20 08:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/03/20/363b8ab0-0fd2-418d-879a-2429aa62bb49.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
