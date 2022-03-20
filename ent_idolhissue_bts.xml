@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 00:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 02:06:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유튜브 인기 아티스트 1위 아이유…2위 (여자)아이들·3위 방탄소년단·4위 태연·5위 박재범]]></title>
+            <link>https://news.nate.com/view/20220320n04086?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220320n04086?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 20 Mar 2022 02:06:10 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-20 10:18</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/20/14678844_773211_1658_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유튜브 인기곡 1위는 (여자)아이들의 TOMBOY, 박재범·스테이씨·태연·최예나 TOP5…최다곡 진입은 방탄소년단·아이유]]></title>
+            <link>https://news.nate.com/view/20220320n03746?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220320n03746?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 20 Mar 2022 02:06:10 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-20 10:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/20/14678840_773204_125_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 지민, 팬심을 저격하는 눈웃음]]></title>
             <link>https://news.nate.com/view/20220320n02580?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 19 Mar 2022 23:02:29 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>03-20 07:39</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/20/1647729457142162.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Get Well Soon Jin' 방탄소년단 진 수술 소식에 全세계 '쾌유 기원']]></title>
-            <link>https://news.nate.com/view/20220320n01913?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220320n01913?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 19 Mar 2022 23:02:29 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-20 07:33</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/20/2022032007264256124_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, 퇴근길 막 찍어도 잘생김 폭발…치명적 오빠美 '설렘']]></title>
-            <link>https://news.nate.com/view/20220320n01889?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220320n01889?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 19 Mar 2022 23:02:29 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-20 07:26</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/20/2022032007221139257_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
