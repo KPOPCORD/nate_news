@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 15:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 16:03:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["시각 후각 만족"…레드벨벳, 여전히 '4계절 퀸'(종합)]]></title>
+            <link>https://news.nate.com/view/20220322n00123?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220322n00123?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Mon, 21 Mar 2022 16:03:06 GMT</pubDate>
+            <content:encoded><![CDATA[더팩트							<em>03-22 00:04</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2022/03/22/202262771647845459.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이-아이린, '환상의 비주얼 커플' (웬디의 영스트리트 출근길)]]></title>
             <link>https://news.nate.com/view/20220321n36007?mid=e0608&amp;isq=9012</link>
@@ -24,7 +32,7 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/21/14679123_773683_538_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '아이린 깜짝 놀라게 만든 스킨쉽' (웬디의 영스트리트 출근길)]]></title>
+            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '아이린 깜짝 놀라게 만든 스킨십' (웬디의 영스트리트 출근길)]]></title>
             <link>https://news.nate.com/view/20220321n35980?mid=e0608&amp;isq=9012</link>
             <guid>https://news.nate.com/view/20220321n35980?mid=e0608&amp;isq=9012</guid>
             <pubDate>Mon, 21 Mar 2022 13:15:03 GMT</pubDate>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 21 Mar 2022 13:15:03 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-21 20:56</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/21/14679110_773670_5443_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 예리, '조이 언니 오늘 너무 예쁜데?' (웬디의 영스트리트 출근길)]]></title>
-            <link>https://news.nate.com/view/20220321n35767?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220321n35767?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Mon, 21 Mar 2022 12:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-21 20:55</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/21/14679109_773669_547_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
