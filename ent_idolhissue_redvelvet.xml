@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 00:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 02:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드벨벳, 신보 선주문량 51만↑…"스프링 퀸의, 화려한 컴백데이"]]></title>
+            <link>https://news.nate.com/view/20220321n11483?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220321n11483?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Mon, 21 Mar 2022 02:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[디스패치							<em>03-21 10:34</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/03/21/b2cbdf71-335f-4640-8a53-a2d4af450af6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레드벨벳, 선주문량 51만장 돌파…하프 밀리언셀러 예고]]></title>
+            <link>https://news.nate.com/view/20220321n10047?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220321n10047?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Mon, 21 Mar 2022 02:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>03-21 10:09</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/21/202203211007352410_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레드벨벳, 21일 유튜브 생방송 '팬들과 컴백 카운트다운']]></title>
             <link>https://news.nate.com/view/20220318n09910?mid=e0608&amp;isq=9012</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 16 Mar 2022 08:04:23 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>03-16 16:31</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/16/202203161630491510_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳(Red Velvet)  웬디, 봄처럼 아름다워요~ [포토엔HD]]]></title>
-            <link>https://news.nate.com/view/20220316n30076?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220316n30076?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 16 Mar 2022 08:04:23 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>03-16 16:31</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/16/202203161629541510_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳(Red Velvet)  웬디, 뭘 입어도 잘 어울리는 가수 [포토엔HD]]]></title>
-            <link>https://news.nate.com/view/20220316n30033?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220316n30033?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 16 Mar 2022 08:04:23 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>03-16 16:30</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/16/202203161628501510_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
