@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 08:08:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 09:02:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 정국, '사내맞선' 애청자 인증]]></title>
+            <link>https://news.nate.com/view/20220321n31776?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220321n31776?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 21 Mar 2022 09:02:50 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>03-21 17:55</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/03/21/l_2022032102001242700236251.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박서준, '절친' BTS 뷔도 인정한 청바지핏…비율 '어마어마'하네]]></title>
+            <link>https://news.nate.com/view/20220321n29600?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220321n29600?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 21 Mar 2022 09:02:50 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>03-21 17:06</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/03/21/202203211633771779_6238319eb1fbb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하이브 산하 7개 레이블, 美 라스베이거스서 첫 합동 오디션…제 2의 방탄소년단·세븐틴 발굴]]></title>
             <link>https://news.nate.com/view/20220321n27546?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 21 Mar 2022 03:16:39 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-21 11:36</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/21/14678968_773436_3538_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국 'Stay Alive' 韓OST+남자 솔로 '최단' 스포티파이 6000만 스트리밍 달성….K팝 OST 제왕의 파워]]></title>
-            <link>https://news.nate.com/view/20220321n15045?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220321n15045?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 21 Mar 2022 03:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-21 11:35</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/21/14678966_773428_3411_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔라는 '예술'…'얼굴은 명화, 성격은 동화, 인생은 영화']]></title>
-            <link>https://news.nate.com/view/20220321n14977?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220321n14977?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 21 Mar 2022 03:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-21 11:33</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/21/14678965_773424_3223_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
