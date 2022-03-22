@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 15:03:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 17:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단(BTS) 등장하는 세계 유일 멀티미디어쇼 '오버 더 유니버스(Over the Universe)]]></title>
+            <link>https://news.nate.com/view/20220323n00061?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220323n00061?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 22 Mar 2022 17:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>03-23 00:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/03/23/l_2022032202001336300255491.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['방탄소년단 작곡가' 피독, 지난해 보수 400억…저작권료 얼마길래?]]></title>
+            <link>https://news.nate.com/view/20220323n00033?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220323n00033?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 22 Mar 2022 17:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-23 00:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/23/14679402_774072_1737_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 히트곡제조기 피독, 지난해 연봉 400억원 돈방석]]></title>
             <link>https://news.nate.com/view/20220322n36246?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 22 Mar 2022 02:19:02 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>03-22 09:33</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/22/2022032209293278115_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 뷔, 천상계 비주얼로 팬심 저격]]></title>
-            <link>https://news.nate.com/view/20220322n06369?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220322n06369?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 22 Mar 2022 00:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>03-22 08:57</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/22/1647906947931670.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['BTS가 바르사 유니폼 가슴에?' 바르사 새 유니폼 확 바뀌나]]></title>
-            <link>https://news.nate.com/view/20220322n06014?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220322n06014?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 22 Mar 2022 00:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>03-22 08:44</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/03/22/202203220842998782_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
