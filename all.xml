@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 06:09:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 07:03:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/22/14679319_773990_5727_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['BTS 정국 외가' 마을지도 표기, 사생활·인권 침해 vs 관광 활성화 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220323n18071?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220323n18071?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 23 Mar 2022 05:02:30 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>03-23 15:38</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/03/23/l_2022032302001384800264161.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단, 美'아이하트라디오 뮤직 어워드' 2관왕 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220323n24285?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220323n24285?mid=e0608&amp;isq=9009</guid>
@@ -302,14 +310,6 @@
             <pubDate>Wed, 23 Mar 2022 06:09:05 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>03-23 13:49</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/23/1648010925244377.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['BTS 정국 외가' 마을지도 표기, 사생활·인권 침해 vs 관광 활성화 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220323n18071?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220323n18071?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 23 Mar 2022 05:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>03-23 13:16</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/03/23/l_2022032302001369000261071.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단 진, 제302대 기부요정 선정 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
