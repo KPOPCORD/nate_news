@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 21:02:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 22:02:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/23/14679723_774523_649_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 RM, 포켓몬빵에 진심…바인더까지 사서 수집! (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220324n03758?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220324n03758?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 23 Mar 2022 22:02:52 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>03-24 06:25</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/03/24/202203232324773162_623b30be95c96.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 진, 탄생 10700일 기념 '최애돌' 투표수 1위 등극 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220324n03165?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220324n03165?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 23 Mar 2022 22:02:52 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>03-24 06:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/24/1648050228813680.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단-콜드플레이 협업곡 'My Universe', 美 빌보드 '글로벌' 차트 25주 연속 상위권 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220323n39908?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220323n39908?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Wed, 23 Mar 2022 06:09:05 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-23 14:46</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/23/14679558_774317_456_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스윗 감성 충만' 방탄소년단 지민, 달콤 꿀벌 요정에서 꿈결같은 설렘 모먼트까지…모든 순간 퍼펙트 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220323n23128?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220323n23128?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 23 Mar 2022 06:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-23 14:44</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/23/14679555_774307_4337_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국 '프리 파이어' 포토서 '심쿵' 손하트X'은은·달달' 미소→로맨틱 꽃미남 자태…'설렘 주의보' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220323n22999?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220323n22999?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 23 Mar 2022 06:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-23 14:42</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/23/14679542_774297_4115_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
