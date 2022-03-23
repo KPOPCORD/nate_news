@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 14:02:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 15:02:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단-콜드플레이 협업곡 'My Universe', 美 빌보드 '글로벌' 차트 25주 연속 상위권]]></title>
+            <link>https://news.nate.com/view/20220323n39908?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220323n39908?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 23 Mar 2022 15:02:37 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-23 23:44</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/23/14679750_774555_4251_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 프로듀서 피독, 작년 보수 400억 원 넘었다]]></title>
             <link>https://news.nate.com/view/20220323n35502?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 23 Mar 2022 06:09:05 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-23 14:42</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/23/14679542_774297_4115_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 레코드 음악시장 역대 최대 성장…BTS가 견인차]]></title>
-            <link>https://news.nate.com/view/20220323n21004?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220323n21004?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 23 Mar 2022 06:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠동아							<em>03-23 14:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/03/23/112490630.2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
