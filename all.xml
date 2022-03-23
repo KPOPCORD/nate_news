@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 08:08:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 09:03:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,30 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/22/14679319_773990_5727_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS 정국, 지나친 사생활 침해…지도에 집위치까지? (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220323n32398?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220323n32398?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 23 Mar 2022 09:03:53 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>03-23 17:35</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/23/1648021558683320.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[종합] 'BTS 정국 외가' 마을지도 표기, 와글와글 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220323n28575?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220323n28575?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 23 Mar 2022 08:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>03-23 17:04</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/03/23/l_2022032302001396100266181.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['BTS 정국 외가' 마을지도 표기 논란, 무슨 일? (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220323n18071?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220323n18071?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 23 Mar 2022 05:02:30 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>03-23 17:02</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/03/23/l_2022032302001396000266151.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 정국 외가가 관광지?…선 넘은 마을 지도 논란 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220323n30140?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220323n30140?mid=e0608&amp;isq=9009</guid>
@@ -270,22 +294,6 @@
             <pubDate>Wed, 23 Mar 2022 08:08:12 GMT</pubDate>
             <content:encoded><![CDATA[TV리포트							<em>03-23 16:39</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/03/23/450ce407-cefb-4a84-b2d2-420b5fc55716.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['BTS 정국 외가' 마을 지도, 사생활·인권 침해 vs 관광 활성화 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220323n18071?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220323n18071?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 23 Mar 2022 05:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>03-23 16:22</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/03/23/l_2022032302001389300265081.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[종합] BTS 정국, '유명인이니까' 당연히 감당해야 하는가 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220323n28575?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220323n28575?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 23 Mar 2022 08:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>03-23 16:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/03/23/l_2022032302001388100264791.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단, 美'아이하트라디오 뮤직 어워드' 2관왕 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -358,14 +366,6 @@
             <pubDate>Wed, 23 Mar 2022 05:02:30 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>03-23 13:08</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/23/2022032313050836617_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, '2022 아이하트라디오 뮤직 어워드'서 2관왕…'베스트 팬' 5년 연속 수상 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220323n16062?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220323n16062?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 23 Mar 2022 04:04:16 GMT</pubDate>
-            <content:encoded><![CDATA[비즈엔터							<em>03-23 11:46</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2022/03/23/20220323091508_1731067_1080_1080.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
