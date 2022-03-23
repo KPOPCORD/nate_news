@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 10:02:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 11:02:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 프로듀서 피독, 작년 보수 400억 원 넘었다]]></title>
+            <link>https://news.nate.com/view/20220323n35502?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220323n35502?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 23 Mar 2022 11:02:17 GMT</pubDate>
+            <content:encoded><![CDATA[스타in							<em>03-23 19:26</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/03/23/PS22032300157.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS, 미국 '아이하트라디오 뮤직 어워즈' 2관왕]]></title>
             <link>https://news.nate.com/view/20220323n07352?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 23 Mar 2022 06:09:05 GMT</pubDate>
             <content:encoded><![CDATA[스포츠동아							<em>03-23 14:01</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/03/23/112490630.2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NFT 프로젝트 '좀비컬쳐클럽' 4월 중 공개…BTS월드·지우학·두다다쿵 제작사 뭉쳤다]]></title>
-            <link>https://news.nate.com/view/20220323n20399?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220323n20399?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 23 Mar 2022 06:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>03-23 13:49</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/23/1648010925244377.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
