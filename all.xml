@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 02:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 03:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,30 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/19/202203191842383510_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["사랑해요"…김수지 아나운서, 레드벨벳 신곡 'In My Dreams' 작사 소감 전해 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20220323n14420?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220323n14420?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Wed, 23 Mar 2022 03:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-23 11:18</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/23/14679511_774238_164_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레드벨벳 '뮤직뱅크' 출격, 신곡 'Feel My Rhythm' 무대 최초 공개 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20220323n10873?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220323n10873?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Wed, 23 Mar 2022 03:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>03-23 10:21</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/23/202203231018420410_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[TOP영상] 레드벨벳(Red Velvet), 'Feel My Rhythm' 기자간담회 하이라이트 영상(220322 #Feel_My_Rhythm Showcase) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20220323n10048?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220323n10048?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Wed, 23 Mar 2022 03:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-23 10:06</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/23/14679488_774192_356_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '달리는 하트람쥐' (웬디의 영스트리트 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
             <link>https://news.nate.com/view/20220322n29441?mid=e0608&amp;isq=9012</link>
             <guid>https://news.nate.com/view/20220322n29441?mid=e0608&amp;isq=9012</guid>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 22 Mar 2022 09:02:37 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-22 15:58</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/22/14679319_773990_5727_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '겉옷도 없이 온 팬을 발견한 웬디' (웬디의 영스트리트 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20220322n28426?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220322n28426?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Tue, 22 Mar 2022 09:02:37 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-22 15:57</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/22/14679318_773989_5629_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '타이밍 맞춰 착착!' (웬디의 영스트리트 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20220322n28402?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220322n28402?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Tue, 22 Mar 2022 09:02:37 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-22 15:57</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/22/14679317_773988_5555_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '핑크니트에 핑크바지 입고' (웬디의 영스트리트 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20220322n28346?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220322n28346?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Tue, 22 Mar 2022 09:02:37 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-22 15:56</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/22/14679316_773987_5447_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단, 美 '아이하트라디오 뮤직 어워드' 2관왕 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
