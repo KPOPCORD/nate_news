@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 09:02:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 10:03:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['JIMIN 그 자체가 ICON' 방탄소년단 지민, 물방울속 이름만으로 인도 1위→8개국 유튜브 인기 급상승 동영상 점령]]></title>
+            <link>https://news.nate.com/view/20220324n14001?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220324n14001?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 24 Mar 2022 10:03:01 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-24 18:36</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/24/14679806_774695_83_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마마무부터 BTS까지…K-POP 아이돌 OTT 다큐멘터리 열풍]]></title>
+            <link>https://news.nate.com/view/20220324n34315?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220324n34315?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 24 Mar 2022 10:03:01 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>03-24 18:04</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/03/24/20220324510427.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[전문] BTS 제이홉, 美일정 앞두고 코로나19 확진 "재택치료中"]]></title>
             <link>https://news.nate.com/view/20220324n60833?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 24 Mar 2022 07:02:39 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>03-24 15:17</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/24/tn_1648102624726_394380_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 제이홉, 코로나19 확진 "인후통 증상"]]></title>
-            <link>https://news.nate.com/view/20220324n45411?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220324n45411?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 24 Mar 2022 07:02:39 GMT</pubDate>
-            <content:encoded><![CDATA[스타in							<em>03-24 15:07</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/03/24/PS22032400101.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 제이홉, 코로나19 확진 "다른 멤버들은 증세無"]]></title>
-            <link>https://news.nate.com/view/20220324n45196?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220324n45196?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 24 Mar 2022 07:02:39 GMT</pubDate>
-            <content:encoded><![CDATA[SBS연예뉴스							<em>03-24 15:06</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/03/24/30000689589_700.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
