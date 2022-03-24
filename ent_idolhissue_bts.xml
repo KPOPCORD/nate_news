@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 08:08:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 09:02:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[전문] BTS 제이홉, 美일정 앞두고 코로나19 확진 "재택치료中"]]></title>
+            <link>https://news.nate.com/view/20220324n60833?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220324n60833?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 24 Mar 2022 09:02:45 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠조선							<em>03-24 17:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/03/24/2022032401001564300095591.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 제이홉, 코로나19 확진 "재택치료 후 미국 스케줄 합류"]]></title>
+            <link>https://news.nate.com/view/20220324n58360?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220324n58360?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 24 Mar 2022 09:02:45 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠한국							<em>03-24 17:08</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2022/03/24/sjmao20220324170303_O_00_C_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 뷔, 스타랭킹 男 아이돌 3위…상위권 휩쓴 BTS]]></title>
             <link>https://news.nate.com/view/20220324n55915?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 24 Mar 2022 07:02:39 GMT</pubDate>
             <content:encoded><![CDATA[SBS연예뉴스							<em>03-24 15:06</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/03/24/30000689589_700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 제이홉, 코로나 확진 "치료 후 미국 스케줄 합류"(전문)]]></title>
-            <link>https://news.nate.com/view/20220324n45059?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220324n45059?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 24 Mar 2022 07:02:39 GMT</pubDate>
-            <content:encoded><![CDATA[MK스포츠							<em>03-24 15:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/03/24/20220324_1648101788.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 제이홉, 코로나19 확진…"치료 종료 후 스케줄 합류" [전문]]]></title>
-            <link>https://news.nate.com/view/20220324n44059?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220324n44059?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 24 Mar 2022 06:07:59 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠투데이							<em>03-24 14:55</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/03/24/24_784542_89180.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
