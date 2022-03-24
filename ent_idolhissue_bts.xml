@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 04:04:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 05:02:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마마무부터 BTS까지…K-POP 아이돌 OTT 다큐멘터리 열풍]]></title>
+            <link>https://news.nate.com/view/20220324n34315?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220324n34315?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 24 Mar 2022 05:02:45 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>03-24 13:21</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/03/24/20220324510427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마마무, 방탄소년단·블랙핑크·트와이스 아이돌 OTT 다큐 열풍 잇는다]]></title>
+            <link>https://news.nate.com/view/20220324n33497?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220324n33497?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 24 Mar 2022 05:02:45 GMT</pubDate>
+            <content:encoded><![CDATA[스포티비뉴스							<em>03-24 13:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2022/03/24/512307_716517_4156.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['OST킹 예감' 방탄소년단 지민 '목소리 자체가 악기'…日음악전문지 '하늘이 내린' 3色 보컬 극찬 '신곡마다 새 발성']]></title>
             <link>https://news.nate.com/view/20220324n30156?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 24 Mar 2022 02:18:19 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>03-24 09:00</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/24/1648075798429130.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 지민, 남다른 비주얼로 팬심 저격]]></title>
-            <link>https://news.nate.com/view/20220324n06646?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220324n06646?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 24 Mar 2022 02:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>03-24 08:51</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/24/1648076551732678.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔 모교 파노라마 벽화 '뷔로드' 화려한 재탄생 예고…"태형이의 날들이 밝게 빛나기를"]]></title>
-            <link>https://news.nate.com/view/20220324n06475?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220324n06475?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 24 Mar 2022 02:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-24 08:45</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/24/2022032408403494627_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
