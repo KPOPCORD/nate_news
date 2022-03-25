@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 06:05:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 07:02:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스타서베이] 아이돌그룹 '브랜드 파워' 랭킹 MSG워너비 20,760표로 현재 1위…방탄소년단·위아이·트와이스·에이핑크 추격 중]]></title>
+            <link>https://news.nate.com/view/20220325n23192?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220325n23192?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 25 Mar 2022 07:02:43 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-25 15:11</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/25/14680162_775254_923_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["부모님이 편의점 10군데를" 방탄소년단 RM, 포켓몬빵 모은 방법?…미술품 소장도 화제]]></title>
             <link>https://news.nate.com/view/20220325n17899?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 24 Mar 2022 23:02:29 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>03-25 07:24</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/25/2022032507182969004_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, 설렘 지수 폭발 '남친美']]></title>
-            <link>https://news.nate.com/view/20220325n04829?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220325n04829?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 24 Mar 2022 23:02:29 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-25 07:18</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/25/2022032507135293905_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
