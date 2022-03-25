@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 00:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 02:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/19/202203191842383510_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[레드벨벳, 봄꽃처럼 찾아온 '필 마이 리듬' [포토엔HD 스토리] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20220325n08519?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220325n08519?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Fri, 25 Mar 2022 02:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>03-25 09:30</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/25/202203250918555510_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[UHD포토] 레드벨벳(Red Velvet), '필마이리듬 완전체 라디오 출근길' (정오의 희망곡 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
             <link>https://news.nate.com/view/20220324n67444?mid=e0608&amp;isq=9012</link>
             <guid>https://news.nate.com/view/20220324n67444?mid=e0608&amp;isq=9012</guid>
@@ -240,12 +248,44 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/24/14680011_775010_1651_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '가까이서 보니 더 예쁜 비주얼' (정오의 희망곡 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20220324n66099?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220324n66099?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Thu, 24 Mar 2022 10:02:47 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-24 18:17</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/24/14680010_775008_1553_org.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[가온차트 12주차 앨범차트 1위는 스트레이 키즈, (여자)아이들·몬스타엑스 기현·아스트로 문빈&산하·위아이 TOP5…최다앨범 진입은 방탄소년단·스트레이 키즈·투모로우바이투게더 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220325n13281?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220325n13281?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 25 Mar 2022 02:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-25 10:54</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/25/14680123_775200_5234_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 2022년 스포티파이 수록곡 1억 스트리밍 돌파…비교 불가 최강 음원 파워 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220325n10972?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220325n10972?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 25 Mar 2022 02:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-25 10:15</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/25/14680108_775182_1410_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['9관왕 올킬' 방탄소년단 지민, K팝 인기투표 일간•주간•월간 1위→19개월 명예의 전당…신기록 '평정' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220325n10803?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220325n10803?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 25 Mar 2022 02:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-25 10:11</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/25/14680107_775179_953_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["저장을 부르는 남친짤♥" 방탄소년단 정국 '데코 키트' 비하인드서 시크 니트남→꽃받침 애교남…설렘 지수 '폭발' 남친미X잘생쁨 비주얼 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220325n10696?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220325n10696?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 25 Mar 2022 02:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-25 10:09</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/25/14680106_775168_733_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가온차트 12주차 디지털차트 1위는 박재범의 'GANADARA', (여자)아이들·태연·MSG워너비·김민석 TOP5…최다곡 차트진입은 아이유·임영웅·방탄소년단·태연 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220325n10063?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220325n10063?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 25 Mar 2022 02:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-25 09:58</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/25/14680104_775164_5721_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS 정국, 청량섹시 그 자체 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -326,46 +366,6 @@
             <pubDate>Thu, 24 Mar 2022 23:02:29 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>03-25 07:13</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/25/2022032507083559302_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 슈가, 인스타그램 팔로워 3100만 돌파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220325n04736?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220325n04736?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 24 Mar 2022 23:02:29 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-25 07:11</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/25/2022032507044911881_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 2022 스포티파이 수록곡 1억 스트리밍 돌파…최강 음원 파워 '믹스테이프 기대UP' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220325n04515?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220325n04515?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 24 Mar 2022 23:02:29 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-25 07:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/25/2022032506574031945_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 제이홉, 코로나 확진 판정 [연예뉴스 HOT] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220325n04466?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220325n04466?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 24 Mar 2022 23:02:29 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠동아							<em>03-25 06:58</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/03/25/112002710.1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['9관왕' 방탄소년단 지민, K팝 인기투표 케이돌 89주 1위→19개월 1위…'역대급 원톱 인기' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220325n04454?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220325n04454?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 24 Mar 2022 23:02:29 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-25 06:57</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/25/2022032506501988643_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 뷔, 남다른 비주얼로 팬심 저격 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220325n03503?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220325n03503?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 24 Mar 2022 22:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>03-25 06:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/25/1648078897133049.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
