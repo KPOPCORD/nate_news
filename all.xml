@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 02:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 03:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/25/14680280_775428_588_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 정국 솔로 3곡 '틱톡' 인기곡 동시 등극→'Still With You' 4억 8000만뷰…'초강세 인기' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220327n06551?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220327n06551?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 27 Mar 2022 03:12:26 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-27 11:50</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/27/14680450_775773_499_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 뷔, 유명인 다 제치고 '세계미남1위' 입증 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220327n04517?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220327n04517?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sat, 26 Mar 2022 23:03:01 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>03-27 07:26</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/27/1648333489895886.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 아티스트 영감의 원천…뮤즈로 재탄생 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220327n01699?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220327n01699?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 26 Mar 2022 23:03:01 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-27 07:17</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/27/2022032707131226651_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
