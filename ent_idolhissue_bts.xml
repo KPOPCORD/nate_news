@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 16:03:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 17:07:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이찬원, 3월 가수 브랜드 평판 5위…BTS·아이유·임영웅·박재범과 어깨 나란히]]></title>
+            <link>https://news.nate.com/view/20220328n00710?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220328n00710?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 27 Mar 2022 17:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[비즈엔터							<em>03-28 02:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2022/03/28/20220117110843_1709072_733_1100.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['국내외 랭킹 No.1' 방탄소년단 뷔, 메가 인플루언서 1위…男셀럽 최강 '최고의 소셜 영향력']]></title>
             <link>https://news.nate.com/view/20220327n15339?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 27 Mar 2022 02:16:14 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-27 10:21</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/27/14680440_775752_1954_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민, "웃을 때 '눈웃음이 예쁜' 애교장인 아이돌은?" 익디 투표 1위]]></title>
-            <link>https://news.nate.com/view/20220327n03095?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220327n03095?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 27 Mar 2022 02:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-27 09:26</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/27/14680433_775744_2521_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
