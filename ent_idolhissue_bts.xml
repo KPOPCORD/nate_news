@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 08:04:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 09:02:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전 세계에서 10번째…방탄소년단 뷔가 세운 기록]]></title>
+            <link>https://news.nate.com/view/20220327n14246?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220327n14246?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 27 Mar 2022 09:02:50 GMT</pubDate>
+            <content:encoded><![CDATA[TV리포트							<em>03-27 17:52</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/03/27/18335713-a7c0-4785-8f01-e9ec880094b1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] 방탄소년단, 28일 '미국정복' 출정]]></title>
             <link>https://news.nate.com/view/20220327n11083?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 27 Mar 2022 00:28:37 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>03-27 08:48</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/27/tn_1648338483698_736632_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 슈가 어거스트디 'D-2' 스포티파이 5억 1600만…빛나는 인기]]></title>
-            <link>https://news.nate.com/view/20220327n02464?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220327n02464?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 27 Mar 2022 00:28:37 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-27 08:47</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/27/2022032708445354744_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
