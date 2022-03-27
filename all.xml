@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 06:05:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 07:02:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/25/14680280_775428_588_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독] 방탄소년단, 28일 '미국정복' 출정 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220327n11083?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220327n11083?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 27 Mar 2022 07:02:46 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>03-27 15:28</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/03/27/l_2022032702001589000304911.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스타서베이] 아이돌그룹 '브랜드 파워' 랭킹 MSG워너비 37,110표로 현재 1위…엔하이픈·방탄소년단·위아이·에이핑크 추격 중 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220327n10751?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220327n10751?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 27 Mar 2022 07:02:46 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-27 15:14</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/27/14680471_775820_1332_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["예술가들의 픽♥" 방탄소년단 뷔, 영감의 원천이 되다 "역시 뷔는 만인의 뮤즈지" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220327n08279?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220327n08279?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Sun, 27 Mar 2022 00:28:37 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>03-27 08:47</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/27/2022032708445354744_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 슈가 어거스트디 'D-2' 스포티파이 5억 1500만…인기ing (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220326n02841?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220326n02841?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 27 Mar 2022 00:28:37 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-27 08:46</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/26/tn_1648338364298_289888_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["아미 생각♥" 방탄소년단 정국, 남다른 팬사랑 '아미 바라기' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220327n02313?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220327n02313?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 27 Mar 2022 00:28:37 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-27 08:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/27/2022032708282425499_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
