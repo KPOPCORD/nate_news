@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 09:02:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 10:02:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/25/14680280_775428_588_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 뷔, 인스타그램 좋아요 1900만 달성…아시아 최초 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220327n15084?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220327n15084?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 27 Mar 2022 10:02:46 GMT</pubDate>
+            <content:encoded><![CDATA[스타투데이							<em>03-27 18:38</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/03/27/20220327_5124643_1648373797.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전 세계에서 10번째…방탄소년단 뷔가 세운 기록 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220327n14246?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220327n14246?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sun, 27 Mar 2022 00:28:37 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>03-27 08:53</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/27/2022032708501948333_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['대륙의 왕자' 방탄소년단 뷔, 中바이두 바이크 '세계 미남 1위' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220327n02436?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220327n02436?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 27 Mar 2022 00:28:37 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-27 08:48</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/27/tn_1648338483698_736632_0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
