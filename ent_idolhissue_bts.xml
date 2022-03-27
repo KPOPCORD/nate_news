@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 21:01:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 22:02:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 진 필리핀 팬들 'Moon' 2주년 기념 혹동고래 입양…선한 영향력 실천]]></title>
+            <link>https://news.nate.com/view/20220328n03291?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220328n03291?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 27 Mar 2022 22:02:27 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>03-28 06:51</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/28/2022032806470825381_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 래퍼 스눕독 'BTS와 협업곡 만든다']]></title>
+            <link>https://news.nate.com/view/20220328n03113?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220328n03113?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 27 Mar 2022 22:02:27 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠서울							<em>03-28 06:39</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/03/28/2022032801001286000094891.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이찬원, 3월 가수 브랜드 평판 5위…BTS·아이유·임영웅·박재범과 어깨 나란히]]></title>
             <link>https://news.nate.com/view/20220328n00710?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sun, 27 Mar 2022 03:12:26 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-27 11:50</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/27/14680450_775773_499_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 유명인 다 제치고 '세계미남1위' 입증]]></title>
-            <link>https://news.nate.com/view/20220327n04517?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220327n04517?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 27 Mar 2022 02:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>03-27 10:30</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/03/27/l_2022032702001572800301761.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜브 인기 아티스트 1위 (여자)아이들…2위 아이유·3위 레드벨벳·4위 방탄소년단·5위 태연]]></title>
-            <link>https://news.nate.com/view/20220327n04310?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220327n04310?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 27 Mar 2022 02:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-27 10:21</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/27/14680440_775752_1954_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
