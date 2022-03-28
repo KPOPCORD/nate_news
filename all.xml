@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 04:05:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 05:02:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,30 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/25/14680282_775430_599_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤여정 감동 시상·BTS 깜짝 등장→윌 스미스 무대 난입 폭행 [2022 오스카] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220328n21263?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220328n21263?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 28 Mar 2022 05:02:51 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>03-28 13:32</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/28/2022032812555466300_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["영화 '코코' 보고 많이 울어"…BTS, 아카데미 VCR 등장 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220328n18646?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220328n18646?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 28 Mar 2022 04:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[SBS연예뉴스							<em>03-28 13:11</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/03/28/30000751637_700.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS, 아카데미 시상식 깜짝 등장…"Shout out to, 윌 스미스!" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220328n19828?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220328n19828?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 28 Mar 2022 05:02:51 GMT</pubDate>
+            <content:encoded><![CDATA[디스패치							<em>03-28 13:09</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/03/28/dbb2d298-e12e-4f9a-a24f-deec318a8257.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[Mnet, 제64회 그래미 어워드 독점 생중계…방탄소년단 수상 기대 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220328n19466?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220328n19466?mid=e0608&amp;isq=9009</guid>
@@ -278,14 +302,6 @@
             <pubDate>Mon, 28 Mar 2022 04:05:12 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-28 12:11</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/28/14680605_776024_101_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["영화 '코코' 보고 많이 울어"…BTS, 아카데미 VCR 등장 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220328n18646?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220328n18646?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 28 Mar 2022 04:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[SBS연예뉴스							<em>03-28 12:11</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/03/28/30000751637_700.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단, 아카데미시상식 VCR로 깜짝 등장 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -350,22 +366,6 @@
             <pubDate>Mon, 28 Mar 2022 03:24:43 GMT</pubDate>
             <content:encoded><![CDATA[티브이데일리							<em>03-28 11:38</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/03/28/1630458.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[94회 아카데미] 방탄소년단, 영상으로 깜짝 등장 "디즈니 영화 좋아해" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220328n16486?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220328n16486?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 28 Mar 2022 03:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[일간스포츠							<em>03-28 11:36</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/03/28/3642382c-909d-4bdf-a9c4-74f3faac9f61.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[제94회 아카데미] 방탄소년단 영상으로 깜짝 등장 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220328n16295?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220328n16295?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 28 Mar 2022 03:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>03-28 11:33</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/03/28/20220328_1210870.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
