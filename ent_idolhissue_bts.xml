@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 05:02:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 06:09:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(여자)아이들의 'TOMBOY' 멜론 주간차트 1위, 박재범·레드벨벳·태연·김민석 TOP5…최다곡 진입은 임영웅·아이유·방탄소년단]]></title>
+            <link>https://news.nate.com/view/20220328n26255?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220328n26255?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 28 Mar 2022 06:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-28 15:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/28/14680644_776093_217_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 오늘(28일) 미국行…정국은 먼저 출국 왜?  [★NEWSing]]]></title>
+            <link>https://news.nate.com/view/20220328n26048?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220328n26048?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 28 Mar 2022 06:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>03-28 15:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/28/2022032813414294261_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤여정 감동 시상·BTS 깜짝 등장→윌 스미스 무대 난입 폭행 [2022 오스카]]]></title>
             <link>https://news.nate.com/view/20220328n21263?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 28 Mar 2022 03:24:43 GMT</pubDate>
             <content:encoded><![CDATA[스포츠투데이							<em>03-28 11:47</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/03/28/28_785316_53103.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 아카데미 시상식 영상 깜짝 등장 "디즈니 좋아해" [94회 아카데미]]]></title>
-            <link>https://news.nate.com/view/20220328n17386?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220328n17386?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 28 Mar 2022 03:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>03-28 11:46</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/28/1648435001325255.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["디즈니, 픽사 좋아"…방탄소년단, 오스카 깜짝 등장]]></title>
-            <link>https://news.nate.com/view/20220328n16931?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220328n16931?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 28 Mar 2022 03:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>03-28 11:38</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/03/28/1630458.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
