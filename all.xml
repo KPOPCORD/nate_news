@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 12:09:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 13:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,38 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/28/14680754_776228_487_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[사진]방탄소년단(BTS) 뷔,'눈 맞춤 인사' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220328n39905?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220328n39905?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 28 Mar 2022 13:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>03-28 21:21</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/03/28/202203282120776103_6241a82000f5c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사진]방탄소년단(BTS) 뷔,'심멎 눈빛으로 눈맞춤' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220328n39853?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220328n39853?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 28 Mar 2022 13:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>03-28 21:21</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/03/28/202203282117771646_6241a7f4daf3c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사진]방탄소년단(BTS) 뷔,'음악을 들으며 하차' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220328n39844?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220328n39844?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 28 Mar 2022 13:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>03-28 21:17</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/03/28/202203282115779843_6241a7052df7d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사진]방탄소년단(BTS) 진,'다친 팔 조심하며 하차' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220328n39830?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220328n39830?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 28 Mar 2022 13:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>03-28 21:16</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/03/28/202203282114778917_6241a6c3da858.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단, 오늘(28일) 美 출국…철옹성 그래미 뚫을까 [종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220328n39556?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220328n39556?mid=e0608&amp;isq=9009</guid>
@@ -334,38 +366,6 @@
             <pubDate>Mon, 28 Mar 2022 12:09:20 GMT</pubDate>
             <content:encoded><![CDATA[OSEN							<em>03-28 19:51</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/03/28/202203281949779513_624192d7b30e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사진]방탄소년단(BTS) 뷔,'멤버들과 함께 출국' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220328n38518?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220328n38518?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 28 Mar 2022 11:02:35 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>03-28 19:45</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/03/28/202203281943770910_6241916df1d3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 '어떤 옷을 입어도 화보가 되는 능력' [MD화보] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220328n38513?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220328n38513?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 28 Mar 2022 11:02:35 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>03-28 19:44</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/03/28/202203281941834569_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장영상] "전 세계 들썩!"…방탄소년단, 월드와이드 비주얼 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220328n38426?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220328n38426?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 28 Mar 2022 11:02:35 GMT</pubDate>
-            <content:encoded><![CDATA[디스패치							<em>03-28 19:43</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/03/28/8f854df0-0cf3-48df-bf80-92a9f503a900.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사진]방탄소년단(BTS) 뷔,'석양에 빛나는 머릿결' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220328n38462?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220328n38462?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 28 Mar 2022 11:02:35 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>03-28 19:41</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/03/28/202203281940774835_624190aeea19a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
