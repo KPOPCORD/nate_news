@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 02:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 03:23:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크, 'How You Like That' 스포티파이 6억 스트리밍 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
+            <link>https://news.nate.com/view/20220329n14666?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20220329n14666?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Tue, 29 Mar 2022 03:22:56 GMT</pubDate>
+            <content:encoded><![CDATA[더팩트							<em>03-29 11:13</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2022/03/29/202283231648518881.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 'How You Like That' 스포티파이 6억 스트리밍…K팝 걸그룹 최초 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
             <link>https://news.nate.com/view/20220329n11824?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 27 Mar 2022 21:01:36 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>03-28 05:50</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/28/202203280549013510_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 로제 '새벽을 여는 아름다움'[포토엔HD] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
-            <link>https://news.nate.com/view/20220328n02261?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20220328n02261?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Sun, 27 Mar 2022 21:01:36 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>03-28 05:48</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/28/202203280547333510_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[믿고 듣는 레드벨벳 'Feel My Rhythm' 주간차트 1위 등극 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
@@ -248,6 +248,46 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/28/14680754_776228_487_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS가 좋아하는 붕어빵, 미국 상륙…콘서트 앞둔 라스베이거스 '후끈' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220329n16309?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220329n16309?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 29 Mar 2022 03:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>03-29 12:06</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/03/29/ae0cac8f-3a35-4eea-ba37-d481d6da59e8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['日열도 인기 후끈' 방탄소년단 지민 향한 일본 작가•성우…대중문화인들의 '지민 앓이' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220329n16832?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220329n16832?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 29 Mar 2022 03:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-29 11:44</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/29/14680909_776447_4226_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔,日'네한' K팝 男아이돌랭킹 52주 연속 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220329n16677?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220329n16677?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 29 Mar 2022 03:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-29 11:41</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/29/14680907_776445_4040_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 정국, 3억 팔로워 '메시'·'호날두'와 함께 '세계 기록' 대열 합류…인스타 24시간→2000만뷰 '초강력 소셜 파워' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220329n16550?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220329n16550?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 29 Mar 2022 03:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-29 11:39</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/29/14680892_776440_3849_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스트레이 키즈, 美 빌보드 200 1위…방탄소년단-슈퍼엠 이어 3번째 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220329n16287?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220329n16287?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 29 Mar 2022 03:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-29 11:35</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/29/14680900_776435_3332_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스트레이 키즈, 美 '빌보드 200' 1위 등극…BTS·슈주 이어 세 번째 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220329n12956?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220329n12956?mid=e0608&amp;isq=9009</guid>
@@ -326,46 +366,6 @@
             <pubDate>Tue, 29 Mar 2022 00:29:30 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>03-29 09:00</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/29/1648507293250782.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 제이홉 'Outro: Ego' 스포티파이 9600만 달성 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220329n05276?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220329n05276?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 29 Mar 2022 00:29:30 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-29 08:35</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/29/2022032908294678257_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['日열도 인기 후끈' 방탄소년단 지민 향한 일본 작가·성우♥…대중문화인들의 '지민 앓이' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220329n05221?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220329n05221?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 29 Mar 2022 00:29:30 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-29 08:33</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/29/2022032907482455391_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['잘 다녀오겠습니다' 방탄소년단 지민, 베스트 드레서 공항패션…그래미行 출국길 '빛나는 후광' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220329n03970?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220329n03970?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 28 Mar 2022 23:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-29 08:27</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/29/tn_1648510024567_748489_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 진 '공항 빛낸 청청 테리우스'[엑's HD화보] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220329n04343?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220329n04343?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 29 Mar 2022 00:29:30 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>03-29 08:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/29/1648462385903301.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 진 '분홍천사 공듀', 유명 게이머·게임 커뮤니티도♥…'프리 파이어' 협업 프로젝트 '상징' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220329n04321?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220329n04321?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 29 Mar 2022 00:29:30 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-29 07:59</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/29/2022032907501360995_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
