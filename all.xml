@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 03:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 04:04:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/28/14680754_776228_487_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[스경연예연구소]'빌보드 200 1위' 스트레이 키즈, BTS 이을 글로벌 그룹 예고 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220329n18662?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220329n18662?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 29 Mar 2022 04:04:15 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>03-29 12:39</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/03/29/l_2022032902001685400325761.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['믿고 듣는' 방탄소년단 뷔, 스포티파이 팔로워 증가 3주 연속 K팝 솔로 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220329n18107?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220329n18107?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 29 Mar 2022 04:04:15 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-29 12:14</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/29/14680919_776467_133_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS가 좋아하는 붕어빵, 미국 상륙…콘서트 앞둔 라스베이거스 '후끈' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220329n16309?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220329n16309?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Tue, 29 Mar 2022 02:25:20 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-29 09:36</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/29/14680846_776349_3439_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국 'Stay Alive' 韓OST+남자 솔로 '최단' 43일 만에 스포티파이 7000만 스트리밍 경신…신기록 릴레이 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220329n07679?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220329n07679?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 29 Mar 2022 02:25:20 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-29 09:30</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/29/14680844_776336_2931_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 정국, 남다른 비주얼로 팬심 저격 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220329n06133?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220329n06133?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 29 Mar 2022 00:29:30 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>03-29 09:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/29/1648507293250782.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
