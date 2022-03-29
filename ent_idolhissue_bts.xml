@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 21:02:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 22:02:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단(BTS) 정국, 코로나19 확진 "美 일정 현지 규정에 따라 결정"]]></title>
+            <link>https://news.nate.com/view/20220330n02910?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220330n02910?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 29 Mar 2022 22:02:44 GMT</pubDate>
+            <content:encoded><![CDATA[비즈엔터							<em>03-30 06:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2022/03/30/20220330000851_1733783_1000_1363.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[비즈 포토] 방탄소년단(BTS) 뷔 "마스크 뚫고 나온 잘생김"]]></title>
             <link>https://news.nate.com/view/20220330n01031?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 29 Mar 2022 10:02:43 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-29 18:08</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/29/14681041_776612_73_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['코로나19 확진' 방탄소년단 정국 "뭐 별거 아닙니다" 쿨한 목소리[스타IN★]]]></title>
-            <link>https://news.nate.com/view/20220329n34751?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220329n34751?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 29 Mar 2022 10:02:43 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>03-29 18:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/29/2022032917562064638_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
