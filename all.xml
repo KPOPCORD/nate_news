@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 07:04:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 08:08:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 로제, 리사 팬들에게 악플 세례 받은 이유 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
+            <link>https://news.nate.com/view/20220329n25475?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20220329n25475?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Tue, 29 Mar 2022 08:07:43 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-29 15:09</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/29/14680978_776536_558_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크, 'How You Like That' 스포티파이 6억 스트리밍 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
             <link>https://news.nate.com/view/20220329n14666?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 27 Mar 2022 22:02:05 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>03-28 05:54</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/28/202203280552463510_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 로제 '눈이 부신 챙이'[포토엔HD] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
-            <link>https://news.nate.com/view/20220328n02295?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20220328n02295?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Sun, 27 Mar 2022 21:01:36 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>03-28 05:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/28/202203280549013510_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[믿고 듣는 레드벨벳 'Feel My Rhythm' 주간차트 1위 등극 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
@@ -248,6 +248,46 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/28/14680754_776228_487_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[스경X초점]정국마저 코로나19 확진…'그래미'서 BTS 완전체 볼까 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220329n31237?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220329n31237?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 29 Mar 2022 08:08:06 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>03-29 16:43</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/03/29/l_2022032902001727000332941.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 정국, 코로나 확진…그래미 등 美 일정 현지 규정 따를 것 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220329n30294?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220329n30294?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 29 Mar 2022 08:08:06 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠한국							<em>03-29 16:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2022/03/29/6792460_966400_2558.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 정국, 美서 코로나19 확진…그래미 어워즈 어쩌나 '참석 미정'[공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220329n29475?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220329n29475?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 29 Mar 2022 08:08:06 GMT</pubDate>
+            <content:encoded><![CDATA[스포티비뉴스							<em>03-29 16:13</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2022/03/29/513455_717993_5620.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 정국, 美서 코로나19 확진…그래미 무대 설 수 있을까 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220329n29161?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220329n29161?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 29 Mar 2022 08:08:06 GMT</pubDate>
+            <content:encoded><![CDATA[스타투데이							<em>03-29 16:08</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/03/29/20220329_5126402_1648536719.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다크비 이찬·룬·준서, 글로벌 입담 자랑…방탄소년단 향한 팬심 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220329n29119?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220329n29119?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 29 Mar 2022 08:08:06 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>03-29 16:07</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/29/1648537567795122.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 정국 코로나 확진…그래미 등 美 일정 미정 (전문)[공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220329n26921?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220329n26921?mid=e0608&amp;isq=9009</guid>
@@ -326,46 +366,6 @@
             <pubDate>Tue, 29 Mar 2022 07:04:10 GMT</pubDate>
             <content:encoded><![CDATA[TV리포트							<em>03-29 15:09</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/03/29/71686e1d-f7c1-4dc4-9258-5e39bd2300ed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 정국, 美서 코로나19 확진…"그래미 참석 추후 결정" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220329n25314?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220329n25314?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 29 Mar 2022 07:04:10 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>03-29 15:08</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/03/29/20220329_5126357_1648534006.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, 美서 코로나19 확진 "그래미 참석, 현지 규정따라 결정" [공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220329n24829?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220329n24829?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 29 Mar 2022 07:04:10 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>03-29 15:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/03/29/202203291447809243_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 정국, 美현지서 코로나19 확진…"향후 일정 현지 규정에 따라 결정" [전문] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220329n24717?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220329n24717?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 29 Mar 2022 07:04:10 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠투데이							<em>03-29 14:58</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/03/29/29_785755_44924.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, 코로나19 확진 "미국 일정은 소통 중" [공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220329n24603?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220329n24603?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 29 Mar 2022 07:04:10 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠서울							<em>03-29 14:56</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/03/29/2022032901001388500102171.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, 美서 코로나19 확진 [전문] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220329n24561?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220329n24561?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 29 Mar 2022 06:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>03-29 14:55</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/03/29/291630678.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
