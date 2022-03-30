@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 04:03:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 05:03:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 제이홉, 코로나 완치…미국 출국 예정 [공식]]]></title>
+            <link>https://news.nate.com/view/20220330n21185?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220330n21185?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 30 Mar 2022 05:03:26 GMT</pubDate>
+            <content:encoded><![CDATA[TV리포트							<em>03-30 13:41</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/03/30/6edb0773-716c-433d-8e1d-11e6d07c5fbc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이브, 라스베이거스를 'BTS 시티'로…방탄소년단 콘서트X도시 연결 '더 시티' 프로젝트]]></title>
+            <link>https://news.nate.com/view/20220330n21013?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220330n21013?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 30 Mar 2022 05:03:26 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>03-30 13:37</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/03/30/202203301330770451_6243ddbc1f96c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[TOP이슈] 방탄소년단(BTS), 2년 연속 그래미 어워즈 후보…수상 기대감↑]]></title>
             <link>https://news.nate.com/view/20220330n19141?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 30 Mar 2022 02:24:23 GMT</pubDate>
             <content:encoded><![CDATA[OSEN							<em>03-30 10:47</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/03/30/202203301027770470_6243b657698ba.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 라스베이거스를 BTS로 가득…'더 시티' 프로젝트]]></title>
-            <link>https://news.nate.com/view/20220330n12870?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220330n12870?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 30 Mar 2022 02:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[TV리포트							<em>03-30 10:45</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/03/30/8857018b-4b46-4114-b504-9be5122be836.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브, 방탄소년단 '더 시티' 프로젝트 펼친다…콘서트와 도시 연결]]></title>
-            <link>https://news.nate.com/view/20220330n12802?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220330n12802?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 30 Mar 2022 02:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>03-30 10:44</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/30/1648604566600305.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
