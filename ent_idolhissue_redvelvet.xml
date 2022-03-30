@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 14:06:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 15:02:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '포즈 요청에 셩들짝' (SBS TV 동물농장 출근길)]]></title>
+            <link>https://news.nate.com/view/20220330n37674?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220330n37674?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Wed, 30 Mar 2022 15:02:31 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-30 23:13</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/30/14681423_777143_1014_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '보내기 아쉬운 눈빛' (SBS TV 동물농장 출근길)]]></title>
             <link>https://news.nate.com/view/20220330n38062?mid=e0608&amp;isq=9012</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 30 Mar 2022 12:09:17 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-30 20:22</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/30/14681440_777159_2050_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[UHD포토] 레드벨벳(Red Velvet) 조이, '러비 만나러 가는 길' (SBS TV 동물농장 출근길)]]></title>
-            <link>https://news.nate.com/view/20220330n37885?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220330n37885?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 30 Mar 2022 12:09:17 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-30 20:21</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/30/14681439_777158_2024_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
