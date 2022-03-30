@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 05:03:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 06:07:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["백신 2차 접종 완료"…레드벨벳(Red Velvet) 슬기, 코로나19 확진→웬디는 음성 (공식입장 전문)]]></title>
+            <link>https://news.nate.com/view/20220330n24096?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220330n24096?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Wed, 30 Mar 2022 06:07:43 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>03-30 14:36</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/30/14681305_776991_3355_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레드벨벳 슬기, 코로나19 확진…제이홉은 격리해제]]></title>
+            <link>https://news.nate.com/view/20220330n22864?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220330n22864?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Wed, 30 Mar 2022 06:07:43 GMT</pubDate>
+            <content:encoded><![CDATA[더팩트							<em>03-30 14:13</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2022/03/30/202271741648615891.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레드벨벳 슬기, 코로나19 확진 "음악방송 스케줄 취소"[공식입장 전문]]]></title>
             <link>https://news.nate.com/view/20220330n19990?mid=e0608&amp;isq=9012</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 30 Mar 2022 04:03:41 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-30 12:50</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/30/14681290_776953_4946_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '바람의 여신' (SBS TV 동물농장 출근길)]]></title>
-            <link>https://news.nate.com/view/20220330n19364?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220330n19364?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 30 Mar 2022 04:03:41 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-30 12:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/30/14681289_776952_4920_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '저기로 갈까요!?' (SBS TV 동물농장 출근길)]]></title>
-            <link>https://news.nate.com/view/20220330n19358?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220330n19358?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 30 Mar 2022 04:03:41 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-30 12:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/30/14681287_776950_4859_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
