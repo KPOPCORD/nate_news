@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 15:02:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 16:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 진 '슈퍼참치' 유튜브 6000만뷰…빌보드 핫트렌딩 '5위']]></title>
+            <link>https://news.nate.com/view/20220331n00986?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220331n00986?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 30 Mar 2022 16:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>03-31 00:54</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/31/2022033100475336931_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 지민 '필터' 스포티파이 2억7000만 스트리밍 돌파]]></title>
+            <link>https://news.nate.com/view/20220331n00962?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220331n00962?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 30 Mar 2022 16:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>03-31 00:46</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/03/31/2022033100422773992_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단의 '마이 유니버스' 美 빌보드 여전히 상위권]]></title>
             <link>https://news.nate.com/view/20220330n38800?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 30 Mar 2022 06:07:57 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-30 14:24</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/30/14681307_776978_232_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국 'Stay Alive', 라스트 FM 글로벌 차트 1위→30일 이상 1위 진입…英유명 가수 제친 '막강 음원 저력']]></title>
-            <link>https://news.nate.com/view/20220330n23385?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220330n23385?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 30 Mar 2022 06:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-30 14:22</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/30/14681306_776972_2138_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 공항 밝히는 눈부신 잘생김…"런웨인줄"]]></title>
-            <link>https://news.nate.com/view/20220330n21962?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220330n21962?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 30 Mar 2022 06:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>03-30 13:58</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/03/30/20220330_1585595.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
