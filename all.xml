@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 12:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 13:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/30/14681439_777158_2024_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단의 '마이 유니버스' 美 빌보드 여전히 상위권 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220330n38800?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220330n38800?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 30 Mar 2022 13:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>03-30 21:16</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/03/30/da681317-0f79-4f4d-8e4e-918fa737f2ef.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['데뷔' 나인아이 "롤모델은 BTS·에이티즈, 천재성 보여줄 것" [종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220330n36111?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220330n36111?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Wed, 30 Mar 2022 06:07:57 GMT</pubDate>
             <content:encoded><![CDATA[스타투데이							<em>03-30 13:58</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/03/30/20220330_1585595.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 제이홉, 코로나 완치…미국 출국 예정 [공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220330n21185?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220330n21185?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 30 Mar 2022 05:03:26 GMT</pubDate>
-            <content:encoded><![CDATA[TV리포트							<em>03-30 13:41</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/03/30/6edb0773-716c-433d-8e1d-11e6d07c5fbc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
