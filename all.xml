@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 02:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 03:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,54 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/29/14681126_776703_23_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[마마무 솔라x문별, 방탄소년단 제이홉 두고 신경전 폭발! ('TMI SHOW') (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220330n08060?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220330n08060?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 30 Mar 2022 03:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>03-30 11:43</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/03/30/202203300921774257_6243a4545057e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["아미 전 괜찮아요" 방탄소년단 제이홉, 격리해제→美일정 합류 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220330n13564?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220330n13564?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 30 Mar 2022 02:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>03-30 11:35</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/03/30/20220330507595.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['코로나19 확진' 방탄소년단 정국, 美서 전한 소식 "관리 중…곧 만나요" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220330n15999?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220330n15999?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 30 Mar 2022 03:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>03-30 11:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/30/1648607438079721.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 제이홉, 코로나19 격리 해제…"절차 맞춰 금방 합류하겠다" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220330n04775?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220330n04775?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 30 Mar 2022 03:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[SBS연예뉴스							<em>03-30 11:26</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/03/30/30000689589_700.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['코로나19 확진' BTS 정국 "저는 잘 있습니다" 직접 전한 근황 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220330n07077?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220330n07077?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 30 Mar 2022 03:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[SBS연예뉴스							<em>03-30 11:26</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/03/30/30000752053_700.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라스베이거스, BTS 도시 된다…보고 먹고 즐기는 '더 시티' 프로젝트 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220330n14749?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220330n14749?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 30 Mar 2022 03:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[스타투데이							<em>03-30 11:14</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/03/30/20220330_5127053_1648604355.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하이브, 라스베이거스서 방탄소년단 콘서트와 도시 연결하는 '더 시티(THE CITY)' 프로젝트 펼친다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220330n14045?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220330n14045?mid=e0608&amp;isq=9009</guid>
@@ -270,14 +318,6 @@
             <pubDate>Wed, 30 Mar 2022 02:24:23 GMT</pubDate>
             <content:encoded><![CDATA[티브이데일리							<em>03-30 10:58</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/03/30/301630772.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["아미 전 괜찮아요" 방탄소년단 제이홉, 격리해제→美일정 합류 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220330n13564?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220330n13564?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 30 Mar 2022 02:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠월드							<em>03-30 10:57</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/03/30/20220330507595.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단 제이홉 완치→미국行 "컨디션 괜찮아요" (전문)[종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -326,46 +366,6 @@
             <pubDate>Wed, 30 Mar 2022 02:24:23 GMT</pubDate>
             <content:encoded><![CDATA[스포츠경향							<em>03-30 10:42</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/03/30/l_2022033002001765000341551.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브, 방탄소년단 콘서트와 도시 연결하는 '더 시티' 프로젝트 펼친다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220330n12549?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220330n12549?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 30 Mar 2022 02:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠투데이							<em>03-30 10:40</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/03/30/30785949.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["보고 먹고 즐기고"…BTS, 라스베이거스서 '더 시티' 프로젝트 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220330n12150?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220330n12150?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 30 Mar 2022 02:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[스타in							<em>03-30 10:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/03/30/PS22033000044.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['마블 첫 韓OST'방탄소년단 지민 프로듀싱곡'친구' 스포티파이1억5천만→美롤링스톤 '베스트 BTS100' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220330n12075?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220330n12075?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 30 Mar 2022 02:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-30 10:33</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/30/14681247_776882_3226_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 공항을 밝히는 눈부신 잘생김…"미국 잘 도착했어요" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220330n11998?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220330n11998?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 30 Mar 2022 02:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-30 10:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/30/14681245_776881_318_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브, 방탄소년단 '더 시티' 프로젝트…美 라스베이거스 'BTS 시티' 된다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220330n11993?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220330n11993?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 30 Mar 2022 02:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[스포티비뉴스							<em>03-30 10:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2022/03/30/513601_718195_2948.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
