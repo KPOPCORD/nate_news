@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 07:03:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 08:06:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[SS뮤직]"롤모델은 BTS" 나인아이, '뉴 월드'로 나아갈 10人 출사표(종합)]]></title>
+            <link>https://news.nate.com/view/20220330n29279?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220330n29279?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 30 Mar 2022 08:06:40 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠서울							<em>03-30 16:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/03/30/2022033001001465300107781.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나인아이 "롤모델, BTS→티아라…'구성 핫플' 수식어 갖고파"]]></title>
+            <link>https://news.nate.com/view/20220330n28195?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220330n28195?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 30 Mar 2022 07:03:43 GMT</pubDate>
+            <content:encoded><![CDATA[조이뉴스24							<em>03-30 16:02</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/03/30/a271a31190dca7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나인아이 주형 "롤모델? 방탄소년단·에이티즈·티아라"]]></title>
             <link>https://news.nate.com/view/20220330n28755?mid=e0608&amp;isq=9009</link>
@@ -30,14 +46,6 @@
             <pubDate>Wed, 30 Mar 2022 07:03:43 GMT</pubDate>
             <content:encoded><![CDATA[OSEN							<em>03-30 15:45</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/03/30/202203301458770501_6243fc42acefc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나인아이 "롤모델, BTS→티아라…'구성 핫플' 수식어 갖고파"]]></title>
-            <link>https://news.nate.com/view/20220330n28195?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220330n28195?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 30 Mar 2022 07:03:43 GMT</pubDate>
-            <content:encoded><![CDATA[조이뉴스24							<em>03-30 15:45</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/03/30/a271a31190dca7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[포토] 주형 '방탄소년단이 롤모델']]></title>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 30 Mar 2022 04:03:54 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-30 12:42</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/30/14681280_776942_3951_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마마무 솔라x문별, 방탄소년단 제이홉 두고 신경전 폭발! ('TMI SHOW')]]></title>
-            <link>https://news.nate.com/view/20220330n08060?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220330n08060?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 30 Mar 2022 03:24:10 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>03-30 11:43</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/03/30/202203300921774257_6243a4545057e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
