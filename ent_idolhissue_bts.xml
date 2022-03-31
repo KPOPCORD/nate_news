@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 21:02:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 22:03:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단-알렉사-루나, 본격 K팝 스타의 미국 진출[SS뮤직]]]></title>
+            <link>https://news.nate.com/view/20220401n02526?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220401n02526?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 31 Mar 2022 22:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠서울							<em>04-01 06:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/04/01/2022040101000028800112551.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 측, 악성 루머 고소 완료 "혐의자 합의·선처 없다" [전문]]]></title>
             <link>https://news.nate.com/view/20220331n39414?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 31 Mar 2022 09:03:11 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>03-31 17:25</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/03/31/1648715088603989.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가온차트 13주차 디지털차트 1위는 (여자)아이들의 'TOMBOY', 박재범·레드벨벳·태연·MSG워너비 TOP5…최다곡 차트진입은 아이유·임영웅·방탄소년단·레드벨벳·태연]]></title>
-            <link>https://news.nate.com/view/20220331n35024?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220331n35024?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 31 Mar 2022 09:03:11 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-31 17:21</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/31/14681598_777444_2029_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
