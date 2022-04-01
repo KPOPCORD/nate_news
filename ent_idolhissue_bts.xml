@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 16:04:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 17:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안철수 인수위 위원장, 하이브 방문 예정…BTS 병역 특례 논의하나]]></title>
+            <link>https://news.nate.com/view/20220402n00819?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220402n00819?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 01 Apr 2022 17:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[비즈엔터							<em>04-02 01:45</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2022/04/02/20220401235458_1735207_1000_1338.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 스태프 뭉쳤다…'사쿠라·김채원' 르세라핌, 'BTS급 걸그룹' 될까]]></title>
             <link>https://news.nate.com/view/20220401n29626?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 01 Apr 2022 07:02:59 GMT</pubDate>
             <content:encoded><![CDATA[스포츠투데이							<em>04-01 15:32</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/04/01/01_786651_41620.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식]인수위, 방탄소년단 병역 특례 논의할까…2일 하이브 방문]]></title>
-            <link>https://news.nate.com/view/20220401n23250?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220401n23250?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 01 Apr 2022 07:02:59 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>04-01 15:27</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/04/01/2022040101000070300002251.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
