@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 09:02:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 10:02:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 소속사 찾은 안철수 "병역 언급 無…새 정부서 논의해야"]]></title>
+            <link>https://news.nate.com/view/20220402n12399?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220402n12399?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 02 Apr 2022 10:02:26 GMT</pubDate>
+            <content:encoded><![CDATA[더팩트							<em>04-02 18:43</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2022/04/02/202278281648891126.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안철수, 하이브 찾아 방시혁 만났다…BTS 병역특례 논의 無]]></title>
             <link>https://news.nate.com/view/20220402n11715?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 02 Apr 2022 06:07:18 GMT</pubDate>
             <content:encoded><![CDATA[OSEN							<em>04-02 14:13</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/04/02/202204021411773694_6247db3b1e529.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 제이홉 '자가격리 무사히 마쳤습니다!'[포토엔HD]]]></title>
-            <link>https://news.nate.com/view/20220402n07580?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220402n07580?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 02 Apr 2022 06:07:18 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>04-02 14:12</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/04/02/202204021411213510_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
