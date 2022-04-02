@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 06:07:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 07:02:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, 라스베이거스에 뜬다 'D-7'…이색 볼거리 풍성]]></title>
+            <link>https://news.nate.com/view/20220402n09327?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220402n09327?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 02 Apr 2022 07:02:31 GMT</pubDate>
+            <content:encoded><![CDATA[스타데일리뉴스							<em>04-02 15:40</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/04/02/319106_366475_3915.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도시 전체가 BTS 축제로…방탄소년단 라스베이거스 콘서트 D-7]]></title>
+            <link>https://news.nate.com/view/20220402n08821?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220402n08821?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 02 Apr 2022 07:02:31 GMT</pubDate>
+            <content:encoded><![CDATA[스포티비뉴스							<em>04-02 15:15</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2022/04/02/514361_719207_1415.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 제이홉 '신난다~'[포토엔HD]]]></title>
             <link>https://news.nate.com/view/20220402n07811?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 02 Apr 2022 06:07:18 GMT</pubDate>
             <content:encoded><![CDATA[OSEN							<em>04-02 14:12</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/04/02/202204021410770166_6247db1293ebb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 제이홉 '멤버들 볼 생각에 들뜬 호비'[포토엔HD]]]></title>
-            <link>https://news.nate.com/view/20220402n07566?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220402n07566?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 02 Apr 2022 06:07:18 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>04-02 14:11</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/04/02/202204021410033510_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사진]방탄소년단 제이홉, '시크한듯 폼나게']]></title>
-            <link>https://news.nate.com/view/20220402n07560?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220402n07560?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 02 Apr 2022 06:07:18 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>04-02 14:11</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/04/02/202204021409779419_6247dac38f671.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
