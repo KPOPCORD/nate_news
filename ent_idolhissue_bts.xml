@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 03:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 04:03:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['격리 해제' 방탄소년단 제이홉, 오늘 美출국…'그래미' 합류 [★NEWSing]]]></title>
+            <link>https://news.nate.com/view/20220402n06535?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220402n06535?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 02 Apr 2022 04:03:53 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>04-02 12:34</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/02/2022040113143889652_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 정국 "저 괜찮습니다"…美서 확진 후 근황]]></title>
             <link>https://news.nate.com/view/20220402n05715?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 02 Apr 2022 00:25:09 GMT</pubDate>
             <content:encoded><![CDATA[OSEN							<em>04-02 08:23</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/04/02/202204020816774466_624788e5f14fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 라스베이거스 대면 콘서트 D-7…두근두근 볼거리]]></title>
-            <link>https://news.nate.com/view/20220402n03353?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220402n03353?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 02 Apr 2022 00:25:09 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-02 08:13</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/02/2022040208092613354_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
