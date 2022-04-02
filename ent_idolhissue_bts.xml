@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 02:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 03:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 정국 "저 괜찮습니다"…美서 확진 후 근황]]></title>
+            <link>https://news.nate.com/view/20220402n05715?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220402n05715?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 02 Apr 2022 03:21:14 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>04-02 11:22</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/04/02/202203291804193185_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 RM, 브루노 마스·앤더슨 팩과 다정한 인증샷]]></title>
+            <link>https://news.nate.com/view/20220402n05672?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220402n05672?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 02 Apr 2022 03:21:14 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>04-02 11:18</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/04/02/l_2022040202000069300011081.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 라스베이거스 콘서트 D-7…이색 볼거리 풍성]]></title>
             <link>https://news.nate.com/view/20220402n05459?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 02 Apr 2022 00:25:09 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>04-02 08:13</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/02/2022040208092613354_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 'D-7' 라스베이거스 뜬다]]></title>
-            <link>https://news.nate.com/view/20220402n03328?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220402n03328?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 02 Apr 2022 00:25:09 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>04-02 08:11</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/04/02/l_2022040202000063200010571.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔 'ChristmasTree' 발매 100일 축하 광고 '빅이슈' 표지 장식…"I just want to be where you are"]]></title>
-            <link>https://news.nate.com/view/20220402n03197?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220402n03197?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 02 Apr 2022 00:25:09 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-02 07:59</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/02/2022040207544756663_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
