@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 00:26:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 02:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유튜브 인기 아티스트 1위 (여자)아이들…2위 레드벨벳·3위 아이유·4위 방탄소년단·5위 태연]]></title>
+            <link>https://news.nate.com/view/20220403n04952?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220403n04952?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Sun, 03 Apr 2022 02:21:33 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-03 10:39</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/03/14682030_778155_259_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유튜브 인기곡 1위는 (여자)아이들의 TOMBOY, 레드벨벳·박재범·스테이씨·오마이걸 TOP5…최다곡 진입은 레드벨벳·태연]]></title>
+            <link>https://news.nate.com/view/20220403n03746?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220403n03746?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Sun, 03 Apr 2022 02:21:33 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-03 09:27</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/03/14682028_778152_2626_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유튜브 인기 뮤직비디오 1위는 레드벨벳의 Feel My Rhythm, NCT 드림·(여자)아이들·오마이걸 TOP5…최다곡 진입은 김호중·임영웅·성시경]]></title>
             <link>https://news.nate.com/view/20220403n03474?mid=e0608&amp;isq=9012</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 30 Mar 2022 12:09:17 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-30 20:28</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/30/14681447_777166_2632_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '예쁨은 어쩔 수 없나봐' (SBS TV 동물농장 출근길)]]></title>
-            <link>https://news.nate.com/view/20220330n37947?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220330n37947?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 30 Mar 2022 12:09:17 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-30 20:26</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/30/14681446_777165_2545_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '운동화 신고도 돋보이는 각선미' (SBS TV 동물농장 출근길)]]></title>
-            <link>https://news.nate.com/view/20220330n37936?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220330n37936?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 30 Mar 2022 12:09:17 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-30 20:26</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/30/14681444_777163_2311_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
