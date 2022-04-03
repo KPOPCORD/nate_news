@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 21:02:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 22:02:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단(BTS) 정국, 코로나19 완치…그래미 시상식 참석]]></title>
+            <link>https://news.nate.com/view/20220404n02178?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220404n02178?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 03 Apr 2022 22:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[비즈엔터							<em>04-04 06:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2022/04/04/20220404002041_1735585_1000_1499.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 '그랜드슬램' 도전…오늘(4일) 제64회 그래미어워드 개최 [엑's 투데이]]]></title>
+            <link>https://news.nate.com/view/20220404n02115?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220404n02115?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 03 Apr 2022 22:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>04-04 06:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/04/1648998253734712.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 '그래미' 장벽 깰까…오늘(4일) 韓최초 수상 재도전]]></title>
             <link>https://news.nate.com/view/20220403n20921?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sun, 03 Apr 2022 07:02:35 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>04-03 15:40</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/03/1648959911765416.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국 "'스물다섯 스물하나' 감독님, 새드엔딩은 싫어요!"]]></title>
-            <link>https://news.nate.com/view/20220403n10264?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220403n10264?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 03 Apr 2022 07:02:35 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>04-03 14:48</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/04/03/202204031024357141_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식] 방탄소년단 정국, 코로나19 완치…美 그래미 무대 선다(전문)]]></title>
-            <link>https://news.nate.com/view/20220403n10628?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220403n10628?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 03 Apr 2022 07:02:35 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>04-03 14:47</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/04/03/2022040301000183400010811.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
