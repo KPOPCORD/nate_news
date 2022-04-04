@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 13:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 14:02:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 RM, 美그래미 비하인드 사진 공개…물 먹는 모습도 멋지네]]></title>
+            <link>https://news.nate.com/view/20220404n37923?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220404n37923?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 04 Apr 2022 14:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[조이뉴스24							<em>04-04 22:33</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/04/04/0ea9324e291a5a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한가인 "♥연정훈, 육아 많이 해…BTS '쩔어'=노동요" (러브타임)[종합]]]></title>
             <link>https://news.nate.com/view/20220404n37385?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 04 Apr 2022 10:03:51 GMT</pubDate>
             <content:encoded><![CDATA[티브이데일리							<em>04-04 18:13</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/04/04/041631551.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 수상 아쉽게 불발…2회 연속 후보에 만족]]></title>
-            <link>https://news.nate.com/view/20220404n32502?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220404n32502?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 04 Apr 2022 09:04:28 GMT</pubDate>
-            <content:encoded><![CDATA[일간스포츠							<em>04-04 17:44</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/04/04/130fd46a-8795-404b-b6a4-76c63b948e86.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
