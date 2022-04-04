@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 12:09:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 13:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한가인 "♥연정훈, 육아 많이 해…BTS '쩔어'=노동요" (러브타임)[종합]]]></title>
+            <link>https://news.nate.com/view/20220404n37385?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220404n37385?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 04 Apr 2022 13:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>04-04 21:50</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/04/1649073918286718.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레이디가가랑 볼키스…BTS, 트로피만 없을 뿐 '그래미의 주인공' (종합)[Oh!쎈 레터]]]></title>
+            <link>https://news.nate.com/view/20220404n34433?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220404n34433?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 04 Apr 2022 10:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>04-04 21:26</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/04/04/202204041807775089_624abae8593d3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[줄 타고 내려온 정국…방탄소년단, '버터'로 그래미 녹였다]]></title>
             <link>https://news.nate.com/view/20220404n07965?mid=e0608&amp;isq=9009</link>
@@ -46,14 +62,6 @@
             <pubDate>Mon, 04 Apr 2022 12:09:23 GMT</pubDate>
             <content:encoded><![CDATA[OSEN							<em>04-04 19:16</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/04/04/202204041906776280_624ac538cf7e8.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[레이디가가랑 볼키스…BTS, 트로피만 없을 뿐 '그래미의 주인공'(종합)[Oh!쎈 레터]]]></title>
-            <link>https://news.nate.com/view/20220404n34433?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220404n34433?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 04 Apr 2022 10:03:51 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>04-04 19:12</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/04/04/202204041807775089_624abae8593d3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[포토] 주형 '방탄소년단이 롤모델']]></title>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 04 Apr 2022 09:04:28 GMT</pubDate>
             <content:encoded><![CDATA[일간스포츠							<em>04-04 17:44</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/04/04/130fd46a-8795-404b-b6a4-76c63b948e86.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[퇴근길이슈] BTS 그래미·김준호♥김지민·'스물다섯' 결말·제시카 조선족]]></title>
-            <link>https://news.nate.com/view/20220404n30830?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220404n30830?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 04 Apr 2022 09:04:28 GMT</pubDate>
-            <content:encoded><![CDATA[조이뉴스24							<em>04-04 17:24</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/04/04/1347f37d6578ef.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
