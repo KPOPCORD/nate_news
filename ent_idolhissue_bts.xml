@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 14:02:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 15:06:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 진, 그래미 수상은 불발됐지만 외모는 '수상감']]></title>
+            <link>https://news.nate.com/view/20220404n38514?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220404n38514?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 04 Apr 2022 15:06:05 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>04-04 23:43</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/04/2022040423191495697_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 2년 연속 '그래미 어워드' 단독 무대]]></title>
+            <link>https://news.nate.com/view/20220404n32821?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220404n32821?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 04 Apr 2022 10:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>04-04 23:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/04/04/20220404516074.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 RM, 美그래미 비하인드 사진 공개…물 먹는 모습도 멋지네]]></title>
             <link>https://news.nate.com/view/20220404n37923?mid=e0608&amp;isq=9009</link>
@@ -104,28 +120,12 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/04/04/202204041823588699_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[방탄소년단, 2년 연속 '그래미 어워드' 단독 무대]]></title>
-            <link>https://news.nate.com/view/20220404n32821?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220404n32821?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 04 Apr 2022 10:03:51 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠월드							<em>04-04 18:23</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/04/04/20220404516074.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA["아쉽다" 방탄소년단 '그래미' 수상 불발에 외신도 탄식 [이슈&톡]]]></title>
             <link>https://news.nate.com/view/20220404n33714?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220404n33714?mid=e0608&amp;isq=9009</guid>
             <pubDate>Mon, 04 Apr 2022 10:03:51 GMT</pubDate>
             <content:encoded><![CDATA[티브이데일리							<em>04-04 18:14</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/04/04/041631490.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 그래미를 들었다 놨다 [TD#]]]></title>
-            <link>https://news.nate.com/view/20220404n33696?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220404n33696?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 04 Apr 2022 10:03:51 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>04-04 18:13</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/04/04/041631551.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
