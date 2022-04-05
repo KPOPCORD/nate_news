@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 09:03:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 10:03:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 입에 코로나 CG, 계속되는 인종차별 논란 [이슈&톡]]]></title>
+            <link>https://news.nate.com/view/20220405n34589?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220405n34589?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 05 Apr 2022 10:03:08 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>04-05 18:20</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/04/05/051631649.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 제이 발빈과 함께…RM은 어디? [똑똑SNS]]]></title>
             <link>https://news.nate.com/view/20220405n34133?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 05 Apr 2022 07:03:13 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>04-05 15:11</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/05/1649135352181605.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위버스로 즐기는 'BTS 시티-라스베이거스']]></title>
-            <link>https://news.nate.com/view/20220405n24324?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220405n24324?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 05 Apr 2022 06:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[일간스포츠							<em>04-05 14:51</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/04/05/d5f56d63-a2a0-4af1-8925-5b8828a3a65b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
