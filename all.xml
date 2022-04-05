@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 11:02:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 12:09:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/31/14681549_777335_548_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['인종차별 논란' 감히 뷔 얼굴에 코로나 바이러스를? 방탄소년단 (BTS) 팬들 뿔났다 (Oh!쎈 이슈) [종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220405n39560?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220405n39560?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 05 Apr 2022 12:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>04-05 20:55</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/04/05/202204052033775579_624c2d618b79f.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 지민, 제이홉 당황하게 만든 장난은?…폭소ing [★SHOT!] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220405n39188?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220405n39188?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 05 Apr 2022 12:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>04-05 20:39</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/04/05/202204052027778956_624c29ea66f41.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 입에 코로나 CG, 계속되는 인종차별 논란 [이슈&톡] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220405n34589?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220405n34589?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Tue, 05 Apr 2022 07:03:13 GMT</pubDate>
             <content:encoded><![CDATA[스포츠서울							<em>04-05 15:29</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/04/05/2022040601000222400013601.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로드리고→레이디가가와 투샷…BTS 뷔, 그래미서도 '김스치면 인연' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220405n26062?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220405n26062?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 05 Apr 2022 07:03:13 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>04-05 15:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/04/05/202204051512140410_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 뷔, '그래미 5관왕' 존 바티스트와 식사+한국어 공부까지…'월클' 인맥 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220405n25492?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220405n25492?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 05 Apr 2022 07:03:13 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>04-05 15:11</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/05/1649135352181605.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
