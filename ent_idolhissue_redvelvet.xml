@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 00:24:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 02:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드벨벳 日 첫 정규 앨범 'Bloom' 4월 6일 발매]]></title>
+            <link>https://news.nate.com/view/20220405n11942?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220405n11942?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Tue, 05 Apr 2022 02:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[스타데일리뉴스							<em>04-05 10:33</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/04/05/319271_366676_3114.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레드벨벳 日서도 통할까? 첫 정규 앨범 발매]]></title>
+            <link>https://news.nate.com/view/20220405n10364?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220405n10364?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Tue, 05 Apr 2022 02:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>04-05 10:09</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/04/05/202204051007181910_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['영스트리트' 웬디 확진으로 이번주 스페셜 DJ 체제…레드벨벳 예리-아이린-조이→이진혁-이대휘까지]]></title>
             <link>https://news.nate.com/view/20220404n25322?mid=e0608&amp;isq=9012</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 30 Mar 2022 15:02:31 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-30 23:13</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/30/14681423_777143_1014_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '보내기 아쉬운 눈빛' (SBS TV 동물농장 출근길)]]></title>
-            <link>https://news.nate.com/view/20220330n38062?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220330n38062?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 30 Mar 2022 12:09:17 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-30 20:33</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/30/14681453_777172_3125_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '언제나처럼 사랑스러운 눈웃음' (SBS TV 동물농장 출근길)]]></title>
-            <link>https://news.nate.com/view/20220330n38040?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220330n38040?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 30 Mar 2022 12:09:17 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-30 20:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/30/14681452_777171_3042_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
