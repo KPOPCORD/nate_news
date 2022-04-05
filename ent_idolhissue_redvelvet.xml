@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 05:02:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 06:09:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드벨벳, 日 첫 정규 앨범…"다채로운 음악 담은, Bloom"]]></title>
+            <link>https://news.nate.com/view/20220405n23843?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220405n23843?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Tue, 05 Apr 2022 06:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[디스패치							<em>04-05 14:43</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/04/05/b417a3fc-ca2e-48eb-9c56-4a44fd99feb0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레드벨벳 日 첫 정규 앨범 'Bloom' 4월 6일 발매]]></title>
             <link>https://news.nate.com/view/20220405n11942?mid=e0608&amp;isq=9012</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 31 Mar 2022 02:20:16 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>03-31 11:11</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/31/14681549_777335_548_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '포즈 요청에 셩들짝' (SBS TV 동물농장 출근길)]]></title>
-            <link>https://news.nate.com/view/20220330n37674?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220330n37674?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 30 Mar 2022 15:02:31 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>03-30 23:13</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/30/14681423_777143_1014_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
