@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 02:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 03:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["장난하지 마"…방탄소년단(BTS) 정국, 생방송 중 사생팬 전화에 '발끈']]></title>
+            <link>https://news.nate.com/view/20220406n15029?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220406n15029?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 06 Apr 2022 03:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-06 11:26</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/06/14682742_779248_247_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이대 BTS가 말하는 '그날'의 비하인드 (유퀴즈)]]></title>
+            <link>https://news.nate.com/view/20220406n14813?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220406n14813?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 06 Apr 2022 03:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>04-06 11:22</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/06/1649207520299769.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] "BTS, 국위선양 1위지만"…방탄소년단, 병역특례의 현실 (종합)]]></title>
             <link>https://news.nate.com/view/20220406n09430?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 06 Apr 2022 00:26:00 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>04-06 08:20</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/06/2022040608165122237_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 인스타그램 팔로워 4개월 연속 1위…최강 인기 '킹 태형']]></title>
-            <link>https://news.nate.com/view/20220406n03089?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220406n03089?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 06 Apr 2022 00:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-06 08:17</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/06/tn_1649200624405_363607_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국 선곡에 찰리 푸스 "행복" 화답…컬래버 '기대']]></title>
-            <link>https://news.nate.com/view/20220406n03977?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220406n03977?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 05 Apr 2022 23:02:46 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-06 07:51</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/06/2022040607453477246_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
