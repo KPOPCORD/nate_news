@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 07:04:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 08:08:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,11 +248,27 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/03/31/14681549_777335_548_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[퇴근길이슈] 임수향 겹치기·BTS 취임식·MC딩동 구속·러시아 월드컵 퇴출 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220406n30327?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220406n30327?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 06 Apr 2022 08:08:07 GMT</pubDate>
+            <content:encoded><![CDATA[조이뉴스24							<em>04-06 16:49</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/04/06/e4e589d7e2df4b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 측 "尹 취임식 공연? 공식 초청 없었다" [공식입장] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220406n30048?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220406n30048?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 06 Apr 2022 08:08:07 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>04-06 16:45</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/06/1649231074352911.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단, 尹 취임식 공연?…소속사 "공식 초청 없었다" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220406n26297?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220406n26297?mid=e0608&amp;isq=9009</guid>
             <pubDate>Wed, 06 Apr 2022 07:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠월드							<em>04-06 15:36</em>]]></content:encoded>
+            <content:encoded><![CDATA[스포츠월드							<em>04-06 16:33</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/04/06/20220406513274.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -350,22 +366,6 @@
             <pubDate>Wed, 06 Apr 2022 06:08:20 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>04-06 14:29</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/06/14682876_779415_2824_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국 '컬래버' 하고 싶은 '찰리 푸스' 노래 선곡→"정국 'light switch' 리듬 타는 것에 행복" 화답…협업 기대 UP (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220406n22016?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220406n22016?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 06 Apr 2022 06:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>04-06 14:26</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/06/14682874_779410_2520_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 병역특례→윤석열 취임식 억지 소환?…소속사 "공식 초청 無" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220406n21886?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220406n21886?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 06 Apr 2022 06:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[스포티비뉴스							<em>04-06 14:24</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2022/04/06/515309_720448_757.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
