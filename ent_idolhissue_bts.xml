@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 12:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 13:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 측 "대통령 취임식 공연? 초청 없었다"[공식]]]></title>
+            <link>https://news.nate.com/view/20220406n37575?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220406n37575?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 06 Apr 2022 13:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[스타투데이							<em>04-06 20:38</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/04/06/20220406_5134457_1649245044.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국 최고 부자는 김범수·이재용…한국인 억만장자 41명, 방탄소년단 소속사 대표 방시혁도 1053위]]></title>
             <link>https://news.nate.com/view/20220406n34863?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 06 Apr 2022 07:04:13 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>04-06 15:10</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/06/14682887_779441_929_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["방탄소년단이 화환이냐" 윤석열 취임식 거론에 '부글부글']]></title>
-            <link>https://news.nate.com/view/20220406n24635?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220406n24635?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 06 Apr 2022 07:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>04-06 15:07</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/04/06/l_2022040602000318600057131.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
