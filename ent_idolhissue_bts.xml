@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 15:02:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 16:04:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['BTS 단독 콘서트' 미끼로 2억 사기 MD업자 실형]]></title>
+            <link>https://news.nate.com/view/20220407n00117?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220407n00117?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 06 Apr 2022 16:04:03 GMT</pubDate>
+            <content:encoded><![CDATA[더팩트							<em>04-07 00:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2022/04/07/20222536164925391300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 측 "대통령 취임식 공연? 초청 없었다"[공식]]]></title>
             <link>https://news.nate.com/view/20220406n37575?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 06 Apr 2022 07:04:13 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>04-06 15:11</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/06/14682888_779447_1051_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, '실크 소닉' 콘서트 자극제 "노래 잘하고 싶어 공부하는 마음으로 봤다"…뜨거운 가수 열정+팬심]]></title>
-            <link>https://news.nate.com/view/20220406n24794?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220406n24794?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 06 Apr 2022 07:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>04-06 15:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/06/14682887_779441_929_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
