@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 17:09:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 18:08:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이브 측 "방탄소년단(BTS), 대통령 취임식 초청 받은 바 없어"]]></title>
+            <link>https://news.nate.com/view/20220407n00844?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220407n00844?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 06 Apr 2022 18:08:06 GMT</pubDate>
+            <content:encoded><![CDATA[비즈엔터							<em>04-07 02:15</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2022/04/07/20210521151641_1623054_1200_699.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['BTS 단독 콘서트' 미끼로 2억 사기 MD업자 실형]]></title>
             <link>https://news.nate.com/view/20220407n00117?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 06 Apr 2022 07:04:13 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>04-06 15:15</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/06/14682890_779450_1453_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['그래미어워즈 비하인드 컷' 방탄소년단 뷔, 그래미 사로 잡은 韓대표 미남…"2022 그래미 베스트룩"]]></title>
-            <link>https://news.nate.com/view/20220406n24856?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220406n24856?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 06 Apr 2022 07:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>04-06 15:11</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/06/14682888_779447_1051_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
