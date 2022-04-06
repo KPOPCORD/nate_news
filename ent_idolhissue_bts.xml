@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 03:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 04:04:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 소속사 측 "윤석열 취임식 공연 논의? 기사 보고 알아"[공식]]]></title>
+            <link>https://news.nate.com/view/20220406n17906?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220406n17906?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 06 Apr 2022 04:04:06 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>04-06 12:36</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/04/06/202204061229440410_1.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뮤직Y] "BTS는 안되고 클래식은 된다?"…병역 특례 설문조사는 '반전']]></title>
+            <link>https://news.nate.com/view/20220406n17600?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220406n17600?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 06 Apr 2022 04:04:06 GMT</pubDate>
+            <content:encoded><![CDATA[SBS연예뉴스							<em>04-06 12:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/04/06/30000753485_700.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["장난하지 마"…방탄소년단(BTS) 정국, 생방송 중 사생팬 전화에 '발끈']]></title>
             <link>https://news.nate.com/view/20220406n15029?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 06 Apr 2022 00:26:00 GMT</pubDate>
             <content:encoded><![CDATA[더팩트							<em>04-06 08:33</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2022/04/06/202263531649201444.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 진, 팬 사랑만큼 빛나는 비주얼]]></title>
-            <link>https://news.nate.com/view/20220406n04873?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220406n04873?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 06 Apr 2022 00:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>04-06 08:30</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/06/1649198620180854.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국 "실크 소닉 콘서트, 공부하는 마음으로 봤다"…'열정맨 전정국']]></title>
-            <link>https://news.nate.com/view/20220406n04635?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220406n04635?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 06 Apr 2022 00:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-06 08:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/06/2022040608165122237_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
