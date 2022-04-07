@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 09:03:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 10:03:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/07/14683183_779943_2554_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS 뷔, 그래미 귓속말 후일담 "내가 뭐랬냐면…" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220407n34794?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220407n34794?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 07 Apr 2022 10:02:59 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>04-07 18:38</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/04/07/l_2022040702000429200076711.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 뷔, 스타랭킹 남자 아이돌 3위…23주 연속 톱3 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220407n32275?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220407n32275?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Thu, 07 Apr 2022 05:03:12 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>04-07 13:18</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/07/1649304996700759.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['품절이 일상' 방탄소년단 지민, 무서운 브랜드 파워…루이비통 40개국 완판…2022년에도 LV FRONTMAN (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220407n18485?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220407n18485?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 07 Apr 2022 04:03:18 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>04-07 12:48</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/07/14683149_779871_4743_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
