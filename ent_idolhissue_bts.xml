@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 07:02:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 08:08:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가온차트 14주차 디지털차트 1위는 (여자)아이들의 'TOMBOY', NCT DREAM·박재범·레드벨벳·멜로망스 TOP5…최다곡 차트진입은 아이유·NCT DREAM·임영웅·방탄소년단]]></title>
+            <link>https://news.nate.com/view/20220407n30182?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220407n30182?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 07 Apr 2022 08:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-07 16:41</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/07/14683216_779976_4025_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["윤석열 취임식, 방탄소년단 말고 노엘·김흥국 섭외적절"]]></title>
+            <link>https://news.nate.com/view/20220407n28852?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220407n28852?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 07 Apr 2022 08:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>04-07 16:12</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/04/07/l_2022040702000410800073591.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인수위 "하이브 방문 당시 'BTS' 공연 요청한 적 없다"]]></title>
             <link>https://news.nate.com/view/20220407n27516?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 07 Apr 2022 04:03:18 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>04-07 12:38</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/07/14683146_779853_3618_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 英BBC 선정 '그래미 최고의 순간']]></title>
-            <link>https://news.nate.com/view/20220407n16401?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220407n16401?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 07 Apr 2022 03:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>04-07 12:07</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/04/07/l_2022040702000393800070323.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기사열독 TOP100] 영탁 78회째 1위, 이찬원·방탄소년단 뷔·임창정·안효섭 TOP5]]></title>
-            <link>https://news.nate.com/view/20220407n17420?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220407n17420?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 07 Apr 2022 03:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>04-07 12:07</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/07/14683142_779845_55_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
