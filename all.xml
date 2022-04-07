@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 02:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 03:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/03/28/202203280608151310_2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[레드벨벳 슬기, 코로나19 확진 후 회복 "건강하니 걱정마세요" (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20220407n14611?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220407n14611?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Thu, 07 Apr 2022 03:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>04-07 11:18</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/04/07/202204071105536310_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["회복했으니 걱정마세요"…레드벨벳 슬기, 코로나19 확진→건강 회복한 근황 공개 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
             <link>https://news.nate.com/view/20220407n01274?mid=e0608&amp;isq=9012</link>
             <guid>https://news.nate.com/view/20220407n01274?mid=e0608&amp;isq=9012</guid>
@@ -240,12 +248,44 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/07/14683044_779683_2817_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[UHD포토] 레드벨벳(Red Velvet) 아이린, '조금 더 가까이 가고싶었던 까치발 손인사' (웬디의 영스트리트 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20220407n00858?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220407n00858?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 06 Apr 2022 18:07:52 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>04-07 02:29</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/07/14683043_779682_277_org.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[방탄소년단 뷔, 英BBC 선정 '그래미 최고의 순간' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220407n16401?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220407n16401?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 07 Apr 2022 03:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>04-07 12:07</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/04/07/l_2022040702000393800070323.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기사열독 TOP100] 영탁 78회째 1위, 이찬원·방탄소년단 뷔·임창정·안효섭 TOP5 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220407n17420?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220407n17420?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 07 Apr 2022 03:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-07 12:07</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/07/14683142_779845_55_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['다시갈지도', 방탄소년단&임영웅이 접수한 뉴욕타임스퀘어 공개 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220407n16143?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220407n16143?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 07 Apr 2022 03:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>04-07 11:41</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/07/2022040711371469811_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['다시갈지도' BTS·임영웅이 접수한 뉴욕 타임스퀘어 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220407n15328?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220407n15328?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 07 Apr 2022 03:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[조이뉴스24							<em>04-07 11:29</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/04/07/29656f77ffbff1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빅히트 뮤직 측, "방탄소년단 미국 콘서트 현장에서 '권리 침해 상품' 단속 예정" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220407n15045?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220407n15045?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 07 Apr 2022 03:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-07 11:25</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/07/14683126_779821_5325_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[독자추천 TOP100] 영탁 148회째 1위, 이찬원·손예진·방탄소년단 뷔·김희재 TOP5 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -326,46 +366,6 @@
             <pubDate>Thu, 07 Apr 2022 02:19:08 GMT</pubDate>
             <content:encoded><![CDATA[스포츠투데이							<em>04-07 09:59</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/04/07/07788095.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[尹 취임식 BTS 공연?…인수위 "기획한 적 없다" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220407n08922?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220407n08922?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 07 Apr 2022 02:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[더팩트							<em>04-07 09:48</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2022/04/07/202223291649289416.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 RM, 美 콘서트 앞두고 뭐하나 봤더니 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220407n08443?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220407n08443?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 07 Apr 2022 02:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>04-07 09:39</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/04/07/202204070929771875_624e3247a47d0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴욕 타임스퀘어 접수한 방탄소년단·임영웅…색다른 감흥(다시갈지도) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220407n08251?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220407n08251?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 07 Apr 2022 02:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠동아							<em>04-07 09:36</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/04/07/112737824.1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["영어도 한국어도 안 함"…방탄소년단(BTS) 뷔, 올리비아와 나눈 귓속말 뭐길래? (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220407n07507?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220407n07507?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 07 Apr 2022 00:29:41 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>04-07 09:22</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/07/14683081_779730_1922_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인수위 "BTS에 대통령 취임식 공연 제안한 적 없다"(공식) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220407n06933?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220407n06933?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 07 Apr 2022 00:29:41 GMT</pubDate>
-            <content:encoded><![CDATA[조이뉴스24							<em>04-07 09:07</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/04/07/8c7f1391012dc5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
