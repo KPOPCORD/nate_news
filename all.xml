@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 20:02:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 21:02:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/07/14683183_779943_2554_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[인수위, 尹 취임식에 BTS 공연 논란 '화들짝' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220408n02151?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220408n02151?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 07 Apr 2022 21:02:18 GMT</pubDate>
+            <content:encoded><![CDATA[더팩트							<em>04-08 05:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2022/04/08/20223351164933055000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS 뷔, 그래미 귓속말 후일담 "내가 뭐랬냐면…" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220407n34794?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220407n34794?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Thu, 07 Apr 2022 06:08:27 GMT</pubDate>
             <content:encoded><![CDATA[일간스포츠							<em>04-07 14:13</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/04/07/54aee5c1-9cb5-41ef-abcd-b727e0aeecce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 RM, 美 공연 앞두고 예술적 취미생활…푹 빠졌네 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220407n19401?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220407n19401?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 07 Apr 2022 05:03:12 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>04-07 13:18</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/07/1649304996700759.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
