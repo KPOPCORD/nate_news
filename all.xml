@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 05:03:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 06:08:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,12 +248,36 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/07/14683044_779683_2817_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['다시갈지도', 지금 뉴욕 타임스퀘어에 임영웅이 나온다고?…BTS와 점령 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220407n23840?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220407n23840?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 07 Apr 2022 06:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>04-07 14:49</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/04/07/20220407511332.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[온탕냉탕] 방탄소년단 외신 찬사부터 편성 갈등에 등 터진 임수향 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220407n19060?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220407n19060?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 07 Apr 2022 05:03:12 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>04-07 14:34</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/04/07/20220407509271.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['그래미 최고의 순간' 선정된 BTS 뷔 '귓속말 유혹'…뭐라고 했길래? (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220407n20299?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220407n20299?mid=e0608&amp;isq=9009</guid>
             <pubDate>Thu, 07 Apr 2022 05:03:12 GMT</pubDate>
-            <content:encoded><![CDATA[SBS연예뉴스							<em>04-07 13:46</em>]]></content:encoded>
+            <content:encoded><![CDATA[SBS연예뉴스							<em>04-07 14:21</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/04/07/30000753927_700.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도시와 콘서트가 이어진다…방탄소년단 '더 시티' 막 오른다[BTS 인 베가스] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220407n21605?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220407n21605?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 07 Apr 2022 06:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>04-07 14:13</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/04/07/54aee5c1-9cb5-41ef-abcd-b727e0aeecce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단 RM, 美 공연 앞두고 예술적 취미생활…푹 빠졌네 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -262,14 +286,6 @@
             <pubDate>Thu, 07 Apr 2022 05:03:12 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>04-07 13:18</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/07/1649304996700759.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[온탕냉탕] 방탄소년단 외신 찬사부터 편성 갈등에 등 터진 임수향 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220407n19060?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220407n19060?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 07 Apr 2022 05:03:12 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠월드							<em>04-07 13:08</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/04/07/20220407509271.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['품절이 일상' 방탄소년단 지민, 무서운 브랜드 파워…루이비통 40개국 완판…2022년에도 LV FRONTMAN (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -350,22 +366,6 @@
             <pubDate>Thu, 07 Apr 2022 02:19:08 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>04-07 11:00</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/07/14683128_779823_5759_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["Born to Be SuperStar" 방탄소년단 지민, 그래미 빛낸 우아한 에티튜드에 존경심 'RESPECT FOR JIMIN' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220407n11809?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220407n11809?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 07 Apr 2022 02:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>04-07 10:38</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/07/14683120_779810_3727_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["빛나는 존재감" 방탄소년단 뷔, 英 BBC'그래미 어워드 최고의 순간' 1위에 선정 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220407n11666?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220407n11666?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 07 Apr 2022 02:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>04-07 10:36</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/07/14683118_779803_3524_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
