@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 09:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 10:06:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['은밀한 뉴스룸' K-POP 역사 새로 쓴 방탄소년단 집중 조명]]></title>
+            <link>https://news.nate.com/view/20220408n28812?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220408n28812?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 08 Apr 2022 10:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[K STAR							<em>04-08 18:02</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kb/2022/04/08/new_news__20220408174137_.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 진, 콘서트 퍼포먼스 일부 제한 "수술 받은 손가락 충격 NO"]]></title>
             <link>https://news.nate.com/view/20220408n23186?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 08 Apr 2022 06:08:17 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>04-08 14:42</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/04/08/202204081434280410_1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단(BTS) 진, 손가락 봉합 수술→미국 콘서트 퍼포먼스 제한 (전문)]]></title>
-            <link>https://news.nate.com/view/20220408n20294?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220408n20294?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 08 Apr 2022 06:08:17 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>04-08 14:25</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/08/14683429_780333_2356_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
