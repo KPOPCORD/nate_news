@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 15:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 16:04:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/08/14683564_780507_1923_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간政談<하>] 박주선이 쏜 'BTS 해프닝'…인수위 '곤욕' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220409n00063?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220409n00063?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 08 Apr 2022 16:04:25 GMT</pubDate>
+            <content:encoded><![CDATA[더팩트							<em>04-09 00:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2022/04/09/20223617164941970900.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[월클 BTS, 중소기획사 출신 설움 담은 노래 보니'은밀한 뉴스룸' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220408n19576?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220408n19576?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Fri, 08 Apr 2022 07:03:20 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>04-08 14:57</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/08/1649397086479044.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식] 방탄소년단 진, 손가락 부상으로 美공연 퍼포먼스 일부 제한 (전문) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220408n20871?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220408n20871?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 08 Apr 2022 06:08:17 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>04-08 14:52</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/04/08/l_2022040802000464500084821.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
