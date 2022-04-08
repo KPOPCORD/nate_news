@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 16:04:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 17:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[UHD포토] 레드벨벳(Red Velvet) 조이, '러비가 원한다면 어떤 포즈라도 해줄 수 있어요' (웬디의 영스트리트 출근길)]]></title>
+            <link>https://news.nate.com/view/20220409n00463?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220409n00463?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Fri, 08 Apr 2022 17:11:41 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-09 01:54</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/09/14683615_780599_530_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[UHD포토] 레드벨벳(Red Velvet) 조이, '출근길 찾아온 팬들과의 만남' (웬디의 영스트리트 출근길)]]></title>
+            <link>https://news.nate.com/view/20220409n00460?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220409n00460?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Fri, 08 Apr 2022 17:11:41 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-09 01:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/09/14683614_780598_5156_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '압도적인 미모로' (웬디의 영스트리트 출근길)]]></title>
             <link>https://news.nate.com/view/20220408n32319?mid=e0608&amp;isq=9012</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 08 Apr 2022 12:09:02 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>04-08 20:26</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/08/14683567_780510_252_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '포토타임 포즈라면 맡겨주세요' (웬디의 영스트리트 출근길)]]></title>
-            <link>https://news.nate.com/view/20220408n31971?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220408n31971?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Fri, 08 Apr 2022 12:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>04-08 20:22</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/08/14683565_780508_2039_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '앞머리에 손 얹고 상큼하게' (웬디의 영스트리트 출근길)]]></title>
-            <link>https://news.nate.com/view/20220408n31957?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220408n31957?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Fri, 08 Apr 2022 12:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>04-08 20:21</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/08/14683564_780507_1923_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
