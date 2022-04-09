@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 10:02:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 11:02:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/08/14683568_780511_2537_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[라스베이거스는 지금 "BTS의 도시" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220409n10150?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220409n10150?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 09 Apr 2022 09:02:31 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠동아							<em>04-09 19:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/04/09/112775593.1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["일일이 신경 쓰지 말자"…방탄소년단(BTS) RM, 그래미 이후 헤이터에 대한 생각? (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220409n12039?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220409n12039?mid=e0608&amp;isq=9009</guid>
@@ -270,14 +278,6 @@
             <pubDate>Sat, 09 Apr 2022 10:02:39 GMT</pubDate>
             <content:encoded><![CDATA[스타데일리뉴스							<em>04-09 18:40</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/04/09/319652_367116_3940.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라스베이거스는 지금 "BTS의 도시" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220409n10150?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220409n10150?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 09 Apr 2022 09:02:31 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠동아							<em>04-09 18:38</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/04/09/112774907.2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[심형래 "과거 임하룡 뜨면 교통 마비, 방탄소년단 인기 저리 가라"(불후) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
