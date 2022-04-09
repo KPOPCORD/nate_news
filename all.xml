@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 08:03:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 09:02:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,38 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/08/14683568_780511_2537_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[라스베이거스 방탄소년단(BTS) 무대에 수만명 환호…도시 전체가 보랏빛 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220409n10583?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220409n10583?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 09 Apr 2022 09:02:31 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-09 17:34</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/09/14683713_780772_3255_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[완벽을 위한 피, 땀, 눈물의 여정…BTS 비하인드 더 신 [BTS 인 베가스] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220409n10317?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220409n10317?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 09 Apr 2022 09:02:31 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>04-09 17:20</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/04/09/1ca25feb-8e52-422a-9490-4d075efc1814.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['아기싱어' 이석훈, 방탄소년단 변신→'상남자' 퍼포먼스 눈길 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220409n10300?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220409n10300?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 09 Apr 2022 09:02:31 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>04-09 17:19</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/04/09/091632264.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라스베이거스는 지금 "BTS의 도시" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220409n10150?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220409n10150?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 09 Apr 2022 09:02:31 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠동아							<em>04-09 17:11</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/04/09/112774907.2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[BTS in LV] "추억을 함께 해"…BTS, 비하인드 사진전 (영상) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220409n09836?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220409n09836?mid=e0608&amp;isq=9009</guid>
@@ -334,38 +366,6 @@
             <pubDate>Sat, 09 Apr 2022 08:03:48 GMT</pubDate>
             <content:encoded><![CDATA[MK스포츠							<em>04-09 16:25</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/04/09/20220409_1649489024.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 '美빌보드 어워드' 7개 최다 후보 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220409n09377?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220409n09377?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 09 Apr 2022 08:03:48 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>04-09 16:22</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/04/09/l_2022040902000497800091551.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 빌보드 뮤직 어워드 6개 부문·7개 수상 후보 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220409n09422?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220409n09422?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 09 Apr 2022 08:03:48 GMT</pubDate>
-            <content:encoded><![CDATA[더팩트							<em>04-09 16:18</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2022/04/09/202293851649487516.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["더 바빠진 하이브"…BTS‧르세라핌‧新사업 숙제들 [엔터-Biz] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220409n09208?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220409n09208?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 09 Apr 2022 08:03:48 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>04-09 16:18</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/04/09/1649487427_1632260.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 사진전 보러 온 아미들 [MK포토] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220409n09414?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220409n09414?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 09 Apr 2022 08:03:48 GMT</pubDate>
-            <content:encoded><![CDATA[MK스포츠							<em>04-09 16:18</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/04/09/20220409_1649488596.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
