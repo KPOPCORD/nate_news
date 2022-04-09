@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 13:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 14:02:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/08/14683568_780511_2537_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[BTS 인 LV]"훗날 정국과 음악 만들고 싶어요" K팝 ★ 꿈꾸는 10대들 한자리에 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220409n13972?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220409n13972?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 09 Apr 2022 14:02:22 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠서울							<em>04-09 22:05</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/04/09/2022040901000461100032701.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[BTS 인 LV]비하인드 사진전에 애프터파티까지, 공연 열기는 계속 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220409n13949?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220409n13949?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sat, 09 Apr 2022 10:02:39 GMT</pubDate>
             <content:encoded><![CDATA[스포츠투데이							<em>04-09 18:30</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/04/09/09_789158_57184.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['불후의 명곡' 심형래 "과거 임하룡 인기? BTS 저리 가라" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220409n11633?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220409n11633?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 09 Apr 2022 10:02:39 GMT</pubDate>
-            <content:encoded><![CDATA[TV리포트							<em>04-09 18:28</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/04/09/c29fba85-960a-4399-b068-6c0d83be6c3d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
