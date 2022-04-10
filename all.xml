@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 20:02:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 21:02:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/10/14683883_781101_337_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 진X제이홉, 더 훈훈해졌네? '아미 만나기 직전' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220411n01859?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220411n01859?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 10 Apr 2022 21:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>04-11 05:50</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/04/11/202204110548571831_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["그래미, '슈퍼스타' BTS 외면"…팬 반응 직접 들어보니 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220411n00908?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220411n00908?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sun, 10 Apr 2022 09:02:31 GMT</pubDate>
             <content:encoded><![CDATA[스포츠월드							<em>04-10 17:11</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/04/10/20220410509786.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BTS in LV] "시선집중 등장"…진, 고혹적 블랙스완 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220410n17042?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220410n17042?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 10 Apr 2022 09:02:31 GMT</pubDate>
-            <content:encoded><![CDATA[디스패치							<em>04-10 17:03</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/04/10/80e9c27f-c088-4e0c-b05e-63b9adb4b3fe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
