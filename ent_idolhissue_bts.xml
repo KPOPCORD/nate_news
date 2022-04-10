@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 18:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 19:02:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["그래미, '슈퍼스타' BTS 외면"…팬 반응 직접 들어보니]]></title>
+            <link>https://news.nate.com/view/20220411n00908?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220411n00908?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 10 Apr 2022 19:02:05 GMT</pubDate>
+            <content:encoded><![CDATA[스타in							<em>04-11 03:46</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/04/11/PS22041100017.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["Make Some Noise!" BTS, LV 보랏빛 함성으로 가득 채웠다 [TD현장 종합]]]></title>
             <link>https://news.nate.com/view/20220410n10188?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 10 Apr 2022 09:02:31 GMT</pubDate>
             <content:encoded><![CDATA[디스패치							<em>04-10 17:03</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/04/10/80e9c27f-c088-4e0c-b05e-63b9adb4b3fe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BTS in LV] "이 순간, 즐겨봐"…지민, 설레는 댄스타임]]></title>
-            <link>https://news.nate.com/view/20220410n17041?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220410n17041?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 10 Apr 2022 09:02:31 GMT</pubDate>
-            <content:encoded><![CDATA[디스패치							<em>04-10 17:03</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/04/10/b9e7156e-b2ca-4bff-8d30-8f9dccd24cee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
