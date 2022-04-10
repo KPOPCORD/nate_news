@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 10:02:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 11:02:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,11 +248,19 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/08/14683574_780519_3039_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단, 5만 아미와 함께 라스베이거스 점령한 역대급 콘서트 [리뷰] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220410n20345?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220410n20345?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 10 Apr 2022 11:02:32 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠한국							<em>04-10 19:44</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2022/04/10/6794038_967873_2942.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["라스베이거스 사막도, 바다가 돼"…방탄소년단, 아미와 만든 밤~ (콘서트) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220410n18632?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220410n18632?mid=e0608&amp;isq=9009</guid>
             <pubDate>Sun, 10 Apr 2022 10:02:31 GMT</pubDate>
-            <content:encoded><![CDATA[디스패치							<em>04-10 18:47</em>]]></content:encoded>
+            <content:encoded><![CDATA[디스패치							<em>04-10 19:24</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/04/10/861a3c24-86f5-4bea-8242-6a9d428cbfc4.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -358,14 +366,6 @@
             <pubDate>Sun, 10 Apr 2022 09:02:31 GMT</pubDate>
             <content:encoded><![CDATA[디스패치							<em>04-10 17:03</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/04/10/cca7d40e-85d6-4b41-a1d7-04c3c2bfdcda.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BTS in LV] "넘사벽 섹시"…뷔, 치명적 모먼트 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220410n17037?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220410n17037?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 10 Apr 2022 09:02:31 GMT</pubDate>
-            <content:encoded><![CDATA[디스패치							<em>04-10 17:03</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/04/10/1d6b61d2-fc54-4b75-b4cb-27c86626eaaf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
