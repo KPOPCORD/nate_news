@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 00:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 02:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유튜브 코리아 인기 아티스트 1위 빅뱅…2위 (여자)아이들·3위 아이유·4위 레드벨벳·5위 아이브]]></title>
+            <link>https://news.nate.com/view/20220410n05872?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220410n05872?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Sun, 10 Apr 2022 02:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-10 10:27</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/10/14683807_780978_2616_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유튜브 코리아 인기곡 1위는 빅뱅의 봄여름가을겨울, (여자)아이들·아이브·레드벨벳·박재범 TOP5…최다곡 진입은 아이브·레드벨벳·10CM·태연·에스파·아이유]]></title>
+            <link>https://news.nate.com/view/20220410n05336?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220410n05336?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Sun, 10 Apr 2022 02:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-10 10:06</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/10/14683804_780974_125_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유튜브 코리아 인기 뮤직비디오 1위는 빅뱅의 '봄여름가을겨울', (여자)아이들·아이브·레드벨벳·NCT 드림 TOP5…최다곡 진입은 김호중·성시경·빅뱅·이승윤·임영웅]]></title>
             <link>https://news.nate.com/view/20220410n03957?mid=e0608&amp;isq=9012</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 08 Apr 2022 12:09:02 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>04-08 20:30</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/08/14683572_780515_292_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '긴 다리 뽐내며 도도하게' (웬디의 영스트리트 출근길)]]></title>
-            <link>https://news.nate.com/view/20220408n32088?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220408n32088?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Fri, 08 Apr 2022 12:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>04-08 20:29</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/08/14683571_780514_288_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '눈빛 시크둥' (웬디의 영스트리트 출근길)]]></title>
-            <link>https://news.nate.com/view/20220408n32076?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220408n32076?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Fri, 08 Apr 2022 12:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>04-08 20:28</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/08/14683570_780513_2733_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
