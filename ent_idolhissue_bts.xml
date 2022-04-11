@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 12:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 13:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, 美 '키즈 초이스 어워즈'서 3년 연속 수상]]></title>
+            <link>https://news.nate.com/view/20220411n08291?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220411n08291?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 11 Apr 2022 13:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[스타in							<em>04-11 22:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/04/11/PS22041100151.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 병역문제 입장 변화?…슈가 "군대 알아서 갈 테니 다물어"→진 "회사 일임"]]></title>
+            <link>https://news.nate.com/view/20220411n37457?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220411n37457?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 11 Apr 2022 13:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-11 21:14</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/11/14684160_781503_132_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 뷔X강동원, 미국서 만났다…잘생김 폭발]]></title>
             <link>https://news.nate.com/view/20220411n36481?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 11 Apr 2022 10:05:29 GMT</pubDate>
             <content:encoded><![CDATA[스포츠동아							<em>04-11 17:51</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/04/11/112825880.2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 라스베이거스를 물들인 보랏빛 [DA포토]]]></title>
-            <link>https://news.nate.com/view/20220411n32811?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220411n32811?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 11 Apr 2022 10:05:29 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠동아							<em>04-11 17:51</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/04/11/112825854.2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성일종 의원 "방탄소년단(BTS) 병역 문제…4월 중 마무리할 것"]]></title>
-            <link>https://news.nate.com/view/20220411n31656?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220411n31656?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 11 Apr 2022 09:02:43 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>04-11 17:23</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/11/14684114_781444_2054_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
