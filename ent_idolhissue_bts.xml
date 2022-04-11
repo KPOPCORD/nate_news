@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 11:02:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 12:10:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 뷔X강동원, 미국서 만났다…잘생김 폭발]]></title>
+            <link>https://news.nate.com/view/20220411n36481?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220411n36481?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 11 Apr 2022 12:10:07 GMT</pubDate>
+            <content:encoded><![CDATA[조이뉴스24							<em>04-11 20:11</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/04/11/e38ea78b00173a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 당선인 취임식, 방탄소년단(BTS) 초청 않기로]]></title>
+            <link>https://news.nate.com/view/20220411n36245?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220411n36245?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 11 Apr 2022 12:10:07 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>04-11 19:56</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/04/11/l_2022041102000625300114722.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 지민, 아미와 함께 즐긴 콘서트…열광 또 열광]]></title>
             <link>https://news.nate.com/view/20220411n32980?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 11 Apr 2022 09:02:43 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>04-11 17:23</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/11/14684114_781444_2054_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[퇴근길이슈] BTS 불참·현빈♥손예진 신혼여행·'고딩엄빠'·이근 조사]]></title>
-            <link>https://news.nate.com/view/20220411n31308?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220411n31308?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 11 Apr 2022 09:02:43 GMT</pubDate>
-            <content:encoded><![CDATA[조이뉴스24							<em>04-11 17:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/04/11/254231af94a2f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BTS 인 LV]"나를 특별하게 만들어줘" 아미가 말하는 '아미'가 된 이유]]></title>
-            <link>https://news.nate.com/view/20220411n29397?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220411n29397?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 11 Apr 2022 09:02:43 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠서울							<em>04-11 16:59</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/04/11/2022041201000579600041112.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
