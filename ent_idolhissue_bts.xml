@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 21:02:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 22:02:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 제이홉 팬, 존재감 넘치는 의상으로 눈길 "제이홉이 좋아하는 음료"]]></title>
+            <link>https://news.nate.com/view/20220413n03603?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220413n03603?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 12 Apr 2022 22:02:22 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>04-13 06:33</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/13/1649799105083054.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 병역특례 이슈 재점화…업무 일임 받은 하이브의 선택은?]]></title>
             <link>https://news.nate.com/view/20220412n30472?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 12 Apr 2022 02:27:49 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>04-12 10:38</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/12/14684315_781715_3614_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 뷔, 롤모델 강동원 미국서 만났다…공통분모는 거창]]></title>
-            <link>https://news.nate.com/view/20220412n07852?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220412n07852?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 12 Apr 2022 02:27:49 GMT</pubDate>
-            <content:encoded><![CDATA[SBS연예뉴스							<em>04-12 10:36</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/04/12/30000754893_700.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
