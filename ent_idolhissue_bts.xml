@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 06:07:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 07:03:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인수위 "BTS 병역특례…국회서 논의할 문제"]]></title>
+            <link>https://news.nate.com/view/20220412n26021?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220412n26021?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 12 Apr 2022 07:03:08 GMT</pubDate>
+            <content:encoded><![CDATA[더팩트							<em>04-12 15:48</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2022/04/12/202292091649743360.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 병역특례법, 결론 날까…성일종 의원 "여야 이견 없다"]]></title>
             <link>https://news.nate.com/view/20220412n18667?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 12 Apr 2022 02:27:49 GMT</pubDate>
             <content:encoded><![CDATA[스포츠동아							<em>04-12 10:01</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/04/12/112833613.2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성일종 "BTS 병역특례 4월 중 논의 끝낼 것, 공론화 해보겠다"]]></title>
-            <link>https://news.nate.com/view/20220412n07834?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220412n07834?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 12 Apr 2022 02:27:49 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>04-12 09:43</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/04/12/202204120928122410_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
