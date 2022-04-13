@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 02:31:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 03:30:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/13/14684526_781978_2746_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["거창 동생, 거창 형"…방탄소년단 뷔X강동원, 훈훈한 투샷 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220413n16700?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220413n16700?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 13 Apr 2022 03:30:41 GMT</pubDate>
+            <content:encoded><![CDATA[SBS연예뉴스							<em>04-13 11:36</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/04/13/30000755242_700.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 뷔, 강동원과 깜짝 만남…거창 출신 美男 모였네 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220413n16027?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220413n16027?mid=e0608&amp;isq=9009</guid>
@@ -357,14 +365,6 @@
             <pubDate>Wed, 13 Apr 2022 02:31:26 GMT</pubDate>
             <content:encoded><![CDATA[SBS연예뉴스							<em>04-13 09:51</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/04/12/30000755068_700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 'We Are Bulletproof : The Eternal', 빌보드 '디지털 송 세일즈' 재진입 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220413n08476?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220413n08476?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 13 Apr 2022 02:31:26 GMT</pubDate>
-            <content:encoded><![CDATA[TV리포트							<em>04-13 09:27</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/04/13/64857d5a-d5b0-4075-80e9-ebd62c10b756.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
