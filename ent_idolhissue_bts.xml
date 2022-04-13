@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 20:04:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 21:02:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[S포토] 강다현-마리아-이유라-김효경,'수화로 부르는 BTS 버터플라이~' (더퀸오브코리아)]]></title>
+            <link>https://news.nate.com/view/20220414n02058?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220414n02058?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 13 Apr 2022 21:02:28 GMT</pubDate>
+            <content:encoded><![CDATA[스타데일리뉴스							<em>04-14 05:39</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/04/14/319907_367386_2223.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김갑수, 이연복 셰프 와인 셀러 언급 "방탄소년단 진, 바로 전화해서 사줬다고"]]></title>
             <link>https://news.nate.com/view/20220413n42055?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 13 Apr 2022 07:03:15 GMT</pubDate>
             <content:encoded><![CDATA[스타투데이							<em>04-13 15:52</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/04/13/20220413_5140117_1649832231.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여의도 IFC몰 '디페스타' 개최, 방탄소년단(BTS)·세븐틴·트와이스·NCT·스트레이키즈 등 라인업]]></title>
-            <link>https://news.nate.com/view/20220413n25672?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220413n25672?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 13 Apr 2022 07:03:15 GMT</pubDate>
-            <content:encoded><![CDATA[비즈엔터							<em>04-13 15:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2022/04/13/20220413095905_1739472_1024_768.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
