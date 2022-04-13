@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 05:04:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 06:09:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,11 +248,11 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/13/14684535_781987_3526_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["이 도시의 모든 사람들이 BTS 이야기를 하고 있어" [BTS 인 베가스 취재후기] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <title><![CDATA["이 도시의 모두가 BTS 얘기를 하고 있어"…그럼에도 여전한 인종차별 [BTS 인 베가스 취재후기] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220413n20507?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220413n20507?mid=e0608&amp;isq=9009</guid>
             <pubDate>Wed, 13 Apr 2022 05:04:01 GMT</pubDate>
-            <content:encoded><![CDATA[일간스포츠							<em>04-13 13:44</em>]]></content:encoded>
+            <content:encoded><![CDATA[일간스포츠							<em>04-13 14:59</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/04/13/e2697405-c27b-4207-9e31-fa16a90e6974.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -260,8 +260,16 @@
             <link>https://news.nate.com/view/20220413n16700?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220413n16700?mid=e0608&amp;isq=9009</guid>
             <pubDate>Wed, 13 Apr 2022 03:30:41 GMT</pubDate>
-            <content:encoded><![CDATA[SBS연예뉴스							<em>04-13 11:36</em>]]></content:encoded>
+            <content:encoded><![CDATA[SBS연예뉴스							<em>04-13 14:51</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/04/13/30000755242_700.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[데일리그램] BTS 뷔, 강동원과 절친됐나 "거창 형·동생" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220413n22158?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220413n22158?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 13 Apr 2022 06:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[조이뉴스24							<em>04-13 14:07</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/04/13/d7fc104cb4a54a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단 뷔, 강동원과 깜짝 만남…거창 출신 美男 모였네 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -357,14 +365,6 @@
             <pubDate>Wed, 13 Apr 2022 02:31:26 GMT</pubDate>
             <content:encoded><![CDATA[SBS연예뉴스							<em>04-13 10:11</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/04/13/30000755190_700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS·세븐틴 등 국내 최고 K-pop 스타 참여 '디페스타' 개최 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220413n10457?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220413n10457?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 13 Apr 2022 02:31:26 GMT</pubDate>
-            <content:encoded><![CDATA[TV리포트							<em>04-13 09:58</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/04/13/48789211-17af-49e6-8ea4-8658fffd05d6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
