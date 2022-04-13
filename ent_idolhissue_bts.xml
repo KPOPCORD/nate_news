@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 21:02:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 22:02:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 진, 인스타 팔로워 3300만 돌파…美인플루언서 톱1000 15위 '글로벌 슈퍼스타']]></title>
+            <link>https://news.nate.com/view/20220414n03128?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220414n03128?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 13 Apr 2022 22:02:26 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>04-14 06:54</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/14/2022041406472531258_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다시 불붙은 방탄소년단 병역특례법, 이번엔 문턱 넘을까[SS초점]]]></title>
+            <link>https://news.nate.com/view/20220414n02276?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220414n02276?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 13 Apr 2022 22:02:26 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠서울							<em>04-14 06:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/04/14/2022041301000682000049301.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[S포토] 강다현-마리아-이유라-김효경,'수화로 부르는 BTS 버터플라이~' (더퀸오브코리아)]]></title>
             <link>https://news.nate.com/view/20220414n02058?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 13 Apr 2022 09:02:35 GMT</pubDate>
             <content:encoded><![CDATA[일간스포츠							<em>04-13 16:30</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/04/13/57bdad66-a449-4b5f-8a47-1b111fcfa0cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 강동원과 훈훈 투샷 "거창 형·동생"]]></title>
-            <link>https://news.nate.com/view/20220413n30088?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220413n30088?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 13 Apr 2022 09:02:35 GMT</pubDate>
-            <content:encoded><![CDATA[일간스포츠							<em>04-13 16:07</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/04/13/htm_202204131651508275.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 강동원과 역대급 비주얼…"거창 형·동생"]]></title>
-            <link>https://news.nate.com/view/20220413n29252?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220413n29252?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 13 Apr 2022 07:03:15 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>04-13 15:52</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/04/13/20220413_5140117_1649832231.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
