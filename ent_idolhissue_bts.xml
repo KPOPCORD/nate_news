@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 06:09:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 07:03:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 강동원과 역대급 비주얼…"거창 형·동생"]]></title>
+            <link>https://news.nate.com/view/20220413n29252?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220413n29252?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 13 Apr 2022 07:03:15 GMT</pubDate>
+            <content:encoded><![CDATA[스타투데이							<em>04-13 15:52</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/04/13/20220413_5140117_1649832231.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여의도 IFC몰 '디페스타' 개최, 방탄소년단(BTS)·세븐틴·트와이스·NCT·스트레이키즈 등 라인업]]></title>
+            <link>https://news.nate.com/view/20220413n25672?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220413n25672?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 13 Apr 2022 07:03:15 GMT</pubDate>
+            <content:encoded><![CDATA[비즈엔터							<em>04-13 15:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2022/04/13/20220413095905_1739472_1024_768.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["이 도시의 모두가 BTS 얘기를 하고 있어"…그럼에도 여전한 인종차별 [BTS 인 베가스 취재후기]]]></title>
             <link>https://news.nate.com/view/20220413n20507?mid=e0608&amp;isq=9009</link>
@@ -109,22 +125,6 @@
             <pubDate>Wed, 13 Apr 2022 02:31:26 GMT</pubDate>
             <content:encoded><![CDATA[스포츠한국							<em>04-13 10:40</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2022/04/13/6794285_968216_4126.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 정국도 반한 명곡…지소울이 그려낸 감성]]></title>
-            <link>https://news.nate.com/view/20220413n12503?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220413n12503?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 13 Apr 2022 02:31:26 GMT</pubDate>
-            <content:encoded><![CDATA[MK스포츠							<em>04-13 10:29</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/04/13/20220413_1649813278.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 2년 전 발표한 곡으로 美 빌보드 '디지털 송 세일즈' 재진입]]></title>
-            <link>https://news.nate.com/view/20220413n10694?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220413n10694?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 13 Apr 2022 02:31:26 GMT</pubDate>
-            <content:encoded><![CDATA[SBS연예뉴스							<em>04-13 10:11</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/04/13/30000755190_700.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
