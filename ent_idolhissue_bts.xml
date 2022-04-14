@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 00:31:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 02:32:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 뷔-강동원, '거창 형제' 뭉쳤다 [TD#]]]></title>
+            <link>https://news.nate.com/view/20220414n14583?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220414n14583?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 14 Apr 2022 02:32:31 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>04-14 11:10</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/04/14/141632791.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내한에 들뜬 토트넘 'SON이랑 같이 가면 우리도 BTS?']]></title>
+            <link>https://news.nate.com/view/20220414n09542?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220414n09542?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 14 Apr 2022 02:32:31 GMT</pubDate>
+            <content:encoded><![CDATA[스포티비뉴스							<em>04-14 10:15</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2022/04/14/517174_723018_048.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["꿈 속에 보라색 풍선을 놓고 갈게요♥" 방탄소년단 뷔, 달콤한 말로 팬사랑 전하는 사랑둥이…다정다감 로맨티스트]]></title>
             <link>https://news.nate.com/view/20220414n05809?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 14 Apr 2022 00:31:21 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>04-14 08:00</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/14/2022040809595858791_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, '브런치 데이트 하고 싶은 男아이돌' 1위]]></title>
-            <link>https://news.nate.com/view/20220414n04178?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220414n04178?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 14 Apr 2022 00:31:21 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-14 07:58</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/14/2022041407531356443_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민, 본투비 슈퍼스타 아우라…'라스베이거스의 별']]></title>
-            <link>https://news.nate.com/view/20220414n04031?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220414n04031?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 13 Apr 2022 23:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-14 07:49</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/14/2022041407241787519_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
