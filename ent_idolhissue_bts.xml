@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 02:32:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 03:31:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트위터 리트윗 순위] 방탄소년단 지민 85회째 1위, 방탄소년단 뷔·뱀뱀·임영웅·영탁 TOP5]]></title>
+            <link>https://news.nate.com/view/20220414n16955?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220414n16955?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 14 Apr 2022 03:31:10 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-14 11:46</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/14/14684966_782643_4441_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 뷔-강동원, '거창 형제' 뭉쳤다 [TD#]]]></title>
             <link>https://news.nate.com/view/20220414n14583?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 14 Apr 2022 00:31:21 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>04-14 08:00</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/14/1649780484774408.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저스트비 "롤모델 방탄소년단…연말 시상식 목표"[★FULL인터뷰]]]></title>
-            <link>https://news.nate.com/view/20220414n04215?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220414n04215?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 14 Apr 2022 00:31:21 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-14 08:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/14/2022040809595858791_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
