@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 06:09:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 07:02:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/13/14684840_782403_2941_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 뷔, 스타랭킹 男 아이돌 3위…24주 연속 TOP3 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220414n26567?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220414n26567?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 14 Apr 2022 07:02:54 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>04-14 15:20</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/14/2022041414541444771_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 지민, 24주 연속 스타랭킹 男 아이돌 1위 위엄 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220414n26255?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220414n26255?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 14 Apr 2022 07:02:54 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>04-14 15:15</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/14/2022041414535466487_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[트위터 리트윗 순위] 방탄소년단 지민 85회째 1위, 방탄소년단 뷔·뱀뱀·임영웅·영탁 TOP5 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220414n16955?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220414n16955?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Thu, 14 Apr 2022 00:31:21 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>04-14 08:04</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/14/2022041407585969887_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박지훈, 눈물+애교+반전매력 폭발…알고보니 BTS 정국과 ('TMI SHOW') (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220414n04232?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220414n04232?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 14 Apr 2022 00:31:21 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>04-14 08:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/04/14/202204140750773591_625755c4722ac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["방탄소년단처럼 위로 전하는 그룹"…저스트비가 꿈꾸는 내일 [엑's 인터뷰③] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220414n04223?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220414n04223?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 14 Apr 2022 00:31:21 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>04-14 08:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/14/1649780484774408.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
