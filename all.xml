@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 07:02:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 08:14:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/13/14684840_782403_2941_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[저스트비 "날고 뛰고 긴다…BTS처럼 놀 줄 아는 팀 될래"[인터뷰] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220414n30320?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220414n30320?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 14 Apr 2022 08:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[스타in							<em>04-14 16:51</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/04/14/PS22041400096.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 진, 스타랭킹 男 아이돌 2위…뜨거운 인기 입증 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220414n29956?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220414n29956?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 14 Apr 2022 08:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>04-14 16:24</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/14/2022041414540748363_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 뷔, 스타랭킹 男 아이돌 3위…24주 연속 TOP3 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220414n26567?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220414n26567?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Thu, 14 Apr 2022 00:31:21 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>04-14 08:17</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/14/2022041408095827172_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단(BTS) 정국, 매력적인 도시 남자 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220414n04435?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220414n04435?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 14 Apr 2022 00:31:21 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>04-14 08:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/14/1649891268698713.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, 매혹적 도시남 자태…"전정국 매력에 허우적" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220414n04318?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220414n04318?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 14 Apr 2022 00:31:21 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-14 08:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/14/2022041407585969887_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
