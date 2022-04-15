@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 05:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 06:08:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/13/14684841_782404_3018_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['그래미 호스트' 트레버 노아 "방탄소년단, 모든 사람에게 친절하고 멋지다" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220415n18574?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220415n18574?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 15 Apr 2022 06:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>04-15 13:43</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/15/1649997694246211.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 지민, "'배스킨라빈스31' 광고에 찰떡인 스윗한 매력의 스타는?" 익디 투표 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220410n02862?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220410n02862?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Thu, 14 Apr 2022 23:02:16 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>04-15 07:28</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/15/1649975222936296.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국 디자인 BT21 'COOKY' 재입고 30분만 2차 품절…"아빠 닮아 인기 최강!" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220415n03807?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220415n03807?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 14 Apr 2022 23:02:16 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-15 07:11</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/15/2022041507073534554_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
