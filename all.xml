@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 00:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 02:50:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/13/14684841_782404_3018_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 지민, "'배스킨라빈스31' 광고에 찰떡인 스윗한 매력의 스타는?" 익디 투표 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220410n02862?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220410n02862?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 15 Apr 2022 02:50:53 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-15 10:47</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/10/14683776_780901_5426_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["OST KING V" 방탄소년단 뷔 'Sweet Night' MV 8천만뷰 돌파 '뜨거운 글로벌 인기' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220415n07102?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220415n07102?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 15 Apr 2022 02:50:53 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-15 09:18</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/15/14685165_782972_1654_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단(BTS) 뷔, 브런치 데이트하고 싶은 남돌 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220415n06197?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220415n06197?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Thu, 14 Apr 2022 23:02:16 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>04-15 07:11</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/15/2022041507073534554_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔·호날두·메시…全세계 10명만 가진 기록은? 亞최고 '소셜킹' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220415n03734?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220415n03734?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 14 Apr 2022 23:02:16 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-15 07:07</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/15/2022041507031952678_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 日네한 男아이돌 랭킹 54주 연속 1위…TBS라디오 깜짝 등장 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220415n03634?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220415n03634?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 14 Apr 2022 23:02:16 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-15 07:02</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/15/2022041506594276478_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
