@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 21:02:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 22:02:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 슈가X아이유 '에잇' 스포티파이 1억9600만 스트리밍 돌파]]></title>
+            <link>https://news.nate.com/view/20220416n01874?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220416n01874?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 15 Apr 2022 22:02:31 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>04-16 06:52</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/16/2022041606465811796_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['나혼산' 기안84 "BTS 뷔, 건들면 안 돼"→박나래 명품 선물 완벽 소화 [★밤TV]]]></title>
+            <link>https://news.nate.com/view/20220416n01484?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220416n01484?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 15 Apr 2022 22:02:31 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>04-16 06:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/16/2022041518214919929_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 제이홉, 레이디 가가 만났다 "영광스러운 날"]]></title>
             <link>https://news.nate.com/view/20220415n34277?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 15 Apr 2022 09:02:19 GMT</pubDate>
             <content:encoded><![CDATA[스타투데이							<em>04-15 17:32</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/04/15/20220415_5142276_1650010458.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 제이홉, 월드스타는 다르네…레이디 가가와 '찰칵']]></title>
-            <link>https://news.nate.com/view/20220415n27645?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220415n27645?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 15 Apr 2022 09:02:19 GMT</pubDate>
-            <content:encoded><![CDATA[조이뉴스24							<em>04-15 17:22</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/04/15/a858561fbbde5e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 제이홉, 드디어 만난 레이디 가가…"영원한 나의 퀸"]]></title>
-            <link>https://news.nate.com/view/20220415n27455?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220415n27455?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 15 Apr 2022 09:02:19 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>04-15 17:16</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/15/1650010447561569.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
