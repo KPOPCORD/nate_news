@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 13:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 14:03:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 제이홉, 레이디 가가 만났다 "영광스러운 날"]]></title>
+            <link>https://news.nate.com/view/20220415n34277?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220415n34277?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 15 Apr 2022 14:03:24 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>04-15 22:22</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/04/15/151633032.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["Worldwide Social KING V" 방탄소년단 뷔, 전세계 단 10명! 메시, 호날두와 어깨 나란히 한 기록은?]]></title>
+            <link>https://news.nate.com/view/20220415n34001?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220415n34001?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 15 Apr 2022 14:03:24 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-15 21:59</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/15/14685326_783205_5720_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 제이홉 "영원한 나의 퀸" 레이디 가가 만났다]]></title>
             <link>https://news.nate.com/view/20220415n32425?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 15 Apr 2022 09:02:19 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>04-15 17:16</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/15/1650010447561569.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["영원한 나의 퀸" 방탄소년단(BTS) 제이홉, 레이디가가 공연 관람→팬심 드러내]]></title>
-            <link>https://news.nate.com/view/20220415n27182?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220415n27182?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 15 Apr 2022 09:02:19 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>04-15 17:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/15/14685287_783146_844_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 제이홉, 레이디 가가와 '찰칵'…카리스마 무슨 일이야?]]></title>
-            <link>https://news.nate.com/view/20220415n27019?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220415n27019?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 15 Apr 2022 09:02:19 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>04-15 17:06</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/04/15/202204151654747301_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
