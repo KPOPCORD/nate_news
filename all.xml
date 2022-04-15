@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 09:02:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 10:03:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,12 +248,20 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/13/14684842_782405_3124_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[BTS 제이홉, 레이디 가가 만났다 "영원한 나의 퀸" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <title><![CDATA['그래미 호스트' 트레버 노아가 BTS를 사랑하는 이유 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220415n26421?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220415n26421?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 15 Apr 2022 08:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>04-15 18:54</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/04/15/l_2022041502000894800170442.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 제이홉, 레이디 가가 만나 "영광, 특별한 날" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220415n28183?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220415n28183?mid=e0608&amp;isq=9009</guid>
             <pubDate>Fri, 15 Apr 2022 09:02:19 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>04-15 17:54</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/04/15/l_2022041502000893400169951.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[스포츠경향							<em>04-15 18:02</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/04/15/l_2022041502000893700170061.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단 제이홉 성덕 됐다, 레이디 가가와 다정 투샷 "영원한 나의 퀸" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 15 Apr 2022 09:02:19 GMT</pubDate>
             <content:encoded><![CDATA[TV리포트							<em>04-15 17:04</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/04/15/d3b100d2-924c-43e4-8923-859411446d8f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['그래미 호스트' 트레버 노아가 BTS를 사랑하는 이유 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220415n26421?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220415n26421?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 15 Apr 2022 08:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>04-15 16:49</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/04/15/l_2022041502000889600168962.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단 RM, 아침 조깅을 여기서? 미국 '핫'한 일상 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
