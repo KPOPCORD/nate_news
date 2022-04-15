@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 07:02:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 08:08:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['그래미 호스트' 트레버 노아가 BTS를 사랑하는 이유]]></title>
+            <link>https://news.nate.com/view/20220415n26421?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220415n26421?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 15 Apr 2022 08:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>04-15 16:49</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/04/15/l_2022041502000889600168962.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 RM, 아침 조깅을 여기서? 미국 '핫'한 일상]]></title>
+            <link>https://news.nate.com/view/20220415n25079?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220415n25079?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 15 Apr 2022 08:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>04-15 16:12</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/04/15/202204151553594697_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['그래미 호스트' 트레버 노아 "방탄소년단, 모든 사람에게 친절하고 멋지다"]]></title>
             <link>https://news.nate.com/view/20220415n18574?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 15 Apr 2022 00:23:16 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>04-15 07:56</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/15/14685152_782940_5512_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['잘 만들고 잘 부른' 방탄소년단 지민 자작곡 '크리스마스 러브' 총 1억 스트리밍돌파…4계절 시즌송]]></title>
-            <link>https://news.nate.com/view/20220415n04383?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220415n04383?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 15 Apr 2022 00:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>04-15 07:55</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/15/14685151_782936_5337_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단(BTS) 진, 타고난 남신 미모]]></title>
-            <link>https://news.nate.com/view/20220415n04008?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220415n04008?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 14 Apr 2022 23:02:16 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>04-15 07:28</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/15/1649975222936296.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
