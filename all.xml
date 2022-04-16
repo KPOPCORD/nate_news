@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 00:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 02:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,12 +248,84 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/13/14684842_782405_3124_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 지민 4월 브랜드평판 40개월 연속 1위 '위엄'[공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <title><![CDATA[방탄소년단 지민, 4월 보이그룹 개인 브랜드평판 1위…2위는 빅뱅 지드래곤 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220416n04440?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220416n04440?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 16 Apr 2022 02:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[MK스포츠							<em>04-16 10:36</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/04/16/20220416_1650072478.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단(BTS) 뷔, 국방부도 탐낼 비주얼이긴 한데 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220416n04376?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220416n04376?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 16 Apr 2022 02:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>04-16 10:30</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/04/16/202204161019773346_625a1b97da8cf.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 지민, 4월 보이그룹 개인 브랜드평판 1위…2위는 빅뱅 지드래곤 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220416n03852?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220416n03852?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 16 Apr 2022 02:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠한국							<em>04-16 10:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2022/04/16/6794591_968616_204.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["KOREA FRONTMAN" 방탄소년단 지민 '도슨트 마케팅 성공' 대표 예시 JTBC 주목…특파원 25시 방송중 'Frontman 존재감' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220416n03602?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220416n03602?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 16 Apr 2022 02:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-16 09:43</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/16/14685373_783287_4233_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 지민 4월 브랜드평판 40개월째 1위 수성 '위엄'[공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220416n02836?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220416n02836?mid=e0608&amp;isq=9009</guid>
             <pubDate>Sat, 16 Apr 2022 00:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-16 09:05</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/16/tn_1650067504520_952023_0.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[스타뉴스							<em>04-16 09:42</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/16/tn_1650069723721_733688_0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 정국 인스타그램 '2일 연속' 일간 팔로워 증가수 1위→3740만 팔로워…'슈퍼 대세' 인기 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220416n03560?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220416n03560?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 16 Apr 2022 02:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-16 09:40</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/16/14685372_783282_3914_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["Shall we dance?" 방탄소년단 뷔, 인스타그램 릴스 亞 최단 2000만 뷰 돌파…호날두 이어 전세계 톱2위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220416n03529?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220416n03529?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 16 Apr 2022 02:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-16 09:38</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/16/14685371_783276_3628_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["Cherry On Top♥JIMIN" 방탄소년단 지민 '바람의 이름' 뉴욕타임즈 베스트셀러 작가 패트릭 로스퍼스 '비틀즈보다 체리온탑 지민' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220416n03398?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220416n03398?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 16 Apr 2022 02:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-16 09:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/16/14685370_783266_2957_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 정국에 '열혈 애정' 드러낸 '왕좌의 게임' 여배우 "BTS 정국 '최애'…투어 한다면 꼭 볼 거야" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220416n03335?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220416n03335?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 16 Apr 2022 02:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-16 09:27</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/16/14685369_783260_2630_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 지민, 보이그룹 개인평판 1위…2위 GD·3위 강다니엘 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220416n03202?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220416n03202?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 16 Apr 2022 02:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[스타투데이							<em>04-16 09:15</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/04/16/20220416_5142685_1650068065.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단 지민, 40개월간 정상 자리 지켰다…4월 보이그룹 개인 브랜드평판도 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -294,78 +366,6 @@
             <pubDate>Sat, 16 Apr 2022 00:25:33 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>04-16 07:54</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/16/2022041607441393546_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, 인스타그램 '2일 연속' 일간 팔로워 증가수 1위. 역시 '소셜 제왕'! (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220416n02318?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220416n02318?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 15 Apr 2022 23:04:32 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>04-16 07:45</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/04/16/2022041701001289000083721.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 진 'Yours' 日온쿄뮤직 1위 재탈환→샤잠 일본 'TOP 200'차트 7일 연속 1위…눈부신 역주행 신화 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220416n02306?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220416n02306?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 15 Apr 2022 23:04:32 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-16 07:44</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/16/2022041607362317654_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['비틀즈 보다 체리온탑' 방탄소년단 지민, 뉴욕타임즈 베스트셀러 '바람의 이름' 작가 패트릭 로스퍼스 '애정' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220416n02244?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220416n02244?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 15 Apr 2022 23:04:32 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-16 07:35</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/16/2022041607003456412_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국에 푹 빠진 '왕좌의 게임' 여배우 "BTS 정국 '최애'…투어하면 꼭 볼래요!" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220416n02201?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220416n02201?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 15 Apr 2022 23:04:32 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-16 07:28</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/16/2022041607221359982_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국 인스타그램 2일 연속 일간 팔로워 증가수 1위→3740만 팔로워…'슈퍼 대세' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220416n02175?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220416n02175?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 15 Apr 2022 23:04:32 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-16 07:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/16/2022041607160837849_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 인스타그램 릴스 13시간만 2000만뷰 돌파…호날두 이어 全세계 TOP2 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220416n02164?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220416n02164?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 15 Apr 2022 23:04:32 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-16 07:15</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/16/2022041607094311739_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 위키피디아 13개월 연속 韓솔로 1위…'올리비아와 귓속말' 그래미 당일 5배 '껑충' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220416n02040?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220416n02040?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 15 Apr 2022 23:04:32 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-16 07:03</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/16/2022041606561339139_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민 '필터' 단숨에 스포티파이 2억7500만 스트리밍 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220416n01900?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220416n01900?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 15 Apr 2022 23:04:32 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-16 06:59</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/16/2022041606541548605_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 슈가X아이유 '에잇' 스포티파이 1억9600만 스트리밍 돌파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220416n01874?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220416n01874?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 15 Apr 2022 22:02:31 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-16 06:52</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/16/2022041606465811796_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
