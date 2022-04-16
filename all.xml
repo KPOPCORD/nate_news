@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 03:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 04:03:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/13/14684842_782405_3124_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 지민, 4월 보이그룹 개인 브랜드평판 1위 차지 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220416n05692?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220416n05692?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 16 Apr 2022 04:03:23 GMT</pubDate>
+            <content:encoded><![CDATA[스타데일리뉴스							<em>04-16 12:30</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/04/16/320042_367536_2810.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 지민, 4월 보이그룹 개인 브랜드평판 1위…2위는 빅뱅 지드래곤 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220416n04440?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220416n04440?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sat, 16 Apr 2022 00:25:33 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>04-16 07:57</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/16/2022041607552682644_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Sin City→Jin City' 방탄소년단 진, 라스베이거스를 천상의 아름다움으로 빛냅니다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220416n02356?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220416n02356?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 16 Apr 2022 00:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-16 07:54</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/16/2022041607441393546_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
