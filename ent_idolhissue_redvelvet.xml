@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 11:02:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 12:08:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유튜브 코리아 인기 뮤직비디오 1위는 빅뱅의 봄여름가을겨울, 여자아이들·아이브·레드벨벳 TOP5…최다곡 진입은 빅뱅·김호중·성시경·아이브]]></title>
+            <link>https://news.nate.com/view/20220417n17667?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220417n17667?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Sun, 17 Apr 2022 12:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-17 19:55</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/17/14685579_783663_5418_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유튜브 코리아 인기 아티스트 1위 빅뱅…2위 아이브·3위 여자아이들·4위 아이유·5위 레드벨벳]]></title>
             <link>https://news.nate.com/view/20220417n07829?mid=e0608&amp;isq=9012</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 13 Apr 2022 14:02:09 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>04-13 22:36</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/13/14684845_782415_355_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '앙큼유혹 볼하트' (SBS TV 동물농장 퇴근길)]]></title>
-            <link>https://news.nate.com/view/20220413n41413?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220413n41413?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 13 Apr 2022 14:02:09 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>04-13 22:35</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/13/14684844_782414_3339_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
