@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 21:02:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 22:02:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/13/14684845_782415_355_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 뷔, '초콜릿 광고에 가장 어울리는 스타' 1위…로맨틱 김태형♥ (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220418n03445?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220418n03445?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Apr 2022 22:02:45 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>04-18 06:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/18/2022041806505785101_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 프랑스 '2021 최고의 케이팝 아티스트' 1위…유럽도 '태태랜드' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220418n03403?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220418n03403?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Apr 2022 22:02:45 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>04-18 06:50</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/18/2022041806453020016_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 '피 땀 눈물' 스포티파이 4억 스트리밍 돌파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220418n02346?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220418n02346?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Sun, 17 Apr 2022 09:02:14 GMT</pubDate>
             <content:encoded><![CDATA[스포츠경향							<em>04-17 17:24</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/04/17/l_2022041702000951600179951.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 20만 아미와 함께한 美 라스베이거스 콘서트 성료 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220417n14823?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220417n14823?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 17 Apr 2022 09:02:14 GMT</pubDate>
-            <content:encoded><![CDATA[일간스포츠							<em>04-17 17:17</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/04/17/5535c4ca-a501-4945-b8f7-8cffbc6af712.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 20만 ♥아미와 美 대면 콘서트 성료→6월 컴백 예고 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220417n14733?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220417n14733?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 17 Apr 2022 09:02:14 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>04-17 17:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/04/17/202204171700393490_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
