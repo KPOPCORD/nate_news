@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 00:26:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 02:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 제니, 4월 걸그룹 개인 브랜드평판 1위 차지 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
+            <link>https://news.nate.com/view/20220417n05196?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20220417n05196?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Sun, 17 Apr 2022 02:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[스타데일리뉴스							<em>04-17 10:34</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/04/17/320047_367541_337.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 로제·김윤아 출격? WSG워너비 오디션에 실력자 총출동(놀면 뭐하니)[어제TV] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
             <link>https://news.nate.com/view/20220416n13258?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 10 Apr 2022 16:03:22 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>04-11 00:32</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/11/14683909_781141_3024_org.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[(여자)아이들, 걸그룹 브랜드평판 왕좌…블랙핑크 넘어 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
-            <link>https://news.nate.com/view/20220410n09122?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20220410n09122?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Sun, 10 Apr 2022 04:03:08 GMT</pubDate>
-            <content:encoded><![CDATA[더팩트							<em>04-10 12:43</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2022/04/10/202235961649561632.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[HD포토] 권은비, '레드벨벳 웬디가 인정한 착한 사람' (매터돌 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
@@ -248,6 +248,62 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/13/14684842_782405_3124_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 뷔, 눈부신 고품격 왕자님 비주얼 '글로벌 소셜킹' 미모도 KING (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220417n04832?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220417n04832?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Apr 2022 02:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-17 10:18</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/17/14685517_783546_1740_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['韓솔로 첫 3곡' 방탄소년단 지민 '라이'스포티파이 1억7000만…팀 솔로 최초 美온디맨드 1억에 RIAA 골드 자격까지 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220417n04788?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220417n04788?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Apr 2022 02:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-17 10:17</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/17/14685515_783538_1537_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["Beautiful Visuals V" 방탄소년단 뷔, 中팬들 LV마지막 콘서트 '본투비 슈퍼스타' 특급 서포트 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220417n04716?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220417n04716?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Apr 2022 02:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-17 10:14</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/17/14685513_783533_138_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["자기 관리 열정 끝판왕♥" 방탄소년단 정국 콘서트 공연 후에도 '복싱' 스파링→자기 관리 끝판왕…강펀치+등근육 '섹시·박력미' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220417n04651?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220417n04651?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Apr 2022 02:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-17 10:12</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/17/14685512_783531_1038_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["Taehyung was born to be a Super Star" 방탄소년단 뷔, 본투비 슈퍼스타 LV콘서트 '카리스마+감동' 선사…3회연속 구글 최고트렌딩 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220417n04601?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220417n04601?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Apr 2022 02:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-17 10:10</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/17/14685510_783524_843_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["전지전능 라이브 퍼포먼스 비주얼" 방탄소년단 정국 美콘서트 '무대 제왕' 대체불가 라이브 퍼포먼스→자비 없는 비주얼…65개국 실트+150만 언급량 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220417n04479?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220417n04479?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Apr 2022 02:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-17 10:07</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/17/14685507_783515_60_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['STAGE KING' 방탄소년단 지민, 'PDT' 라스베이거스 3일차 주인공…큐티·섹시·러블리 '베이비 모찌' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220417n04426?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220417n04426?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Apr 2022 02:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-17 10:05</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/17/14685504_783503_335_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 슈가 피처링 맥스 'Blueberry Eyes' 스포티파이 1억 7700만…인기ing (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220417n02814?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220417n02814?mid=e0608&amp;isq=9009</guid>
@@ -310,62 +366,6 @@
             <pubDate>Sun, 17 Apr 2022 00:26:40 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>04-17 07:54</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/17/2022041707460110857_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, 美콘서트 '무대 제왕' 대체불가 라이브 퍼포먼스…65개국 실트+150만 언급량 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220417n02198?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220417n02198?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 16 Apr 2022 23:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-17 07:45</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/17/2022041707383456162_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단(BTS) 제이홉, 美 콘서트서 자작곡 '병' 열창 "카리스마 폭발" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220417n02163?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220417n02163?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 16 Apr 2022 23:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>04-17 07:38</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/17/1650148580721879.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['카리스마+감동' 방탄소년단 뷔, 라스베이거스 달군 본투비 슈퍼스타…구글트렌딩 3회연속 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220417n02158?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220417n02158?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 16 Apr 2022 23:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-17 07:37</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/17/2022041707324845904_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['STAGE KING' 방탄소년단 지민, 'PTD' 라스베이거스 3일차도 '올타임 레전드'…큐티·섹시·러블리 '베이비 모찌' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220417n02141?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220417n02141?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 16 Apr 2022 23:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-17 07:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/17/tn_1650148323926_58557_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민 '라이' 스포티파이 1억 7000만…韓솔로 유일+최초 3곡 보유 아티스트 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220417n02105?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220417n02105?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 16 Apr 2022 23:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-17 07:26</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/17/tn_1650147964169_719941_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['영국 아미' 사이먼 페그, 성덕 됐네…BTS와 인증샷 찰칵 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220416n07822?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220416n07822?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 16 Apr 2022 07:02:48 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>04-16 18:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/04/16/202204161510689934_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['영국 아미' 사이먼 페그 딸, 방탄소년단과 인증샷 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220416n09264?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220416n09264?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 16 Apr 2022 09:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-16 17:11</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/16/2022041616560757603_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
