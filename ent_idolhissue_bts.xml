@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 02:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 03:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["스파링 하자고 말해줘♥" 추성훈, BTS 정국에 '스파링' 제안]]></title>
+            <link>https://news.nate.com/view/20220417n06835?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220417n06835?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Apr 2022 03:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-17 11:45</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/17/14685544_783600_442_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["Kim Taehyung born to be loved" 방탄소년단 뷔, 위키피디아 13개월 연속 K팝 男솔로 1위…그래미 당일 페이지뷰 폭증]]></title>
+            <link>https://news.nate.com/view/20220417n06381?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220417n06381?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Apr 2022 03:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-17 11:22</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/17/14685536_783566_2127_org.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 뷔, 눈부신 고품격 왕자님 비주얼 '글로벌 소셜킹' 미모도 KING]]></title>
             <link>https://news.nate.com/view/20220417n04832?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sun, 17 Apr 2022 00:26:40 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>04-17 08:07</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/17/2022041708002078826_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['모든 순간, 레전드' 방탄소년단 뷔 中팬들 라스베이거스 마지막 콘서트 대형 LED 홍보차량 특급 서포트]]></title>
-            <link>https://news.nate.com/view/20220417n02304?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220417n02304?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 17 Apr 2022 00:26:40 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-17 08:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/17/2022041707542834283_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 만났다! 방탄소년단 진의 '열렬한 팬' 사이먼 페그와 딸 틸리 '소원성취']]></title>
-            <link>https://news.nate.com/view/20220417n02262?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220417n02262?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 17 Apr 2022 00:26:40 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-17 07:54</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/17/2022041707460110857_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
