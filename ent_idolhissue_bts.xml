@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 15:02:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 16:03:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, 20만 아미와 함께한 美 라스베이거스 대면 콘서트 성료…떼창과 함성의 향연]]></title>
+            <link>https://news.nate.com/view/20220418n00409?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220418n00409?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Apr 2022 16:03:18 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠한국							<em>04-18 00:16</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2022/04/18/6794679_968760_133.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[강일홍의 클로즈업] '한류팬 열망' BTS 병역 해법, 이번엔 통할까?]]></title>
+            <link>https://news.nate.com/view/20220418n00264?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220418n00264?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 17 Apr 2022 16:03:18 GMT</pubDate>
+            <content:encoded><![CDATA[더팩트							<em>04-18 00:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2022/04/18/20226923165015827300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 6월 10일 컴백…'WE ARE BULLETPROOF' (공식)]]></title>
             <link>https://news.nate.com/view/20220417n13439?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sun, 17 Apr 2022 09:02:14 GMT</pubDate>
             <content:encoded><![CDATA[OSEN							<em>04-17 17:14</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/04/17/202204171706771732_625bcc21d15bf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 라스베이거스 콘서트 성료…6월 10일 컴백 예고]]></title>
-            <link>https://news.nate.com/view/20220417n14645?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220417n14645?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 17 Apr 2022 09:02:14 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>04-17 17:12</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/04/17/20220417_5143326_1650182915.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 6월 10일 컴백 "새 앨범으로 찾아온다" [공식]]]></title>
-            <link>https://news.nate.com/view/20220417n14064?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220417n14064?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 17 Apr 2022 09:02:14 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>04-17 17:06</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/04/17/202204171631868928_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
