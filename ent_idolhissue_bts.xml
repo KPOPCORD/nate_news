@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 11:02:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 12:10:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 美 콘서트 관람 인증한 뜻밖의 스타]]></title>
+            <link>https://news.nate.com/view/20220418n36359?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220418n36359?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 18 Apr 2022 12:10:24 GMT</pubDate>
+            <content:encoded><![CDATA[TV리포트							<em>04-18 19:56</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/04/18/da3da9c9-33a0-4771-99c7-8fdd898f954c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손지창도 '아미'…방탄소년단 美콘서트 관람 "온통 보라색" [스타IN★]]]></title>
             <link>https://news.nate.com/view/20220418n35773?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 18 Apr 2022 06:08:14 GMT</pubDate>
             <content:encoded><![CDATA[스타투데이							<em>04-18 14:04</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/04/18/20220418_5143918_1650257508.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['야노시호♥' 추성훈, BTS 정국에 스파링 제안…성사될까]]></title>
-            <link>https://news.nate.com/view/20220418n20091?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220418n20091?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 18 Apr 2022 06:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>04-18 13:38</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/18/1650256536794744.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
