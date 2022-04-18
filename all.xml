@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 00:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 02:48:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크, 정규 1집 전곡 스포티파이 억대 스트리밍 달성 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
+            <link>https://news.nate.com/view/20220418n13888?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20220418n13888?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Mon, 18 Apr 2022 02:47:35 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>04-18 11:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/04/18/202204181101252410_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 제니, 4월 걸그룹 개인 브랜드평판 1위 차지 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
             <link>https://news.nate.com/view/20220417n05196?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 11 Apr 2022 10:05:07 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>04-11 18:27</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/04/11/202204111826183510_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["컴백 임박?" 블랙핑크 제니, 오렌지 새 헤어 관심 폭발 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
-            <link>https://news.nate.com/view/20220411n00232?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20220411n00232?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Sun, 10 Apr 2022 16:03:22 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>04-11 00:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/11/14683909_781141_3024_org.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[독자추천 순위] 영탁 151회째 1위, 이찬원·장민호·방탄소년단 지민·레드벨벳 웬디 TOP5 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
@@ -248,6 +248,70 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/13/14684846_782416_3617_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[트위터 리트윗 순위] 방탄소년단 뷔 30회째 1위, 방탄소년단 지민·임영웅·영탁·방탄소년단 정국 TOP5 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220418n15352?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220418n15352?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 18 Apr 2022 02:48:08 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-18 11:23</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/18/14685690_783874_2058_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 초콜릿 광고에 가장 어울리는 스타 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220418n12696?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220418n12696?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 18 Apr 2022 02:48:08 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>04-18 10:44</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/04/18/8229f1da-7355-4c50-885d-3c04b2b0c897.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[추성훈, BTS 정국에 러브콜? "다음은 스파링하자고 말해줘"[똑똑SNS] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220418n11763?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220418n11763?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 18 Apr 2022 02:48:08 GMT</pubDate>
+            <content:encoded><![CDATA[MK스포츠							<em>04-18 10:29</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/04/18/20220418_1650245241.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 프랑스 '2021년 최고의 케이팝 아티스트' 1위…넘사벽 유럽 인기 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220418n11271?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220418n11271?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 18 Apr 2022 02:48:08 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-18 10:22</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/18/14685677_783854_217_org.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독] 방탄소년단, 19일 금의환향…새앨범 준비착수 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220418n09737?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220418n09737?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 18 Apr 2022 02:48:08 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>04-18 09:59</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/04/18/l_2022041802000980700185691.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 라스베이거스 달궜다…6월 10일 컴백 예고 [공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220418n09050?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220418n09050?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 18 Apr 2022 02:48:08 GMT</pubDate>
+            <content:encoded><![CDATA[TV리포트							<em>04-18 09:49</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/04/18/065e71a1-b052-41d3-b9a5-574dd4ba9581.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["좋은 날 있을 것"이라던 방탄소년단, 11개월 만에 새 앨범 발매 예고 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220418n08219?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220418n08219?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 18 Apr 2022 02:48:08 GMT</pubDate>
+            <content:encoded><![CDATA[SBS연예뉴스							<em>04-18 09:36</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/04/18/30000754485_700.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 완전체 모였다, 화기애애 셀카 [리포트:컷] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220418n07893?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220418n07893?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 18 Apr 2022 02:48:08 GMT</pubDate>
+            <content:encoded><![CDATA[TV리포트							<em>04-18 09:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/04/18/aa30dc5d-4747-488b-b7f9-8dc7b2a99a72.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS 진, 붉은 여명의 꽃에서 'Jin'으로 인스타 프로필 변경 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220418n06289?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220418n06289?mid=e0608&amp;isq=9009</guid>
@@ -302,70 +366,6 @@
             <pubDate>Mon, 18 Apr 2022 00:32:28 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>04-18 08:34</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/18/14685638_783766_3249_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["신이 빚은 걸작 전정국♥" 방탄소년단 정국 美콘서트, 비현실 神급 미모 '명작 자태'→잔뜩 성난 복근 '섹시·마성' 옴므파탈…53개국 실트+170만 언급량 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220418n05354?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220418n05354?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 18 Apr 2022 00:32:28 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>04-18 08:31</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/18/14685637_783757_2915_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단(BTS) 뷔, 자작곡 'Snow Flower' 유튜브 5000만 스트리밍 돌파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220418n04750?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220418n04750?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 18 Apr 2022 00:32:28 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>04-18 08:06</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/18/1650236698759914.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[독자추천 순위] 영탁 151회째 1위, 이찬원·장민호·방탄소년단 지민·레드벨벳 웬디 TOP5 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220418n04735?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220418n04735?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 18 Apr 2022 00:32:28 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>04-18 08:06</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/18/14685634_783749_444_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['무대의 神'  방탄소년단 지민, 美콘서트 성공 이끈 BTS 퍼포먼스의 중심…'THANK YOU JIMIN' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220418n04234?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220418n04234?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 17 Apr 2022 23:02:28 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-18 07:42</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/18/2022041806445963560_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SC이슈]방탄소년단 정국, 추성훈과 복싱 스파링 성사될까? 정국에 추성훈이 직접 스파링 제안 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220418n04192?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220418n04192?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 17 Apr 2022 23:02:28 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>04-18 07:38</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/04/18/2022041901001422900093251.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 진 '슈퍼 참치' 6200만뷰 돌파…팔딱팔딱~글로벌 슈퍼파워! (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220418n04137?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220418n04137?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 17 Apr 2022 23:02:28 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-18 07:33</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/18/2022041807275557615_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 진, Sin City를 Jin City로 'BRIGHTEST STAR SEOKJIN' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220418n04026?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220418n04026?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 17 Apr 2022 23:02:28 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-18 07:27</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/18/2022041807132772583_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단(BTS) 공연 본 레이디가가 음악감독, 제이홉에게 "멋진 쇼" 메시지 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220418n03956?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220418n03956?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 17 Apr 2022 23:02:28 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>04-18 07:22</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/18/1650234084926873.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
