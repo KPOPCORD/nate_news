@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 05:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 06:08:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크, 정규 1집 전곡 스포티파이 억대 스트리밍 달성 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
+            <link>https://news.nate.com/view/20220418n22598?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20220418n22598?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Mon, 18 Apr 2022 06:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[스타데일리뉴스							<em>04-18 14:33</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/04/18/320094_367611_3240.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크, 정규 1집 전곡 스포티파이 억대 스트리밍 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
             <link>https://news.nate.com/view/20220418n17072?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 11 Apr 2022 10:05:07 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>04-11 18:28</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/04/11/202204111827483510_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 제니 '유혹의 눈빛'[포토엔HD] (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
-            <link>https://news.nate.com/view/20220411n34335?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20220411n34335?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Mon, 11 Apr 2022 10:05:07 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>04-11 18:28</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/04/11/202204111826593510_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[독자추천 순위] 영탁 151회째 1위, 이찬원·장민호·방탄소년단 지민·레드벨벳 웬디 TOP5 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
@@ -248,6 +248,38 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/13/14684846_782416_3617_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 뷔, 콘서트 중 다리 열상…밴드 처치 후 귀국길 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220418n21639?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220418n21639?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 18 Apr 2022 06:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>04-18 14:16</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/04/18/202204181350319120_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 전세기 타고 귀국…피투성이 다리 "신났나 보네" [스타★샷] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220418n21325?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220418n21325?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 18 Apr 2022 06:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>04-18 14:09</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/04/18/20220418510194.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이린, BTS 콘서트 보러 라스베이거스까지…'아미 인증' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220418n21146?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220418n21146?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 18 Apr 2022 06:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[스타투데이							<em>04-18 14:04</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/04/18/20220418_5143918_1650257508.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['야노시호♥' 추성훈, BTS 정국에 스파링 제안…성사될까 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220418n20091?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220418n20091?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 18 Apr 2022 06:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>04-18 13:38</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/18/1650256536794744.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 정국, 흑백 뚫고 나오는 눈부신 비주얼 [TD#] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220418n17995?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220418n17995?mid=e0608&amp;isq=9009</guid>
@@ -334,38 +366,6 @@
             <pubDate>Mon, 18 Apr 2022 02:48:08 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>04-18 10:22</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/18/14685677_783854_217_org.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 방탄소년단, 19일 금의환향…새앨범 준비착수 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220418n09737?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220418n09737?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 18 Apr 2022 02:48:08 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>04-18 09:59</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/04/18/l_2022041802000980700185691.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 라스베이거스 달궜다…6월 10일 컴백 예고 [공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220418n09050?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220418n09050?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 18 Apr 2022 02:48:08 GMT</pubDate>
-            <content:encoded><![CDATA[TV리포트							<em>04-18 09:49</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/04/18/065e71a1-b052-41d3-b9a5-574dd4ba9581.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["좋은 날 있을 것"이라던 방탄소년단, 11개월 만에 새 앨범 발매 예고 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220418n08219?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220418n08219?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 18 Apr 2022 02:48:08 GMT</pubDate>
-            <content:encoded><![CDATA[SBS연예뉴스							<em>04-18 09:36</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/04/18/30000754485_700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 완전체 모였다, 화기애애 셀카 [리포트:컷] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220418n07893?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220418n07893?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 18 Apr 2022 02:48:08 GMT</pubDate>
-            <content:encoded><![CDATA[TV리포트							<em>04-18 09:31</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/04/18/aa30dc5d-4747-488b-b7f9-8dc7b2a99a72.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
