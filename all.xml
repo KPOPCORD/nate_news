@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 07:02:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 08:08:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,20 +248,28 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/13/14684846_782416_3617_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아이린, BTS 콘서트 보러 라스베이거스行…"좋은 시간" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220418n28785?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220418n28785?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 18 Apr 2022 08:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>04-18 16:21</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/18/1650266205613907.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[추성훈, BTS 정국에 스파링 제안…왜? (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220418n24318?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220418n24318?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 18 Apr 2022 07:02:49 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>04-18 16:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/04/18/l_2022041802001013600192011.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아이린도 아미였네…방탄소년단 보기 위해 라스베이거스行 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220418n25442?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220418n25442?mid=e0608&amp;isq=9009</guid>
             <pubDate>Mon, 18 Apr 2022 07:02:49 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>04-18 15:22</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/18/2022041814483160539_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추성훈, BTS 뷔에 스파링 제안…왜? (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220418n24318?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220418n24318?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 18 Apr 2022 07:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>04-18 15:09</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/04/18/l_2022041802001008100190831.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[美 상원의원 "BTS 아미가 라스베이거스에 큰 힘 됐다" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -358,14 +366,6 @@
             <pubDate>Mon, 18 Apr 2022 03:35:29 GMT</pubDate>
             <content:encoded><![CDATA[스타투데이							<em>04-18 11:54</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/04/18/20220418_1819601.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['BTS 달콤 뷔주얼' 뷔, '초콜릿 광고에 가장 어울리는 스타' 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220418n16344?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220418n16344?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 18 Apr 2022 03:35:29 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>04-18 11:38</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/04/18/202204181116714891_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
