@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 10:04:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 11:02:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손지창도 '아미'…방탄소년단 美콘서트 관람 "온통 보라색" [스타IN★]]]></title>
+            <link>https://news.nate.com/view/20220418n35773?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220418n35773?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 18 Apr 2022 11:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>04-18 19:25</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/18/2022041818583194984_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['오징어 게임'이 밀고 방탄소년단이 끌었다…지난해 '한류' 언급 30배↑ 급증]]></title>
+            <link>https://news.nate.com/view/20220418n34090?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220418n34090?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 18 Apr 2022 11:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>04-18 18:08</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/04/18/e2a7e3e5-dd32-4ffb-97be-d588e43fca88.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[美 상원의원, BTS에 감사인사 "라스베이거스 자영업자에 큰 힘 됐다"]]></title>
             <link>https://news.nate.com/view/20220418n33175?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 18 Apr 2022 06:08:14 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>04-18 13:38</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/18/1650256536794744.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, 흑백 뚫고 나오는 눈부신 비주얼 [TD#]]]></title>
-            <link>https://news.nate.com/view/20220418n17995?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220418n17995?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 18 Apr 2022 03:35:29 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>04-18 12:19</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/04/18/181633192.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3살 아미의 수줍은 고백 "방탄소년단 RM 좋아해요" [TD현장]]]></title>
-            <link>https://news.nate.com/view/20220410n05543?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220410n05543?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 18 Apr 2022 03:35:29 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>04-18 12:02</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/04/10/1649552597_1632301.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
