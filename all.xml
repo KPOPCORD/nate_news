@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 16:03:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 17:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/19/14685908_784134_1020_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 오늘(19일) 라스베이거스서 귀국 '금의환향' [MK이슈] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220419n00499?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220419n00499?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 18 Apr 2022 17:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[스타투데이							<em>04-19 01:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/04/19/20220418_5144418_1650293847.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS 美 콘서트 관람 인증한 뜻밖의 스타 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220418n36359?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220418n36359?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Mon, 18 Apr 2022 06:08:14 GMT</pubDate>
             <content:encoded><![CDATA[스포츠월드							<em>04-18 14:09</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/04/18/20220418510194.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이린, BTS 콘서트 보러 라스베이거스까지…'아미 인증' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220418n21146?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220418n21146?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 18 Apr 2022 06:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>04-18 14:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/04/18/20220418_5143918_1650257508.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
