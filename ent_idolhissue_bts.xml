@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 09:03:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 10:02:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["스파링하자" 추성훈 제안에 BTS 정국이 한 말]]></title>
+            <link>https://news.nate.com/view/20220419n35082?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220419n35082?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 19 Apr 2022 10:02:20 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>04-19 18:47</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/04/19/l_2022041902001107800210562.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박재범, 방탄소년단 정국과 깜짝 만남 "정상에 있으면서 겸손" [TD#]]]></title>
+            <link>https://news.nate.com/view/20220419n33446?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220419n33446?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 19 Apr 2022 10:02:20 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>04-19 17:58</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/04/19/191633394.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["400만 명 즐겼다" 방탄소년단 '퍼미션 투 댄스 온 스테이지'로 새롭게 쓴 공연史]]></title>
             <link>https://news.nate.com/view/20220419n32139?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 19 Apr 2022 08:08:30 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>04-19 15:49</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/19/tn_1650350944476_354937_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 라스베이거스 공연 끝…'퍼투댄' 투어, 400만 아미 즐겼다]]></title>
-            <link>https://news.nate.com/view/20220419n26711?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220419n26711?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 19 Apr 2022 08:08:30 GMT</pubDate>
-            <content:encoded><![CDATA[디스패치							<em>04-19 15:39</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/04/19/4ce41eda-b8da-4772-bc9b-3c06954b0977.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 슈가, 美 라스베이거스 공연 컷 대방출]]></title>
-            <link>https://news.nate.com/view/20220419n26654?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220419n26654?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 19 Apr 2022 08:08:30 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>04-19 15:38</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/04/19/l_2022041902001082200206541.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
