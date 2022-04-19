@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 03:48:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 04:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/19/14685909_784135_1052_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[펀펀한 현장] 방탄소년단, '그래미-콘서트 마치고 금의환향' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220419n15537?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220419n15537?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 19 Apr 2022 02:49:42 GMT</pubDate>
+            <content:encoded><![CDATA[SBS연예뉴스							<em>04-19 12:56</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/04/19/30000756683_700.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 BTS '6월 새앨범으로 만나요!'[영상] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220419n03905?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220419n03905?mid=e0608&amp;isq=9009</guid>
@@ -270,14 +278,6 @@
             <pubDate>Tue, 19 Apr 2022 02:49:42 GMT</pubDate>
             <content:encoded><![CDATA[OSEN							<em>04-19 11:28</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/04/19/202204190729777852_625de7bf44e8e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[펀펀한 현장] 방탄소년단, '그래미-콘서트 마치고 금의환향' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220419n15537?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220419n15537?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 19 Apr 2022 02:49:42 GMT</pubDate>
-            <content:encoded><![CDATA[SBS연예뉴스							<em>04-19 11:26</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/04/19/30000756683_700.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[美 그래미+콘서트 마친 방탄소년단, RM 제외 6인 입국 [종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
