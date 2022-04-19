@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 02:49:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 03:48:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/19/14685909_784135_1052_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 BTS '6월 새앨범으로 만나요!'[영상] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220419n03905?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220419n03905?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 19 Apr 2022 03:48:46 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>04-19 12:27</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/19/tn_1650338823633_769149_0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단, RM 제외 6人 금의환향 귀국→6월 10일 컴백 준비 돌입[종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220419n15700?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220419n15700?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Tue, 19 Apr 2022 00:22:54 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>04-19 08:55</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/19/tn_1650326104685_578615_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, ''초콜릿' 광고에 가장 어울리는 스타는?' 아이돌차트 폴 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220419n05869?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220419n05869?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 19 Apr 2022 00:22:54 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>04-19 08:54</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/19/14685950_784219_5332_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
