@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 05:27:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 06:08:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/19/14685909_784135_1052_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['인스타 역사상 최단 기록'…BTS 뷔, 4천만 팔로워 돌파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220420n25251?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220420n25251?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 20 Apr 2022 06:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[SBS연예뉴스							<em>04-20 14:46</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/04/20/30000757115_700.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["방탄소년단 콘서트 회당 최대 1조2천억 경제효과" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220420n18890?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220420n18890?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Wed, 20 Apr 2022 03:00:00 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>04-20 09:30</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/20/14686182_784589_2459_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 RM, 성황리 마친 공연에 "너무 즐겁다" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220420n08172?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220420n08172?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 20 Apr 2022 03:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠경향							<em>04-20 09:18</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/04/20/l_2022042002001131600215981.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
