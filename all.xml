@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 04:00:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 04:44:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/19/14685909_784135_1052_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS 콘서트 경제효과 '1회당 최대 1조2000억' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220420n11719?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220420n11719?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 20 Apr 2022 03:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스타in							<em>04-20 13:38</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/04/20/PS22042000057.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["방탄소년단 콘서트 회당 최대 1조2천억 경제효과" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220420n18890?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220420n18890?mid=e0608&amp;isq=9009</guid>
@@ -302,14 +310,6 @@
             <pubDate>Wed, 20 Apr 2022 03:00:00 GMT</pubDate>
             <content:encoded><![CDATA[티브이데일리							<em>04-20 10:14</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/04/20/1633441.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 콘서트 경제효과 '1회당 최대 1조2000억' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220420n11719?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220420n11719?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 20 Apr 2022 03:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스타in							<em>04-20 10:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/04/20/PS22042000049.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['월드클래스' 방탄소년단 뷔, 인스타 4000만 팔로워 돌파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
