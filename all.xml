@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 21:03:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 22:02:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/20/14686408_784900_428_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[문화대상 이 작품]BTS, 소리 없는 아우성 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220421n02278?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220421n02278?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 20 Apr 2022 22:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[스타in							<em>04-21 06:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/04/21/PS22042100006.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단(BTS) 뷔, 인스타그램 사상 최단기간 4000만 팔로워 돌파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220421n00679?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220421n00679?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Wed, 20 Apr 2022 02:59:59 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>04-20 10:46</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/20/14686209_784633_4451_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, RM까지 전원 귀국 완료…6월 새 앨범 준비 박차 [종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220420n13373?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220420n13373?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 20 Apr 2022 02:59:59 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>04-20 10:39</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/04/20/202204200942776699_625f6366212d8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
