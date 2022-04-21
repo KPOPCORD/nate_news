@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 05:27:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 06:08:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/20/14686411_784906_658_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["라스베이거스=BTS CITY" 하이브 '더 시티'가 남긴 것 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220421n24295?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220421n24295?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 21 Apr 2022 06:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠투데이							<em>04-21 14:52</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/04/21/21_792355_58173.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['BTS 도시' 된 라스베이거스가 누린 경제효과는…숫자로 본 '더 시티' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220421n22513?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220421n22513?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 21 Apr 2022 06:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>04-21 14:23</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/21/2022042113580539183_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 'THE CITY' 성료…새로운 공연 사업 모델 가능성 확인 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220421n21498?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220421n21498?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Thu, 21 Apr 2022 02:52:41 GMT</pubDate>
             <content:encoded><![CDATA[비즈엔터							<em>04-21 09:31</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2022/04/21/20220421091730_1742758_500_600.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 지민X하성운 부른 '우리들의 블루스' OST, 24일 오후 11시 발매 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220421n07609?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220421n07609?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 21 Apr 2022 02:52:41 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>04-21 09:25</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/21/1650500647490313.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민x하성운, 24일 오후 11시 '우리들의 블루스' OST 발매[공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220421n07364?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220421n07364?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 21 Apr 2022 00:28:31 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>04-21 09:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/04/21/202204210909771044_6260a30d79398.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
