@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 21:02:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 22:03:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/21/14686552_785196_2637_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 진, 보석 같은 미모→눈부신 연기력…광고계 '접수' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220422n04036?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220422n04036?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 21 Apr 2022 22:03:11 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>04-22 06:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/22/2022042206460232061_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이연복, BTS 진과 33살 넘은 우정 "손자 사인 부탁에 공연 끝나고 달려와"(연중) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220421n43319?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220421n43319?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Thu, 21 Apr 2022 06:08:15 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>04-21 14:23</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/21/2022042113580539183_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 'THE CITY' 성료…새로운 공연 사업 모델 가능성 확인 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220421n21498?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220421n21498?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 21 Apr 2022 05:27:45 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>04-21 14:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/21/1650514648341483.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
