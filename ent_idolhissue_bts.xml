@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 15:03:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 16:02:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이연복, BTS 진과 33살 넘은 우정 "손자 사인 부탁에 공연 끝나고 달려와"(연중)]]></title>
+            <link>https://news.nate.com/view/20220421n43319?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220421n43319?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 21 Apr 2022 16:02:54 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>04-21 23:44</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/04/21/202204212125542510_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 뷔, '초콜릿 광고에 가장 어울리는 스타' 1위…설렘지수 치사량]]></title>
             <link>https://news.nate.com/view/20220421n41836?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 21 Apr 2022 05:27:45 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>04-21 14:04</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/21/1650514648341483.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["여기가 BTS CITY" 하이브, 도시형 콘서트 플레이파크 '더 시티' 성료]]></title>
-            <link>https://news.nate.com/view/20220421n20895?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220421n20895?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 21 Apr 2022 05:27:45 GMT</pubDate>
-            <content:encoded><![CDATA[TV리포트							<em>04-21 13:53</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/04/21/daed4db0-7959-43bc-b0b3-be068fe2f6c9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
