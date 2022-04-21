@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 02:52:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 03:53:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드벨벳 'Feel My Rhythm' 가온 앨범차트 1위, 인기 롱런]]></title>
+            <link>https://news.nate.com/view/20220421n17538?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220421n17538?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Thu, 21 Apr 2022 03:53:18 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>04-21 12:13</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/04/21/202204211211020410_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[독자추천 순위] 이찬원 48회째 1위, 영탁·레드벨벳 웬디·장민호·송가인 TOP5]]></title>
             <link>https://news.nate.com/view/20220421n05264?mid=e0608&amp;isq=9012</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 20 Apr 2022 15:03:02 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>04-20 23:08</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/20/14686411_784906_658_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '범죄적 귀여움' (웬디의 영스트리트 출근길)]]></title>
-            <link>https://news.nate.com/view/20220420n43278?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220420n43278?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 20 Apr 2022 15:03:02 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>04-20 23:07</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/20/14686410_784904_60_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
