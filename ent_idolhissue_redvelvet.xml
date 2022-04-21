@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 23:02:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 00:28:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[독자추천 순위] 이찬원 48회째 1위, 영탁·레드벨벳 웬디·장민호·송가인 TOP5]]></title>
+            <link>https://news.nate.com/view/20220421n05264?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220421n05264?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Thu, 21 Apr 2022 00:28:18 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-21 08:35</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/21/14686450_784981_3254_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '러블리한 반묶음머리 와니' (웬디의 영스트리트 출근길)]]></title>
             <link>https://news.nate.com/view/20220420n42965?mid=e0608&amp;isq=9012</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 20 Apr 2022 15:03:02 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>04-20 23:07</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/20/14686410_784904_60_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '내가 제일 귀여워' (웬디의 영스트리트 출근길)]]></title>
-            <link>https://news.nate.com/view/20220420n43264?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220420n43264?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 20 Apr 2022 15:03:02 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>04-20 23:06</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/20/14686408_784900_428_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
