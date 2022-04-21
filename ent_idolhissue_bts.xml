@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 08:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 09:03:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 日 네한 男아이돌 랭킹 55주 연속 1위…후지 TV 등장에 패널들 환호]]></title>
+            <link>https://news.nate.com/view/20220421n35457?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220421n35457?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 21 Apr 2022 09:03:04 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-21 17:52</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/21/14686591_785252_515_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 지민, 스타랭킹 男 아이돌 25주 연속 1위]]></title>
             <link>https://news.nate.com/view/20220421n31193?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 21 Apr 2022 02:52:41 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>04-21 11:04</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/21/14686490_785082_227_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민X하성운 '우리들의 블루스' OST 24일 발매]]></title>
-            <link>https://news.nate.com/view/20220421n12625?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220421n12625?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 21 Apr 2022 02:52:41 GMT</pubDate>
-            <content:encoded><![CDATA[일간스포츠							<em>04-21 10:46</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/04/21/844f5afd-143f-4fc3-8623-1e728e5da047.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
