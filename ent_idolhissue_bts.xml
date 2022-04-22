@@ -4,14 +4,22 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 04:33:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 05:28:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독] "팬텀싱어도, 미스터트롯도 안 갔는데"…방탄소년단, 낡은 병역법의 한계]]></title>
+            <link>https://news.nate.com/view/20220422n20684?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220422n20684?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 22 Apr 2022 05:27:59 GMT</pubDate>
+            <content:encoded><![CDATA[디스패치							<em>04-22 14:10</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/04/22/d51b4848-2385-4307-a5c5-f2c6c9fb6c5b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가온차트 16주차 앨범차트 1위는 레드벨벳, NCT 드림·샤이니 온유·드림캐쳐·이펙스 TOP5…최다앨범 진입은 방탄소년단·스트레이 키즈·마마무]]></title>
             <link>https://news.nate.com/view/20220422n17014?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220422n17014?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 22 Apr 2022 04:33:02 GMT</pubDate>
+            <pubDate>Fri, 22 Apr 2022 05:27:59 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>04-22 12:10</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/22/14686732_785533_931_org.jpg" length="0" type="image/jpg"/>
         </item>
@@ -19,7 +27,7 @@
             <title><![CDATA[방탄소년단, 첫 15억 뮤비 탄생…'작은 것들을 위한 시', 21일 기록 달성]]></title>
             <link>https://news.nate.com/view/20220422n16422?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220422n16422?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 22 Apr 2022 04:33:02 GMT</pubDate>
+            <pubDate>Fri, 22 Apr 2022 05:27:59 GMT</pubDate>
             <content:encoded><![CDATA[디스패치							<em>04-22 11:56</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/04/22/f3d47e51-decc-45e4-a6a7-dc806a8343ee.jpg" length="0" type="image/jpg"/>
         </item>
@@ -27,7 +35,7 @@
             <title><![CDATA['BTS 전문 MC' 김일중, 스카이이앤엠 전속계약 [공식]]]></title>
             <link>https://news.nate.com/view/20220422n15906?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220422n15906?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 22 Apr 2022 04:33:02 GMT</pubDate>
+            <pubDate>Fri, 22 Apr 2022 05:27:59 GMT</pubDate>
             <content:encoded><![CDATA[스포츠동아							<em>04-22 11:45</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/04/22/113025464.1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 22 Apr 2022 00:30:05 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>04-22 09:15</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/22/2022042209121049775_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 '작은 것들을 위한 시' 뮤직비디오, 15억뷰 돌파]]></title>
-            <link>https://news.nate.com/view/20220422n07323?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220422n07323?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 22 Apr 2022 00:30:05 GMT</pubDate>
-            <content:encoded><![CDATA[MK스포츠							<em>04-22 09:12</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/04/22/20220422_1650586250.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
