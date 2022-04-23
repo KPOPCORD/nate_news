@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 22:02:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 23:02:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,46 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/21/14686557_785202_3314_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["역시 전다정씨~♥" 방탄소년단 정국, 귀공자 자태 '황홀' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220424n01857?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220424n01857?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 23 Apr 2022 23:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>04-24 07:42</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/24/2022042407385015215_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, '세계에서 가장 유명한 K팝 아이돌' 1위…'발리우드 K팝 킹' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220424n01830?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220424n01830?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 23 Apr 2022 23:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>04-24 07:38</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/24/2022042407351140214_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 진 'Yours' 샤잠 80만 돌파…일본 TOP200 차트 15일 연속 1위 '무한질주' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220424n01820?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220424n01820?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 23 Apr 2022 23:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>04-24 07:35</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/24/2022042407263244850_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔, 스포티파이 팔로워 700만 돌파…4개월 연속 K팝 솔로 최다 팔로워 증가 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220424n01745?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220424n01745?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 23 Apr 2022 23:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>04-24 07:22</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/24/2022042407174486811_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 정국, 韓솔로 가수 최단 스포티파이 170만 팔로워…68일 만에 新기록 '글로벌 보컬 강자' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220424n01716?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220424n01716?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 23 Apr 2022 23:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>04-24 07:16</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/24/2022042407105883491_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['당나귀 귀' 전현무 "허재, 전성기 시절 BTS급 인기" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220423n09871?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220423n09871?mid=e0608&amp;isq=9009</guid>
@@ -326,46 +366,6 @@
             <pubDate>Sat, 23 Apr 2022 02:25:38 GMT</pubDate>
             <content:encoded><![CDATA[스포츠한국							<em>04-23 10:26</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2022/04/23/6795241_969507_2526.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국위선양 일등공신 BTS는?…"대중문화 분야에도 병역특례 기회 동등하게 보장해야" 지적 나와 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220423n04815?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220423n04815?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 23 Apr 2022 02:25:38 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>04-23 10:25</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/04/23/2022042301001859200121461.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 가수 브랜드평판 1위…강력한 팬덤 빅뱅·임영웅 이겨 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220423n04793?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220423n04793?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 23 Apr 2022 02:25:38 GMT</pubDate>
-            <content:encoded><![CDATA[MK스포츠							<em>04-23 10:24</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/04/23/20220423_1650676956.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 '페이크 러브' MV 11억뷰 돌파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220423n04087?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220423n04087?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 23 Apr 2022 02:25:38 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>04-23 09:42</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/04/23/20220423_5148960_1650674460.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 빅뱅 꺾고 4월 가수 브랜드평판 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220423n04010?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220423n04010?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 23 Apr 2022 02:25:38 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠투데이							<em>04-23 09:37</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/04/23/23_792897_47598.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 'FAKE LOVE' MV11억뷰 돌파…통산 6번째 기록[공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220423n03972?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220423n03972?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 23 Apr 2022 02:25:38 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>04-23 09:35</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/04/23/202204230904770880_62634301e3587.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
