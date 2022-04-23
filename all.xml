@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 02:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 03:26:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/21/14686555_785201_3243_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단빅뱅임영웅, 2022 4월 가수 브랜드평판 TOP3 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220423n05963?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220423n05963?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 23 Apr 2022 03:26:48 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>04-23 11:40</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/04/23/202204231134774299_626366d47452c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 'FAKE LOVE' 뮤직비디오, 11억뷰 돌파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220423n05662?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220423n05662?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 23 Apr 2022 03:26:48 GMT</pubDate>
+            <content:encoded><![CDATA[MK스포츠							<em>04-23 11:19</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/04/23/20220423_1650680247.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 '페이크 러브' 뮤비 11억뷰…자체 통산 6번째 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220423n05271?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220423n05271?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Sat, 23 Apr 2022 02:25:39 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>04-23 09:17</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/23/14686894_785800_1525_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 11억뷰 MV 하나 추가요…'FAKE LOVE' 통산 6번째 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220423n03656?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220423n03656?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 23 Apr 2022 00:24:33 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-23 09:12</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/23/2022042309090535663_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["TOP RECORD HOLDER V♥" 방탄소년단 뷔, 자작곡 OST 'Sweet Night' 119개국 아이튠즈 1위…최다·최단·최연소 대기록 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220423n03631?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220423n03631?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 23 Apr 2022 00:24:33 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>04-23 09:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/23/14686893_785796_823_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
