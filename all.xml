@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 08:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 09:02:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/21/14686558_785204_3413_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['연플리4' 면접관 앞에서 방탄소년단 춤 춘 사연은? ('숏플리') (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220424n14371?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220424n14371?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 24 Apr 2022 09:02:47 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>04-24 17:34</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/04/24/202204241705777568_62650b60df2b8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 'Butter (Hotter Remix)' MV 1억뷰 돌파…통산 37번째 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220424n14211?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220424n14211?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 24 Apr 2022 09:02:47 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>04-24 17:27</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/24/2022042417112651897_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단, '버터' 리믹스 뮤직비디오 1억뷰 돌파 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220424n10356?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220424n10356?mid=e0608&amp;isq=9009</guid>
@@ -350,21 +366,6 @@
             <pubDate>Sun, 24 Apr 2022 03:20:26 GMT</pubDate>
             <content:encoded><![CDATA[OSEN							<em>04-24 11:22</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/04/24/202204241113776690_6264b4102b998.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민∙하성운, '우리들의 블루스' OST Part.4 'With you' 발매 '글로벌 팬들 환호' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220424n05065?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220424n05065?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 24 Apr 2022 02:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>04-24 11:22</em>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, '버터' MV 1억뷰 돌파…통산 37번째 대기록 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220424n05449?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220424n05449?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 24 Apr 2022 02:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>04-24 11:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/24/1650766161361267.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
