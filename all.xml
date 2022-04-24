@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 04:03:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 05:02:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/21/14686558_785204_3413_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 '버터' 뮤비, 1억뷰 돌파…통산 37번째 1억뷰 뮤비 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220424n07996?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220424n07996?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 24 Apr 2022 05:02:16 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>04-24 13:34</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/04/24/20220424505911.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[공식] 방탄소년단 지민X하성운, 오늘(24일) '우리들의 블루스' OST 공개 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220424n07087?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220424n07087?mid=e0608&amp;isq=9009</guid>
@@ -357,14 +365,6 @@
             <pubDate>Sun, 24 Apr 2022 02:22:03 GMT</pubDate>
             <content:encoded><![CDATA[스포츠조선							<em>04-24 11:10</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/04/24/2022042401001915400125661.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 지민·하성운, '우리들의 블루스' OST 오늘 발매 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220424n04939?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220424n04939?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 24 Apr 2022 02:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[스타in							<em>04-24 10:54</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/04/24/PS22042400027.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
