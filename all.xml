@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 16:03:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 17:09:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,20 +248,20 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/21/14686558_785204_3413_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[BTS 지민 건보료 체납 논란, 연예계로 확대될까 [종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220425n00305?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220425n00305?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 24 Apr 2022 16:03:57 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠동아							<em>04-25 00:37</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/04/25/113053920.1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[빅히트 "BTS 지민 건보료 체납? 회사 과실…완납 상태" (전문) [공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220424n18812?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220424n18812?mid=e0608&amp;isq=9009</guid>
             <pubDate>Sun, 24 Apr 2022 14:03:36 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠동아							<em>04-25 00:07</em>]]></content:encoded>
+            <content:encoded><![CDATA[스포츠동아							<em>04-25 01:01</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/04/24/113053920.1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 지민 건보료 체납 논란, 연예계로 확대될까 [종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220425n00305?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220425n00305?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 24 Apr 2022 16:03:57 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠동아							<em>04-25 01:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/04/25/113053920.1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['건보료 체납→59억 아파트 압류'됐던 방탄소년단 지민…빅히트 측 "회사 과실, 전액 납부" [종합](공식) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
