@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 07:03:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 08:09:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,38 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/21/14686561_785207_3558_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단, '팬앤스타' 가수 랭킹 1위 '쾌거' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220425n30317?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220425n30317?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 25 Apr 2022 08:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[더팩트							<em>04-25 16:38</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2022/04/25/202281401650872035.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 지민 감싸는 빅히트…건보료 체납은 "업무 과실" [종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220425n29901?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220425n29901?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 25 Apr 2022 08:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>04-25 16:30</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/25/1650870826464601.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['건보료 체납' 방탄소년단 지민, '업무 착오'로 해명하기엔 [SW시선] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220425n24945?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220425n24945?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 25 Apr 2022 07:03:49 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>04-25 16:30</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/04/25/20220425510461.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이칠린, BTS부터 NCT DREAM까지…K팝 커버 댄스 메들리 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220425n29104?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220425n29104?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 25 Apr 2022 08:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[MK스포츠							<em>04-25 16:16</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/04/25/20220425_1650870919.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS 지민 개인정보 담긴 압류통지서 유출…빅히트 "드릴 말씀 無" [MD이슈] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220425n26849?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220425n26849?mid=e0608&amp;isq=9009</guid>
@@ -262,14 +294,6 @@
             <pubDate>Mon, 25 Apr 2022 07:03:49 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>04-25 15:27</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/25/14687146_786475_1855_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['건보료 체납' 방탄소년단 지민, '업무 착오'로 해명하기엔 [SW시선] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220425n24945?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220425n24945?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 25 Apr 2022 07:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠월드							<em>04-25 15:07</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/04/25/20220425510461.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빅뱅의 '봄여름가을겨울' 멜론 주간차트 1위, 여자아이들·아이브·레드벨벳·멜로망스 TOP5…최다곡 진입은 아이유·임영웅·방탄소년단 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -342,30 +366,6 @@
             <pubDate>Mon, 25 Apr 2022 02:45:15 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>04-25 10:34</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/25/14687132_786268_3226_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민, 건보료 체납·아파트 압류…소속사 "회사 업무 과실" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220425n07761?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220425n07761?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 25 Apr 2022 02:45:15 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠월드							<em>04-25 09:57</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/04/25/20220425504215.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민, 건보료 체납…"소속사의 업무 과실, 체납액 전액 납부로 종결" [전문] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220424n18800?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220424n18800?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 25 Apr 2022 02:45:15 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠월드							<em>04-25 09:36</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/04/24/20220424510720.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민, 건보료 체납에 59억 아파트 압류…소속사 "회사 과실" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220425n07923?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220425n07923?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 25 Apr 2022 02:45:15 GMT</pubDate>
-            <content:encoded><![CDATA[스포티비뉴스							<em>04-25 09:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2022/04/25/519463_726078_2526.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
