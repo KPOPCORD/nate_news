@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 11:02:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 12:10:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/26/14687434_786728_3851_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단(BTS) 소속사 하이브 대표, 빌보드 '세계 음악시장 리더'로 뽑혀 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220426n38320?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220426n38320?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 26 Apr 2022 12:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>04-26 20:49</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/04/26/l_2022042602001568300299211.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[싸이, 정규 9집 타이틀곡 'That That'…방탄소년단 슈가·싸이 '공동 프로듀싱' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220426n36878?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220426n36878?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Tue, 26 Apr 2022 07:02:21 GMT</pubDate>
             <content:encoded><![CDATA[스타데일리뉴스							<em>04-26 14:49</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/04/26/320820_368502_4730.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싸이, 방탄소년단 슈가 손 잡았다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220426n23532?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220426n23532?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 26 Apr 2022 06:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>04-26 14:46</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/04/26/261634253.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
