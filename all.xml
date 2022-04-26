@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 21:02:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 22:02:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/26/14687753_787346_2833_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 RM, 멜빵바지 입고 서울 나들이…"봄소년" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220427n03403?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220427n03403?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 26 Apr 2022 22:02:18 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>04-27 06:02</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/04/27/202204270559779547_62685d7598daf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단(BTS) 소속사 하이브 대표, 빌보드 '세계 음악시장 리더'로 뽑혀 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220426n38320?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220426n38320?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Tue, 26 Apr 2022 07:02:21 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>04-26 14:51</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/26/2022042614441257939_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['29일 컴백' 싸이, 정규 9집 타이틀곡 'That That' 방탄소년단 슈가와 공동 프로듀싱 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220426n23752?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220426n23752?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 26 Apr 2022 07:02:21 GMT</pubDate>
-            <content:encoded><![CDATA[스타데일리뉴스							<em>04-26 14:49</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/04/26/320820_368502_4730.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
