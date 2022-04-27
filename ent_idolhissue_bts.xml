@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 05:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 06:08:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 슈가, 싸이 신곡 프로듀싱 이어 피처링까지(공식)]]></title>
+            <link>https://news.nate.com/view/20220427n23308?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220427n23308?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 27 Apr 2022 06:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[조이뉴스24							<em>04-27 14:08</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/04/27/edd94b1cfd0373.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[싸이X방탄소년단 슈가, '댓 댓' MV 티저 추가 공개…"죽이 잘 맞아"]]></title>
             <link>https://news.nate.com/view/20220427n22550?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 27 Apr 2022 03:04:11 GMT</pubDate>
             <content:encoded><![CDATA[TV리포트							<em>04-27 10:04</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/04/27/93a49b52-cce3-42ce-9767-692f8bef5691.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단X콜드플레이 'My Universe', 빌보드 글로벌 차트 30주 연속 상위권]]></title>
-            <link>https://news.nate.com/view/20220427n07889?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220427n07889?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 27 Apr 2022 00:32:14 GMT</pubDate>
-            <content:encoded><![CDATA[TV리포트							<em>04-27 09:13</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/04/27/6f0c743a-d22b-4f9a-8ed8-60aaf731774a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
