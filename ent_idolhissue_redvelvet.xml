@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 04:31:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 05:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드벨벳 조이, 돋보이는 파노라마 미모 (SBS '동물농장' 출근길)[뉴스엔TV]]]></title>
+            <link>https://news.nate.com/view/20220427n21972?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220427n21972?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Wed, 27 Apr 2022 05:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>04-27 13:43</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/04/27/202204271341541310_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '러블리 프린세스' (SBS TV 동물농장 출근길)]]></title>
             <link>https://news.nate.com/view/20220427n20998?mid=e0608&amp;isq=9012</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 27 Apr 2022 04:31:41 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>04-27 12:55</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/04/27/202204271253521510_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳 조이, 이런 포즈 센스, 칭찬해~  [포토엔HD]]]></title>
-            <link>https://news.nate.com/view/20220427n20158?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220427n20158?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 27 Apr 2022 04:31:41 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>04-27 12:54</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/04/27/202204271253231510_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
