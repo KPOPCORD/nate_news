@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 06:08:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 07:03:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 슈가, 싸이 'That That' 직접 홍보 나섰다…카우보이 '변신']]></title>
+            <link>https://news.nate.com/view/20220427n26516?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220427n26516?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 27 Apr 2022 07:03:05 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>04-27 15:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/27/2022042714543362614_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 슈가, 싸이 신곡 프로듀싱 이어 피처링까지(공식)]]></title>
             <link>https://news.nate.com/view/20220427n23308?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 27 Apr 2022 03:04:11 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>04-27 10:10</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/27/14687842_787492_820_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 제이홉, 어디서든 빛나는 비주얼 [리포트:컷]]]></title>
-            <link>https://news.nate.com/view/20220427n10883?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220427n10883?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 27 Apr 2022 03:04:11 GMT</pubDate>
-            <content:encoded><![CDATA[TV리포트							<em>04-27 10:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/04/27/93a49b52-cce3-42ce-9767-692f8bef5691.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
