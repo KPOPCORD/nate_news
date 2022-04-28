@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 21:02:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 22:03:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 숨피, "방탄소년단(BTS) 제이홉, 단 한 명의 퍼포먼스 천재"]]></title>
+            <link>https://news.nate.com/view/20220429n03781?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220429n03781?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 28 Apr 2022 22:03:09 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>04-29 06:44</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/04/29/1651182170958683.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 지민, 전액 현금 매입 아파트 세무조사 받을 수 있다 [스타稅스토리]]]></title>
+            <link>https://news.nate.com/view/20220429n03077?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220429n03077?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 28 Apr 2022 22:03:09 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠서울							<em>04-29 06:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/04/29/2022042901001557900114593.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가황 나훈아→월드 클래스 방탄소년단, 다시 보는 공연의 신 TOP4(연중라이브)]]></title>
             <link>https://news.nate.com/view/20220428n45086?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 28 Apr 2022 06:10:55 GMT</pubDate>
             <content:encoded><![CDATA[마이데일리							<em>04-28 14:38</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/04/28/202204281424496560_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싸이, 정규 9집 타이틀곡 'That That (prod. & ft. SUGA of BTS)' 세 번째 M/V 티저 공개]]></title>
-            <link>https://news.nate.com/view/20220428n24135?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220428n24135?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 28 Apr 2022 06:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[스타데일리뉴스							<em>04-28 14:30</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/04/28/320975_368679_2839.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 슈가 "싸이와 춤까지 출 줄이야"…싸이 신보 참여 소감]]></title>
-            <link>https://news.nate.com/view/20220428n23714?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220428n23714?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 28 Apr 2022 05:33:12 GMT</pubDate>
-            <content:encoded><![CDATA[조이뉴스24							<em>04-28 14:23</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/04/28/5617621ee0047f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
