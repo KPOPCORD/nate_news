@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 10:03:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 11:02:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가온17주 디지털차트 1위는 임영웅의 '우리들의 블루스', 빅뱅·아이브·여자아이들·레드벨벳 TOP5…최다곡 차트진입은 아이유·임영웅·방탄소년단]]></title>
+            <link>https://news.nate.com/view/20220428n38421?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220428n38421?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 28 Apr 2022 11:02:21 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-28 19:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/28/14688370_788311_18_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[싸이, BTS 슈가 편애에 성시경 울컥 "나랑은 왜 사진 안 찍어?"]]></title>
             <link>https://news.nate.com/view/20220428n35646?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 28 Apr 2022 05:33:12 GMT</pubDate>
             <content:encoded><![CDATA[스타투데이							<em>04-28 13:54</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/04/28/20220428_5153589_1651120823.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 키운 방시혁, 서울대 명예박사 수여…대중문화계 최초]]></title>
-            <link>https://news.nate.com/view/20220428n21517?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220428n21517?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 28 Apr 2022 05:33:12 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-28 13:46</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/28/2022042813315025774_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
