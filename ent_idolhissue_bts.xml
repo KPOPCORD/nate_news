@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 14:02:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 15:02:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가황 나훈아→월드 클래스 방탄소년단, 다시 보는 공연의 신 TOP4(연중라이브)]]></title>
+            <link>https://news.nate.com/view/20220428n45086?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220428n45086?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 28 Apr 2022 15:02:46 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>04-28 23:38</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/04/28/202204282308322510_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방시혁, "본질 집중해 BTS 키웠다" 서울대 명예박사 학위 받아]]></title>
+            <link>https://news.nate.com/view/20220428n44287?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220428n44287?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 28 Apr 2022 15:02:46 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>04-28 22:48</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/28/14688402_788366_4710_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 뷔, 2022년에만 스포티파이 팔로워 200만 추가…'K팝 솔로 1위']]></title>
             <link>https://news.nate.com/view/20220428n42481?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 28 Apr 2022 05:33:12 GMT</pubDate>
             <content:encoded><![CDATA[조이뉴스24							<em>04-28 14:23</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jn/2022/04/28/5617621ee0047f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 리트윗 순위] 방탄소년단 지민 86회째 1위, 임영웅·방탄소년단 뷔·NCT 재현·영탁 TOP5]]></title>
-            <link>https://news.nate.com/view/20220428n22420?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220428n22420?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 28 Apr 2022 05:33:12 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>04-28 14:03</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/28/14688198_788082_121_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['BTS 아버지' 방시혁, 서울대 명예박사 됐다…"대중문화 발전 큰 역할"]]></title>
-            <link>https://news.nate.com/view/20220428n21914?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220428n21914?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 28 Apr 2022 05:33:12 GMT</pubDate>
-            <content:encoded><![CDATA[일간스포츠							<em>04-28 13:55</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/04/28/3c5c2007-a59d-4d7c-84b8-7abc47f83679.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
