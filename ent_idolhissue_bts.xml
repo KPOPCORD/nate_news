@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 11:02:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 12:09:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[싸이X방탄소년단 슈가, 기세 매섭다!…'댓 댓' MV 24시간만 3000만뷰 쾌속 돌파]]></title>
+            <link>https://news.nate.com/view/20220430n12975?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220430n12975?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 30 Apr 2022 12:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>04-30 20:30</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/04/30/202204302028316828_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 슈가, 슈퍼스타 의리男! '정규 9집' 싸이 컴백 적극 지원]]></title>
+            <link>https://news.nate.com/view/20220430n12492?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220430n12492?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 30 Apr 2022 12:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>04-30 19:58</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/04/30/202204301949775967_626d160742dea.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 4월 스타 브랜드평판 1위 차지]]></title>
             <link>https://news.nate.com/view/20220430n05964?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 30 Apr 2022 00:33:25 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>04-30 08:22</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/30/2022043008173536745_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단임영웅빅뱅, 4월 스타 브랜드 평판 TOP3…"글로벌 콘서트로 한류 아이콘"]]></title>
-            <link>https://news.nate.com/view/20220430n02776?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220430n02776?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 30 Apr 2022 00:33:25 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>04-30 08:16</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/04/30/202204300803778151_626c715b0cc55.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 4월 스타브랜드평판 1위 등극…"한류 아이콘"]]></title>
-            <link>https://news.nate.com/view/20220430n02765?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220430n02765?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 30 Apr 2022 00:33:25 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-30 08:15</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/30/2022043007592563091_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
