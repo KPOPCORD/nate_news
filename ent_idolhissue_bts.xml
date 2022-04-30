@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 02:48:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 03:35:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, 4월 스타 브랜드평판 1위 차지]]></title>
+            <link>https://news.nate.com/view/20220430n05964?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220430n05964?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 30 Apr 2022 03:35:52 GMT</pubDate>
+            <content:encoded><![CDATA[스타데일리뉴스							<em>04-30 12:15</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/04/30/321103_368807_149.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SC이슈]연예인은 세상물정 모른다? BTS RM은 중고거래·이윤지는 방충망 교체, '알뜰살뜰' 스타들]]></title>
+            <link>https://news.nate.com/view/20220430n05537?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220430n05537?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 30 Apr 2022 03:35:52 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠조선							<em>04-30 11:37</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/04/30/2022050101000007100161691.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[문세윤 "부끄뚱 헤드셋 마스크, BTS와 같은 것…적자시 바로 은퇴"(유스케)]]></title>
             <link>https://news.nate.com/view/20220430n04866?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 30 Apr 2022 00:33:25 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>04-30 08:15</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/30/2022043007592563091_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['유럽도 강타' 방탄소년단 지민의 첫 OST 'With You'+솔로곡 프랑스 아이튠즈 5개곡 1위 올킬 최초•유일…아마존도 1위]]></title>
-            <link>https://news.nate.com/view/20220430n02754?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220430n02754?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 30 Apr 2022 00:33:25 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>04-30 08:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/30/14688645_788793_128_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['유럽도 강타' 방탄소년단 지민 OST 'With You'+솔로곡 佛아이튠즈 5개곡 1위 최초·유일 '올킬'…英아마존도 1위]]></title>
-            <link>https://news.nate.com/view/20220430n02717?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220430n02717?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 30 Apr 2022 00:33:25 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>04-30 08:13</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/04/30/tn_1651273983608_553_0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
