@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 20:03:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 21:02:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[싸이, 송중기·BTS 슈가 섭외 비결 "손이 발 되도록 부탁→先러브콜"(아형)[어제TV]]]></title>
+            <link>https://news.nate.com/view/20220430n15171?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220430n15171?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 30 Apr 2022 21:02:28 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>05-01 05:28</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/04/30/202204302038536110_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[싸이 "BTS 슈가, 먼저 곡 주고 싶다고 연락와" (아는 형님)[종합]]]></title>
             <link>https://news.nate.com/view/20220501n00294?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 30 Apr 2022 13:17:13 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>04-30 21:38</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/30/14688765_789017_3644_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싸이X방탄소년단 슈가, 기세 매섭다!…'댓 댓' MV 24시간만 3000만뷰 쾌속 돌파]]></title>
-            <link>https://news.nate.com/view/20220430n12975?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220430n12975?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 30 Apr 2022 12:09:18 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>04-30 20:30</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/04/30/202204302028316828_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
