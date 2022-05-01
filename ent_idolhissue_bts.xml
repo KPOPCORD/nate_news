@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 09:02:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 10:02:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브릭 조립 배틀 '블록버스터', BTS 협업 아티스트→H사 연구원 등장…'팀 케이' 첫 우승 [종합]]]></title>
+            <link>https://news.nate.com/view/20220501n15938?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220501n15938?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 01 May 2022 10:02:31 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>05-01 18:06</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/05/01/202205011750656615_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS와 콜라보한 브릭 아티스트→자동차 연구원, 변호사 등장(블록버스터)]]></title>
             <link>https://news.nate.com/view/20220501n14518?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 01 May 2022 00:35:05 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>05-01 08:39</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/01/14688840_789146_3747_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['G.C.F 꾹감독' 방탄소년단 정국에 페이스북 앱 "정국 베스트 포토그래퍼"…재능·열정 '극찬']]></title>
-            <link>https://news.nate.com/view/20220501n02198?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220501n02198?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 01 May 2022 00:35:05 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>05-01 08:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/01/14688836_789133_3235_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
