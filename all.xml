@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 06:07:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 07:03:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/30/14688710_788922_4334_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS 콜라보 아티스트·자동차 연구원·변호사 등 브릭 천재 총출동 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220501n10690?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220501n10690?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 01 May 2022 07:03:29 GMT</pubDate>
+            <content:encoded><![CDATA[스타in							<em>05-01 14:57</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/05/01/PS22050100184.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[스경연예연구소]'역시 BTS' 지민·슈가, 컬래버도 통했다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220501n08096?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220501n08096?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sun, 01 May 2022 00:35:05 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>05-01 08:24</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/05/01/2022050108212247618_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['심장저격' 방탄소년단 지민, '덕후몰이상' 아이돌 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220501n02092?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220501n02092?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 01 May 2022 00:35:05 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>05-01 08:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/05/01/2022050108092144388_2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
