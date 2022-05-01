@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 04:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 05:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/30/14688710_788922_4334_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[스경연예연구소]'역시 BTS' 지민·슈가, 컬래버도 통했다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220501n08096?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220501n08096?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 01 May 2022 05:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>05-01 13:34</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/05/01/l_2022050102000025100003741.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[유튜브 코리아 인기 아티스트 1위 아이유…2위 빅뱅·3위 아이브·4위 여자아이들·5위 방탄소년단 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220501n07671?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220501n07671?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sun, 01 May 2022 00:35:05 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>05-01 08:20</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/05/01/2022050108092144388_2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 팝스타 리조, 방탄소년단(BTS) 제이홉과 문자 주고받아 "에티켓 King" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220501n01977?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220501n01977?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sun, 01 May 2022 00:35:05 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>05-01 08:07</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/05/01/1651359873908394.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
