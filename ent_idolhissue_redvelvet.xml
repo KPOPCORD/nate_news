@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 00:35:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 03:06:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유튜브 코리아 인기곡 1위는 아이브의 LOVE DIVE, 여자아이들·빅뱅·임영웅·레드벨벳 TOP5…최다곡 진입은 빅뱅·블랙핑크]]></title>
+            <link>https://news.nate.com/view/20220501n05454?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220501n05454?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Sun, 01 May 2022 03:06:25 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>05-01 11:12</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/01/14688857_789189_114_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[S포토] 레드벨벳 예리, '빵 터져버렸어요' (디올)]]></title>
             <link>https://news.nate.com/view/20220430n12907?mid=e0608&amp;isq=9012</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 30 Apr 2022 09:02:30 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>04-30 17:44</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/30/14688710_788922_4334_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 예리, '한껏 과감해진 예림이' (디올 패션쇼)]]></title>
-            <link>https://news.nate.com/view/20220430n09528?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220430n09528?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Sat, 30 Apr 2022 09:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>04-30 17:41</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/04/30/14688709_788920_3928_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
