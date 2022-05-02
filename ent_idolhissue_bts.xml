@@ -4,9 +4,49 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 09:04:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 10:05:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 여동생 '르세라핌 첫 공개']]></title>
+            <link>https://news.nate.com/view/20220502n36357?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220502n36357?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 02 May 2022 10:05:15 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠코리아							<em>05-02 18:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sr/2022/05/02/202205021733389191.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 여동생 르세라핌]]></title>
+            <link>https://news.nate.com/view/20220502n36145?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220502n36145?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 02 May 2022 10:05:15 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠코리아							<em>05-02 17:55</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sr/2022/05/02/202205021733413681.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['BTS 여동생' 르세라핌, 클래스가 다른 데뷔 [종합]]]></title>
+            <link>https://news.nate.com/view/20220502n32099?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220502n32099?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 02 May 2022 08:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>05-02 17:52</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/05/02/021635146.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 여동생 '르세라핌 첫 공개' [포토]]]></title>
+            <link>https://news.nate.com/view/20220502n34059?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220502n34059?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 02 May 2022 10:05:15 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠동아							<em>05-02 17:10</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/05/02/113194533.5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 여동생 르세라핌 [포토]]]></title>
+            <link>https://news.nate.com/view/20220502n33896?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220502n33896?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 02 May 2022 10:05:15 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠동아							<em>05-02 17:07</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/05/02/113194518.5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤남기♥이다은, 딸과 럭셔리 여행…"BTS 지민도 다녀간 곳"]]></title>
             <link>https://news.nate.com/view/20220502n32852?mid=e0608&amp;isq=9009</link>
@@ -14,14 +54,6 @@
             <pubDate>Mon, 02 May 2022 08:09:36 GMT</pubDate>
             <content:encoded><![CDATA[스타투데이							<em>05-02 16:46</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/05/02/20220502_5029325_1651475663.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['BTS 여동생' 르세라핌, 클래스가 다른 데뷔 [종합]]]></title>
-            <link>https://news.nate.com/view/20220502n32099?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220502n32099?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 02 May 2022 08:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>05-02 16:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/05/02/021635146.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[포토]르세라핌, 우리가 BTS 여동생 그룹]]></title>
@@ -94,38 +126,6 @@
             <pubDate>Mon, 02 May 2022 04:41:23 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>05-02 12:01</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/02/14689098_789588_596_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['OST 킹' 방탄소년단 뷔 'Christmas Tree' 호주 스포티파이 4주 차트인…K팝 男 솔로 아티스트 최고기록]]></title>
-            <link>https://news.nate.com/view/20220502n13235?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220502n13235?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 02 May 2022 03:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>05-02 10:49</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/02/14689082_789562_4821_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['빌보드 핫트렌드송 6일째 1위' 방탄소년단 지민 'With You' 일일 기록도 최고…'버터' 넘어 1위 독주]]></title>
-            <link>https://news.nate.com/view/20220502n05716?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220502n05716?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 02 May 2022 00:27:26 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>05-02 10:43</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/05/02/tn_1651455784323_124614_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['BTS 여동생' 르세라핌 데뷔…논란 딛고 흥할까 (종합)[DA:투데이]]]></title>
-            <link>https://news.nate.com/view/20220502n10999?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220502n10999?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 02 May 2022 03:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠동아							<em>05-02 10:16</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/05/02/113181784.2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['韓OST 자랑' 방탄소년단 지민 'With You' 멜론 주간 1위 팀 최고기록·지니어스 4월 차트 1위]]></title>
-            <link>https://news.nate.com/view/20220502n06324?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220502n06324?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 02 May 2022 00:27:26 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>05-02 09:48</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/05/02/tn_1651452483954_644902_0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
