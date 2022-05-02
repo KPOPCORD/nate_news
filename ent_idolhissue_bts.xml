@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 13:28:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 14:02:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[싸이, 신곡 'That That (prod. & feat. SUGA of BTS)' 뮤비 3일만에 5천만뷰 돌파]]></title>
+            <link>https://news.nate.com/view/20220502n41570?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220502n41570?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 02 May 2022 14:02:37 GMT</pubDate>
+            <content:encoded><![CDATA[비즈엔터							<em>05-02 22:33</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2022/05/02/20220502223218_1747598_952_949.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싸이, 'That That (prod. & feat. SUGA of BTS)' M/V 사흘 만에 5000만뷰 돌파]]></title>
+            <link>https://news.nate.com/view/20220502n41522?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220502n41522?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 02 May 2022 14:02:37 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>05-02 22:29</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/05/02/l_2022050202000142200024751.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 지민X하성운 'With You' 빌보드 핫트렌딩 리얼타임 차트 1위 '압도적']]></title>
             <link>https://news.nate.com/view/20220502n41090?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 02 May 2022 06:09:57 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>05-02 14:45</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/05/02/202205021403250810_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 제이홉, 태어난 지 10300일 투표수 1위…'최애돌' 기부요정]]></title>
-            <link>https://news.nate.com/view/20220502n19083?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220502n19083?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 02 May 2022 04:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠투데이							<em>05-02 12:44</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/05/02/02_795300_32058.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장민호, 트롯계 BTS의 하트 [포토엔HD]]]></title>
-            <link>https://news.nate.com/view/20220502n18913?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220502n18913?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 02 May 2022 04:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔							<em>05-02 12:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/05/02/202205021233195510_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
