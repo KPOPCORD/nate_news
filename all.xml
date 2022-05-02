@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 06:09:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 07:03:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/02/14688988_789402_3839_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['지민→슈가' 방탄소년단, 협업으로도 입증한 존재감 [ST이슈] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220502n29021?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220502n29021?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 02 May 2022 07:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠투데이							<em>05-02 15:46</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/05/02/02_795315_91996.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[송가인, 효녀 수식어 어울리는 ★ 1위…BTS 슈가 2위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220502n28768?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220502n28768?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 02 May 2022 07:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>05-02 15:43</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/05/02/2022050215395182165_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[문세윤 "부끄뚱, 방탄소년단 3초 이겨…재빨리 캡처"(컬투쇼) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220502n25173?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220502n25173?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Mon, 02 May 2022 00:27:26 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>05-02 09:00</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/02/14689037_789487_5944_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['빌보드 핫트렌드송 6일째 1위' 방탄소년단 지민 첫 OST 'With You' 일일 기록도 최고…버터 넘어서 1위 독주중 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220502n06100?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220502n06100?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 02 May 2022 00:27:26 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>05-02 08:54</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/02/14689031_789478_5216_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, 소셜미디어 '최다' 언급된 '전세계 아티스트 1위'…해리 스타일스→저스틴 비버 제친 '초강력 명성' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220502n05714?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220502n05714?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 02 May 2022 00:27:26 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>05-02 08:43</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/02/14689030_789467_4134_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
