@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 12:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 13:28:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/02/14688988_789402_3839_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 지민X하성운 'With You' 빌보드 핫트렌딩 리얼타임 차트 1위 '압도적' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220502n41090?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220502n41090?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 02 May 2022 13:28:36 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>05-02 22:00</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/05/02/tn_1651496404380_135826_0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS 여동생 '르세라핌 첫 공개' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220502n36357?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220502n36357?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Mon, 02 May 2022 04:41:23 GMT</pubDate>
             <content:encoded><![CDATA[뉴스엔							<em>05-02 12:34</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/05/02/202205021233195510_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 리트윗 순위] 방탄소년단 지민 87회째 1위, 임영웅·방탄소년단 뷔·NCT 재현·영탁 TOP5 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220502n17638?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220502n17638?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 02 May 2022 04:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>05-02 12:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/02/14689098_789588_596_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
