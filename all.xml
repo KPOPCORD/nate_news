@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 15:02:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 16:08:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/03/14689593_790260_4714_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["BTS 여정, 이제 시작에 불과"…하이브, 1분기 영업익 370억·62.7%↑ (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220504n00289?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220504n00289?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 03 May 2022 16:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>05-04 00:24</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/05/04/202205032315768861_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['돌싱포맨' 탁재훈, 미국서 설움 토로 "현빈♥손예진, BTS와 같은 비행기…" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220503n42826?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220503n42826?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Tue, 03 May 2022 07:02:49 GMT</pubDate>
             <content:encoded><![CDATA[스포츠조선							<em>05-03 15:35</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/05/03/2022050301000218500012671.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[펀펀한 현장] 르세라핌, '클래스가 다른 BTS 여동생들' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220503n23995?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220503n23995?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 03 May 2022 07:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[SBS연예뉴스							<em>05-03 14:31</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/05/03/30000760207_700.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
