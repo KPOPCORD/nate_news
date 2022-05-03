@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 11:07:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 12:10:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -247,6 +247,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/03/14689475_790108_2922_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[박지원 하이브 CEO "BTS 병역문제 정해진 것 없어…끝까지 함께 하겠다" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220503n37986?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220503n37986?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 03 May 2022 12:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠한국							<em>05-03 19:22</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2022/05/03/6796067_970808_2132.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하이브, 1분기 매출액 전년대비 60%↑ 2850억 기록 "BTS는 축복" [공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220503n37261?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220503n37261?mid=e0608&amp;isq=9009</guid>
@@ -357,14 +365,6 @@
             <pubDate>Tue, 03 May 2022 03:45:16 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>05-03 09:31</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/03/14689338_789941_3019_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['美빌보드 석권' 방탄소년단 지민 첫번째 OST 'With You' 빌보드 디지털 송 세일즈 차트 1위…4일 만에 대기록! (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220503n07426?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220503n07426?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 03 May 2022 03:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>05-03 09:29</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/03/14689333_789936_2814_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
