@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 14:04:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 15:02:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['돌싱포맨' 탁재훈, 미국서 설움 토로 "현빈♥손예진, BTS와 같은 비행기…"]]></title>
+            <link>https://news.nate.com/view/20220503n42826?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220503n42826?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 03 May 2022 15:02:58 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>05-03 23:23</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/05/03/2022050318164890946_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["방탄소년단과 동행 축복" 하이브, 1분기 영업이익 370억원]]></title>
             <link>https://news.nate.com/view/20220503n41954?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 03 May 2022 07:02:49 GMT</pubDate>
             <content:encoded><![CDATA[SBS연예뉴스							<em>05-03 14:31</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/05/03/30000760207_700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, '팬앤스타' 가수 랭킹 2주 연속 1위]]></title>
-            <link>https://news.nate.com/view/20220503n09288?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220503n09288?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 03 May 2022 03:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[더팩트							<em>05-03 09:58</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2022/05/03/202290921651539354.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
