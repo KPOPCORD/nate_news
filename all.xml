@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 02:56:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 03:45:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["언더붑 패션과 함께"…블랙핑크 제니, 하와이 브이로그 공개 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
+            <link>https://news.nate.com/view/20220503n14303?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20220503n14303?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Tue, 03 May 2022 03:44:51 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>05-03 11:05</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/03/14689365_789989_354_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[S포토] 블랙핑크 지수, '나는야 인간 디올' (디올) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
             <link>https://news.nate.com/view/20220501n10244?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 01 May 2022 06:07:03 GMT</pubDate>
             <content:encoded><![CDATA[스타데일리뉴스							<em>05-01 14:37</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/05/01/321180_368883_3516.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[S포토] 블랙핑크 지수, '꺄르륵' (디올) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
-            <link>https://news.nate.com/view/20220501n09958?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20220501n09958?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Sun, 01 May 2022 06:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[스타데일리뉴스							<em>05-01 14:37</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/05/01/321176_368879_315.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[기사열독 순위] 영탁 83회째 1위, 이찬원·레드벨벳 웬디·송가인·르세라핌 TOP5 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
@@ -248,6 +248,46 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/02/14688988_789402_3839_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단, '팬앤스타' 가수 랭킹 2주 연속 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220503n09288?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220503n09288?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 03 May 2022 03:45:16 GMT</pubDate>
+            <content:encoded><![CDATA[더팩트							<em>05-03 09:58</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2022/05/03/202290921651539354.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["천사와 사람의 경계선" 방탄소년단 지민, 심장 저격하는 매력 발산 '덕후몰이상' 아이돌 1위 선정 '최고 입덕요정' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220503n07753?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220503n07753?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 03 May 2022 03:45:16 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>05-03 09:34</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/03/14689339_789944_3223_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["빛나는 솔로아티스트로서의 존재감" 방탄소년단 뷔, 'Christmas Tree' 140만 샤잠 돌파…韓 OST 최고기록 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220503n07555?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220503n07555?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 03 May 2022 03:45:16 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>05-03 09:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/03/14689338_789941_3019_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['美빌보드 석권' 방탄소년단 지민 첫번째 OST 'With You' 빌보드 디지털 송 세일즈 차트 1위…4일 만에 대기록! (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220503n07426?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220503n07426?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 03 May 2022 03:45:16 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>05-03 09:29</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/03/14689333_789936_2814_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 정국 'Stay Alive' 스포티파이 K팝 글로벌 '주간' 11주째 재진입→韓OST '최단' 9500만…'승승장구' 인기 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220503n07246?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220503n07246?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 03 May 2022 03:45:16 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>05-03 09:26</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/03/14689332_789927_2542_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['世라디오•TV 인기곡' 방탄소년단 지민의 첫번째 OST 'With You' 31개 라디오 방송국 인기 폭발…日TBS•CNN '미디어 열풍' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220503n05789?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220503n05789?mid=e0608&amp;isq=9009</guid>
@@ -326,46 +366,6 @@
             <pubDate>Mon, 02 May 2022 23:03:29 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>05-03 07:10</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/05/03/2022050307073514649_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["방탄소년단 뷔는 특별한 존재" 日NHK 라디오서 연예인들 '크리스마스 트리' 커버+팬심 고백 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220503n02981?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220503n02981?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 02 May 2022 23:03:29 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>05-03 06:48</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/05/03/2022050306315484561_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 4월 韓인스타그램 팔로워 증가 1위…'인스타 킹' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220503n02967?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220503n02967?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 02 May 2022 23:03:29 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>05-03 06:46</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/05/03/2022050306380346913_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 진, 베스트아이돌 4월 'BEST 기부돌' 등극 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220503n02957?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220503n02957?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 02 May 2022 22:02:59 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>05-03 06:45</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/05/03/2022050306402514672_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르세라핌 'BTS 비주얼 디렉터가 완성한 런웨이 등장' [한혁승의 포톡] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220503n02855?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220503n02855?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 02 May 2022 22:02:59 GMT</pubDate>
-            <content:encoded><![CDATA[마이데일리							<em>05-03 06:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/05/03/202205030312708194_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['BTS 슈가' 손잡은 싸이, '댓댓' 5000만뷰 쾌속질주 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220503n02758?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220503n02758?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 02 May 2022 22:02:59 GMT</pubDate>
-            <content:encoded><![CDATA[스타in							<em>05-03 06:23</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/05/03/PS22050300009.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
