@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 08:08:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 09:02:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데뷔 클라씨 "팀워크+보컬이 강점, 블랙핑크·아이유·태연 롤모델"]]></title>
+            <link>https://news.nate.com/view/20220504n30342?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20220504n30342?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Wed, 04 May 2022 09:02:35 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>05-04 17:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/05/04/202205041548192510_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["언더붑 패션과 함께"…블랙핑크 제니, 하와이 브이로그 공개]]></title>
             <link>https://news.nate.com/view/20220503n14303?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 01 May 2022 06:07:03 GMT</pubDate>
             <content:encoded><![CDATA[스타데일리뉴스							<em>05-01 14:37</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/05/01/321177_368880_321.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[S포토] 블랙핑크 지수, '한 소녀를 울게 만든 미모' (디올)]]></title>
-            <link>https://news.nate.com/view/20220501n09960?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20220501n09960?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Sun, 01 May 2022 06:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[스타데일리뉴스							<em>05-01 14:37</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/05/01/321180_368883_3516.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
