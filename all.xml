@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 12:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 13:31:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/05/01/321177_368880_321.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '취재진에게 선물할 비타민 음료 꼭 쥐고 완다닥' (웬디의 영스트리트 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20220504n38656?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220504n38656?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Wed, 04 May 2022 13:31:08 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>05-04 22:11</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/04/14689840_790678_1014_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '시크한 완뭉이' (웬디의 영스트리트 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20220504n38628?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220504n38628?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Wed, 04 May 2022 13:31:08 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>05-04 22:10</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/04/14689839_790677_933_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '귀엽고 멋지고 혼자 다 하기' (웬디의 영스트리트 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
             <link>https://news.nate.com/view/20220504n33792?mid=e0608&amp;isq=9012</link>
             <guid>https://news.nate.com/view/20220504n33792?mid=e0608&amp;isq=9012</guid>
@@ -232,20 +248,12 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/03/14689599_790267_556_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '앙큼상큼 눈웃음' (웬디의 영스트리트 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20220503n42537?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220503n42537?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Tue, 03 May 2022 15:02:46 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>05-03 22:55</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/03/14689597_790264_5430_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '깜찍한 잇몸미소' (웬디의 영스트리트 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20220503n42520?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220503n42520?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Tue, 03 May 2022 15:02:46 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>05-03 22:54</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/03/14689596_790263_5149_org.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[방탄소년단 뷔, 4월 韓 인스타그램 팔로워 증가 1위…5개월 연속 소셜 점령 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220504n37647?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220504n37647?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 04 May 2022 13:31:26 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>05-04 21:18</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/04/14689824_790660_1459_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["방탄소년단 입대? 국가적 손실"…문체부 장관 밝힌 BTS 병역 문제[Oh!쎈 이슈] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -358,14 +366,6 @@
             <pubDate>Wed, 04 May 2022 08:08:39 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>05-04 16:39</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/04/14689773_790577_3748_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[황희 장관 "BTS 등 병역법 개정되어야…청년들에게 호소" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220504n28254?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220504n28254?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 04 May 2022 08:08:39 GMT</pubDate>
-            <content:encoded><![CDATA[SBS연예뉴스							<em>05-04 16:21</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/05/04/30000753485_700.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
