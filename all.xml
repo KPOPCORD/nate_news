@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 04:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 05:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/04/14689867_790722_5016_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[싸이 "방탄소년단 슈가, 먼저 러브콜 보내" ('연중라이브') (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220505n10476?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220505n10476?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 05 May 2022 05:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠조선							<em>05-05 13:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/05/05/2022050601000410100027151.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['연중라이브' 싸이 "방탄소년단 슈가가 먼저 러브콜 보내" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220505n09519?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220505n09519?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Thu, 05 May 2022 02:41:24 GMT</pubDate>
             <content:encoded><![CDATA[스포티비뉴스							<em>05-05 09:21</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2022/05/05/521887_729337_1942.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 6월 10일 새앨범 'Proof' 발표 [공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220505n04718?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220505n04718?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 05 May 2022 02:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠동아							<em>05-05 09:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/05/05/113243958.1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
