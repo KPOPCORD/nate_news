@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 20:03:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 21:02:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/04/14689869_790724_5219_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 뷔 SNS 가치 9억6천만원 '세계 최고'(연중)[결정적장면] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220505n22367?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220505n22367?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 05 May 2022 21:02:22 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>05-06 05:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/05/05/202205052303312510_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[싸이 "BTS 슈가가 먼저 연락해 미리 써 놓은 곡 보내줘"('연중 라이브') (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220506n00482?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220506n00482?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Thu, 05 May 2022 06:09:08 GMT</pubDate>
             <content:encoded><![CDATA[엑스포츠뉴스							<em>05-05 14:44</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/05/05/1651729342684132.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 10년 차 가수의 'Proof'…6월 10일 컴백 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220505n04900?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220505n04900?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 05 May 2022 02:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠월드							<em>05-05 14:35</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/05/05/20220505503431.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
