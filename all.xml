@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 11:02:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 12:10:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/04/14689869_790724_5219_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['BTS 병역특례', 이번엔 장관까지 '호소'…엇갈린 반응 [SW이슈] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220505n12393?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220505n12393?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 05 May 2022 07:03:12 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>05-05 20:26</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/05/05/20220505507422.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[열도는 BTS 뷔에 빠졌다, 57주연속 인기랭킹 1위…日셀럽들도 '태태앓이' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220505n19233?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220505n19233?mid=e0608&amp;isq=9009</guid>
@@ -270,14 +278,6 @@
             <pubDate>Thu, 05 May 2022 10:05:35 GMT</pubDate>
             <content:encoded><![CDATA[스포츠경향							<em>05-05 18:34</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/05/05/l_2022050502000325700062131.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['BTS 병역특례', 이번엔 장관까지 '호소'…엇갈린 반응 [SW이슈] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220505n12393?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220505n12393?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 05 May 2022 07:03:12 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠월드							<em>05-05 16:43</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/05/05/20220505507422.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트위터 리트윗 순위] 방탄소년단 지민 88회째 1위, 임영웅·방탄소년단 뷔·방탄소년단 정국·영탁 TOP5 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
