@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 08:08:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 09:04:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[빅데이터배우브랜드] 박서함 1회째 1위, 김희재·박재찬·이세영·블랙핑크 지수 TOP5 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
+            <link>https://news.nate.com/view/20220505n17117?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20220505n17117?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Thu, 05 May 2022 09:03:54 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>05-05 17:32</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/05/14689972_790943_2935_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데뷔 클라씨 "팀워크+보컬이 강점, 블랙핑크·아이유·태연 롤모델" (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
             <link>https://news.nate.com/view/20220504n30342?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 01 May 2022 06:07:03 GMT</pubDate>
             <content:encoded><![CDATA[스타데일리뉴스							<em>05-01 14:37</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/05/01/321181_368884_3549.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[S포토] 블랙핑크 지수, '수줍수줍' (디올) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
-            <link>https://news.nate.com/view/20220501n09961?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20220501n09961?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Sun, 01 May 2022 06:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[스타데일리뉴스							<em>05-01 14:37</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/05/01/321177_368880_321.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[기사열독 순위] 영탁 84회째 1위, 이찬원·송가인·르세라핌·레드벨벳 웬디 TOP5 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
