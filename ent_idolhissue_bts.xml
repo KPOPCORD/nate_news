@@ -4,9 +4,25 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 14:02:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 15:03:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[싸이 "BTS 슈가가 먼저 곡 주고 싶다고 연락, 슈가에 한번 업혀 가"(연중)]]></title>
+            <link>https://news.nate.com/view/20220505n22099?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220505n22099?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 05 May 2022 15:03:28 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>05-05 23:53</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/05/05/202205052303442510_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['연중라이브' 싸이 "BTS 슈가, 곡을 주고 싶다고 먼저 연락해 와"…수지&타블로 콜라보 비하인드까지 (3)]]></title>
+            <link>https://news.nate.com/view/20220505n22033?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220505n22033?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 05 May 2022 15:03:28 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>05-05 23:34</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/05/14690024_791019_3059_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['BTS 병역특례', 이번엔 장관까지 '호소'…엇갈린 반응 [SW이슈]]]></title>
             <link>https://news.nate.com/view/20220505n12393?mid=e0608&amp;isq=9009</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 05 May 2022 02:41:24 GMT</pubDate>
             <content:encoded><![CDATA[스포츠한국							<em>05-05 14:27</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2022/05/05/6796194_971023_2653.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이칠린, 방탄소년단 노래 완벽 커버…독보적 음색]]></title>
-            <link>https://news.nate.com/view/20220505n11273?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220505n11273?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 05 May 2022 06:09:08 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>05-05 14:26</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/05/05/1651728274394389.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싸이 "방탄소년단 슈가, 먼저 러브콜 보내" ('연중라이브')]]></title>
-            <link>https://news.nate.com/view/20220505n10476?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220505n10476?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 05 May 2022 05:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>05-05 13:53</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/05/05/2022050601000410100027151.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
