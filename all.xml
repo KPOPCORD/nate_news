@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 15:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 16:05:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/04/14689869_790724_5219_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['연중' 싸이가 인정한 방탄소년단의 글로벌 인기 "내가 업혀가는 수준" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220506n00213?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220506n00213?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 05 May 2022 16:05:50 GMT</pubDate>
+            <content:encoded><![CDATA[TV리포트							<em>05-06 00:22</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/05/06/4f474942-e02e-4afd-9c39-bbe17e475c33.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[싸이 "BTS 슈가가 먼저 곡 주고 싶다고 연락, 슈가에 한번 업혀 가"(연중) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220505n22099?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220505n22099?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Thu, 05 May 2022 06:09:08 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>05-05 14:34</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/05/14689949_790893_3321_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 6월 10일 'Proof'로 컴백 "데뷔 9주년 역사 담았다" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220505n06064?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220505n06064?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 05 May 2022 02:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠한국							<em>05-05 14:27</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2022/05/05/6796194_971023_2653.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
