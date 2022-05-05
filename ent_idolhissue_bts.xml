@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 03:50:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 04:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['연중라이브' 싸이 "방탄소년단 슈가가 먼저 러브콜 보내"]]></title>
+            <link>https://news.nate.com/view/20220505n09519?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220505n09519?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 05 May 2022 04:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>05-05 13:09</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/05/05/2022050513004667884_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 6월 10일 새 앨범 'Proof' 발매…9년 역사 담았다]]></title>
             <link>https://news.nate.com/view/20220505n07846?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 05 May 2022 02:41:24 GMT</pubDate>
             <content:encoded><![CDATA[스포츠동아							<em>05-05 09:20</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/05/05/113243958.1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 과거·현재·미래 담았다…6월 신보 'Proof' 발매]]></title>
-            <link>https://news.nate.com/view/20220505n04716?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220505n04716?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 05 May 2022 02:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠서울							<em>05-05 09:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/05/05/2022050501000251700018001.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
