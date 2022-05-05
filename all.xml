@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 10:05:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 11:02:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/04/14689869_790724_5219_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[열도는 BTS 뷔에 빠졌다, 57주연속 인기랭킹 1위…日셀럽들도 '태태앓이' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220505n19233?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220505n19233?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 05 May 2022 11:02:31 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>05-05 19:20</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/05/05/202205051918998596_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 RM, 어린이날에도 열일하는 훈훈 비주얼 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220505n18882?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220505n18882?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 05 May 2022 11:02:31 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠한국							<em>05-05 18:57</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2022/05/05/6796218_971054_559.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[스경연예연구소]방탄소년단과 유승준의 사이 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220505n18570?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220505n18570?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Thu, 05 May 2022 05:14:26 GMT</pubDate>
             <content:encoded><![CDATA[스포츠조선							<em>05-05 13:53</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/05/05/2022050601000410100027151.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['연중라이브' 싸이 "방탄소년단 슈가가 먼저 러브콜 보내" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220505n09519?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220505n09519?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 05 May 2022 04:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>05-05 13:09</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/05/05/2022050513004667884_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 6월 10일 새 앨범 'Proof' 발매…9년 역사 담았다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220505n07846?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220505n07846?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 05 May 2022 03:50:57 GMT</pubDate>
-            <content:encoded><![CDATA[SBS연예뉴스							<em>05-05 11:41</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/05/05/30000755190_700.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
