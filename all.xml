@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 06:09:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 07:03:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/05/01/321177_368880_321.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[독자추천 순위] 영탁 154회째 1위, 이찬원·레드벨벳 웬디·장민호·르세라핌 TOP5 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
+            <link>https://news.nate.com/view/20220505n13858?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220505n13858?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Thu, 05 May 2022 07:02:52 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>05-05 15:52</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/05/14689965_790913_5038_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '구하기 어려운 포켓몬 빵이 잔뜩' (웬디의 영스트리트 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
             <link>https://news.nate.com/view/20220504n39394?mid=e0608&amp;isq=9012</link>
             <guid>https://news.nate.com/view/20220504n39394?mid=e0608&amp;isq=9012</guid>
@@ -240,12 +248,44 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/04/14689868_790723_5041_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '어린이날이 100주년이라고요?!' (웬디의 영스트리트 출근길) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
-            <link>https://news.nate.com/view/20220504n39185?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220504n39185?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 04 May 2022 15:04:57 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>05-04 22:51</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/04/14689867_790722_5016_org.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[방탄소년단 뷔, 또 스타랭킹 男아이돌 톱3…인기 불타오르네 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220505n13961?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220505n13961?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 05 May 2022 07:03:12 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>05-05 15:55</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/05/05/2022050515061061871_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 진,  스타랭킹 男아이돌 17주 연속 2위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220505n13959?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220505n13959?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 05 May 2022 07:03:12 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>05-05 15:55</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/05/05/2022050515060777843_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 지민, 스타랭킹 男아이돌 이변 없이 1위…27주 연속 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220505n13956?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220505n13956?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 05 May 2022 07:03:12 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>05-05 15:55</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/05/05/2022050515060446623_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[댓글 순위] 영탁 177회째 1위, 이찬원·방탄소년단 뷔·김희재·장민호 TOP5 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220505n13378?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220505n13378?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 05 May 2022 07:03:12 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>05-05 15:34</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/05/14689962_790906_3220_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['BTS 병역특례', 이번엔 장관까지 '호소'…엇갈린 반응 [SW이슈] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220505n12393?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220505n12393?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 05 May 2022 07:03:12 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>05-05 15:01</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/05/05/20220505507422.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[싸이 "BTS 슈가, 먼저 러브콜 보내"…작업 비하인드 (연중) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
@@ -326,46 +366,6 @@
             <pubDate>Thu, 05 May 2022 02:41:24 GMT</pubDate>
             <content:encoded><![CDATA[비즈엔터							<em>05-05 11:24</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2022/05/05/20220505093354_1748686_1200_1200.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 새 앨범 '프루프' 의미는? (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220505n06967?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220505n06967?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 05 May 2022 02:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[스타in							<em>05-05 11:12</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/05/05/PS22050500016.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 6월 10일 'Proof' 발매…9년 역사 함축 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220505n06331?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220505n06331?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 05 May 2022 02:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠투데이							<em>05-05 10:39</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/05/05/05_796317_79061.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['라스' 싸이, BTS 슈가→송중기·이병헌 '섭외의 신'…이승윤 "세치혀가 장수비결?" [종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220505n06044?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220505n06044?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 05 May 2022 02:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[TV리포트							<em>05-05 10:26</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/05/05/4e203d4b-8b85-4b9e-b8a4-b313b64a8f28.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 6월 '프루프' 발매…9년 역사 함축한 앤솔러지 앨범 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220505n06027?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220505n06027?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 05 May 2022 02:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>05-05 10:26</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/05/05/20220505_5159395_1651713897.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 6월 10일 'Proof' 발표…"9년 역사 함축한, 앤솔러지" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220505n05275?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220505n05275?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 05 May 2022 02:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[디스패치							<em>05-05 09:50</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/05/05/aeb33d82-8324-48ba-b5c2-b6a7678347d6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

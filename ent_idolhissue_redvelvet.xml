@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 06:09:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 07:03:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[독자추천 순위] 영탁 154회째 1위, 이찬원·레드벨벳 웬디·장민호·르세라핌 TOP5]]></title>
+            <link>https://news.nate.com/view/20220505n13858?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220505n13858?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Thu, 05 May 2022 07:02:52 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>05-05 15:52</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/05/14689965_790913_5038_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '구하기 어려운 포켓몬 빵이 잔뜩' (웬디의 영스트리트 출근길)]]></title>
             <link>https://news.nate.com/view/20220504n39394?mid=e0608&amp;isq=9012</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 04 May 2022 15:04:57 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>05-04 22:52</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/04/14689868_790723_5041_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 웬디, '어린이날이 100주년이라고요?!' (웬디의 영스트리트 출근길)]]></title>
-            <link>https://news.nate.com/view/20220504n39185?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220504n39185?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Wed, 04 May 2022 15:04:57 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>05-04 22:51</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/04/14689867_790722_5016_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
