@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 02:29:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 03:32:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/04/14689869_790724_5219_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 병역 특례, 장관에 이어 문화부도 나섰다…"문화강국 시간 배려 부탁" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220506n13831?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220506n13831?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 06 May 2022 03:32:38 GMT</pubDate>
+            <content:encoded><![CDATA[스포티비뉴스							<em>05-06 12:04</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/su/2022/05/06/522089_729612_03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['오늘만큼은 라커룸계 BTS'…UCL 결승가는 레알, 화제의 '댄스 투나잇!' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220506n12604?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220506n12604?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 06 May 2022 03:32:38 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>05-06 11:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/05/06/202205061118773047_627486e70619c.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA['한국 OST의 자랑' 방탄소년단 지민 첫 OST  'With You' 印 'IMI' 韓OST 최고 순위…인도 대표 공식차트도 강타 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220506n05492?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220506n05492?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Fri, 06 May 2022 00:27:16 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>05-06 08:05</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/05/06/tn_1651791903883_997624_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단(BTS) 제이홉, 어린이날 패션도 힙하게 "어른이 룩" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220506n03639?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220506n03639?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 06 May 2022 00:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>05-06 08:05</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/05/06/1651791836901011.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['日·동남아 강타' 방탄소년단 지민 'With You' 빌보드재팬 톱유저 韓드라마 OST최고→동남아 핫100 톱 'OST King' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220506n03500?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220506n03500?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 06 May 2022 00:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>05-06 08:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/05/06/tn_1651791604226_405732_0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
