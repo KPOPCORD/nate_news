@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 03:32:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 04:08:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["세계 최고 수준"…방탄소년단 뷔, 인스타 가치만 '9억 6천'?]]></title>
+            <link>https://news.nate.com/view/20220506n14409?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220506n14409?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Fri, 06 May 2022 04:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>05-06 12:30</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/06/14690110_791158_3941_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 병역 특례, 장관에 이어 문화부도 나섰다…"문화강국 시간 배려 부탁"]]></title>
             <link>https://news.nate.com/view/20220506n13831?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 06 May 2022 00:27:16 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>05-06 08:29</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/05/06/2022050608252277670_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[석진이 아들 열도 大공략…방탄소년단 진 알제이 日 품절ing]]></title>
-            <link>https://news.nate.com/view/20220506n03621?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220506n03621?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Fri, 06 May 2022 00:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>05-06 08:05</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/05/06/tn_1651791903883_997624_0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
