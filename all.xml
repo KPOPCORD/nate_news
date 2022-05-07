@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 11:02:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 12:09:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/06/14690226_791373_1417_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단, 새 앨범 'Proof' 타이틀곡 제목은 'Yet To Come' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220507n04694?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220507n04694?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 07 May 2022 02:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[MK스포츠							<em>05-07 20:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/05/07/20220507_1651921304.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 'Proof' 째깍째깍 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220507n03339?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220507n03339?mid=e0608&amp;isq=9009</guid>
@@ -342,14 +350,6 @@
             <pubDate>Sat, 07 May 2022 04:05:42 GMT</pubDate>
             <content:encoded><![CDATA[스타데일리뉴스							<em>05-07 12:50</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/05/07/321738_369504_4916.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 새 앨범 'Proof' 타이틀곡 제목은 'Yet To Come' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220507n04694?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220507n04694?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 07 May 2022 02:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[MK스포츠							<em>05-07 10:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/05/07/20220507_1651887160.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS, 5월 보이그룹 브랜드평판도 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
