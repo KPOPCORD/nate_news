@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 05:02:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 06:08:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/06/14690226_791373_1417_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["개팔자가 상팔자네"…방탄소년단 슈가, 생일 맞이한 홀리는 좋겠네[★SHOT!] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220507n06838?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220507n06838?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 07 May 2022 06:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[OSEN							<em>05-07 14:17</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/05/07/202205071403778743_6276005f99c1d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 신보 프로모션 일정 공개…새 앨범 타이틀곡은 '옛 투 컴'[공식] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220507n06634?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220507n06634?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 07 May 2022 06:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠서울							<em>05-07 13:58</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/05/07/2022050701000379100028472.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 'Proof', 타이틀곡은 'Yet To Come' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220507n04662?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220507n04662?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Sat, 07 May 2022 02:24:15 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>05-07 09:15</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/07/14690295_791499_143_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['beautiful visuals' 방탄소년단 뷔, 日"가장 잘생긴 K팝 남자아이돌" 1위 장기독주 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220507n03595?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220507n03595?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 07 May 2022 00:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>05-07 09:10</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/07/14690293_791495_85_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 5월 보이그룹 브랜드평판 1위…빅뱅·NCT·세븐틴 順 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220507n03420?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220507n03420?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 07 May 2022 00:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>05-07 09:01</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/05/07/tn_1651881665483_471837_0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
