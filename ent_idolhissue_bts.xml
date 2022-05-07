@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 04:05:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 05:02:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 'Proof', 타이틀곡은 'Yet To Come']]></title>
+            <link>https://news.nate.com/view/20220507n04662?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220507n04662?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 07 May 2022 02:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>05-07 13:04</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/05/07/20220507503236.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 새 앨범 'Proof' 타이틀곡 제목은 'Yet To Come'…프로모션맵도 공개]]></title>
             <link>https://news.nate.com/view/20220507n06098?mid=e0608&amp;isq=9009</link>
@@ -22,14 +30,6 @@
             <pubDate>Sat, 07 May 2022 02:24:15 GMT</pubDate>
             <content:encoded><![CDATA[MK스포츠							<em>05-07 10:34</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/05/07/20220507_1651887160.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 'Proof', 타이틀곡은 'Yet To Come']]></title>
-            <link>https://news.nate.com/view/20220507n04662?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220507n04662?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 07 May 2022 02:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠월드							<em>05-07 10:31</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/05/07/20220507503236.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS, 5월 보이그룹 브랜드평판도 1위]]></title>
