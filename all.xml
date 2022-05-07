@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 06:08:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 07:02:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/06/14690226_791373_1417_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['인스타 개인 세계1위' 방탄소년단 지민, 인스타그램 일일 팔로우 증가도 1위 K팝 스타…단 16개 게시물로 SNS 핫 인기 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220507n04011?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220507n04011?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 07 May 2022 02:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>05-07 15:44</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/07/14690299_791512_4241_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["개팔자가 상팔자네"…방탄소년단 슈가, 생일 맞이한 홀리는 좋겠네[★SHOT!] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220507n06838?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220507n06838?mid=e0608&amp;isq=9009</guid>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 07 May 2022 02:24:15 GMT</pubDate>
             <content:encoded><![CDATA[디스패치							<em>05-07 09:46</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/05/07/16e3120e-8e0a-4f9b-94bd-6568ea31defe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['인스타 개인 세계1위' 방탄소년단 지민, 인스타그램 일일 팔로우 증가도 1위 K팝 스타…단 16개 게시물로 SNS 핫 인기 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220507n04011?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220507n04011?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 07 May 2022 02:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>05-07 09:44</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/07/14690299_791512_4241_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단 정국 'Still With You' 사운드클라우드 톱50 차트 '팝' 부분 1위 '재탈환'…글로벌 '음원 강자' 파워 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
