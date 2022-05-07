@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 12:09:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 13:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["K 콘텐츠 확산의 견인차" 방탄소년단 뷔 '세계 팬들 반한 K-컬처' 대표사례 '글로벌 인기 증명']]></title>
+            <link>https://news.nate.com/view/20220507n12796?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220507n12796?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 07 May 2022 13:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>05-07 21:09</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/07/14690407_791651_637_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 새 앨범 'Proof' 타이틀곡 제목은 'Yet To Come']]></title>
             <link>https://news.nate.com/view/20220507n04694?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 07 May 2022 02:24:15 GMT</pubDate>
             <content:encoded><![CDATA[스타in							<em>05-07 10:22</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/05/07/PS22050700024.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 새 앨범 타이틀곡 공개…'Yet To Come']]></title>
-            <link>https://news.nate.com/view/20220507n04373?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220507n04373?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 07 May 2022 02:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[TV리포트							<em>05-07 10:08</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/05/07/a566239b-e417-4e31-9539-6ae32b9f4b83.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
