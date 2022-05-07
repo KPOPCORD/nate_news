@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 03:29:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 04:05:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, 새 앨범 'Proof' 타이틀곡 제목은 'Yet To Come'…프로모션맵도 공개]]></title>
+            <link>https://news.nate.com/view/20220507n06098?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220507n06098?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 07 May 2022 04:05:42 GMT</pubDate>
+            <content:encoded><![CDATA[스타데일리뉴스							<em>05-07 12:50</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/05/07/321738_369504_4916.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 새 앨범 'Proof' 타이틀곡 제목은 'Yet To Come']]></title>
             <link>https://news.nate.com/view/20220507n04694?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 07 May 2022 00:25:21 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>05-07 09:01</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/05/07/tn_1651881665483_471837_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["황금손 꾹화백님♥" 방탄소년단 정국 '인더섬' 로고 만들기서 디테일X생동감 넘치는 표현력…'황금손 재능' 맹활약]]></title>
-            <link>https://news.nate.com/view/20220507n03406?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220507n03406?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 07 May 2022 00:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>05-07 09:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/07/14690291_791484_599_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
