@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 09:02:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 10:02:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/06/14690226_791373_1417_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 'Proof' 째깍째깍 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220507n03339?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220507n03339?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sat, 07 May 2022 10:02:50 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>05-07 18:49</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/05/07/l_2022050702000407400077372.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단, 5월 보이그룹 브랜드평판 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220507n09940?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220507n09940?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sat, 07 May 2022 02:24:15 GMT</pubDate>
             <content:encoded><![CDATA[TV리포트							<em>05-07 10:08</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/05/07/a566239b-e417-4e31-9539-6ae32b9f4b83.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Record Setter V' 방탄소년단 뷔, 솔로곡 5곡 스포티파이 1억 스트리밍 돌파 'GLOBAL 음원 파워' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220507n04314?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220507n04314?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 07 May 2022 02:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>05-07 10:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/07/14690301_791520_210_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
