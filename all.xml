@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 06:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 07:02:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/06/14690226_791373_1417_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 뷔, 인스타그램 팔로워 4100만명 돌파 "소셜 최강 임팩트" (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220508n12469?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220508n12469?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Sun, 08 May 2022 07:02:50 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>05-08 15:48</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/05/08/202205081547689526_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 뷔, 솔로곡 '싱귤래리티' 4주년…글로벌 팬들 기부와 이벤트로 축하 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220508n09431?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220508n09431?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sat, 07 May 2022 23:02:27 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>05-08 07:22</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/05/08/2022050807170323530_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["죽어도 집에 묻어줘" 방탄소년단 진 MBTI, 성격마저 '완벽' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220508n02425?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220508n02425?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Sat, 07 May 2022 23:02:27 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>05-08 07:17</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/05/08/2022050807101864722_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
