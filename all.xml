@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 16:05:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 17:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/10/14690882_792401_1647_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단(BTS), '15일 개최' 빌보드 뮤직 어워즈 불참 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220510n00954?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220510n00954?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 09 May 2022 17:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[비즈엔터							<em>05-10 01:51</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ez/2022/05/10/20210521151641_1623054_1200_699.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['동원아 여행가자' 장민호, 이영자 레시피 토마호크 굽고…정동원은 모닥불에 BTS '불타오르네' 댄스  (2) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220509n37530?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220509n37530?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Mon, 09 May 2022 06:09:41 GMT</pubDate>
             <content:encoded><![CDATA[스타투데이							<em>05-09 14:00</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/05/09/20220509_5162242_1652072318.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, '7개 후보' 빌보드 뮤직 어워드 불참 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220509n19193?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220509n19193?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 09 May 2022 05:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠투데이							<em>05-09 13:53</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/05/09/09_797057_38159.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
