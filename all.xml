@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 08:08:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 09:03:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/06/14690228_791376_1719_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단, 2022 빌보드 어워즈 시상식 불참 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220509n29959?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220509n29959?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 09 May 2022 09:03:17 GMT</pubDate>
+            <content:encoded><![CDATA[일간스포츠							<em>05-09 17:18</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/05/09/54aee5c1-9cb5-41ef-abcd-b727e0aeecce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[형님 BTS처럼…'자작돌' 투모로우바이투게더 "빌보드 1위 목표" (종합)[DA:현장] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220509n27317?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220509n27317?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Mon, 09 May 2022 05:12:42 GMT</pubDate>
             <content:encoded><![CDATA[일간스포츠							<em>05-09 12:58</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/is/2022/05/09/13174000-65e5-4706-aa13-f8c47e50d80f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 새 앨범 'Proof' 첫 트랙리스트 공개…신곡 'Yet To Come' 수록 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220509n16961?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220509n16961?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 09 May 2022 03:42:03 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN							<em>05-09 12:34</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/05/09/202205091232778651_62788b72f1005.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
