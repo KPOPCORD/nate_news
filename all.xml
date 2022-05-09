@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 20:04:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 21:02:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/10/14690882_792401_1647_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['PD수첩' 방탄소년단 병역 문제 다룬다 [MK★미리보기] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220510n02423?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220510n02423?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 09 May 2022 21:02:27 GMT</pubDate>
+            <content:encoded><![CDATA[MK스포츠							<em>05-10 05:32</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/05/10/20220509_1652104967.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단(BTS), '15일 개최' 빌보드 뮤직 어워즈 불참 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220510n00954?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220510n00954?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Mon, 09 May 2022 06:09:41 GMT</pubDate>
             <content:encoded><![CDATA[스타in							<em>05-09 14:02</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/05/09/PS22050900070.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['PD수첩', 방탄소년단 병역특례 찬반 논의 다룬다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220509n19489?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220509n19489?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 09 May 2022 06:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[스타투데이							<em>05-09 14:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tt/2022/05/09/20220509_5162242_1652072318.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
