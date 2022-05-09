@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 06:09:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 07:03:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,30 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/06/14690228_791376_1719_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['PD수첩', 'BTS와 병역' 대체복무제도 심층 취재 [T-데이] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220509n23990?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220509n23990?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 09 May 2022 07:03:15 GMT</pubDate>
+            <content:encoded><![CDATA[티브이데일리							<em>05-09 15:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/05/09/091636154.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, '7개 후보'인데…'빌보드 뮤직 어워드' 불참 [공식입장] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220509n22422?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220509n22422?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 09 May 2022 07:03:15 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>05-09 15:03</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/05/09/1652074925650623.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, '빌보드 뮤직 어워즈' 불참…컴백 준비 매진 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220509n22131?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220509n22131?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 09 May 2022 07:03:15 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠서울							<em>05-09 14:57</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/05/09/2022050901000477500035701.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단(BTS), 역대 타이틀곡 총망라한 'Proof' 첫 번째 CD 트랙리스트 공개 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220509n21983?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220509n21983?mid=e0608&amp;isq=9009</guid>
@@ -342,30 +366,6 @@
             <pubDate>Mon, 09 May 2022 03:42:03 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>05-09 12:27</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/05/09/2022050911585833170_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 美 '빌보드 뮤직 어워즈' 불참 [공식입장] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220509n16492?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220509n16492?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 09 May 2022 03:42:03 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>05-09 12:14</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/05/09/1652065925_1636138.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['PD수첩', 'BTS와 병역' 다룬다…예술·체육요원 대체복무제도 심층취재 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220509n15912?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220509n15912?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 09 May 2022 03:42:03 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠조선							<em>05-09 12:00</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2022/05/09/2022050901000693300047811.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 제이홉, 모든 사진이 '화보'가 되는 최고의 비주얼 1위 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220509n15857?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220509n15857?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 09 May 2022 03:42:03 GMT</pubDate>
-            <content:encoded><![CDATA[MK스포츠							<em>05-09 11:59</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/05/09/20220509_1652065060.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
