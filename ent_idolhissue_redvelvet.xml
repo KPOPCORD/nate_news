@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 23:02:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 00:27:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기사열독 순위] 영탁 85회째 1위, 송가인·이찬원·레드벨벳 웬디·르세라핌 TOP5]]></title>
+            <link>https://news.nate.com/view/20220509n05621?mid=e0608&amp;isq=9012</link>
+            <guid>https://news.nate.com/view/20220509n05621?mid=e0608&amp;isq=9012</guid>
+            <pubDate>Mon, 09 May 2022 00:26:56 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>05-09 08:52</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/09/14690610_792029_4958_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[독자추천 순위] 영탁 155회째 1위, 이찬원·레드벨벳 웬디·장민호·르세라핌 TOP5]]></title>
             <link>https://news.nate.com/view/20220509n04044?mid=e0608&amp;isq=9012</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 06 May 2022 14:02:08 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>05-06 22:18</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/06/14690228_791376_1719_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HD포토] 레드벨벳(Red Velvet) 조이, '매력 가득 러블리 포즈' (SBS TV 동물농장 퇴근길)]]></title>
-            <link>https://news.nate.com/view/20220506n31176?mid=e0608&amp;isq=9012</link>
-            <guid>https://news.nate.com/view/20220506n31176?mid=e0608&amp;isq=9012</guid>
-            <pubDate>Fri, 06 May 2022 14:02:08 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>05-06 22:17</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/06/14690227_791374_1552_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
