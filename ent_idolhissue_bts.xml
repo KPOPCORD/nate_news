@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 07:03:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 08:08:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[형님 BTS처럼…'자작돌' 투모로우바이투게더 "빌보드 1위 목표" (종합)[DA:현장]]]></title>
+            <link>https://news.nate.com/view/20220509n27317?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220509n27317?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 09 May 2022 08:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠동아							<em>05-09 16:25</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/05/09/113301170.1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['PD수첩', 'BTS와 병역' 대체복무제도 심층 취재 [T-데이]]]></title>
             <link>https://news.nate.com/view/20220509n23990?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 09 May 2022 03:42:03 GMT</pubDate>
             <content:encoded><![CDATA[OSEN							<em>05-09 12:34</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2022/05/09/202205091232778651_62788b72f1005.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 올해 '빌보드 뮤직 어워즈' 불참…7개 수상 후보]]></title>
-            <link>https://news.nate.com/view/20220509n16822?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220509n16822?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 09 May 2022 03:42:03 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>05-09 12:27</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/05/09/2022050911585833170_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
