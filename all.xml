@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 13:29:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 14:07:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/06/14690232_791380_2035_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['동원아 여행가자' 장민호, 이영자 레시피 토마호크 굽고…정동원은 모닥불에 BTS '불타오르네' 댄스  (2) (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220509n37530?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220509n37530?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Mon, 09 May 2022 14:07:35 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>05-09 22:42</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/09/14690835_792354_415_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['PD수첩'도 뛰어든 BTS 병역문제, '예술·체육요원 대체복무제도' 해법은？ (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220509n32884?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220509n32884?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Mon, 09 May 2022 05:12:42 GMT</pubDate>
             <content:encoded><![CDATA[스포츠투데이							<em>05-09 13:53</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/st/2022/05/09/09_797057_38159.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 새 앨범 'Proof' 트랙리스트…신곡 'Yet To Come' 포함 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220509n12873?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220509n12873?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Mon, 09 May 2022 02:51:14 GMT</pubDate>
-            <content:encoded><![CDATA[SBS연예뉴스							<em>05-09 13:51</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yy/2022/05/09/30000761503_700.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
