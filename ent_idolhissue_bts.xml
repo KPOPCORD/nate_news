@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 09:06:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 10:03:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최우식, BTS 뷔와 골프 여행?…실수에 박형식X픽보이 폭소]]></title>
+            <link>https://news.nate.com/view/20220510n38227?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220510n38227?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 10 May 2022 10:03:41 GMT</pubDate>
+            <content:encoded><![CDATA[엑스포츠뉴스							<em>05-10 18:31</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/05/10/1652174602169350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TV조선, 16일 빌보드 뮤직 어워드 독점 생중계…BTS 수상 여부 촉각]]></title>
             <link>https://news.nate.com/view/20220510n35349?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 10 May 2022 05:07:32 GMT</pubDate>
             <content:encoded><![CDATA[티브이데일리							<em>05-10 13:46</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/05/10/1636354.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 RM, 일상 속 '남친짤' 장인 [TD#]]]></title>
-            <link>https://news.nate.com/view/20220510n21360?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220510n21360?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 10 May 2022 05:07:32 GMT</pubDate>
-            <content:encoded><![CDATA[티브이데일리							<em>05-10 13:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/05/10/101636296.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
