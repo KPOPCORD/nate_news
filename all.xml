@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 02:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 03:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,46 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/10/14690882_792401_1647_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 'Proof', 2nd CD에 신곡 '달려라 방탄' 포함…솔로·유닛곡 풍성 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220510n15836?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220510n15836?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 10 May 2022 03:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠한국							<em>05-10 11:56</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2022/05/10/6796604_971655_341.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아리랑TV 'What is' 방탄소년단(BTS) 병역문제 정면으로 다룬다 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220510n16295?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220510n16295?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 10 May 2022 03:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>05-10 11:51</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/05/10/l_2022051002000568900105181.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아리랑TV, 방탄소년단 병역문제 다룬다 '팬-전문가 의견 종합 정리' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220510n15390?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220510n15390?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 10 May 2022 03:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔							<em>05-10 11:29</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nn/2022/05/10/202205101122346310_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 'Proof' 두 번째 CD 트랙리스트 공개 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220510n14412?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220510n14412?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 10 May 2022 03:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[TV리포트							<em>05-10 11:15</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tr/2022/05/10/7cfcc49c-b389-455f-9ce5-fb358003f423.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 새 앨범, 신곡 '달려라 방탄' 포함 솔로·유닛곡도 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220510n14368?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220510n14368?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 10 May 2022 03:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠동아							<em>05-10 11:15</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/05/10/113314111.1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["영상통화 좋아해" 방탄소년단 뷔, 국보급 비주얼 + 사랑스러움으로 전 세계 팬들 심쿵 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220510n10542?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220510n10542?mid=e0608&amp;isq=9009</guid>
@@ -326,46 +366,6 @@
             <pubDate>Tue, 10 May 2022 00:30:25 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>05-10 08:56</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/10/14690941_792483_5422_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["이 섹시함은 무엇?" 방탄소년단 정국 청순 얼굴에 무장한 '숨멎' 섹시미→오버핏 뚫는 '가슴 근육'X'타투'…'치명' 베이글남 포스 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220510n05962?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220510n05962?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 10 May 2022 00:30:25 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>05-10 08:52</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/10/14690940_792482_5135_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Dance God JIMIN' 방탄소년단 지민, '4년 연속 베스트댄서 1위' 세계를 평정한 올라운드 댄스 천재 입증 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220510n05847?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220510n05847?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 10 May 2022 00:30:25 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>05-10 08:49</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/10/14690939_792471_4826_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국 'Stay Alive' 87일 만에 109개국 아이튠즈 톱송 1위→1억 돌파 '눈 앞'…'글로벌 솔로 파워' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220510n05752?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220510n05752?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 10 May 2022 00:30:25 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>05-10 08:45</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/10/14690937_792462_435_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 'Proof' 두 번째 CD, 일곱 멤버 솔로·유닛곡이 가득 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220510n05490?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220510n05490?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 10 May 2022 00:30:25 GMT</pubDate>
-            <content:encoded><![CDATA[MK스포츠							<em>05-10 08:36</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aa/2022/05/10/20220510_1652139328.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 'Proof' 트랙리스트 2…일곱 멤버의 솔로·유닛곡 구성 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220510n05348?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220510n05348?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 10 May 2022 00:30:25 GMT</pubDate>
-            <content:encoded><![CDATA[디스패치							<em>05-10 08:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/th/2022/05/10/7abb6988-45f7-4a08-8eef-5a3c88018aa6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
