@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 16:05:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 17:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/10/14690882_792401_1647_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국악인 이희문, BTS보다 3년 먼저 미국 진출? ('진격의 할매') (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220511n00523?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220511n00523?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 10 May 2022 17:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[마이데일리							<em>05-11 01:30</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2022/05/11/202205110128301486_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[대중예술인 왜 안 되나…'PD수첩' BTS 병역 실체 [종합] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220510n44980?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220510n44980?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Tue, 10 May 2022 07:03:55 GMT</pubDate>
             <content:encoded><![CDATA[스포츠서울							<em>05-10 15:25</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sp/2022/05/10/2022051101000552300040601.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투모로우바이투게더, 신보 하루 만에 92만장 판매…BTS 이후 처음 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220510n29033?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220510n29033?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 10 May 2022 07:03:55 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>05-10 15:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/05/10/1652163578606897.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
