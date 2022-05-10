@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 08:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 09:06:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/10/14690882_792401_1647_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[TV조선, 16일 빌보드 뮤직 어워드 독점 생중계…BTS 수상 여부 촉각 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220510n35349?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220510n35349?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 10 May 2022 09:06:25 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠월드							<em>05-10 17:17</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/05/10/20220510515984.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 병역 문제 집중 조명 "하이브 경제적 타격↑" (아리랑TV 'What is') (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220510n35089?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220510n35089?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Tue, 10 May 2022 09:06:25 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠동아							<em>05-10 17:10</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sd/2022/05/10/113328014.1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TV조선, '2022 빌보드 뮤직 어워드' 16일 생중계…BTS 최다 노미네이트 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220510n30549?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220510n30549?mid=e0608&amp;isq=9009</guid>
@@ -350,22 +366,6 @@
             <pubDate>Tue, 10 May 2022 05:07:32 GMT</pubDate>
             <content:encoded><![CDATA[티브이데일리							<em>05-10 13:32</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tv/2022/05/10/101636296.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성동일, 방탄소년단 뷔 언급 "쟤가 걔야?…'화랑' 같이 했다" (이번주도)[전일야화] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220510n03190?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220510n03190?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 10 May 2022 02:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[엑스포츠뉴스							<em>05-10 13:21</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/xs/2022/05/10/1652108482266789.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 'Proof', 2nd CD에 신곡 '달려라 방탄' 포함…솔로·유닛곡 풍성 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220510n15836?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220510n15836?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Tue, 10 May 2022 03:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠한국							<em>05-10 11:56</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2022/05/10/6796604_971655_341.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
