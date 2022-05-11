@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 08:09:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 09:04:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/10/14690882_792401_1647_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 새 앨범, 우려의 목소리 제기되다 '뒤숭숭' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220511n32808?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220511n32808?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 11 May 2022 09:04:17 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠경향							<em>05-11 17:33</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/05/11/l_2022051102000688400126624.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 뷔, '우리들의 블루스' 애청 인증 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220511n30395?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220511n30395?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Wed, 11 May 2022 02:48:23 GMT</pubDate>
             <content:encoded><![CDATA[스포츠경향							<em>05-11 09:30</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2022/05/11/l_2022051102000631900116671.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 'Butter'·콜드플레이 협업곡 'My Universe' 美 빌보드 '글로벌' 차트 32주 연속 차트인 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220511n07487?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220511n07487?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 11 May 2022 00:29:38 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>05-11 09:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/11/14691278_793005_1841_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
