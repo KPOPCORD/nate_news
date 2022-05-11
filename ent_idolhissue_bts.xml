@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 21:02:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 22:05:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 진 'Yours' 26주-'슈퍼 참치' 22주 빌보드 연속 차트인…韓솔로 최초 TOP5 솔로 2곡 진입]]></title>
+            <link>https://news.nate.com/view/20220512n03676?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220512n03676?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 11 May 2022 22:05:14 GMT</pubDate>
+            <content:encoded><![CDATA[스타뉴스							<em>05-12 06:52</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/05/12/2022051206452136099_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 美 빌보드 '글로벌' 차트 32주 연속 상위권 유지]]></title>
             <link>https://news.nate.com/view/20220512n00414?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 11 May 2022 02:48:23 GMT</pubDate>
             <content:encoded><![CDATA[스타in							<em>05-11 11:06</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/es/2022/05/11/PS22051100044.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 신보 'Proof' 3rd CD, 팬송 'For Youth' 포함 14곡 수록…팬 위한 특별 선물]]></title>
-            <link>https://news.nate.com/view/20220511n13178?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220511n13178?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 11 May 2022 02:48:23 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠한국							<em>05-11 10:58</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sh/2022/05/11/6796690_971811_5539.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
