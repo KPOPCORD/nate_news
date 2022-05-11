@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 12:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 13:31:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 소속사 하이브, 정바비 곡 수록 논란에 '묵묵부답'…"여성은 성관계 대상" 인터뷰 재조명]]></title>
+            <link>https://news.nate.com/view/20220511n41186?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220511n41186?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Wed, 11 May 2022 13:31:47 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>05-11 21:57</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/11/14691463_793267_5454_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["방탄소년단 직접 선정"…'불법 촬영 혐의' 정바비 곡 수록 '갑론을박' [엑's 이슈]]]></title>
             <link>https://news.nate.com/view/20220511n35075?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 11 May 2022 02:48:23 GMT</pubDate>
             <content:encoded><![CDATA[K STAR							<em>05-11 10:27</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kb/2022/05/11/30403_50427_1247.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 'Proof', 세 번째 CD는 '아미 위한 선물']]></title>
-            <link>https://news.nate.com/view/20220511n07178?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220511n07178?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Wed, 11 May 2022 00:29:38 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠월드							<em>05-11 09:32</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sw/2022/05/11/20220511503580.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
