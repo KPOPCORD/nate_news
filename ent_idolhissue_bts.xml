@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 03:37:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 04:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트위터 리트윗 순위] 방탄소년단 지민 90회째 1위, 임영웅·방탄소년단 뷔·방탄소년단 정국·니쥬 아야카 TOP5]]></title>
+            <link>https://news.nate.com/view/20220512n18827?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220512n18827?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 12 May 2022 04:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>05-12 12:29</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/12/14691581_793480_2729_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS→ENHYPEN·르세라핌…하이브 레이블즈 日 오리콘 장악]]></title>
             <link>https://news.nate.com/view/20220512n11503?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 11 May 2022 23:02:50 GMT</pubDate>
             <content:encoded><![CDATA[스타뉴스							<em>05-12 08:23</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/05/12/tn_1652311384699_188133_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["ARMY 영원히 사랑해" 방탄소년단 뷔, 달콤한 자작곡…진심 어린 팬사랑]]></title>
-            <link>https://news.nate.com/view/20220512n05334?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220512n05334?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 12 May 2022 00:28:04 GMT</pubDate>
-            <content:encoded><![CDATA[스타뉴스							<em>05-12 08:20</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/tn/2022/05/12/2022051208151072495_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
