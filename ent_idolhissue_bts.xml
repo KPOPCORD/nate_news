@@ -4,9 +4,17 @@
         <title>네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 15:03:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 16:05:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["BRAND KING Taehyung" 방탄소년단 뷔, 4월 위키피디아 韓랭킹 男솔로 1위…'16개월 연속 정상']]></title>
+            <link>https://news.nate.com/view/20220513n00053?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220513n00053?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 12 May 2022 16:05:17 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>05-13 00:02</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/13/14691700_793670_017_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['주접이 풍년' 6세 영탁 팬 "영탁은 오빠, BTS는 삼촌"[별별TV]]]></title>
             <link>https://news.nate.com/view/20220512n41344?mid=e0608&amp;isq=9009</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 12 May 2022 00:28:04 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>05-12 09:06</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/12/14691514_793385_514_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["World most handsome man V" 방탄소년단 뷔, 2022년에도 세계 최고 미남 1위…명실상부 대표 비주얼]]></title>
-            <link>https://news.nate.com/view/20220512n06748?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220512n06748?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 12 May 2022 00:28:04 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>05-12 09:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/12/14691512_793380_223_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

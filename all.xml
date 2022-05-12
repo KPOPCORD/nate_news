@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 15:03:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 16:05:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["완벽 그 자체" 블랙핑크 지수, 스누피 보다 귀여운 매력…원피스 입어도 완벽한 몸매라인 '눈길' (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
+            <link>https://news.nate.com/view/20220513n00258?mid=e0608&amp;isq=9895</link>
+            <guid>https://news.nate.com/view/20220513n00258?mid=e0608&amp;isq=9895</guid>
+            <pubDate>Thu, 12 May 2022 16:04:55 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>05-13 00:13</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/13/14691703_793675_1055_org.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 지수, '역시 지수' 500만 좋아요♥ 누른 게시물…"제주 소녀" 비주얼에 반했네 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
             <link>https://news.nate.com/view/20220511n40051?mid=e0608&amp;isq=9895</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 01 May 2022 06:07:03 GMT</pubDate>
             <content:encoded><![CDATA[스타데일리뉴스							<em>05-01 14:45</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/05/01/321188_368891_4149.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[S포토] 블랙핑크 지수, '두둥' (디올) (네이트 연예 ─ 아이돌24h ─ 스타 ─ 블랙핑크)]]></title>
-            <link>https://news.nate.com/view/20220501n10240?mid=e0608&amp;isq=9895</link>
-            <guid>https://news.nate.com/view/20220501n10240?mid=e0608&amp;isq=9895</guid>
-            <pubDate>Sun, 01 May 2022 06:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[스타데일리뉴스							<em>05-01 14:45</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sz/2022/05/01/321183_368886_3749.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김수지, '유퀴즈' 출격→아나운서 겸 작사가 '눈길'…레드벨벳-박정현 신곡 참여 (네이트 연예 ─ 아이돌24h ─ 스타 ─ 레드벨벳)]]></title>
@@ -248,6 +248,14 @@
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/11/14691405_793184_587_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["BRAND KING Taehyung" 방탄소년단 뷔, 4월 위키피디아 韓랭킹 男솔로 1위…'16개월 연속 정상' (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
+            <link>https://news.nate.com/view/20220513n00053?mid=e0608&amp;isq=9009</link>
+            <guid>https://news.nate.com/view/20220513n00053?mid=e0608&amp;isq=9009</guid>
+            <pubDate>Thu, 12 May 2022 16:05:17 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타뉴스							<em>05-13 00:02</em>]]></content:encoded>
+            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/13/14691700_793670_017_org.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['주접이 풍년' 6세 영탁 팬 "영탁은 오빠, BTS는 삼촌"[별별TV] (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
             <link>https://news.nate.com/view/20220512n41344?mid=e0608&amp;isq=9009</link>
             <guid>https://news.nate.com/view/20220512n41344?mid=e0608&amp;isq=9009</guid>
@@ -358,14 +366,6 @@
             <pubDate>Thu, 12 May 2022 00:28:04 GMT</pubDate>
             <content:encoded><![CDATA[톱스타뉴스							<em>05-12 09:06</em>]]></content:encoded>
             <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/12/14691514_793385_514_org.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["World most handsome man V" 방탄소년단 뷔, 2022년에도 세계 최고 미남 1위…명실상부 대표 비주얼 (네이트 연예 ─ 아이돌24h ─ 스타 ─ BTS)]]></title>
-            <link>https://news.nate.com/view/20220512n06748?mid=e0608&amp;isq=9009</link>
-            <guid>https://news.nate.com/view/20220512n06748?mid=e0608&amp;isq=9009</guid>
-            <pubDate>Thu, 12 May 2022 00:28:04 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타뉴스							<em>05-12 09:04</em>]]></content:encoded>
-            <enclosure url="https://thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2022/05/12/14691512_793380_223_org.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
